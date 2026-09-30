@@ -4,6 +4,10 @@
 
 [LeetCode 199](https://leetcode.com/problems/)
 
+## Status
+
+**Implemented**
+
 ## Data Structure
 
 **Tree**
@@ -14,22 +18,22 @@
 
 ## Approach
 
-> Add the problem-solving approach here.
+BFS by level and record the last node processed at each level.
 
 ## Algorithm
 
-1. 
-2. 
-3. 
+1. Traverse the tree using breadth-first traversal.
+2. Apply the problem-specific condition or aggregation.
+3. Return the required result.
 
 ## Complexity
 
-- **Time:** 
-- **Space:** 
+- **Time:** O(n)
+- **Space:** O(w)
 
-## Key Takeaways
+## Submission
 
-- 
+[View LeetCode submission](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2155467547/)
 
 ## Solution
 

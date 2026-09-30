@@ -4,6 +4,10 @@
 
 [LeetCode 107](https://leetcode.com/problems/)
 
+## Status
+
+**Implemented**
+
 ## Data Structure
 
 **Tree**
@@ -14,22 +18,22 @@
 
 ## Approach
 
-> Add the problem-solving approach here.
+Level-order traversal with a queue; insert each completed level at the front of the result for bottom-up order.
 
 ## Algorithm
 
-1. 
-2. 
-3. 
+1. Traverse the tree using breadth-first traversal.
+2. Apply the problem-specific condition or aggregation.
+3. Return the required result.
 
 ## Complexity
 
-- **Time:** 
-- **Space:** 
+- **Time:** O(n)
+- **Space:** O(n)
 
-## Key Takeaways
+## Submission
 
-- 
+[View LeetCode submission](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/submissions/2150304031/)
 
 ## Solution
 

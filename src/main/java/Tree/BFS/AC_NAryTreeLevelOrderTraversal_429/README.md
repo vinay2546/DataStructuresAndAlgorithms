@@ -4,6 +4,10 @@
 
 [LeetCode 429](https://leetcode.com/problems/)
 
+## Status
+
+**Implemented**
+
 ## Data Structure
 
 **Tree**
@@ -14,22 +18,22 @@
 
 ## Approach
 
-> Add the problem-solving approach here.
+N-ary BFS; process one level at a time and enqueue all children.
 
 ## Algorithm
 
-1. 
-2. 
-3. 
+1. Traverse the tree using breadth-first traversal.
+2. Apply the problem-specific condition or aggregation.
+3. Return the required result.
 
 ## Complexity
 
-- **Time:** 
-- **Space:** 
+- **Time:** O(n)
+- **Space:** O(w)
 
-## Key Takeaways
+## Submission
 
-- 
+[View LeetCode submission](https://leetcode.com/problems/n-ary-tree-level-order-traversal/submissions/2155455624/)
 
 ## Solution
 

@@ -1,8 +1,12 @@
-# 623. AddOneRowToTree
+# 623. Add One Row To Tree
 
 ## Problem
 
 [LeetCode 623](https://leetcode.com/problems/)
+
+## Status
+
+**Implemented**
 
 ## Data Structure
 
@@ -14,22 +18,22 @@
 
 ## Approach
 
-> Add the problem-solving approach here.
+BFS to the level above the target, then insert the new row while preserving existing children.
 
 ## Algorithm
 
-1. 
-2. 
-3. 
+1. Traverse the tree using breadth-first traversal.
+2. Apply the problem-specific condition or aggregation.
+3. Return the required result.
 
 ## Complexity
 
-- **Time:** 
-- **Space:** 
+- **Time:** O(n)
+- **Space:** O(w)
 
-## Key Takeaways
+## Submission
 
-- 
+[View LeetCode submission](https://leetcode.com/problems/add-one-row-to-tree/submissions/2156080443/)
 
 ## Solution
 

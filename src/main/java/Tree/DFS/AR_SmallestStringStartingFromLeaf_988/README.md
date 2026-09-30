@@ -4,6 +4,10 @@
 
 [LeetCode 988](https://leetcode.com/problems/)
 
+## Status
+
+**Placeholder**
+
 ## Data Structure
 
 **Tree**
@@ -14,22 +18,22 @@
 
 ## Approach
 
-> Add the problem-solving approach here.
+Implementation not added yet. The folder is ready for the solution.
 
 ## Algorithm
 
-1. 
-2. 
-3. 
+1. Traverse the tree using depth-first traversal.
+2. Apply the problem-specific condition or aggregation.
+3. Return the required result.
 
 ## Complexity
 
-- **Time:** 
-- **Space:** 
+- **Time:** —
+- **Space:** —
 
-## Key Takeaways
+## Submission
 
-- 
+[View LeetCode submission](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/2153457397/)
 
 ## Solution
 

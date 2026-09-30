@@ -4,6 +4,10 @@
 
 [LeetCode 103](https://leetcode.com/problems/)
 
+## Status
+
+**Implemented**
+
 ## Data Structure
 
 **Tree**
@@ -14,22 +18,22 @@
 
 ## Approach
 
-> Add the problem-solving approach here.
+BFS by level with alternating direction; reverse levels currently use `add(0, value)`.
 
 ## Algorithm
 
-1. 
-2. 
-3. 
+1. Traverse the tree using breadth-first traversal.
+2. Apply the problem-specific condition or aggregation.
+3. Return the required result.
 
 ## Complexity
 
-- **Time:** 
-- **Space:** 
+- **Time:** O(n²) worst case
+- **Space:** O(w)
 
-## Key Takeaways
+## Submission
 
-- 
+[View LeetCode submission](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2154969972/)
 
 ## Solution
 
