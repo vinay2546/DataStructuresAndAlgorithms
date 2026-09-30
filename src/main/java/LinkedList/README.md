@@ -1,15 +1,17 @@
 # LinkedList
 
-This directory contains LinkedList data structure implementations, concepts, patterns, and problem solutions.
+LinkedList problems organized by pattern/category. Problems may appear in multiple categories when the same problem reinforces multiple patterns.
 
 ## Progress
 
-No problem solutions have been added yet.
+**0 solutions implemented** — all current problem folders are placeholders.
 
-## Structure
+| Category | Problems | Solved |
+|---|---:|:---:|
+| Fundamentals | 5 | ⬜ |
+| Two Pointers | 4 | ⬜ |
+| Reversal | 5 | ⬜ |
+| Merge Sort | 4 | ⬜ |
+| Advanced | 6 | ⬜ |
 
-Solutions will be organized by pattern or category as the data structure grows.
-
-## Problems
-
-_No solutions available yet._
+**Problem entries:** 24 (including intentional duplication)
