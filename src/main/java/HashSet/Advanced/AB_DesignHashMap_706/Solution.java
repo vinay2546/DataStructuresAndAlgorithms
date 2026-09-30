@@ -1,0 +1,5 @@
+// Placeholder — LeetCode 706: DesignHashMap
+// HashSet / Advanced
+
+class Solution {
+}

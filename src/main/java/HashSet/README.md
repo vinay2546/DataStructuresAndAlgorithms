@@ -1,15 +1,16 @@
 # HashSet
 
-This directory contains HashSet data structure implementations, concepts, patterns, and problem solutions.
+HashSet problems organized by pattern/category. Problems may appear in multiple categories when the same problem reinforces multiple patterns.
 
 ## Progress
 
-No problem solutions have been added yet.
+**0 solutions implemented** — all current problem folders are placeholders.
 
-## Structure
+| Category | Problems | Solved |
+|---|---:|:---:|
+| Fundamentals | 5 | ⬜ |
+| Set Patterns | 5 | ⬜ |
+| Strings | 4 | ⬜ |
+| Advanced | 3 | ⬜ |
 
-Solutions will be organized by pattern or category as the data structure grows.
-
-## Problems
-
-_No solutions available yet._
+**Problem entries:** 17 (including intentional duplication)
