@@ -1,15 +1,16 @@
 # Stack
 
-This directory contains Stack data structure implementations, concepts, patterns, and problem solutions.
+Stack problems organized by pattern/category. Problems may appear in multiple categories when the same problem reinforces multiple patterns.
 
 ## Progress
 
-No problem solutions have been added yet.
+**0 solutions implemented** — all current problem folders are placeholders.
 
-## Structure
+| Category | Problems | Solved |
+|---|---:|:---:|
+| Fundamentals | 4 | ⬜ |
+| Monotonic Stack | 8 | ⬜ |
+| Parsing | 5 | ⬜ |
+| Simulation | 4 | ⬜ |
 
-Solutions will be organized by pattern or category as the data structure grows.
-
-## Problems
-
-_No solutions available yet._
+**Problem entries:** 21 (including intentional duplication)
