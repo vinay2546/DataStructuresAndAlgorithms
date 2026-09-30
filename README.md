@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-Java-based solutions for Data Structures and Algorithms, organized by problem-solving pattern and data structure.
+Java-based solutions for Data Structures and Algorithms, organized first by **data structure**, then by problem-solving pattern or concept.
 
 ## Maven Structure
 
@@ -9,82 +9,128 @@ DataStructuresAndAlgorithms/
 ├── pom.xml
 ├── README.md
 └── src/
-    ├── main/
-    │   └── java/
-    │       ├── A_Two_Pointers/
-    │       ├── F_HashMap/
-    │       ├── H_Recursion/
-    │       ├── I_BackTracking/
-    │       ├── J_Tree/
-    │       └── N_Heaps/
-    └── test/
+    └── main/
         └── java/
+            ├── Array/
+            ├── LinkedList/
+            ├── Stack/
+            ├── Queue/
+            ├── HashMap/
+            ├── HashSet/
+            ├── Tree/
+            ├── Heap/
+            ├── Graph/
+            ├── Trie/
+            ├── String/
+            └── Matrix/
 ```
 
 ## Package Naming Convention
 
-The package naming follows the structure used by the reference repository.
-
-### Pattern-based problems
+The **first package layer is always the data structure**.
 
 ```
-src/main/java/<Pattern>/<Problem>_<DifficultyOrId>/
+<DataStructure>/<PatternOrCategory>/<Problem>_<Id>/
 ```
 
-Example:
+For example:
 
 ```
-src/main/java/A_Two_Pointers/N_3Sum/
-    Solution.java
+src/main/java/
+└── Tree/
+    └── BFS/
+        └── InvertBinaryTree_226/
+            ├── README.md
+            └── Solution.java
 ```
 
 Package declaration:
 
 ```java
-package A_Two_Pointers.N_3Sum;
+package Tree.BFS.InvertBinaryTree_226;
 ```
 
-### Concepts and grouped problems
+### Pattern-based organization
 
-For data structures with concepts or categories:
+When a problem is associated with a recognizable problem-solving pattern:
 
 ```
-src/main/java/J_Tree/Concepts/<Concept>/
-src/main/java/J_Tree/Problems/<Problem>_<Id>/
+Array/
+└── TwoPointers/
+    └── ThreeSum_15/
+
+LinkedList/
+└── TwoPointers/
+    └── MiddleOfTheLinkedList_876/
+
+Tree/
+└── BFS/
+    └── BinaryTreeLevelOrderTraversal_102/
+```
+
+### Concepts
+
+For learning a data structure itself:
+
+```
+Tree/
+└── Concepts/
+    └── Traversal/
+        ├── README.md
+        └── ...
+```
+
+### Problems without a specific pattern
+
+Use:
+
+```
+<DataStructure>/Problems/<Problem>_<Id>/
 ```
 
 Example:
 
-```java
-package J_Tree.Concepts.B_Implementation;
+```
+Array/
+└── Problems/
+    └── BestTimeToBuyAndSellStock_121/
 ```
 
 ## Problem Folder Convention
 
-Each problem can contain:
+Each problem folder can contain:
 
-- `README.md` — problem statement, approach, complexity and notes
+- `README.md` — problem statement, approach, pattern, and complexity
 - `Solution.java` — primary solution
 - Additional solution classes when comparing approaches
 
 Example:
 
 ```
-A_Two_Pointers/
-└── N_3Sum/
-    ├── README.md
-    └── Solution.java
+Tree/
+└── BFS/
+    └── InvertBinaryTree_226/
+        ├── README.md
+        └── Solution.java
 ```
+
+## Naming Rules
+
+- **Data structure:** PascalCase — `Array`, `LinkedList`, `Tree`, `Graph`
+- **Pattern/category:** PascalCase — `TwoPointers`, `BFS`, `DFS`
+- **Problem:** descriptive PascalCase name followed by LeetCode ID — `InvertBinaryTree_226`
+- **Java class:** `Solution` unless the problem requires a specific class name
+- **One problem per package**
 
 ## Build
 
-Compile the project with:
+Compile:
 
 ```bash
 mvn clean compile
 ```
 
-Run tests with:
+Run tests:
 
 ```bash
 mvn test
@@ -92,4 +138,4 @@ mvn test
 
 ## Java Version
 
-Java 17 is used as the baseline.
+Java 17 is the baseline.
