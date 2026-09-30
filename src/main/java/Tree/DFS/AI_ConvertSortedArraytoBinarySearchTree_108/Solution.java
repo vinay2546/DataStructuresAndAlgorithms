@@ -1,5 +1,0 @@
-package Tree.DFS.AI_ConvertSortedArraytoBinarySearchTree_108;
-
-/** Placeholder for LeetCode 108: Convert Sorted Arrayto Binary Search Tree. */
-public class Solution {
-}
