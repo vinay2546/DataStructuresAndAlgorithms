@@ -1,15 +1,17 @@
 # HashMap
 
-This directory contains HashMap data structure implementations, concepts, patterns, and problem solutions.
+HashMap problems organized by pattern/category. Problems may appear in multiple categories when the same problem reinforces multiple patterns.
 
 ## Progress
 
-No problem solutions have been added yet.
+**0 solutions implemented** — all current problem folders are placeholders.
 
-## Structure
+| Category | Problems | Solved |
+|---|---:|:---:|
+| Fundamentals | 6 | ⬜ |
+| Frequency | 6 | ⬜ |
+| Prefix Hashing | 5 | ⬜ |
+| Mapping Design | 4 | ⬜ |
+| Advanced | 4 | ⬜ |
 
-Solutions will be organized by pattern or category as the data structure grows.
-
-## Problems
-
-_No solutions available yet._
+**Problem entries:** 25 (including intentional duplication)
