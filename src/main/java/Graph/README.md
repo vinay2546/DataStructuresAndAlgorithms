@@ -1,15 +1,19 @@
 # Graph
 
-This directory contains Graph data structure implementations, concepts, patterns, and problem solutions.
+Graph problems organized by pattern/category. Duplication is intentional.
 
 ## Progress
 
-No problem solutions have been added yet.
+**0 solutions implemented**
 
-## Structure
+| Category | Problems | Solved |
+|---|---:|:---:|
+| BFS | 7 | ⬜ |
+| DFS | 6 | ⬜ |
+| TopologicalSort | 4 | ⬜ |
+| UnionFind | 6 | ⬜ |
+| ShortestPath | 5 | ⬜ |
+| MST | 2 | ⬜ |
+| Advanced | 4 | ⬜ |
 
-Solutions will be organized by pattern or category as the data structure grows.
-
-## Problems
-
-_No solutions available yet._
+**Problem entries:** 34
