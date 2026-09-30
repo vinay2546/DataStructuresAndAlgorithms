@@ -1,15 +1,19 @@
 # String
 
-This directory contains String data structure implementations, concepts, patterns, and problem solutions.
+String problems organized by pattern/category. Duplication is intentional.
 
 ## Progress
 
-No problem solutions have been added yet.
+**0 solutions implemented**
 
-## Structure
+| Category | Problems | Solved |
+|---|---:|:---:|
+| Fundamentals | 6 | ⬜ |
+| TwoPointers | 5 | ⬜ |
+| SlidingWindow | 5 | ⬜ |
+| StackParsing | 4 | ⬜ |
+| Hashing | 4 | ⬜ |
+| DP | 4 | ⬜ |
+| Advanced | 5 | ⬜ |
 
-Solutions will be organized by pattern or category as the data structure grows.
-
-## Problems
-
-_No solutions available yet._
+**Problem entries:** 33
