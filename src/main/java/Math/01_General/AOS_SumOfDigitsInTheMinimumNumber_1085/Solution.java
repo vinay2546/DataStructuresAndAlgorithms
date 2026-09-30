@@ -1,0 +1,5 @@
+// Placeholder — LeetCode 1085: Sum of Digits in the Minimum Number
+// Math / General
+
+class Solution {
+}
