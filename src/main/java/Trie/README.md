@@ -1,15 +1,17 @@
 # Trie
 
-This directory contains Trie data structure implementations, concepts, patterns, and problem solutions.
+Trie problems organized by pattern/category. Duplication is intentional.
 
 ## Progress
 
-No problem solutions have been added yet.
+**0 solutions implemented**
 
-## Structure
+| Category | Problems | Solved |
+|---|---:|:---:|
+| Fundamentals | 3 | ⬜ |
+| PrefixSearch | 5 | ⬜ |
+| WordSearch | 4 | ⬜ |
+| BitwiseTrie | 3 | ⬜ |
+| Advanced | 4 | ⬜ |
 
-Solutions will be organized by pattern or category as the data structure grows.
-
-## Problems
-
-_No solutions available yet._
+**Problem entries:** 19
