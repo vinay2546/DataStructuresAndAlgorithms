@@ -1,15 +1,17 @@
 # Heap
 
-This directory contains Heap data structure implementations, concepts, patterns, and problem solutions.
+Heap problems organized by pattern/category. Duplication is intentional.
 
 ## Progress
 
-No problem solutions have been added yet.
+**0 solutions implemented**
 
-## Structure
+| Category | Problems | Solved |
+|---|---:|:---:|
+| MinMaxHeap | 4 | ⬜ |
+| TopK | 5 | ⬜ |
+| MergeK | 3 | ⬜ |
+| Greedy | 6 | ⬜ |
+| Advanced | 3 | ⬜ |
 
-Solutions will be organized by pattern or category as the data structure grows.
-
-## Problems
-
-_No solutions available yet._
+**Problem entries:** 21
