@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 814](https://leetcode.com/problems/)
+[LeetCode 814](https://leetcode.com/problems/binary-tree-pruning/)
 
 ## Status
 
