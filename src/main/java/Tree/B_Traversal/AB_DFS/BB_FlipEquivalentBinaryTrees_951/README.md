@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 951](https://leetcode.com/problems/)
+[LeetCode 951](https://leetcode.com/problems/flip-equivalent-binary-trees/)
 
 ## Status
 
