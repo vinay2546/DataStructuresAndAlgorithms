@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 100](https://leetcode.com/problems/)
+[LeetCode 100](https://leetcode.com/problems/same-tree/)
 
 ## Status
 
