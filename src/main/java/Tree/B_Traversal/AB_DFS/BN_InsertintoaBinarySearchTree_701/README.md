@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 701](https://leetcode.com/problems/)
+[LeetCode 701](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
 
 ## Status
 
