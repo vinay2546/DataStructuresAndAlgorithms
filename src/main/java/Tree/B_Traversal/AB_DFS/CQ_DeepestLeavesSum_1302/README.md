@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1302](https://leetcode.com/problems/)
+[LeetCode 1302](https://leetcode.com/problems/deepest-leaves-sum/)
 
 ## Status
 
