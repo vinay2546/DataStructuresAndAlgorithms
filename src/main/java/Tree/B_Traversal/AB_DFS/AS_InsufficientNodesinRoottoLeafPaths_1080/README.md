@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1080](https://leetcode.com/problems/)
+[LeetCode 1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/)
 
 ## Status
 
