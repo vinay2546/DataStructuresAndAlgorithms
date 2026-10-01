@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 938](https://leetcode.com/problems/)
+[LeetCode 938](https://leetcode.com/problems/range-sum-of-bst/)
 
 ## Status
 
