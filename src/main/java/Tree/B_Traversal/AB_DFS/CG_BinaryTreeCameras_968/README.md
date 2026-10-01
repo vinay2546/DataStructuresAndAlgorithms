@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 968](https://leetcode.com/problems/)
+[LeetCode 968](https://leetcode.com/problems/binary-tree-cameras/)
 
 ## Status
 
