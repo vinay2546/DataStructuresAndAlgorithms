@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1022](https://leetcode.com/problems/)
+[LeetCode 1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
 
 ## Status
 
