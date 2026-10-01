@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1026](https://leetcode.com/problems/)
+[LeetCode 1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
 
 ## Status
 
