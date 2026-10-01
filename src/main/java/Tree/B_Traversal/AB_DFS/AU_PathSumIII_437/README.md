@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 437](https://leetcode.com/problems/)
+[LeetCode 437](https://leetcode.com/problems/path-sum-iii/)
 
 ## Status
 
