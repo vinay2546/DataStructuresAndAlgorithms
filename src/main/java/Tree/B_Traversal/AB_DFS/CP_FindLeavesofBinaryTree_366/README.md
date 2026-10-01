@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 366](https://leetcode.com/problems/)
+[LeetCode 366](https://leetcode.com/problems/find-leaves-of-binary-tree/)
 
 ## Status
 
