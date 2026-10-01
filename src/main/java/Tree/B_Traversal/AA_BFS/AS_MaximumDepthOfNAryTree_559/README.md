@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 559](https://leetcode.com/problems/)
+[LeetCode 559](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
 
 ## Status
 
