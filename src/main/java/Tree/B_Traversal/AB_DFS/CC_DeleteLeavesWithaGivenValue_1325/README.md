@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1325](https://leetcode.com/problems/)
+[LeetCode 1325](https://leetcode.com/problems/delete-leaves-with-a-given-value/)
 
 ## Status
 
