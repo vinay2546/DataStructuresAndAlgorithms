@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 144](https://leetcode.com/problems/)
+[LeetCode 144](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
 ## Status
 
