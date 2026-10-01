@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 297](https://leetcode.com/problems/)
+[LeetCode 297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
 ## Status
 
