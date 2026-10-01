@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1373](https://leetcode.com/problems/)
+[LeetCode 1373](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)
 
 ## Status
 
