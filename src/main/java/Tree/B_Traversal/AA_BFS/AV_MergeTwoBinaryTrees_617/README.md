@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 617](https://leetcode.com/problems/)
+[LeetCode 617](https://leetcode.com/problems/merge-two-binary-trees/)
 
 ## Status
 
