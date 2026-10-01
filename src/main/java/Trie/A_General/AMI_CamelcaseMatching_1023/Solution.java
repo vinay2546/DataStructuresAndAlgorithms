@@ -1,3 +1,5 @@
+package Trie.A_General.AMI_CamelcaseMatching_1023;
+
 // Placeholder — LeetCode 1023: Camelcase Matching
 // Trie / General
 

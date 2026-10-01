@@ -1,4 +1,4 @@
-package Tree.DFS.AI_InvertBinaryTree_226;
+package Tree.B_Traversal.DFS.09_InvertBinaryTree_226;
 
 /** Placeholder for LeetCode 226: Invert Binary Tree. */
 public class Solution {

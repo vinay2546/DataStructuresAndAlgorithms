@@ -1,4 +1,4 @@
-package Tree.DFS.AS_InsufficientNodesinRoottoLeafPaths_1080;
+package Tree.B_Traversal.DFS.19_InsufficientNodesinRoottoLeafPaths_1080;
 
 /** Placeholder for LeetCode 1080: Insufficient Nodesin Rootto Leaf Paths. */
 public class Solution {
