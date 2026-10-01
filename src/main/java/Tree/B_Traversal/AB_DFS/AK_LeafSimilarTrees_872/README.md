@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 872](https://leetcode.com/problems/)
+[LeetCode 872](https://leetcode.com/problems/leaf-similar-trees/)
 
 ## Status
 
