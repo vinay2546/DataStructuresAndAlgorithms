@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 2641](https://leetcode.com/problems/)
+[LeetCode 2641](https://leetcode.com/problems/cousins-in-binary-tree-ii/)
 
 ## Status
 
