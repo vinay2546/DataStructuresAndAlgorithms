@@ -1,0 +1,70 @@
+name: Rename numeric package folders
+
+on:
+  push:
+    branches:
+      - refactor/alphabetize-numeric-packages-v3
+
+jobs:
+  rename-folders:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: refactor/alphabetize-numeric-packages-v3
+          fetch-depth: 0
+
+      - name: Rename numeric package directories
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          alpha() {
+            local n=$1
+            local result=""
+            while (( n > 0 )); do
+              n=$((n - 1))
+              result="$(printf "\\$(printf '%03o' $((65 + n % 26)))")\${result}"
+              n=$((n / 26))
+            done
+            printf '%s' "$result"
+          }
+
+          renamed=0
+
+          while IFS= read -r dir; do
+            base="$(basename "$dir")"
+            parent="$(dirname "$dir")"
+
+            if [[ "$base" =~ ^([0-9]+)_(.*)$ ]]; then
+              number="\${BASH_REMATCH[1]}"
+              suffix="\${BASH_REMATCH[2]}"
+              prefix="$(alpha "$number")"
+              target="\${parent}/\${prefix}_\${suffix}"
+
+              if [[ "$dir" != "$target" ]]; then
+                if [[ -e "$target" ]]; then
+                  echo "ERROR: target already exists: $target"
+                  exit 1
+                fi
+                echo "Renaming: $dir -> $target"
+                git mv "$dir" "$target"
+                renamed=$((renamed + 1))
+              fi
+            fi
+          done < <(find src/main/java -depth -type d -regextype posix-extended -regex '.*/[0-9]+_.*' | sort -r)
+
+          echo "Renamed $renamed numeric package directories."
+
+          if (( renamed == 0 )); then
+            echo "No numeric package directories found."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "refactor: rename numeric package folders to alphabetic prefixes"
+          git push
