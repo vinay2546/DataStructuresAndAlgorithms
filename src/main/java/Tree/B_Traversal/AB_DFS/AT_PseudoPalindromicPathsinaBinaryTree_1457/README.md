@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1457](https://leetcode.com/problems/)
+[LeetCode 1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
 
 ## Status
 
