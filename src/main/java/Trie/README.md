@@ -1,17 +1,21 @@
 # Trie
 
-Trie problems organized by pattern/category. Duplication is intentional.
+Trie problems are organized into a learning-oriented progression from core operations to advanced string and bitwise techniques.
 
-## Progress
+## Package progression
 
-**0 solutions implemented**
+1. `AA_Fundamentals` — Trie nodes, insertion, search, deletion, and word termination
+2. `AB_PrefixOperations` — prefix queries, prefix counts, scores, autocomplete, and prefix/suffix structures
+3. `AC_WildcardAndPatternSearch` — wildcard and pattern matching over Trie paths
+4. `AD_TrieBacktracking` — Trie + DFS/backtracking for dictionary and board search
+5. `AE_TrieStringDP` — Trie + dynamic programming for segmentation and construction
+6. `AF_BitwiseTrie` — binary Trie and XOR optimization
+7. `AG_StringAlgorithms` — advanced substring, encoding, palindrome, and lexicographic techniques
+8. `AH_DesignAndApplications` — Trie-based system and data-structure design
+9. `AI_AdvancedTrieStructures` — advanced combinations and specialized Trie patterns
 
-| Category | Problems | Solved |
-|---|---:|:---:|
-| Fundamentals | 3 | ⬜ |
-| PrefixSearch | 5 | ⬜ |
-| WordSearch | 4 | ⬜ |
-| BitwiseTrie | 3 | ⬜ |
-| Advanced | 4 | ⬜ |
+Each problem has one primary learning category. Cross-topic relationships remain documented in the problem README.
 
-**Problem entries:** 19
+## Learning principle
+
+Build the basic Trie first, then master prefix and pattern queries, combine Trie with backtracking and DP, learn binary Tries for XOR, and finally study specialized and design-oriented applications.

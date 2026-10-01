@@ -1,8 +1,0 @@
-# 616. Add Bold Tag in String
-
-- LeetCode: https://leetcode.com/problems/add-bold-tag-in-string/
-- Difficulty: Medium
-- Topics: Array, Hash Table, String, Trie, String Matching, Aho–Corasick Algorithm
-
-## Status
-- [ ] Solution
