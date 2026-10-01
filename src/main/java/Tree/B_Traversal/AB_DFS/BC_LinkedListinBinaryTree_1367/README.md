@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1367](https://leetcode.com/problems/)
+[LeetCode 1367](https://leetcode.com/problems/linked-list-in-binary-tree/)
 
 ## Status
 
