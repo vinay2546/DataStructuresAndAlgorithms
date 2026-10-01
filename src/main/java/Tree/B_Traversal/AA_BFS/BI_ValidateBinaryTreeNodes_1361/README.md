@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1361](https://leetcode.com/problems/)
+[LeetCode 1361](https://leetcode.com/problems/validate-binary-tree-nodes/)
 
 ## Status
 
