@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1028](https://leetcode.com/problems/)
+[LeetCode 1028](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
 
 ## Status
 
