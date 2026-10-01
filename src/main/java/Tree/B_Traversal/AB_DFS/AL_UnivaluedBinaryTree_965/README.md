@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 965](https://leetcode.com/problems/)
+[LeetCode 965](https://leetcode.com/problems/univalued-binary-tree/)
 
 ## Status
 
