@@ -15,9 +15,15 @@ Java-based Data Structures and Algorithms solutions, organized by data structure
 | [Tree](src/main/java/Tree/README.md) | 🟡 |
 | [Heap](src/main/java/Heap/README.md) | ⬜ |
 | [Graph](src/main/java/Graph/README.md) | ⬜ |
-| [Trie](src/main/java/Trie/README.md) | ⬜ |
+| [Trie](src/main/java/Trie/README.md) | 🟡 |
 | [String](src/main/java/String/README.md) | ⬜ |
 | [Matrix](src/main/java/Matrix/README.md) | ⬜ |
+
+## Trie learning progression
+
+`Trie/AA_Fundamentals` → `AB_PrefixOperations` → `AC_WildcardAndPatternSearch` → `AD_TrieBacktracking` → `AE_TrieStringDP` → `AF_BitwiseTrie` → `AG_StringAlgorithms` → `AH_DesignAndApplications` → `AI_AdvancedTrieStructures`
+
+The Trie section is organized by primary learning concept rather than by LeetCode difficulty alone.
 
 ## Repository Structure
 
