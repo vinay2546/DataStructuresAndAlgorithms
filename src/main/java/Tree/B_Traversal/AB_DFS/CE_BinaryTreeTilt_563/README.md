@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 563](https://leetcode.com/problems/)
+[LeetCode 563](https://leetcode.com/problems/binary-tree-tilt/)
 
 ## Status
 
