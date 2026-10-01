@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 257](https://leetcode.com/problems/)
+[LeetCode 257](https://leetcode.com/problems/binary-tree-paths/)
 
 ## Status
 
