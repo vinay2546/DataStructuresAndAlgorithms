@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 129](https://leetcode.com/problems/)
+[LeetCode 129](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 
 ## Status
 
