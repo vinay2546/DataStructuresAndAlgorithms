@@ -1,59 +1,31 @@
 # Tree
 
-Tree problems and algorithms organized by traversal and problem-solving pattern.
+Tree problems organized from fundamentals to advanced patterns.
 
-## Progress Tracker
+## Learning Progression
 
-| Category | Total | Solved | Progress |
-|---|---:|---:|---:|
-| BFS | 39 | 18 | 46% |
-| DFS | 70 | 0 | 0% |
-| **Total** | **109** | **18** | **17%** |
+1. **Fundamentals** — tree terminology, recursion, base cases, depth and height.
+2. **Traversal** — preorder, inorder, postorder, DFS, BFS, zigzag, vertical, boundary and views.
+3. **Binary Search Trees** — BST invariants, search, insertion/deletion, validation and inorder techniques.
+4. **Path Problems** — root-to-leaf paths, path sums, path state and special paths.
+5. **Ancestors & Distance** — LCA, ancestor queries, distance-K and directions.
+6. **Construction & Serialization** — reconstruction, serialization and deserialization.
+7. **Transformation & Modification** — invert, merge, flatten, prune, add/delete and re-root.
+8. **Subtree & Aggregation** — subtree sums/counts, signatures and bottom-up state.
+9. **Tree Properties** — height, depth, balance, diameter, completeness, width and symmetry.
+10. **Special Trees & Hierarchies** — N-ary, expression/quad, contaminated and hierarchy models.
+11. **Tree Queries** — repeated subtree/path/BST queries and query preprocessing.
+12. **Tree Dynamic Programming** — include/exclude states, rerooting and multi-state DFS.
+13. **Greedy & Optimization** — edge selection, cost optimization and resource collection.
+14. **Advanced Tree Techniques** — XOR/bitwise, palindrome, weighted-tree and specialized counting patterns.
+15. **Tree Design & Implementation** — iterators, mutable structures and tree-oriented APIs.
 
-## BFS
+## Organization Rules
 
-**18 / 39 solved**
+- One primary concept and one physical folder per LeetCode problem.
+- Existing BFS/DFS duplicates are consolidated into Traversal.
+- Existing Solution.java implementations are preserved byte-for-byte.
+- Multiple approaches can be documented in a problem README without duplicate folders.
+- Every problem contains README.md and Solution.java.
 
-| Order | Problem | Status |
-|---:|---|:---:|
-| AA | Binary Tree Level Order Traversal — 102 | ✅ |
-| AB | Binary Tree Level Order Traversal II — 107 | ✅ |
-| AC | N-ary Tree Level Order Traversal — 429 | ✅ |
-| AD | Binary Tree Zigzag Level Order Traversal — 103 | ✅ |
-| AE | Average of Levels in Binary Tree — 637 | ✅ |
-| AF | Maximum Level Sum of a Binary Tree — 1161 | ✅ |
-| AG | Find Largest Value in Each Tree Row — 515 | ✅ |
-| AH | Deepest Leaves Sum — 1302 | ✅ |
-| AI | Kth Largest Sum in a Binary Tree — 2583 | ✅ |
-| AJ | Binary Tree Right Side View — 199 | ✅ |
-| AK | Find Bottom Left Tree Value — 513 | ✅ |
-| AL | Cousins in Binary Tree — 993 | ✅ |
-| AM | Populating Next Right Pointers in Each Node — 116 | ✅ |
-| AN | Populating Next Right Pointers in Each Node II — 117 | ✅ |
-| AO | Even Odd Tree — 1609 | ✅ |
-| AP | Cousins in Binary Tree II — 2641 | ⬜ |
-| AQ | Maximum Depth of Binary Tree — 104 | ✅ |
-| AR | Minimum Depth of Binary Tree — 111 | ✅ |
-| AS | Maximum Depth of N-ary Tree — 559 | ✅ |
-| AT | Add One Row to Tree — 623 | ✅ |
-| AU–BM | Remaining 19 BFS problems | ⬜ |
-
-## DFS
-
-**0 / 70 solved**
-
-All 70 DFS problem folders currently contain their README and Solution.java placeholder. Implementations will be added as problems are solved.
-
-## Structure
-
-Tree/
-- BFS/
-  - <Problem>_<Id>/
-    - README.md
-    - Solution.java
-- DFS/
-  - <Problem>_<Id>/
-    - README.md
-    - Solution.java
-- Node.java
-- TreeNode.java
+**266 unique LeetCode Tree problems** are organized across the learning path.
