@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 114](https://leetcode.com/problems/)
+[LeetCode 114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 
 ## Status
 
