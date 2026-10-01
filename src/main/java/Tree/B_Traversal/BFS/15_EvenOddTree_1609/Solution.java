@@ -1,4 +1,4 @@
-package Tree.B_Traversal.BFS.15_EvenOddTree_1609;
+package Tree.B_Traversal.BFS.O_EvenOddTree_1609;
 
 import Tree.TreeNode;
 

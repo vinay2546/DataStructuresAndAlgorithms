@@ -1,4 +1,4 @@
-package Tree.B_Traversal.BFS.12_CousinsInBinaryTree_993;
+package Tree.B_Traversal.BFS.L_CousinsInBinaryTree_993;
 
 import Tree.TreeNode;
 

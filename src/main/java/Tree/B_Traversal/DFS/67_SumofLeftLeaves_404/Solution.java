@@ -1,4 +1,4 @@
-package Tree.B_Traversal.DFS.67_SumofLeftLeaves_404;
+package Tree.B_Traversal.DFS.BO_SumofLeftLeaves_404;
 
 /** Placeholder for LeetCode 404: Sumof Left Leaves. */
 public class Solution {

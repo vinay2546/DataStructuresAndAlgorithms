@@ -1,4 +1,4 @@
-package Tree.B_Traversal.BFS.16_CousinsInBinaryTreeII_2641;
+package Tree.B_Traversal.BFS.P_CousinsInBinaryTreeII_2641;
 
 /**
  * 2641. CousinsInBinaryTreeII
