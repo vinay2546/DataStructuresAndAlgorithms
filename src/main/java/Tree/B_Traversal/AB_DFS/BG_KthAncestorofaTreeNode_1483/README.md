@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1483](https://leetcode.com/problems/)
+[LeetCode 1483](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/)
 
 ## Status
 
