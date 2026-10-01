@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 538](https://leetcode.com/problems/)
+[LeetCode 538](https://leetcode.com/problems/convert-bst-to-greater-tree/)
 
 ## Status
 
