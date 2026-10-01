@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 637](https://leetcode.com/problems/)
+[LeetCode 637](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 
 ## Status
 
