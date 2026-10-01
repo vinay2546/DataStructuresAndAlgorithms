@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 2385](https://leetcode.com/problems/)
+[LeetCode 2385](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)
 
 ## Status
 

@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1008](https://leetcode.com/problems/)
+[LeetCode 1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 
 ## Status
 

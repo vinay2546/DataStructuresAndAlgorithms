@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 2471](https://leetcode.com/problems/)
+[LeetCode 2471](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/)
 
 ## Status
 

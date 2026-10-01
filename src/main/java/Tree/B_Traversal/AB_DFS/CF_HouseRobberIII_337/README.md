@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 337](https://leetcode.com/problems/)
+[LeetCode 337](https://leetcode.com/problems/house-robber-iii/)
 
 ## Status
 

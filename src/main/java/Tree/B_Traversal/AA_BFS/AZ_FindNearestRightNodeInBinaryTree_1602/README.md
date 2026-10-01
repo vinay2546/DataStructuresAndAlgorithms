@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1602](https://leetcode.com/problems/)
+[LeetCode 1602](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/)
 
 ## Status
 

@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 590](https://leetcode.com/problems/)
+[LeetCode 590](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
 
 ## Status
 

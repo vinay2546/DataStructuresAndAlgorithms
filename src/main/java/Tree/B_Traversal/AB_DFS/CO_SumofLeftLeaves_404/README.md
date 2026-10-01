@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 404](https://leetcode.com/problems/)
+[LeetCode 404](https://leetcode.com/problems/sum-of-left-leaves/)
 
 ## Status
 

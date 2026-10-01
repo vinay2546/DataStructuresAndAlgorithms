@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 687](https://leetcode.com/problems/)
+[LeetCode 687](https://leetcode.com/problems/longest-univalue-path/)
 
 ## Status
 

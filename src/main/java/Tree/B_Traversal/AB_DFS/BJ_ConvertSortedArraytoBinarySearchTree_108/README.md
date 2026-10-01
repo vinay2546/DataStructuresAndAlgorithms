@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 108](https://leetcode.com/problems/)
+[LeetCode 108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 
 ## Status
 

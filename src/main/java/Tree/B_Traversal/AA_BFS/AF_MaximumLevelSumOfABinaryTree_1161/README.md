@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1161](https://leetcode.com/problems/)
+[LeetCode 1161](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
 
 ## Status
 

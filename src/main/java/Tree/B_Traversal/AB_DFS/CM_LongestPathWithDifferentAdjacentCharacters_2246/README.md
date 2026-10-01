@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 2246](https://leetcode.com/problems/)
+[LeetCode 2246](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
 
 ## Status
 

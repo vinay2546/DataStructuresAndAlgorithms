@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 572](https://leetcode.com/problems/)
+[LeetCode 572](https://leetcode.com/problems/subtree-of-another-tree/)
 
 ## Status
 

@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 112](https://leetcode.com/problems/)
+[LeetCode 112](https://leetcode.com/problems/path-sum/)
 
 ## Status
 

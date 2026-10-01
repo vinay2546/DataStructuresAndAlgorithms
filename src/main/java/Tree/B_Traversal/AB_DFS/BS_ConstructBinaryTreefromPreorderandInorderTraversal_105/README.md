@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 105](https://leetcode.com/problems/)
+[LeetCode 105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 
 ## Status
 

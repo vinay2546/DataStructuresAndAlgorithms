@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 145](https://leetcode.com/problems/)
+[LeetCode 145](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 
 ## Status
 

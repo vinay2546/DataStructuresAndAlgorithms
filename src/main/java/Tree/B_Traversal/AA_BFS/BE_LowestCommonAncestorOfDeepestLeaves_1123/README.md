@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1123](https://leetcode.com/problems/)
+[LeetCode 1123](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)
 
 ## Status
 

@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 124](https://leetcode.com/problems/)
+[LeetCode 124](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
 ## Status
 

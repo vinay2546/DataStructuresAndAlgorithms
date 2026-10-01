@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 104](https://leetcode.com/problems/)
+[LeetCode 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 ## Status
 

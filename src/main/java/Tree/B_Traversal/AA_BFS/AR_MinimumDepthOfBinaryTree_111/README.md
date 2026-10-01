@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 111](https://leetcode.com/problems/)
+[LeetCode 111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
 ## Status
 

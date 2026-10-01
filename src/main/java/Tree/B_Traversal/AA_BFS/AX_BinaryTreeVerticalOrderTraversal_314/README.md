@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 314](https://leetcode.com/problems/)
+[LeetCode 314](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
 
 ## Status
 

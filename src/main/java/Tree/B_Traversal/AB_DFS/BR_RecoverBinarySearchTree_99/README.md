@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 99](https://leetcode.com/problems/)
+[LeetCode 99](https://leetcode.com/problems/recover-binary-search-tree/)
 
 ## Status
 

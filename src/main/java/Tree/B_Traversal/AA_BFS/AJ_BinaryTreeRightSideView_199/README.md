@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 199](https://leetcode.com/problems/)
+[LeetCode 199](https://leetcode.com/problems/binary-tree-right-side-view/)
 
 ## Status
 

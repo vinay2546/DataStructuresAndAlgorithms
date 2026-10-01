@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 988](https://leetcode.com/problems/)
+[LeetCode 988](https://leetcode.com/problems/smallest-string-starting-from-leaf/)
 
 ## Status
 

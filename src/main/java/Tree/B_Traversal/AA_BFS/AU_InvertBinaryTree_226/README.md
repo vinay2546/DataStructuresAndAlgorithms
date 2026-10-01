@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 226](https://leetcode.com/problems/)
+[LeetCode 226](https://leetcode.com/problems/invert-binary-tree/)
 
 ## Status
 

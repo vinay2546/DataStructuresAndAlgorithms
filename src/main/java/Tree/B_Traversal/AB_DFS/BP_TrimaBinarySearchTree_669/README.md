@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 669](https://leetcode.com/problems/)
+[LeetCode 669](https://leetcode.com/problems/trim-a-binary-search-tree/)
 
 ## Status
 

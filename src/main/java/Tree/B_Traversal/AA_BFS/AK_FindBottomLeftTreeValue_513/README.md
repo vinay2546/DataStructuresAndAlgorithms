@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 513](https://leetcode.com/problems/)
+[LeetCode 513](https://leetcode.com/problems/find-bottom-left-tree-value/)
 
 ## Status
 

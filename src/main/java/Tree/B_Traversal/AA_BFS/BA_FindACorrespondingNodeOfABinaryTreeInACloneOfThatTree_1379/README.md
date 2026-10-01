@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1379](https://leetcode.com/problems/)
+[LeetCode 1379](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
 
 ## Status
 

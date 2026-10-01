@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 508](https://leetcode.com/problems/)
+[LeetCode 508](https://leetcode.com/problems/most-frequent-subtree-sum/)
 
 ## Status
 

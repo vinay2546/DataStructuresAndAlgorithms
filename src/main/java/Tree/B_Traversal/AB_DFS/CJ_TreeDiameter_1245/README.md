@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1245](https://leetcode.com/problems/)
+[LeetCode 1245](https://leetcode.com/problems/tree-diameter/)
 
 ## Status
 

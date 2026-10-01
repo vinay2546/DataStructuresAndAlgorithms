@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 2583](https://leetcode.com/problems/)
+[LeetCode 2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)
 
 ## Status
 

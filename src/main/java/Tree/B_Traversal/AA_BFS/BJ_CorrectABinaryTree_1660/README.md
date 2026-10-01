@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1660](https://leetcode.com/problems/)
+[LeetCode 1660](https://leetcode.com/problems/correct-a-binary-tree/)
 
 ## Status
 

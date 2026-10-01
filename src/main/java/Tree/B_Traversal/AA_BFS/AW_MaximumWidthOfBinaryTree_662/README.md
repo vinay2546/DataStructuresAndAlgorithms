@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 662](https://leetcode.com/problems/)
+[LeetCode 662](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 
 ## Status
 

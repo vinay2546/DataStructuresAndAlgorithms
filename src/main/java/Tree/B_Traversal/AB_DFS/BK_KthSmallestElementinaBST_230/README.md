@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 230](https://leetcode.com/problems/)
+[LeetCode 230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 
 ## Status
 

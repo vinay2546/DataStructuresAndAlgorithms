@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 834](https://leetcode.com/problems/)
+[LeetCode 834](https://leetcode.com/problems/sum-of-distances-in-tree/)
 
 ## Status
 

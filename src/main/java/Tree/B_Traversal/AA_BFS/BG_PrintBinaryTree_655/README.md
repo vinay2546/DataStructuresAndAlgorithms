@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 655](https://leetcode.com/problems/)
+[LeetCode 655](https://leetcode.com/problems/print-binary-tree/)
 
 ## Status
 

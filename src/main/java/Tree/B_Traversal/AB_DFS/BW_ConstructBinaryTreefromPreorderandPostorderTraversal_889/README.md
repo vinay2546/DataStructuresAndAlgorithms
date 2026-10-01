@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 889](https://leetcode.com/problems/)
+[LeetCode 889](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
 
 ## Status
 

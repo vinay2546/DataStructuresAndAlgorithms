@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 103](https://leetcode.com/problems/)
+[LeetCode 103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 
 ## Status
 
