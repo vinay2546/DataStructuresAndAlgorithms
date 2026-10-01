@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1609](https://leetcode.com/problems/)
+[LeetCode 1609](https://leetcode.com/problems/even-odd-tree/)
 
 ## Status
 
