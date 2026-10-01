@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 236](https://leetcode.com/problems/)
+[LeetCode 236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 ## Status
 
