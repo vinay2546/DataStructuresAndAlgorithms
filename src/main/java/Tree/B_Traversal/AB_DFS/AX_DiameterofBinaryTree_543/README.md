@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 543](https://leetcode.com/problems/)
+[LeetCode 543](https://leetcode.com/problems/diameter-of-binary-tree/)
 
 ## Status
 
