@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 979](https://leetcode.com/problems/)
+[LeetCode 979](https://leetcode.com/problems/distribute-coins-in-binary-tree/)
 
 ## Status
 
