@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 993](https://leetcode.com/problems/)
+[LeetCode 993](https://leetcode.com/problems/cousins-in-binary-tree/)
 
 ## Status
 
