@@ -1,0 +1,33 @@
+name: Add packages to Solution.java files
+
+on:
+  push:
+    branches:
+      - refactor/add-packages-to-solutions
+
+permissions:
+  contents: write
+
+jobs:
+  add-packages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Add package declarations
+        run: python3 scripts/add_solution_packages.py
+
+      - name: Commit package changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/main/java
+          rm -f scripts/add_solution_packages.py .github/workflows/add-solution-packages.yml
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "refactor: add package declarations to Solution classes"
+            git push origin HEAD:${GITHUB_REF_NAME}
+          fi
