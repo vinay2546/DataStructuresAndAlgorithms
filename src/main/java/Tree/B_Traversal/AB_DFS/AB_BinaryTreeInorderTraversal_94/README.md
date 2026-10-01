@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 94](https://leetcode.com/problems/)
+[LeetCode 94](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
 ## Status
 
