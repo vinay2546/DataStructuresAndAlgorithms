@@ -1,4 +1,4 @@
-package Tree.BFS.AF_MaximumLevelSumOfABinaryTree_1161;
+package Tree.B_Traversal.BFS.06_MaximumLevelSumOfABinaryTree_1161;
 
 import Tree.TreeNode;
 

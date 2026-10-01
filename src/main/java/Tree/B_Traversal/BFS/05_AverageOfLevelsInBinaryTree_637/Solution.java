@@ -1,4 +1,4 @@
-package Tree.BFS.AE_AverageOfLevelsInBinaryTree_637;
+package Tree.B_Traversal.BFS.05_AverageOfLevelsInBinaryTree_637;
 
 import Tree.TreeNode;
 

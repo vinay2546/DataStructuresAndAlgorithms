@@ -1,4 +1,4 @@
-package Tree.DFS.CD_MostFrequentSubtreeSum_508;
+package Tree.B_Traversal.DFS.56_MostFrequentSubtreeSum_508;
 
 /** Placeholder for LeetCode 508: Most Frequent Subtree Sum. */
 public class Solution {
