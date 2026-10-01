@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 530](https://leetcode.com/problems/)
+[LeetCode 530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 
 ## Status
 
