@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 1448](https://leetcode.com/problems/)
+[LeetCode 1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 
 ## Status
 
