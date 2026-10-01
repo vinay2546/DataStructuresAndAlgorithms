@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 919](https://leetcode.com/problems/)
+[LeetCode 919](https://leetcode.com/problems/complete-binary-tree-inserter/)
 
 ## Status
 
