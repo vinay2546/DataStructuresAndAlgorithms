@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 117](https://leetcode.com/problems/)
+[LeetCode 117](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 
 ## Status
 
