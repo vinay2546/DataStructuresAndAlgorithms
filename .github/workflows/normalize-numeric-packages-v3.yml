@@ -51,3 +51,4 @@ jobs:
           git rm .github/workflows/normalize-numeric-packages-v3.yml || true
           git commit -m "chore: remove one-time package normalization workflow" || true
           git push origin HEAD:${GITHUB_REF_NAME} || true
+
