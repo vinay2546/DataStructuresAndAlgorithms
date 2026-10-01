@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 102](https://leetcode.com/problems/)
+[LeetCode 102](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
 ## Status
 
