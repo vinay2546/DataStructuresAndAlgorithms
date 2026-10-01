@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 101](https://leetcode.com/problems/)
+[LeetCode 101](https://leetcode.com/problems/symmetric-tree/)
 
 ## Status
 
