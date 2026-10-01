@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 450](https://leetcode.com/problems/)
+[LeetCode 450](https://leetcode.com/problems/delete-node-in-a-bst/)
 
 ## Status
 
