@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 110](https://leetcode.com/problems/)
+[LeetCode 110](https://leetcode.com/problems/balanced-binary-tree/)
 
 ## Status
 
