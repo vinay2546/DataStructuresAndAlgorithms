@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 623](https://leetcode.com/problems/)
+[LeetCode 623](https://leetcode.com/problems/add-one-row-to-tree/)
 
 ## Status
 
