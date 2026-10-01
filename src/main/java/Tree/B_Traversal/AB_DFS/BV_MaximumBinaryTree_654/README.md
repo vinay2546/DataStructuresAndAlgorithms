@@ -2,7 +2,7 @@
 
 ## Problem
 
-[LeetCode 654](https://leetcode.com/problems/)
+[LeetCode 654](https://leetcode.com/problems/maximum-binary-tree/)
 
 ## Status
 
