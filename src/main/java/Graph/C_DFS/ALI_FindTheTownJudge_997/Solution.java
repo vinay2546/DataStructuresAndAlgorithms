@@ -1,7 +1,7 @@
 package Graph.C_DFS.ALI_FindTheTownJudge_997;
 
-// Placeholder — LeetCode 997: Find the Town Judge
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

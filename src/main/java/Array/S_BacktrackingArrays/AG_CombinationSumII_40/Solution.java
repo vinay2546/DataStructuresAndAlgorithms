@@ -1,7 +1,7 @@
 package Array.S_BacktrackingArrays.AG_CombinationSumII_40;
 
-// Placeholder — LeetCode 40: Combination Sum II
-// Array / BacktrackingArrays
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

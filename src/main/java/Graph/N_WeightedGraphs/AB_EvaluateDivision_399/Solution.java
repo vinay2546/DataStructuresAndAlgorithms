@@ -1,6 +1,7 @@
 package Graph.N_WeightedGraphs.AB_EvaluateDivision_399;
 
-// Placeholder — LeetCode 399: EvaluateDivision
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

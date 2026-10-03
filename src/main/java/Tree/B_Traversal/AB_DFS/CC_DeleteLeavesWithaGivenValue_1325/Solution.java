@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.CC_DeleteLeavesWithaGivenValue_1325;
 
-/** Placeholder for LeetCode 1325: Delete Leaves Witha Given Value. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

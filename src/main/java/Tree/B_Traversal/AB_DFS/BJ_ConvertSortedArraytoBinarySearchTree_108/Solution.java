@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.BJ_ConvertSortedArraytoBinarySearchTree_108;
 
-/** Placeholder for LeetCode 108: Convert Sorted Arrayto Binary Search Tree. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

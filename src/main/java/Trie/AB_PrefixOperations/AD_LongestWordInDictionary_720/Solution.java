@@ -1,6 +1,7 @@
-package Trie.PrefixSearch.AD_LongestWordInDictionary_720;
+package Trie.AB_PrefixOperations.AD_LongestWordInDictionary_720;
 
-// Placeholder — LeetCode 720: LongestWordInDictionary
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

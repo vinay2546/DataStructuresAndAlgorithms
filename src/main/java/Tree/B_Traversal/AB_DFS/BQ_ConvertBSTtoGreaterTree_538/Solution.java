@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.BQ_ConvertBSTtoGreaterTree_538;
 
-/** Placeholder for LeetCode 538: Convert BSTto Greater Tree. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

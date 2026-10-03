@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AA_BFS.BM_SymmetricTree_101;
 
-/** Placeholder for LeetCode 101: SymmetricTree. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

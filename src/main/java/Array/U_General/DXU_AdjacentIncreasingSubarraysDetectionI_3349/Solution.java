@@ -1,7 +1,7 @@
 package Array.U_General.DXU_AdjacentIncreasingSubarraysDetectionI_3349;
 
-// Placeholder — LeetCode 3349: Adjacent Increasing Subarrays Detection I
-// Array / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

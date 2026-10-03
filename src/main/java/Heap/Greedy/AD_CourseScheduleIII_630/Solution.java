@@ -1,6 +1,7 @@
 package Heap.Greedy.AD_CourseScheduleIII_630;
 
-// Placeholder — LeetCode 630: CourseScheduleIII
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

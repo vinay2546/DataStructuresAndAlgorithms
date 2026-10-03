@@ -1,7 +1,7 @@
 package Stack.MonotonicStack.AG_OnlineStockSpan_901;
 
-// Placeholder — LeetCode 901: OnlineStockSpan
-// Stack / MonotonicStack
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

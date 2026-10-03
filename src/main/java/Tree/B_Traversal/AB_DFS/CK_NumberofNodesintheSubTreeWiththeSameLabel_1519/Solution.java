@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.CK_NumberofNodesintheSubTreeWiththeSameLabel_1519;
 
-/** Placeholder for LeetCode 1519: Numberof Nodesinthe Sub Tree Withthe Same Label. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

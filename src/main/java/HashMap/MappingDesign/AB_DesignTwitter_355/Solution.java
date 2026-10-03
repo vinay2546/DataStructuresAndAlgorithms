@@ -1,7 +1,7 @@
 package HashMap.MappingDesign.AB_DesignTwitter_355;
 
-// Placeholder — LeetCode 355: DesignTwitter
-// HashMap / MappingDesign
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

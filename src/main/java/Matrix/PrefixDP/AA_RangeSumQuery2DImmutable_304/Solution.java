@@ -1,6 +1,7 @@
 package Matrix.PrefixDP.AA_RangeSumQuery2DImmutable_304;
 
-// Placeholder — LeetCode 304: RangeSumQuery2DImmutable
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

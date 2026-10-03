@@ -1,7 +1,7 @@
-package Trie.A_General.WR_AddBoldTagInString_616;
+package Trie.AD_TrieBacktracking.WR_AddBoldTagInString_616;
 
-// Placeholder — LeetCode 616: Add Bold Tag in String
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,6 +1,7 @@
-package Trie.Advanced.AD_DesignSearchAutocompleteSystem_642;
+package Trie.AI_AdvancedTrieStructures.AD_DesignSearchAutocompleteSystem_642;
 
-// Placeholder — LeetCode 642: DesignSearchAutocompleteSystem
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
 package Graph.E_TopologicalSort.AFS_LoudAndRich_851;
 
-// Placeholder — LeetCode 851: Loud and Rich
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

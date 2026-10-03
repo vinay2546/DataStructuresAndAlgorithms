@@ -1,7 +1,7 @@
-package Trie.A_General.DNY_LongestCommonSuffixQueries_3093;
+package Trie.AB_PrefixOperations.DNY_LongestCommonSuffixQueries_3093;
 
-// Placeholder — LeetCode 3093: Longest Common Suffix Queries
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

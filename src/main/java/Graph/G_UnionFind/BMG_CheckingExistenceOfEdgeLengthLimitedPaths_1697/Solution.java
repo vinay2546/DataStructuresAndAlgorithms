@@ -1,7 +1,7 @@
 package Graph.G_UnionFind.BMG_CheckingExistenceOfEdgeLengthLimitedPaths_1697;
 
-// Placeholder — LeetCode 1697: Checking Existence of Edge Length Limited Paths
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

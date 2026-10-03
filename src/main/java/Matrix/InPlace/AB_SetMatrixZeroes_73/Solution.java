@@ -1,6 +1,7 @@
 package Matrix.InPlace.AB_SetMatrixZeroes_73;
 
-// Placeholder — LeetCode 73: SetMatrixZeroes
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

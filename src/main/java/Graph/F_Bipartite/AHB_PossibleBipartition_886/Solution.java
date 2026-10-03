@@ -1,7 +1,7 @@
 package Graph.F_Bipartite.AHB_PossibleBipartition_886;
 
-// Placeholder — LeetCode 886: Possible Bipartition
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

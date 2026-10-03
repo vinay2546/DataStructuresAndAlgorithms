@@ -1,7 +1,7 @@
 package Tree.O_TreeDesignAndImplementation.A_FlattenNestedListIterator_341;
 
-// Placeholder — LeetCode 341: Flatten Nested List Iterator
-// Tree / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

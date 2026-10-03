@@ -1,7 +1,7 @@
 package Array.D_InPlaceManipulation.AH_DuplicateZeros_1089;
 
-// Placeholder — LeetCode 1089: Duplicate Zeros
-// Array / InPlaceManipulation
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

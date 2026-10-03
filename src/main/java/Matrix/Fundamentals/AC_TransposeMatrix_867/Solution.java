@@ -1,6 +1,7 @@
 package Matrix.Fundamentals.AC_TransposeMatrix_867;
 
-// Placeholder — LeetCode 867: TransposeMatrix
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

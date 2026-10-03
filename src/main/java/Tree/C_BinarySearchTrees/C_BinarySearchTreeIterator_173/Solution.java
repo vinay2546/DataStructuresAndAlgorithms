@@ -1,7 +1,7 @@
 package Tree.C_BinarySearchTrees.C_BinarySearchTreeIterator_173;
 
-// Placeholder — LeetCode 173: Binary Search Tree Iterator
-// Tree / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

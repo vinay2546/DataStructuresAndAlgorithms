@@ -1,6 +1,7 @@
-package Trie.BitwiseTrie.AC_CountPairsWithXORInARange_1803;
+package Trie.AF_BitwiseTrie.AC_CountPairsWithXORInARange_1803;
 
-// Placeholder — LeetCode 1803: CountPairsWithXORInARange
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

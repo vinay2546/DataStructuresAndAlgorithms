@@ -1,7 +1,7 @@
-package Trie.A_General.ADL_NumberOfMatchingSubsequences_792;
+package Trie.AC_WildcardAndPatternSearch.ADL_NumberOfMatchingSubsequences_792;
 
-// Placeholder — LeetCode 792: Number of Matching Subsequences
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

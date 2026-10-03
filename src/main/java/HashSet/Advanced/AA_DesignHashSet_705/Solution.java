@@ -1,7 +1,7 @@
 package HashSet.Advanced.AA_DesignHashSet_705;
 
-// Placeholder — LeetCode 705: DesignHashSet
-// HashSet / Advanced
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

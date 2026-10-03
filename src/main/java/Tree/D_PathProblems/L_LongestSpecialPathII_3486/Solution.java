@@ -1,7 +1,7 @@
 package Tree.D_PathProblems.L_LongestSpecialPathII_3486;
 
-// Placeholder — LeetCode 3486: Longest Special Path II
-// Tree / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

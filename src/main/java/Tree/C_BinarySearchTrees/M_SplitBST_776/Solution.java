@@ -1,7 +1,7 @@
 package Tree.C_BinarySearchTrees.M_SplitBST_776;
 
-// Placeholder — LeetCode 776: Split BST
-// Tree / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

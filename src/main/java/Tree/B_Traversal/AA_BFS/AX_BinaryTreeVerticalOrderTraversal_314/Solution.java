@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AA_BFS.AX_BinaryTreeVerticalOrderTraversal_314;
 
-/** Placeholder for LeetCode 314: BinaryTreeVerticalOrderTraversal. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

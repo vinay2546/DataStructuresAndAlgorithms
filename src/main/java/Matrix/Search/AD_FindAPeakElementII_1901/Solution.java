@@ -1,6 +1,7 @@
 package Matrix.Search.AD_FindAPeakElementII_1901;
 
-// Placeholder — LeetCode 1901: FindAPeakElementII
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,6 +1,7 @@
-package Trie.PrefixSearch.AE_ImplementMagicDictionary_676;
+package Trie.AC_WildcardAndPatternSearch.AE_ImplementMagicDictionary_676;
 
-// Placeholder — LeetCode 676: ImplementMagicDictionary
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

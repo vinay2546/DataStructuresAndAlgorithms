@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.BA_SubtreeofAnotherTree_572;
 
-/** Placeholder for LeetCode 572: Subtreeof Another Tree. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

@@ -1,7 +1,7 @@
 package LinkedList.D_Reversal.AA_ReverseLinkedList_206;
 
-// Placeholder — LeetCode 206: ReverseLinkedList
-// LinkedList / Reversal
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

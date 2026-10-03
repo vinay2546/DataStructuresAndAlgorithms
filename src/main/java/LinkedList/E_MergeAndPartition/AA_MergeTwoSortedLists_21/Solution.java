@@ -1,7 +1,7 @@
 package LinkedList.E_MergeAndPartition.AA_MergeTwoSortedLists_21;
 
-// Placeholder — LeetCode 21: MergeTwoSortedLists
-// LinkedList / MergeSort
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
 package Stack.Fundamentals.AC_ImplementStackUsingQueues_225;
 
-// Placeholder — LeetCode 225: ImplementStackUsingQueues
-// Stack / Fundamentals
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

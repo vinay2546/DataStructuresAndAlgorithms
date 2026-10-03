@@ -1,7 +1,7 @@
 package Tree.E_AncestorsAndDistance.B_SmallestCommonRegion_1257;
 
-// Placeholder — LeetCode 1257: Smallest Common Region
-// Tree / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

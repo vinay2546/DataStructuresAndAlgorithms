@@ -1,7 +1,7 @@
 package Array.U_General.AZW_NumberOfTimesBinaryStringIsPrefixAligned_1375;
 
-// Placeholder — LeetCode 1375: Number of Times Binary String Is Prefix-Aligned
-// Array / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
 package LinkedList.H_DoublyLinkedList.AAN_MaxStack_716;
 
-// Placeholder — LeetCode 716: Max Stack
-// LinkedList / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

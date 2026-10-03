@@ -1,7 +1,7 @@
 package Stack.Fundamentals.AA_ValidParentheses_20;
 
-// Placeholder — LeetCode 20: ValidParentheses
-// Stack / Fundamentals
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

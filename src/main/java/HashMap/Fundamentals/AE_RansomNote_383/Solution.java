@@ -1,7 +1,7 @@
 package HashMap.Fundamentals.AE_RansomNote_383;
 
-// Placeholder — LeetCode 383: RansomNote
-// HashMap / Fundamentals
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

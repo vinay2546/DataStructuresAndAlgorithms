@@ -1,7 +1,7 @@
 package Queue.Deque.AA_SlidingWindowMaximum_239;
 
-// Placeholder — LeetCode 239: SlidingWindowMaximum
-// Queue / Deque
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

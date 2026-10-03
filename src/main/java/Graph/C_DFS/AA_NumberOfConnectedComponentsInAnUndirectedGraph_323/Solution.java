@@ -1,6 +1,7 @@
 package Graph.C_DFS.AA_NumberOfConnectedComponentsInAnUndirectedGraph_323;
 
-// Placeholder — LeetCode 323: NumberOfConnectedComponentsInAnUndirectedGraph
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

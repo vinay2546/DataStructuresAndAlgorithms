@@ -1,7 +1,7 @@
-package Trie.A_General.AMI_CamelcaseMatching_1023;
+package Trie.AC_WildcardAndPatternSearch.AMI_CamelcaseMatching_1023;
 
-// Placeholder — LeetCode 1023: Camelcase Matching
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
 package Array.P_MonotonicStack.AE_TrappingRainWater_42;
 
-// Placeholder — LeetCode 42: Trapping Rain Water
-// Array / MonotonicStack
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

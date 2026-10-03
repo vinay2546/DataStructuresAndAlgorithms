@@ -1,7 +1,7 @@
 package Graph.B_BFS.PQ_MinimumGeneticMutation_433;
 
-// Placeholder — LeetCode 433: Minimum Genetic Mutation
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

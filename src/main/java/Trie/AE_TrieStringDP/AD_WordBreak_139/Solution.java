@@ -1,6 +1,7 @@
-package Trie.WordSearch.AD_WordBreak_139;
+package Trie.AE_TrieStringDP.AD_WordBreak_139;
 
-// Placeholder — LeetCode 139: WordBreak
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

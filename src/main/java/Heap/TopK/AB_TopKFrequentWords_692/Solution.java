@@ -1,6 +1,7 @@
 package Heap.TopK.AB_TopKFrequentWords_692;
 
-// Placeholder — LeetCode 692: TopKFrequentWords
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

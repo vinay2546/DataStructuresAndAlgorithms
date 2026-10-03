@@ -1,7 +1,7 @@
 package Graph.F_Bipartite.ADE_IsGraphBipartite_785;
 
-// Placeholder — LeetCode 785: Is Graph Bipartite?
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

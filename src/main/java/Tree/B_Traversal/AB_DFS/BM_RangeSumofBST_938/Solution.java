@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.BM_RangeSumofBST_938;
 
-/** Placeholder for LeetCode 938: Range Sumof BST. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

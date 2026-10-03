@@ -1,6 +1,7 @@
-package Trie.BitwiseTrie.AA_MaximumXOROfTwoNumbersInAnArray_421;
+package Trie.AF_BitwiseTrie.AA_MaximumXOROfTwoNumbersInAnArray_421;
 
-// Placeholder — LeetCode 421: MaximumXOROfTwoNumbersInAnArray
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
 package Queue.Fundamentals.AB_NumberOfRecentCalls_933;
 
-// Placeholder — LeetCode 933: NumberOfRecentCalls
-// Queue / Fundamentals
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

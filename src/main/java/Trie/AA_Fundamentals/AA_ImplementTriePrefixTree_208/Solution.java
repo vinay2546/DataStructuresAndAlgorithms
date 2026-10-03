@@ -1,6 +1,7 @@
-package Trie.Fundamentals.AA_ImplementTriePrefixTree_208;
+package Trie.AA_Fundamentals.AA_ImplementTriePrefixTree_208;
 
-// Placeholder — LeetCode 208: ImplementTriePrefixTree
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

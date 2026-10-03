@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.CQ_DeepestLeavesSum_1302;
 
-/** Placeholder for LeetCode 1302: Deepest Leaves Sum. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

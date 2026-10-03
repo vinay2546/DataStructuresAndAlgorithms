@@ -1,7 +1,7 @@
 package Stack.Parsing.AC_DecodeString_394;
 
-// Placeholder — LeetCode 394: DecodeString
-// Stack / Parsing
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.CR_SmallestSubtreewithalltheDeepestNodes_865;
 
-/** Placeholder for LeetCode 865: Smallest Subtreewithallthe Deepest Nodes. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

@@ -1,7 +1,7 @@
 package LinkedList.E_MergeAndPartition.AE_ReorderList_143;
 
-// Placeholder — LeetCode 143: ReorderList
-// LinkedList / Reversal
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

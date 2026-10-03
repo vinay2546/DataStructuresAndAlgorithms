@@ -1,6 +1,7 @@
 package String.DP.AA_LongestPalindromicSubstring_5;
 
-// Placeholder — LeetCode 5: LongestPalindromicSubstring
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

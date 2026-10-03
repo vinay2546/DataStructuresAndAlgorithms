@@ -1,7 +1,7 @@
 package Queue.Fundamentals.AD_DesignCircularDeque_641;
 
-// Placeholder — LeetCode 641: DesignCircularDeque
-// Queue / Fundamentals
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

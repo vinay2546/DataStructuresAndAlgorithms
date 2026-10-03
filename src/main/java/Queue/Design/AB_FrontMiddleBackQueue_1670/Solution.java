@@ -1,7 +1,7 @@
 package Queue.Design.AB_FrontMiddleBackQueue_1670;
 
-// Placeholder — LeetCode 1670: FrontMiddleBackQueue
-// Queue / Design
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

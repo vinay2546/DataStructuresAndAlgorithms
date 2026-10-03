@@ -1,6 +1,7 @@
 package Matrix.InPlace.AD_FlippingAnImage_832;
 
-// Placeholder — LeetCode 832: FlippingAnImage
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

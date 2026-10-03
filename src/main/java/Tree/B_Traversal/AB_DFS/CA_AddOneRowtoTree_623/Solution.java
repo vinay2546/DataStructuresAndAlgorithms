@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.CA_AddOneRowtoTree_623;
 
-/** Placeholder for LeetCode 623: Add One Rowto Tree. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

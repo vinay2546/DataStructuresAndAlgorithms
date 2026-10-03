@@ -1,7 +1,7 @@
 package HashSet.Fundamentals.AA_ContainsDuplicate_217;
 
-// Placeholder — LeetCode 217: ContainsDuplicate
-// HashSet / Fundamentals
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

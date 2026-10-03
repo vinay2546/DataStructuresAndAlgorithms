@@ -1,6 +1,7 @@
 package String.Advanced.AD_IntegerToRoman_12;
 
-// Placeholder — LeetCode 12: IntegerToRoman
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

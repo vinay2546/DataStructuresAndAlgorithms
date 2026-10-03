@@ -1,7 +1,7 @@
-package Trie.A_General.AEN_ShortEncodingOfWords_820;
+package Trie.AG_StringAlgorithms.AEN_ShortEncodingOfWords_820;
 
-// Placeholder — LeetCode 820: Short Encoding of Words
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

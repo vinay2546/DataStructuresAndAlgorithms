@@ -1,7 +1,7 @@
 package LinkedList.B_TwoPointers.AC_IntersectionOfTwoLinkedLists_160;
 
-// Placeholder — LeetCode 160: IntersectionOfTwoLinkedLists
-// LinkedList / TwoPointers
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

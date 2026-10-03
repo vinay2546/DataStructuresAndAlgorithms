@@ -1,6 +1,7 @@
 package String.Hashing.AD_SubstringWithConcatenationOfAllWords_30;
 
-// Placeholder — LeetCode 30: SubstringWithConcatenationOfAllWords
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

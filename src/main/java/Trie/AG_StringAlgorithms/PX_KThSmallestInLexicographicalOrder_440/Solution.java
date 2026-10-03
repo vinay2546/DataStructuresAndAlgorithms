@@ -1,7 +1,7 @@
-package Trie.A_General.PX_KThSmallestInLexicographicalOrder_440;
+package Trie.AG_StringAlgorithms.PX_KThSmallestInLexicographicalOrder_440;
 
-// Placeholder — LeetCode 440: K-th Smallest in Lexicographical Order
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

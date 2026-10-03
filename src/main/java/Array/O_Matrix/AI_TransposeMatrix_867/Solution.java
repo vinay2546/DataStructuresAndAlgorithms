@@ -1,7 +1,7 @@
 package Array.O_Matrix.AI_TransposeMatrix_867;
 
-// Placeholder — LeetCode 867: Transpose Matrix
-// Array / Matrix
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

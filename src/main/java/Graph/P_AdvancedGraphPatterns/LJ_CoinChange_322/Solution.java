@@ -1,7 +1,7 @@
 package Graph.P_AdvancedGraphPatterns.LJ_CoinChange_322;
 
-// Placeholder — LeetCode 322: Coin Change
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
 package Tree.L_TreeDynamicProgramming.A_MaximumProductOfSplittedBinaryTree_1339;
 
-// Placeholder — LeetCode 1339: Maximum Product of Splitted Binary Tree
-// Tree / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

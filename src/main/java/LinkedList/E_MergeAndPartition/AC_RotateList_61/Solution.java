@@ -1,7 +1,7 @@
 package LinkedList.E_MergeAndPartition.AC_RotateList_61;
 
-// Placeholder — LeetCode 61: RotateList
-// LinkedList / Advanced
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

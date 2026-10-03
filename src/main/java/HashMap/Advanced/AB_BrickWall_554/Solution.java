@@ -1,7 +1,7 @@
 package HashMap.Advanced.AB_BrickWall_554;
 
-// Placeholder — LeetCode 554: BrickWall
-// HashMap / Advanced
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
 package HashSet.SetPatterns.AD_FindTheDifferenceOfTwoArrays_2215;
 
-// Placeholder — LeetCode 2215: FindTheDifferenceOfTwoArrays
-// HashSet / SetPatterns
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

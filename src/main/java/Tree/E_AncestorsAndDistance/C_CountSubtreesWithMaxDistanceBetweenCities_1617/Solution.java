@@ -1,7 +1,7 @@
 package Tree.E_AncestorsAndDistance.C_CountSubtreesWithMaxDistanceBetweenCities_1617;
 
-// Placeholder — LeetCode 1617: Count Subtrees With Max Distance Between Cities
-// Tree / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

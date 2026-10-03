@@ -1,7 +1,7 @@
 package Array.U_General.FG_MissingRanges_163;
 
-// Placeholder — LeetCode 163: Missing Ranges
-// Array / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

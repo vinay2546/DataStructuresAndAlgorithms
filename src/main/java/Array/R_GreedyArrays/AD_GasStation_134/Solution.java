@@ -1,7 +1,7 @@
 package Array.R_GreedyArrays.AD_GasStation_134;
 
-// Placeholder — LeetCode 134: Gas Station
-// Array / GreedyArrays
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

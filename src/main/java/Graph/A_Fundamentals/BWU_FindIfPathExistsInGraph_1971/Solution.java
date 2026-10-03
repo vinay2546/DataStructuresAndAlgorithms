@@ -1,7 +1,7 @@
 package Graph.A_Fundamentals.BWU_FindIfPathExistsInGraph_1971;
 
-// Placeholder — LeetCode 1971: Find if Path Exists in Graph
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

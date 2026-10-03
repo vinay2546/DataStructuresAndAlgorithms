@@ -1,7 +1,7 @@
 package Queue.Fundamentals.AC_DesignCircularQueue_622;
 
-// Placeholder — LeetCode 622: DesignCircularQueue
-// Queue / Fundamentals
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

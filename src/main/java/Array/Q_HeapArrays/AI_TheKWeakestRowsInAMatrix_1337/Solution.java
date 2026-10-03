@@ -1,7 +1,7 @@
 package Array.Q_HeapArrays.AI_TheKWeakestRowsInAMatrix_1337;
 
-// Placeholder — LeetCode 1337: The KWeakest Rows In AMatrix
-// Array / HeapArrays
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

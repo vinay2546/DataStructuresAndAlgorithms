@@ -1,7 +1,7 @@
 package Array.N_Intervals.AO_DataStreamAsDisjointIntervals_352;
 
-// Placeholder — LeetCode 352: Data Stream As Disjoint Intervals
-// Array / Intervals
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

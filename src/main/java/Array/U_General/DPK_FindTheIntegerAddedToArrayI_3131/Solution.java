@@ -1,7 +1,7 @@
 package Array.U_General.DPK_FindTheIntegerAddedToArrayI_3131;
 
-// Placeholder — LeetCode 3131: Find the Integer Added to Array I
-// Array / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

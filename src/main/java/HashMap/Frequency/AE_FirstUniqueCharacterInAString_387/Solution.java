@@ -1,7 +1,7 @@
 package HashMap.Frequency.AE_FirstUniqueCharacterInAString_387;
 
-// Placeholder — LeetCode 387: FirstUniqueCharacterInAString
-// HashMap / Frequency
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,9 +1,7 @@
 package Tree.B_Traversal.AA_BFS.AP_CousinsInBinaryTreeII_2641;
 
 /**
- * 2641. CousinsInBinaryTreeII
- *
- * Placeholder for the Java solution.
+ * Placeholder solution. Implement the problem here.
  */
 public class Solution {
 }

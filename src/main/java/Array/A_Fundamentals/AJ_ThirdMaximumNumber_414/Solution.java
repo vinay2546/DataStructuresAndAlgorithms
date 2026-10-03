@@ -1,7 +1,7 @@
 package Array.A_Fundamentals.AJ_ThirdMaximumNumber_414;
 
-// Placeholder — LeetCode 414: Third Maximum Number
-// Array / Fundamentals
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

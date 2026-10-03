@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.BB_FlipEquivalentBinaryTrees_951;
 
-/** Placeholder for LeetCode 951: Flip Equivalent Binary Trees. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

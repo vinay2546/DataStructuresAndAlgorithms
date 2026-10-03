@@ -1,7 +1,7 @@
 package Tree.K_TreeQueries.A_ClosestNodeToPathInTree_2277;
 
-// Placeholder — LeetCode 2277: Closest Node to Path in Tree
-// Tree / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,6 +1,7 @@
 package Graph.L_AdvancedTraversal.AD_BusRoutes_815;
 
-// Placeholder — LeetCode 815: BusRoutes
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

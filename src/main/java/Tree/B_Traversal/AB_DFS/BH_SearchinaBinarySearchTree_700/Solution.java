@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.BH_SearchinaBinarySearchTree_700;
 
-/** Placeholder for LeetCode 700: Searchina Binary Search Tree. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

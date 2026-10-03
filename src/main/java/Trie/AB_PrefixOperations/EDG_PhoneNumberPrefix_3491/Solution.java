@@ -1,7 +1,7 @@
-package Trie.A_General.EDG_PhoneNumberPrefix_3491;
+package Trie.AB_PrefixOperations.EDG_PhoneNumberPrefix_3491;
 
-// Placeholder — LeetCode 3491: Phone Number Prefix
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

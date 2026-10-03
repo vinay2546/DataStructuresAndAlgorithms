@@ -1,7 +1,7 @@
 package Stack.Parsing.AD_RemoveKDigits_402;
 
-// Placeholder — LeetCode 402: RemoveKDigits
-// Stack / Parsing
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

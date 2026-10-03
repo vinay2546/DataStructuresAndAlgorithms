@@ -1,6 +1,7 @@
 package Matrix.PrefixDP.AC_MinimumPathSum_64;
 
-// Placeholder — LeetCode 64: MinimumPathSum
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

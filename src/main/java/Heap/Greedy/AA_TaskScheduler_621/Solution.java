@@ -1,6 +1,7 @@
 package Heap.Greedy.AA_TaskScheduler_621;
 
-// Placeholder — LeetCode 621: TaskScheduler
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

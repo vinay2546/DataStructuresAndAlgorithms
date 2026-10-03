@@ -1,6 +1,7 @@
 package String.StackParsing.AC_BasicCalculator_224;
 
-// Placeholder — LeetCode 224: BasicCalculator
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

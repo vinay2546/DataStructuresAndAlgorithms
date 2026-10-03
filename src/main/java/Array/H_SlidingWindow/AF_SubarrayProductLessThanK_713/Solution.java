@@ -1,7 +1,7 @@
 package Array.H_SlidingWindow.AF_SubarrayProductLessThanK_713;
 
-// Placeholder — LeetCode 713: Subarray Product Less Than K
-// Array / SlidingWindow
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

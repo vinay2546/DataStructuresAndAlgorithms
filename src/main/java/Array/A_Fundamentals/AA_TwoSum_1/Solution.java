@@ -1,7 +1,7 @@
 package Array.A_Fundamentals.AA_TwoSum_1;
 
-// Placeholder — LeetCode 1: Two Sum
-// Array / Fundamentals
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

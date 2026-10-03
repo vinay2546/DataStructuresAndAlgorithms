@@ -1,7 +1,7 @@
 package Array.S_BacktrackingArrays.AN_NonDecreasingSubsequences_491;
 
-// Placeholder — LeetCode 491: Non Decreasing Subsequences
-// Array / BacktrackingArrays
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

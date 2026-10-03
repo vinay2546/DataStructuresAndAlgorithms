@@ -1,6 +1,7 @@
 package Matrix.PrefixDP.AB_MaximalSquare_221;
 
-// Placeholder — LeetCode 221: MaximalSquare
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
 package Array.O_Matrix.AC_RotateImage_48;
 
-// Placeholder — LeetCode 48: Rotate Image
-// Array / Matrix
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

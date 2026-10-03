@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AA_BFS.BB_AllNodesDistanceKInBinaryTree_863;
 
-/** Placeholder for LeetCode 863: AllNodesDistanceKInBinaryTree. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

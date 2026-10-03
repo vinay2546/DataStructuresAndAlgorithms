@@ -1,7 +1,7 @@
 package Graph.P_AdvancedGraphPatterns.DPU_MaximumHammingDistances_3141;
 
-// Placeholder — LeetCode 3141: Maximum Hamming Distances
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

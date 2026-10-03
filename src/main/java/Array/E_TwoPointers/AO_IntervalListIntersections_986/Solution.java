@@ -1,7 +1,7 @@
 package Array.E_TwoPointers.AO_IntervalListIntersections_986;
 
-// Placeholder — LeetCode 986: Interval List Intersections
-// Array / TwoPointers
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
 package Array.N_Intervals.AM_MeetingRoomsIII_2402;
 
-// Placeholder — LeetCode 2402: Meeting Rooms III
-// Array / Intervals
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
-package Trie.A_General.BMH_NumberOfDistinctSubstringsInAString_1698;
+package Trie.AG_StringAlgorithms.BMH_NumberOfDistinctSubstringsInAString_1698;
 
-// Placeholder — LeetCode 1698: Number of Distinct Substrings in a String
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

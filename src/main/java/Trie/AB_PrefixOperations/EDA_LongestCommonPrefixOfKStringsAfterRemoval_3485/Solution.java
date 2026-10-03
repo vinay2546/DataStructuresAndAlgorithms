@@ -1,7 +1,7 @@
-package Trie.A_General.EDA_LongestCommonPrefixOfKStringsAfterRemoval_3485;
+package Trie.AB_PrefixOperations.EDA_LongestCommonPrefixOfKStringsAfterRemoval_3485;
 
-// Placeholder — LeetCode 3485: Longest Common Prefix of K Strings After Removal
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

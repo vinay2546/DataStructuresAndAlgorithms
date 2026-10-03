@@ -1,6 +1,7 @@
-package Trie.BitwiseTrie.AB_MaximumXORWithAnElementFromArray_1707;
+package Trie.AF_BitwiseTrie.AB_MaximumXORWithAnElementFromArray_1707;
 
-// Placeholder — LeetCode 1707: MaximumXORWithAnElementFromArray
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
 package LinkedList.A_Fundamentals.AEK_LinkedListComponents_817;
 
-// Placeholder — LeetCode 817: Linked List Components
-// LinkedList / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

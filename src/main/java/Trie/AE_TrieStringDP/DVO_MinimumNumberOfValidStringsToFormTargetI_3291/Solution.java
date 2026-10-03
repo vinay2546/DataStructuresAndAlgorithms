@@ -1,7 +1,7 @@
-package Trie.A_General.DVO_MinimumNumberOfValidStringsToFormTargetI_3291;
+package Trie.AE_TrieStringDP.DVO_MinimumNumberOfValidStringsToFormTargetI_3291;
 
-// Placeholder — LeetCode 3291: Minimum Number of Valid Strings to Form Target I
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

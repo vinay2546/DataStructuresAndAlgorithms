@@ -1,7 +1,7 @@
 package Stack.Parsing.AB_BasicCalculatorII_227;
 
-// Placeholder — LeetCode 227: BasicCalculatorII
-// Stack / Parsing
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

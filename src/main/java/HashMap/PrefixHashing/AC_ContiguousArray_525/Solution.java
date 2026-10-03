@@ -1,7 +1,7 @@
 package HashMap.PrefixHashing.AC_ContiguousArray_525;
 
-// Placeholder — LeetCode 525: ContiguousArray
-// HashMap / PrefixHashing
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

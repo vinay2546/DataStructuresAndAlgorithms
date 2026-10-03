@@ -1,6 +1,7 @@
 package Heap.MinMaxHeap.AD_KthLargestElementInAStream_703;
 
-// Placeholder — LeetCode 703: KthLargestElementInAStream
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

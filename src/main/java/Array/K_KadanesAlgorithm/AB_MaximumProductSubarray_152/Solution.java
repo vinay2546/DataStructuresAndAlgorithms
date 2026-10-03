@@ -1,7 +1,7 @@
 package Array.K_KadanesAlgorithm.AB_MaximumProductSubarray_152;
 
-// Placeholder — LeetCode 152: Maximum Product Subarray
-// Array / KadanesAlgorithm
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
 package Stack.Simulation.AD_RemoveAllAdjacentDuplicatesInStringII_1209;
 
-// Placeholder — LeetCode 1209: RemoveAllAdjacentDuplicatesInStringII
-// Stack / Simulation
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

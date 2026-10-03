@@ -1,6 +1,7 @@
 package Heap.TopK.AE_TheKWeakestRowsInAMatrix_1337;
 
-// Placeholder — LeetCode 1337: TheKWeakestRowsInAMatrix
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

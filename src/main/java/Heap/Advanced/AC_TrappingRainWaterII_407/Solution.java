@@ -1,6 +1,7 @@
 package Heap.Advanced.AC_TrappingRainWaterII_407;
 
-// Placeholder — LeetCode 407: TrappingRainWaterII
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

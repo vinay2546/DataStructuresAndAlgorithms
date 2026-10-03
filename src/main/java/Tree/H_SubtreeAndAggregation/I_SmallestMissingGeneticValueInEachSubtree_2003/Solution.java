@@ -1,7 +1,7 @@
 package Tree.H_SubtreeAndAggregation.I_SmallestMissingGeneticValueInEachSubtree_2003;
 
-// Placeholder — LeetCode 2003: Smallest Missing Genetic Value in Each Subtree
-// Tree / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

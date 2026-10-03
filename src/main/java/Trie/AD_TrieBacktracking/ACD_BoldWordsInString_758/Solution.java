@@ -1,7 +1,7 @@
-package Trie.A_General.ACD_BoldWordsInString_758;
+package Trie.AD_TrieBacktracking.ACD_BoldWordsInString_758;
 
-// Placeholder — LeetCode 758: Bold Words in String
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

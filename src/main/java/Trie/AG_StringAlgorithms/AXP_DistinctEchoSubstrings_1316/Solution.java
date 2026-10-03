@@ -1,7 +1,7 @@
-package Trie.A_General.AXP_DistinctEchoSubstrings_1316;
+package Trie.AG_StringAlgorithms.AXP_DistinctEchoSubstrings_1316;
 
-// Placeholder — LeetCode 1316: Distinct Echo Substrings
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

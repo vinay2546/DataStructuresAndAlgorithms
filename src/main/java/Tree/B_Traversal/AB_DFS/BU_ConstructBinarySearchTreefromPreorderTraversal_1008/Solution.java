@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.BU_ConstructBinarySearchTreefromPreorderTraversal_1008;
 
-/** Placeholder for LeetCode 1008: Construct Binary Search Treefrom Preorder Traversal. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

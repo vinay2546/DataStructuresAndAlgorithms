@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.BS_ConstructBinaryTreefromPreorderandInorderTraversal_105;
 
-/** Placeholder for LeetCode 105: Construct Binary Treefrom Preorderand Inorder Traversal. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

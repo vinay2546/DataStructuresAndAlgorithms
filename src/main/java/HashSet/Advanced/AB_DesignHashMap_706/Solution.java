@@ -1,7 +1,7 @@
 package HashSet.Advanced.AB_DesignHashMap_706;
 
-// Placeholder — LeetCode 706: DesignHashMap
-// HashSet / Advanced
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.AR_SmallestStringStartingFromLeaf_988;
 
-/** Placeholder for LeetCode 988: Smallest String Starting From Leaf. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

@@ -1,7 +1,7 @@
 package Graph.P_AdvancedGraphPatterns.RT_ZumaGame_488;
 
-// Placeholder — LeetCode 488: Zuma Game
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

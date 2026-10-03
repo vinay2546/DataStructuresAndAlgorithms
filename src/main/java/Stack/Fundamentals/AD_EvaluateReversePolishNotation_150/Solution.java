@@ -1,7 +1,7 @@
 package Stack.Fundamentals.AD_EvaluateReversePolishNotation_150;
 
-// Placeholder — LeetCode 150: EvaluateReversePolishNotation
-// Stack / Fundamentals
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AA_BFS.BK_MinimumNumberOfOperationsToSortABinaryTreeByLevel_2471;
 
-/** Placeholder for LeetCode 2471: MinimumNumberOfOperationsToSortABinaryTreeByLevel. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

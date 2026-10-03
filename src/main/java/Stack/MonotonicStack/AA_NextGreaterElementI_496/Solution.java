@@ -1,7 +1,7 @@
 package Stack.MonotonicStack.AA_NextGreaterElementI_496;
 
-// Placeholder — LeetCode 496: NextGreaterElementI
-// Stack / MonotonicStack
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
 package Array.H_SlidingWindow.AS_MaxConsecutiveOnesII_487;
 
-// Placeholder — LeetCode 487: Max Consecutive Ones II
-// Array / SlidingWindow
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

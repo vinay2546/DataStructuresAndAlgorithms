@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.AV_CountGoodNodesinBinaryTree_1448;
 
-/** Placeholder for LeetCode 1448: Count Good Nodesin Binary Tree. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

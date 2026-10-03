@@ -1,7 +1,7 @@
-package Trie.A_General.AND_LongestDuplicateSubstring_1044;
+package Trie.AG_StringAlgorithms.AND_LongestDuplicateSubstring_1044;
 
-// Placeholder — LeetCode 1044: Longest Duplicate Substring
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

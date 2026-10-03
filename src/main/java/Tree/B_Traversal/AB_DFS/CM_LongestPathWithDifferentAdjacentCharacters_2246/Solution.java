@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.CM_LongestPathWithDifferentAdjacentCharacters_2246;
 
-/** Placeholder for LeetCode 2246: Longest Path With Different Adjacent Characters. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

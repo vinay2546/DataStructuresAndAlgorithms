@@ -1,7 +1,7 @@
 package Array.H_SlidingWindow.AR_MinimumOperationsToReduceXToZero_1658;
 
-// Placeholder — LeetCode 1658: Minimum Operations To Reduce XTo Zero
-// Array / SlidingWindow
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

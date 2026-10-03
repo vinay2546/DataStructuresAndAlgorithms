@@ -1,7 +1,7 @@
 package Stack.Simulation.AC_RemoveAllAdjacentDuplicatesInString_1047;
 
-// Placeholder — LeetCode 1047: RemoveAllAdjacentDuplicatesInString
-// Stack / Simulation
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

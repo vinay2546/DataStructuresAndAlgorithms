@@ -1,7 +1,7 @@
 package HashSet.Fundamentals.AB_IntersectionOfTwoArrays_349;
 
-// Placeholder — LeetCode 349: IntersectionOfTwoArrays
-// HashSet / Fundamentals
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

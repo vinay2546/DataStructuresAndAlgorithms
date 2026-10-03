@@ -1,7 +1,7 @@
 package LinkedList.F_Arithmetic.QC_AddTwoNumbersII_445;
 
-// Placeholder — LeetCode 445: Add Two Numbers II
-// LinkedList / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

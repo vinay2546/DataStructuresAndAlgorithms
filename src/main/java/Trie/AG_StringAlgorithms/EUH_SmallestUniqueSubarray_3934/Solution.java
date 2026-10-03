@@ -1,7 +1,7 @@
-package Trie.A_General.EUH_SmallestUniqueSubarray_3934;
+package Trie.AG_StringAlgorithms.EUH_SmallestUniqueSubarray_3934;
 
-// Placeholder — LeetCode 3934: Smallest Unique Subarray
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

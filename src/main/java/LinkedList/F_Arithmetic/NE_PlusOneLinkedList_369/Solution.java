@@ -1,7 +1,7 @@
 package LinkedList.F_Arithmetic.NE_PlusOneLinkedList_369;
 
-// Placeholder — LeetCode 369: Plus One Linked List
-// LinkedList / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

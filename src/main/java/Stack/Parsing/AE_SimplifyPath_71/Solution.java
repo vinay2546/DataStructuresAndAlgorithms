@@ -1,7 +1,7 @@
 package Stack.Parsing.AE_SimplifyPath_71;
 
-// Placeholder — LeetCode 71: SimplifyPath
-// Stack / Parsing
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
 package LinkedList.E_MergeAndPartition.AD_PartitionList_86;
 
-// Placeholder — LeetCode 86: PartitionList
-// LinkedList / Advanced
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

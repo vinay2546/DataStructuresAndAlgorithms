@@ -1,7 +1,7 @@
-package Trie.A_General.DMA_FindTheLengthOfTheLongestCommonPrefix_3043;
+package Trie.AB_PrefixOperations.DMA_FindTheLengthOfTheLongestCommonPrefix_3043;
 
-// Placeholder — LeetCode 3043: Find the Length of the Longest Common Prefix
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

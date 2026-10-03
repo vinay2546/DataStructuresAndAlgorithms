@@ -1,7 +1,7 @@
 package Array.A_Fundamentals.AH_MissingNumber_268;
 
-// Placeholder — LeetCode 268: Missing Number
-// Array / Fundamentals
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

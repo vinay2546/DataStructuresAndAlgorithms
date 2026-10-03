@@ -1,7 +1,7 @@
 package Tree.F_ConstructionAndSerialization.L_NumberOfWaysToReconstructATree_1719;
 
-// Placeholder — LeetCode 1719: Number Of Ways To Reconstruct A Tree
-// Tree / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
 package Array.R_GreedyArrays.AF_PartitionLabels_763;
 
-// Placeholder — LeetCode 763: Partition Labels
-// Array / GreedyArrays
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
 package Graph.C_DFS.BPW_FindCenterOfStarGraph_1791;
 
-// Placeholder — LeetCode 1791: Find Center of Star Graph
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

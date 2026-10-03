@@ -1,6 +1,7 @@
-package Trie.PrefixSearch.AC_MapSumPairs_677;
+package Trie.AB_PrefixOperations.AC_MapSumPairs_677;
 
-// Placeholder — LeetCode 677: MapSumPairs
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

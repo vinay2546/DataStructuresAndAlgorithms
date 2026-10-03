@@ -1,7 +1,7 @@
 package Stack.MonotonicStack.AH_132Pattern_456;
 
-// Placeholder — LeetCode 456: 132Pattern
-// Stack / MonotonicStack
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

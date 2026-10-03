@@ -1,6 +1,7 @@
 package Graph.G_UnionFind.AD_GraphValidTree_261;
 
-// Placeholder — LeetCode 261: GraphValidTree
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

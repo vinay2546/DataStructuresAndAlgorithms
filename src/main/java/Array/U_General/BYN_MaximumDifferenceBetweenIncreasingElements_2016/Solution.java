@@ -1,7 +1,7 @@
 package Array.U_General.BYN_MaximumDifferenceBetweenIncreasingElements_2016;
 
-// Placeholder — LeetCode 2016: Maximum Difference Between Increasing Elements
-// Array / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.BI_ValidateBinarySearchTree_98;
 
-/** Placeholder for LeetCode 98: Validate Binary Search Tree. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

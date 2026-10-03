@@ -1,6 +1,7 @@
 package String.DP.AD_EditDistance_72;
 
-// Placeholder — LeetCode 72: EditDistance
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

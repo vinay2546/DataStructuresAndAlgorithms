@@ -1,7 +1,7 @@
-package Trie.A_General.TG_WordAbbreviation_527;
+package Trie.AC_WildcardAndPatternSearch.TG_WordAbbreviation_527;
 
-// Placeholder — LeetCode 527: Word Abbreviation
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

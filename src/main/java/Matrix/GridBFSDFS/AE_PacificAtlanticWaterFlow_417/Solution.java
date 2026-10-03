@@ -1,6 +1,7 @@
 package Matrix.GridBFSDFS.AE_PacificAtlanticWaterFlow_417;
 
-// Placeholder — LeetCode 417: PacificAtlanticWaterFlow
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

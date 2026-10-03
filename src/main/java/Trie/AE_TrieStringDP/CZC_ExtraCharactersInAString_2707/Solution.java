@@ -1,7 +1,7 @@
-package Trie.A_General.CZC_ExtraCharactersInAString_2707;
+package Trie.AE_TrieStringDP.CZC_ExtraCharactersInAString_2707;
 
-// Placeholder — LeetCode 2707: Extra Characters in a String
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

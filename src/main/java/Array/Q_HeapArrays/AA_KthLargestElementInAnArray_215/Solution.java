@@ -1,7 +1,7 @@
 package Array.Q_HeapArrays.AA_KthLargestElementInAnArray_215;
 
-// Placeholder — LeetCode 215: Kth Largest Element In An Array
-// Array / HeapArrays
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

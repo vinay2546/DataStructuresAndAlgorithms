@@ -1,6 +1,7 @@
 package String.SlidingWindow.AD_FindAllAnagramsInAString_438;
 
-// Placeholder — LeetCode 438: FindAllAnagramsInAString
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

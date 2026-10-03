@@ -1,7 +1,7 @@
 package Graph.A_Fundamentals.BPN_CountPairsOfNodes_1782;
 
-// Placeholder — LeetCode 1782: Count Pairs Of Nodes
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
 package Graph.H_ShortestPath.DAG_FindTheClosestMarkedNode_2737;
 
-// Placeholder — LeetCode 2737: Find the Closest Marked Node
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

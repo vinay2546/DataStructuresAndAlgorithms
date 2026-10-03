@@ -1,7 +1,7 @@
 package Array.F_Hashing.AB_ContainsDuplicate_217;
 
-// Placeholder — LeetCode 217: Contains Duplicate
-// Array / Hashing
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

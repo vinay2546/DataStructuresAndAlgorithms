@@ -1,7 +1,7 @@
 package Graph.P_AdvancedGraphPatterns.EIA_LongestPalindromicPathInGraph_3615;
 
-// Placeholder — LeetCode 3615: Longest Palindromic Path in Graph
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

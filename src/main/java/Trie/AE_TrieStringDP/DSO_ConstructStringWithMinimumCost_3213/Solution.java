@@ -1,7 +1,7 @@
-package Trie.A_General.DSO_ConstructStringWithMinimumCost_3213;
+package Trie.AE_TrieStringDP.DSO_ConstructStringWithMinimumCost_3213;
 
-// Placeholder — LeetCode 3213: Construct String with Minimum Cost
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

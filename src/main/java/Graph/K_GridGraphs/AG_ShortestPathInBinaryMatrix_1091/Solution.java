@@ -1,6 +1,7 @@
 package Graph.K_GridGraphs.AG_ShortestPathInBinaryMatrix_1091;
 
-// Placeholder — LeetCode 1091: ShortestPathInBinaryMatrix
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

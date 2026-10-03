@@ -1,7 +1,7 @@
-package Trie.A_General.EHI_PartitionString_3597;
+package Trie.AE_TrieStringDP.EHI_PartitionString_3597;
 
-// Placeholder — LeetCode 3597: Partition String 
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

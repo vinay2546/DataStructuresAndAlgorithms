@@ -1,7 +1,7 @@
 package Tree.I_TreeProperties.B_CheckCompletenessOfABinaryTree_958;
 
-// Placeholder — LeetCode 958: Check Completeness of a Binary Tree
-// Tree / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

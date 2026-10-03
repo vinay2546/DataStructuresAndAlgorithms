@@ -1,7 +1,7 @@
 package Tree.M_GreedyAndOptimization.F_CollectCoinsInATree_2603;
 
-// Placeholder — LeetCode 2603: Collect Coins in a Tree
-// Tree / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

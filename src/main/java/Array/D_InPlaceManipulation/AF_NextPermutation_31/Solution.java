@@ -1,7 +1,7 @@
 package Array.D_InPlaceManipulation.AF_NextPermutation_31;
 
-// Placeholder — LeetCode 31: Next Permutation
-// Array / InPlaceManipulation
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

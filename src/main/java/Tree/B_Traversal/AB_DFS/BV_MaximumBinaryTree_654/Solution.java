@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.BV_MaximumBinaryTree_654;
 
-/** Placeholder for LeetCode 654: Maximum Binary Tree. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

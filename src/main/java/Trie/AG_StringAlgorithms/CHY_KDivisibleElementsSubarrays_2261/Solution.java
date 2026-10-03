@@ -1,7 +1,7 @@
-package Trie.A_General.CHY_KDivisibleElementsSubarrays_2261;
+package Trie.AG_StringAlgorithms.CHY_KDivisibleElementsSubarrays_2261;
 
-// Placeholder — LeetCode 2261: K Divisible Elements Subarrays
-// Trie / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
 package Graph.P_AdvancedGraphPatterns.ANZ_CampusBikesII_1066;
 
-// Placeholder — LeetCode 1066: Campus Bikes II
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

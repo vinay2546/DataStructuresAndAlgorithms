@@ -1,7 +1,7 @@
 package Tree.K_TreeQueries.L_SubtreeInversionSumII_3949;
 
-// Placeholder — LeetCode 3949: Subtree Inversion Sum II
-// Tree / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

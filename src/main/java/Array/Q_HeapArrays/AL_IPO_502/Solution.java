@@ -1,7 +1,7 @@
 package Array.Q_HeapArrays.AL_IPO_502;
 
-// Placeholder — LeetCode 502: IPO
-// Array / HeapArrays
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

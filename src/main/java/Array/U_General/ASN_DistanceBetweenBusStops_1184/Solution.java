@@ -1,7 +1,7 @@
 package Array.U_General.ASN_DistanceBetweenBusStops_1184;
 
-// Placeholder — LeetCode 1184: Distance Between Bus Stops
-// Array / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

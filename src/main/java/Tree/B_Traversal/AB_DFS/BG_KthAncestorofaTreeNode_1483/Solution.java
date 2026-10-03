@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.BG_KthAncestorofaTreeNode_1483;
 
-/** Placeholder for LeetCode 1483: Kth Ancestorofa Tree Node. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

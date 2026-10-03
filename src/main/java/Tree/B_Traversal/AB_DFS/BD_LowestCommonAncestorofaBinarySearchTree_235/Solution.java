@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.BD_LowestCommonAncestorofaBinarySearchTree_235;
 
-/** Placeholder for LeetCode 235: Lowest Common Ancestorofa Binary Search Tree. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

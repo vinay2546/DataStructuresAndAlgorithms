@@ -1,7 +1,7 @@
 package Array.K_KadanesAlgorithm.AI_LongestTurbulentSubarray_978;
 
-// Placeholder — LeetCode 978: Longest Turbulent Subarray
-// Array / KadanesAlgorithm
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

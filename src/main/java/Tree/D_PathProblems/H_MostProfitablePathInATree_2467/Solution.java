@@ -1,7 +1,7 @@
 package Tree.D_PathProblems.H_MostProfitablePathInATree_2467;
 
-// Placeholder — LeetCode 2467: Most Profitable Path in a Tree
-// Tree / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

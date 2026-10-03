@@ -1,7 +1,7 @@
 package HashSet.Fundamentals.AE_ValidSudoku_36;
 
-// Placeholder — LeetCode 36: ValidSudoku
-// HashSet / Fundamentals
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

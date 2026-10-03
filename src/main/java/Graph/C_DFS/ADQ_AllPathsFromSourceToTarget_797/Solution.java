@@ -1,7 +1,7 @@
 package Graph.C_DFS.ADQ_AllPathsFromSourceToTarget_797;
 
-// Placeholder — LeetCode 797: All Paths From Source to Target
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

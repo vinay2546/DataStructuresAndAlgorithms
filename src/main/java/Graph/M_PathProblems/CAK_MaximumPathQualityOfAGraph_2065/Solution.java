@@ -1,7 +1,7 @@
 package Graph.M_PathProblems.CAK_MaximumPathQualityOfAGraph_2065;
 
-// Placeholder — LeetCode 2065: Maximum Path Quality of a Graph
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

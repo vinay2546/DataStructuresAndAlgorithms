@@ -1,7 +1,7 @@
 package Array.P_MonotonicStack.AO_SumOfTotalStrengthOfWizards_2281;
 
-// Placeholder — LeetCode 2281: Sum Of Total Strength Of Wizards
-// Array / MonotonicStack
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

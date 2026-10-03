@@ -1,7 +1,7 @@
 package Graph.E_TopologicalSort.QB_SequenceReconstruction_444;
 
-// Placeholder — LeetCode 444: Sequence Reconstruction
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

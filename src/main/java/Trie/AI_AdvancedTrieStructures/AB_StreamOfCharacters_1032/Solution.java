@@ -1,6 +1,7 @@
-package Trie.Advanced.AB_StreamOfCharacters_1032;
+package Trie.AI_AdvancedTrieStructures.AB_StreamOfCharacters_1032;
 
-// Placeholder — LeetCode 1032: StreamOfCharacters
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

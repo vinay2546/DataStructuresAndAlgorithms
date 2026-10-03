@@ -1,6 +1,7 @@
 package Graph.E_TopologicalSort.AD_MinimumHeightTrees_310;
 
-// Placeholder — LeetCode 310: MinimumHeightTrees
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

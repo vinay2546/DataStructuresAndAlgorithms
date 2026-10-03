@@ -1,7 +1,7 @@
 package HashMap.Frequency.AB_TopKFrequentElements_347;
 
-// Placeholder — LeetCode 347: TopKFrequentElements
-// HashMap / Frequency
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

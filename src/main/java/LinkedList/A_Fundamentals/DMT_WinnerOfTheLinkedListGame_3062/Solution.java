@@ -1,7 +1,7 @@
 package LinkedList.A_Fundamentals.DMT_WinnerOfTheLinkedListGame_3062;
 
-// Placeholder — LeetCode 3062: Winner of the Linked List Game
-// LinkedList / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

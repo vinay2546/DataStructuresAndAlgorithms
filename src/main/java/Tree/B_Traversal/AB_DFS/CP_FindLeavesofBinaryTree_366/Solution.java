@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.CP_FindLeavesofBinaryTree_366;
 
-/** Placeholder for LeetCode 366: Find Leavesof Binary Tree. */
+/**
+ * Placeholder solution. Implement the problem here.
+ */
 public class Solution {
 }

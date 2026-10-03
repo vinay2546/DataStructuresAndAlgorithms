@@ -1,6 +1,7 @@
 package Matrix.Fundamentals.AE_ToeplitzMatrix_766;
 
-// Placeholder — LeetCode 766: ToeplitzMatrix
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

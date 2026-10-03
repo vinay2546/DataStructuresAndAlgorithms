@@ -1,6 +1,7 @@
 package String.TwoPointers.AE_BackspaceStringCompare_844;
 
-// Placeholder — LeetCode 844: BackspaceStringCompare
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

@@ -1,7 +1,7 @@
 package Array.N_Intervals.AB_InsertInterval_57;
 
-// Placeholder — LeetCode 57: Insert Interval
-// Array / Intervals
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }

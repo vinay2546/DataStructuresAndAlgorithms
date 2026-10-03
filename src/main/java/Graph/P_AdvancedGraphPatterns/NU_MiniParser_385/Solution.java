@@ -1,7 +1,7 @@
 package Graph.P_AdvancedGraphPatterns.NU_MiniParser_385;
 
-// Placeholder — LeetCode 385: Mini Parser
-// Graph / General
-
-class Solution {
+/**
+ * Placeholder solution. Implement the problem here.
+ */
+public class Solution {
 }
