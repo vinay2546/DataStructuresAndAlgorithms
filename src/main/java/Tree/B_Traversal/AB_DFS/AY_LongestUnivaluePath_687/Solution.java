@@ -1,5 +1,7 @@
 package Tree.B_Traversal.AB_DFS.AY_LongestUnivaluePath_687;
 
+import Tree.TreeNode;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
