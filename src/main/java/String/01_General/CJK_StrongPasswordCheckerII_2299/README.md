@@ -1,0 +1,8 @@
+# 2299. Strong Password Checker II
+
+- LeetCode: https://leetcode.com/problems/strong-password-checker-ii/
+- Difficulty: Easy
+- Topics: String
+
+## Status
+- [ ] Solution

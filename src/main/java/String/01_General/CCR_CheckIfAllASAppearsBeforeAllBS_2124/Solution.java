@@ -1,0 +1,5 @@
+// Placeholder — LeetCode 2124: Check if All A's Appears Before All B's
+// String / General
+
+class Solution {
+}
