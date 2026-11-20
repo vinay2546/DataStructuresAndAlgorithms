@@ -1,7 +1,17 @@
 package Array.A_Fundamentals.AM_FindNumbersWithEvenNumberOfDigits_1295;
 
-// Placeholder — LeetCode 1295: Find Numbers With Even Number Of Digits
-// Array / Fundamentals
-
 class Solution {
+    public int findNumbers(int[] nums) {
+        int total = 0;
+        for (int x: nums){
+            int digits = 0;
+            int divider = 1;
+            while(x >= divider){
+                divider = divider * 10;
+                digits += 1;
+            }
+            if(digits % 2 == 0) total += 1;
+        }
+        return total;
+    }
 }
