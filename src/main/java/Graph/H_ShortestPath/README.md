@@ -2,9 +2,6 @@
 
 Shortest-path algorithms including Dijkstra-style methods, 0-1 BFS, constrained routes, and dynamic shortest paths.
 
-## Problem Count
-
-**25 problem entries**
 
 ## Learning Focus
 
