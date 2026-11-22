@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Generate recursive progress trackers for every directory containing LeetCode problem leaves."""
+"""Standardize problem READMEs and generate recursive progress trackers locally."""
 from __future__ import annotations
 
 import re
 from collections import defaultdict
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[2]
+ROOT = Path(__file__).resolve().parents[1]
 ROOT_README = ROOT / "README.md"
 START = "<!-- PROBLEM_TRACKER:START -->"
 END = "<!-- PROBLEM_TRACKER:END -->"

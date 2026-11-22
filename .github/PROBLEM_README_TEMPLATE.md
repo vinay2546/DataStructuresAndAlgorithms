@@ -50,4 +50,4 @@ See [Solution.java](./Solution.java).
 - Keep the standard section order even when a section contains only a placeholder.
 - Preserve useful problem-specific explanations. Put other existing sections under **Additional Notes** rather than deleting them.
 - Link the Java implementation using the relative \`Solution.java\` link.
-- Run the **Manually Standardize Problem READMEs and Update Trackers** workflow when you want the repository standardized. It is manual-only and does not run on every push.
+- To standardize problem READMEs and regenerate progress trackers, run `python scripts/update_problem_tracker.py` from the repository root. See [`scripts/README.md`](../scripts/README.md) for local instructions.
