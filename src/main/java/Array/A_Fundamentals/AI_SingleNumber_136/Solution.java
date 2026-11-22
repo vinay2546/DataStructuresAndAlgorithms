@@ -1,7 +1,12 @@
 package Array.A_Fundamentals.AI_SingleNumber_136;
 
-// Placeholder — LeetCode 136: Single Number
-// Array / Fundamentals
-
 class Solution {
+    public int singleNumber(int[] nums) {
+        int val = nums[0];
+        for(int i = 1; i < nums.length; i++){
+            val ^= nums[i];
+        }
+
+        return val;
+    }
 }

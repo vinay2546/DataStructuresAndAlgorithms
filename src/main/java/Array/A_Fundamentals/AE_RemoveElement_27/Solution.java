@@ -1,7 +1,14 @@
 package Array.A_Fundamentals.AE_RemoveElement_27;
 
-// Placeholder — LeetCode 27: Remove Element
-// Array / Fundamentals
-
 class Solution {
+    public static int removeElement(int[] nums, int val) {
+        int j = 0;
+        for (int i = 0; i < nums.length; i++){
+            if (nums[i] == val){
+                continue;
+            }
+            nums[j++] = nums[i];
+        }
+        return j;
+    }
 }
