@@ -39,4 +39,3 @@ jobs:
             Automated update of repository-wide hierarchical LeetCode progress trackers.
 
             This pull request was generated after scanning all matching problem folders and rolling their statuses up through every ancestor directory.
-          labels: documentation
