@@ -1,0 +1,379 @@
+#!/usr/bin/env python3
+"""Standardize problem READMEs and generate recursive progress trackers locally."""
+from __future__ import annotations
+
+import re
+from collections import defaultdict
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+ROOT_README = ROOT / "README.md"
+START = "<!-- PROBLEM_TRACKER:START -->"
+END = "<!-- PROBLEM_TRACKER:END -->"
+
+# A problem is a leaf directory whose complete name follows this convention:
+# AA_Problem_Description_LT123, AB_Another_Problem_LT456, etc.
+PROBLEM_DIR = re.compile(r"^[A-Z]+_.+_LT(\d+)$")
+STATUS_LINE = re.compile(r"^[ \t]*\*\*Status:\*\*[ \t]*(.*?)[ \t]*$", re.IGNORECASE | re.MULTILINE)
+STATUS_ICON = {"Solved": "🟩", "In Progress": "🟨", "Not Started": "⬜"}
+
+
+
+RESERVED_NOTE = "This folder is reserved for the Java solution and problem notes."
+DATA_STRUCTURE_LINE = re.compile(r"^[ \t]*\*\*Data Structure:\*\*[ \t]*(.*?)[ \t]*$", re.IGNORECASE | re.MULTILINE)
+PATTERN_LINE = re.compile(r"^[ \t]*\*\*Pattern:\*\*[ \t]*(.*?)[ \t]*$", re.IGNORECASE | re.MULTILINE)
+LEETCODE_LINE = re.compile(r"^[ \t]*\*\*LeetCode:\*\*[ \t]*#?([0-9]+)[ \t]*$", re.IGNORECASE | re.MULTILINE)
+RESERVED_LINE = re.compile(r"^[ \t]*This folder is reserved for the Java solution and problem notes\.[ \t]*$", re.IGNORECASE | re.MULTILINE)
+METADATA_LINE = re.compile(
+    r"^[ \t]*\*\*(?:Data Structure|Pattern|LeetCode|Status):\*\*.*(?:\n|$)",
+    re.IGNORECASE | re.MULTILINE,
+)
+
+
+def normalize_problem_readme(folder: Path) -> bool:
+    """Standardize a problem README while retaining all authored problem notes."""
+    readme = folder / "README.md"
+    original = readme.read_text(encoding="utf-8") if readme.is_file() else ""
+
+    number_match = PROBLEM_DIR.fullmatch(folder.name)
+    number = number_match.group(1) if number_match else ""
+    title_match = re.search(r"^#\s+(.+?)\s*$", original, re.MULTILINE)
+    if title_match:
+        heading = f"# {title_match.group(1).strip()}"
+    else:
+        problem_name = re.sub(r"^[A-Z]+_", "", folder.name)
+        problem_name = re.sub(r"_LT\d+$", "", problem_name)
+        problem_name = re.sub(r"(?<=[a-z0-9])(?=[A-Z])", " ", problem_name).replace("_", " ")
+        heading = f"# {problem_name} — {number}".rstrip(" —")
+
+    structure_match = DATA_STRUCTURE_LINE.search(original)
+    if structure_match and structure_match.group(1).strip():
+        data_structure = structure_match.group(1).strip()
+    else:
+        try:
+            data_structure = folder.relative_to(ROOT / "src" / "main" / "java").parts[0]
+        except (ValueError, IndexError):
+            data_structure = folder.parent.name
+
+    pattern_match = PATTERN_LINE.search(original)
+    if pattern_match and pattern_match.group(1).strip():
+        pattern = pattern_match.group(1).strip()
+    else:
+        pattern = re.sub(r"^[A-Z]+_", "", folder.parent.name).replace("_", " ").strip() or "Fundamentals"
+
+    status_match = STATUS_LINE.search(original)
+    raw_status = status_match.group(1).strip().casefold() if status_match else ""
+    status = {
+        "solved": "Solved",
+        "in progress": "In Progress",
+        "not started": "Not Started",
+        "placeholder": "Not Started",
+    }.get(raw_status, "")
+    if not status:
+        old_status = re.search(
+            r"^##\s+Status\s*$([\s\S]*?)(?=^##\s+|\Z)",
+            original,
+            re.IGNORECASE | re.MULTILINE,
+        )
+        if old_status and re.search(r"\[[xX]\]", old_status.group(1)):
+            status = "Solved"
+        else:
+            status = "Not Started"
+
+    body = METADATA_LINE.sub("", original)
+    body = RESERVED_LINE.sub("", body)
+    body_lines = [line for line in body.splitlines() if not re.match(r"^#\s+", line)]
+    body = "\n".join(body_lines).strip()
+
+    section_matches = list(re.finditer(r"^##\s+(.+?)\s*$", body, re.MULTILINE))
+    preamble = body[:section_matches[0].start()].strip() if section_matches else body
+    sections: dict[str, list[str]] = defaultdict(list)
+    extras: list[tuple[str, str]] = []
+    aliases = {
+        "problem": "Problem",
+        "problem statement": "Problem",
+        "approach": "Approach",
+        "algorithm": "Algorithm",
+        "complexity": "Complexity",
+        "time and space complexity": "Complexity",
+        "solution": "Solution",
+    }
+    for index, match in enumerate(section_matches):
+        section_title = match.group(1).strip()
+        section_start = match.end()
+        section_end = section_matches[index + 1].start() if index + 1 < len(section_matches) else len(body)
+        content = body[section_start:section_end].strip()
+        canonical = aliases.get(section_title.casefold())
+        if canonical:
+            if content:
+                sections[canonical].append(content)
+        elif content:
+            extras.append((section_title, content))
+
+    if preamble:
+        sections["Problem"].insert(0, preamble)
+
+    def combined(name: str) -> str:
+        return "\n\n".join(part for part in sections.get(name, []) if part).strip()
+
+    problem = combined("Problem") or "Add the problem statement or LeetCode link here."
+    approach = combined("Approach") or "Add a brief explanation of the chosen approach."
+    algorithm = combined("Algorithm") or "1. Add the solution steps."
+    complexity = combined("Complexity") or "- **Time:** Add time complexity.\n- **Space:** Add space complexity."
+    solution = combined("Solution") or "See [Solution.java](./Solution.java)."
+    if "Solution.java" not in solution:
+        solution = solution.rstrip() + "\n\nSee [Solution.java](./Solution.java)."
+
+    metadata = [
+        f"**Data Structure:** {data_structure}  ",
+        f"**Pattern:** {pattern}  ",
+        f"**LeetCode:** #{number}  ",
+        f"**Status:** {status}",
+    ]
+    updated_lines = [
+        heading, "", *metadata, "",
+        "## Problem", "", problem, "",
+        "## Approach", "", approach, "",
+        "## Algorithm", "", algorithm, "",
+        "## Complexity", "", complexity, "",
+        "## Solution", "", solution,
+    ]
+    if extras:
+        updated_lines += ["", "## Additional Notes", ""]
+        for section_title, content in extras:
+            updated_lines += [f"### {section_title}", "", content, ""]
+        while updated_lines and not updated_lines[-1]:
+            updated_lines.pop()
+
+    updated = "\n".join(updated_lines).rstrip() + "\n"
+    if updated == original:
+        return False
+    readme.parent.mkdir(parents=True, exist_ok=True)
+    readme.write_text(updated, encoding="utf-8")
+    return True
+
+def normalize_problem_readmes() -> int:
+    """Normalize metadata for every problem folder in the repository."""
+    updated = 0
+    for current, directories, _files in __import__("os").walk(ROOT):
+        directories[:] = [name for name in directories if name != ".git"]
+        current_path = Path(current)
+        for name in directories:
+            if PROBLEM_DIR.fullmatch(name):
+                updated += normalize_problem_readme(current_path / name)
+    return updated
+
+
+def read_problem(folder: Path) -> dict:
+    readme = folder / "README.md"
+    if not readme.is_file():
+        return {"folder": folder, "title": folder.name, "status": "Not Started"}
+    content = readme.read_text(encoding="utf-8")
+    title_match = re.search(r"^#\s+(.+?)\s*$", content, re.MULTILINE)
+    status_match = STATUS_LINE.search(content)
+    title = title_match.group(1).strip() if title_match else folder.name
+    value = status_match.group(1).strip().casefold() if status_match else ""
+    status = {
+        "solved": "Solved",
+        "in progress": "In Progress",
+        "not started": "Not Started",
+    }.get(value, "Not Started")
+    return {"folder": folder, "title": title, "status": status}
+
+
+def safe(value: str) -> str:
+    return value.replace("|", r"\|").replace("\n", " ").strip()
+
+
+def stats(items: list[dict]) -> dict:
+    result = {"Total": len(items), "Solved": 0, "In Progress": 0, "Not Started": 0}
+    for item in items:
+        result[item["status"]] += 1
+    return result
+
+
+def pct(counts: dict) -> str:
+    return f"{counts['Solved'] / counts['Total'] * 100:.1f}%" if counts["Total"] else "0.0%"
+
+
+def relative_link(readme: Path, target: Path) -> str:
+    return Path(__import__("os").path.relpath(target, readme.parent)).as_posix()
+
+
+def problem_table(items: list[dict], readme: Path) -> list[str]:
+    lines = ["| Problem | LeetCode # | Status |", "|---|---:|---|"]
+    for item in sorted(items, key=lambda x: x["folder"].name.casefold()):
+        match = PROBLEM_DIR.fullmatch(item["folder"].name)
+        number = match.group(1) if match else "—"
+        target = item["folder"] / "README.md"
+        if not target.is_file():
+            target = item["folder"] / "Solution.java"
+        if not target.is_file():
+            target = item["folder"]
+        link = relative_link(readme, target)
+        lines.append(
+            f"| [{safe(item['title'])}]({link}) | #{number} | "
+            f"{STATUS_ICON[item['status']]} {item['status']} |"
+        )
+    return lines
+
+
+def replace_generated_section(path: Path, generated: str) -> bool:
+    current = path.read_text(encoding="utf-8") if path.exists() else f"# {path.parent.name}\n"
+    if START in current and END in current:
+        before, tail = current.split(START, 1)
+        _, after = tail.split(END, 1)
+        updated = f"{before}{START}\n{generated}\n{END}{after}"
+    else:
+        # Never replace or truncate user-authored README content. Add a managed
+        # section when this directory first becomes part of the hierarchy.
+        updated = current.rstrip() + f"\n\n{START}\n{generated}\n{END}\n"
+    if updated == current:
+        return False
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(updated, encoding="utf-8")
+    return True
+
+
+def discover_problem_leaves() -> list[dict]:
+    problems = []
+    # Search the complete repository, pruning Git internals.
+    for current, directories, _files in __import__("os").walk(ROOT):
+        directories[:] = [name for name in directories if name != ".git"]
+        current_path = Path(current)
+        for name in directories:
+            folder = current_path / name
+            if PROBLEM_DIR.fullmatch(name):
+                problems.append(read_problem(folder))
+    return sorted(problems, key=lambda item: item["folder"].as_posix().casefold())
+
+
+def build_directory_index(problems: list[dict]) -> dict[Path, list[dict]]:
+    """Map every ancestor directory to all problem leaves beneath it."""
+    descendants: dict[Path, list[dict]] = defaultdict(list)
+    for problem in problems:
+        parent = problem["folder"].parent
+        while parent == ROOT or ROOT in parent.parents:
+            descendants[parent].append(problem)
+            if parent == ROOT:
+                break
+            parent = parent.parent
+    return descendants
+
+
+def directory_section(directory: Path, items: list[dict], descendants: dict[Path, list[dict]]) -> str:
+    readme = directory / "README.md"
+    counts = stats(items)
+    lines = [
+        f"## Progress Overview — {directory.name}",
+        "",
+        f"**{counts['Solved']} / {counts['Total']} problem placements solved ({pct(counts)})**",
+        "",
+        f"🟩 Solved: {counts['Solved']} · 🟨 In Progress: {counts['In Progress']} · "
+        f"⬜ Not Started: {counts['Not Started']}",
+        "",
+        "This tracker is generated recursively. Update the **Status** field in an individual problem README.",
+        "",
+    ]
+
+    direct_problems = [item for item in items if item["folder"].parent == directory]
+    child_directories = sorted(
+        child for child in directory.iterdir()
+        if child.is_dir() and child in descendants and descendants[child]
+    ) if directory.exists() else []
+
+    if child_directories:
+        lines += [
+            "### Subdirectories",
+            "",
+            "| Directory | Total | Solved | In Progress | Not Started | Completion |",
+            "|---|---:|---:|---:|---:|---:|",
+        ]
+        for child in child_directories:
+            child_counts = stats(descendants[child])
+            link = relative_link(readme, child / "README.md")
+            label = safe(child.name)
+            lines.append(
+                f"| [{label}]({link}) | {child_counts['Total']} | {child_counts['Solved']} | "
+                f"{child_counts['In Progress']} | {child_counts['Not Started']} | {pct(child_counts)} |"
+            )
+        lines.append("")
+
+    if direct_problems:
+        lines += ["### Problems in this directory", "", *problem_table(direct_problems, readme)]
+
+    lines += [
+        "",
+        "<sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>",
+    ]
+    return "\n".join(lines)
+
+
+def root_section(top_level: list[Path], descendants: dict[Path, list[dict]]) -> str:
+    all_items = descendants.get(ROOT, [])
+    counts = stats(all_items)
+    lines = [
+        "## DSA Progress Overview",
+        "",
+        f"**{counts['Solved']} / {counts['Total']} problem placements solved ({pct(counts)})**",
+        "",
+        f"🟩 Solved: {counts['Solved']} · 🟨 In Progress: {counts['In Progress']} · "
+        f"⬜ Not Started: {counts['Not Started']}",
+        "",
+        "| Top-level Directory | Total | Solved | In Progress | Not Started | Completion |",
+        "|---|---:|---:|---:|---:|---:|",
+    ]
+    for directory in top_level:
+        items = descendants.get(directory, [])
+        if not items:
+            continue
+        child_counts = stats(items)
+        lines.append(
+            f"| [{safe(directory.name)}](src/main/java/{directory.name}/README.md) | "
+            f"{child_counts['Total']} | {child_counts['Solved']} | {child_counts['In Progress']} | "
+            f"{child_counts['Not Started']} | {pct(child_counts)} |"
+        )
+    lines += [
+        "",
+        "<sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>",
+        "",
+        "The individual problem README is the source of truth. Allowed statuses: Not Started, In Progress, Solved. "
+        "Missing READMEs, legacy Placeholder values, and unknown statuses count as Not Started.",
+    ]
+    return "\n".join(lines)
+
+
+def main() -> None:
+    normalized = normalize_problem_readmes()
+    problems = discover_problem_leaves()
+    descendants = build_directory_index(problems)
+    updated = 0
+
+    # Every ancestor of every problem leaf anywhere in the repository receives a tracker.
+    directories = sorted(
+        (path for path in descendants if path != ROOT),
+        key=lambda path: (len(path.parts), path.as_posix().casefold()),
+    )
+    for directory in directories:
+        updated += replace_generated_section(
+            directory / "README.md",
+            directory_section(directory, descendants[directory], descendants),
+        )
+
+    # The repository's DSA categories live under src/main/java, not at
+    # the repository root. Use that directory as the root tracker grouping.
+    source_root = ROOT / "src" / "main" / "java"
+    top_level = sorted(
+        (path for path in source_root.iterdir() if path.is_dir() and path in descendants),
+        key=lambda path: path.name.casefold(),
+    ) if source_root.is_dir() else []
+    updated += replace_generated_section(ROOT_README, root_section(top_level, descendants))
+
+    print(
+        f"Normalized {normalized} problem READMEs; scanned {len(problems)} problem leaves "
+        f"across {len(directories)} hierarchy directories; updated {updated} tracker README files."
+    )
+
+
+if __name__ == "__main__":
+    main()
