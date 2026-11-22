@@ -18,6 +18,125 @@ STATUS_LINE = re.compile(r"^[ \t]*\*\*Status:\*\*[ \t]*(.*?)[ \t]*$", re.IGNOREC
 STATUS_ICON = {"Solved": "🟩", "In Progress": "🟨", "Not Started": "⬜"}
 
 
+
+RESERVED_NOTE = "This folder is reserved for the Java solution and problem notes."
+DATA_STRUCTURE_LINE = re.compile(r"^[ \t]*\*\*Data Structure:\*\*[ \t]*(.*?)[ \t]*$", re.IGNORECASE | re.MULTILINE)
+PATTERN_LINE = re.compile(r"^[ \t]*\*\*Pattern:\*\*[ \t]*(.*?)[ \t]*$", re.IGNORECASE | re.MULTILINE)
+LEETCODE_LINE = re.compile(r"^[ \t]*\*\*LeetCode:\*\*[ \t]*#?([0-9]+)[ \t]*$", re.IGNORECASE | re.MULTILINE)
+RESERVED_LINE = re.compile(r"^[ \t]*This folder is reserved for the Java solution and problem notes\\.[ \t]*$", re.IGNORECASE | re.MULTILINE)
+METADATA_LINE = re.compile(
+    r"^[ \t]*\\*\\*(?:Data Structure|Pattern|LeetCode|Status):\\*\\*.*(?:\\n|$)",
+    re.IGNORECASE | re.MULTILINE,
+)
+
+
+def normalize_problem_readme(folder: Path) -> bool:
+    """Ensure every problem README has the same metadata block without losing its notes."""
+    readme = folder / "README.md"
+    original = readme.read_text(encoding="utf-8") if readme.is_file() else ""
+
+    number_match = PROBLEM_DIR.fullmatch(folder.name)
+    number = number_match.group(1) if number_match else ""
+    title_match = re.search(r"^#\\s+(.+?)\\s*$", original, re.MULTILINE)
+    if title_match:
+        heading = f"# {title_match.group(1).strip()}"
+    else:
+        problem_name = re.sub(r"^[A-Z]+_", "", folder.name)
+        problem_name = re.sub(r"_LT\\d+$", "", problem_name)
+        problem_name = re.sub(r"(?<=[a-z0-9])(?=[A-Z])", " ", problem_name).replace("_", " ")
+        heading = f"# {problem_name} — {number}".rstrip(" —")
+
+    structure_match = DATA_STRUCTURE_LINE.search(original)
+    if structure_match and structure_match.group(1).strip():
+        data_structure = structure_match.group(1).strip()
+    else:
+        try:
+            data_structure = folder.relative_to(ROOT / "src" / "main" / "java").parts[0]
+        except (ValueError, IndexError):
+            data_structure = folder.parent.name
+
+    pattern_match = PATTERN_LINE.search(original)
+    if pattern_match and pattern_match.group(1).strip():
+        pattern = pattern_match.group(1).strip()
+    else:
+        pattern = re.sub(r"^[A-Z]+_", "", folder.parent.name).replace("_", " ").strip() or "Fundamentals"
+
+    status_match = STATUS_LINE.search(original)
+    raw_status = status_match.group(1).strip().casefold() if status_match else ""
+    status = {
+        "solved": "Solved",
+        "in progress": "In Progress",
+        "not started": "Not Started",
+        "placeholder": "Not Started",
+    }.get(raw_status, "")
+    if not status:
+        old_status = re.search(
+            r"^##\\s+Status\\s*$([\\s\\S]*?)(?=^##\\s+|\\Z)",
+            original,
+            re.IGNORECASE | re.MULTILINE,
+        )
+        if old_status and re.search(r"\\[[xX]\\]", old_status.group(1)):
+            status = "Solved"
+        else:
+            status = "Not Started"
+
+    # Leave already-complete READMEs untouched, including their existing formatting.
+    if (
+        structure_match and structure_match.group(1).strip()
+        and pattern_match and pattern_match.group(1).strip()
+        and LEETCODE_LINE.search(original)
+        and status_match and status in {"Solved", "In Progress", "Not Started"}
+        and RESERVED_LINE.search(original)
+    ):
+        return False
+
+    # Remove only the metadata lines being standardized; retain problem statements,
+    # LeetCode links, difficulty/topics, solution notes, and all other authored content.
+    remainder = METADATA_LINE.sub("", original)
+    remainder = RESERVED_LINE.sub("", remainder)
+    lines = remainder.splitlines()
+    heading_index = next((i for i, line in enumerate(lines) if re.match(r"^#\\s+", line)), None)
+    if heading_index is None:
+        lines.insert(0, heading)
+        heading_index = 0
+    else:
+        lines[heading_index] = heading
+
+    tail = lines[heading_index + 1:]
+    while tail and not tail[0].strip():
+        tail.pop(0)
+    while tail and not tail[-1].strip():
+        tail.pop()
+
+    metadata = [
+        f"**Data Structure:** {data_structure}",
+        f"**Pattern:** {pattern}",
+        f"**LeetCode:** #{number}",
+        f"**Status:** {status}",
+    ]
+    updated_lines = lines[:heading_index + 1] + [""] + metadata + ["", RESERVED_NOTE]
+    if tail:
+        updated_lines += [""] + tail
+    updated = "\\n".join(updated_lines).rstrip() + "\\n"
+    if updated == original:
+        return False
+    readme.parent.mkdir(parents=True, exist_ok=True)
+    readme.write_text(updated, encoding="utf-8")
+    return True
+
+
+def normalize_problem_readmes() -> int:
+    """Normalize metadata for every problem folder in the repository."""
+    updated = 0
+    for current, directories, _files in __import__("os").walk(ROOT):
+        directories[:] = [name for name in directories if name != ".git"]
+        current_path = Path(current)
+        for name in directories:
+            if PROBLEM_DIR.fullmatch(name):
+                updated += normalize_problem_readme(current_path / name)
+    return updated
+
+
 def read_problem(folder: Path) -> dict:
     readme = folder / "README.md"
     if not readme.is_file():
@@ -198,6 +317,7 @@ def root_section(top_level: list[Path], descendants: dict[Path, list[dict]]) -> 
 
 
 def main() -> None:
+    normalized = normalize_problem_readmes()
     problems = discover_problem_leaves()
     descendants = build_directory_index(problems)
     updated = 0
@@ -223,8 +343,8 @@ def main() -> None:
     updated += replace_generated_section(ROOT_README, root_section(top_level, descendants))
 
     print(
-        f"Scanned {len(problems)} problem leaves across {len(directories)} "
-        f"hierarchy directories; updated {updated} tracker README files."
+        f"Normalized {normalized} problem READMEs; scanned {len(problems)} problem leaves "
+        f"across {len(directories)} hierarchy directories; updated {updated} tracker README files."
     )
 
 
