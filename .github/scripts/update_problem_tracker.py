@@ -7,7 +7,6 @@ from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-JAVA_ROOT = ROOT / "src" / "main" / "java"
 ROOT_README = ROOT / "README.md"
 START = "<!-- PROBLEM_TRACKER:START -->"
 END = "<!-- PROBLEM_TRACKER:END -->"
@@ -92,9 +91,14 @@ def replace_generated_section(path: Path, generated: str) -> bool:
 
 def discover_problem_leaves() -> list[dict]:
     problems = []
-    for folder in JAVA_ROOT.rglob("*"):
-        if folder.is_dir() and PROBLEM_DIR.fullmatch(folder.name):
-            problems.append(read_problem(folder))
+    # Search the complete repository, pruning Git internals.
+    for current, directories, _files in __import__("os").walk(ROOT):
+        directories[:] = [name for name in directories if name != ".git"]
+        current_path = Path(current)
+        for name in directories:
+            folder = current_path / name
+            if PROBLEM_DIR.fullmatch(name):
+                problems.append(read_problem(folder))
     return sorted(problems, key=lambda item: item["folder"].as_posix().casefold())
 
 
@@ -103,9 +107,9 @@ def build_directory_index(problems: list[dict]) -> dict[Path, list[dict]]:
     descendants: dict[Path, list[dict]] = defaultdict(list)
     for problem in problems:
         parent = problem["folder"].parent
-        while parent == JAVA_ROOT or JAVA_ROOT in parent.parents:
+        while parent == ROOT or ROOT in parent.parents:
             descendants[parent].append(problem)
-            if parent == JAVA_ROOT:
+            if parent == ROOT:
                 break
             parent = parent.parent
     return descendants
@@ -160,7 +164,7 @@ def directory_section(directory: Path, items: list[dict], descendants: dict[Path
 
 
 def root_section(top_level: list[Path], descendants: dict[Path, list[dict]]) -> str:
-    all_items = descendants.get(JAVA_ROOT, [])
+    all_items = descendants.get(ROOT, [])
     counts = stats(all_items)
     lines = [
         "## DSA Progress Overview",
@@ -198,9 +202,9 @@ def main() -> None:
     descendants = build_directory_index(problems)
     updated = 0
 
-    # Every ancestor of every problem leaf receives its own roll-up README.
+    # Every ancestor of every problem leaf anywhere in the repository receives a tracker.
     directories = sorted(
-        (path for path in descendants if path != JAVA_ROOT),
+        (path for path in descendants if path != ROOT),
         key=lambda path: (len(path.parts), path.as_posix().casefold()),
     )
     for directory in directories:
@@ -210,7 +214,7 @@ def main() -> None:
         )
 
     top_level = sorted(
-        (path for path in JAVA_ROOT.iterdir() if path.is_dir()),
+        (path for path in ROOT.iterdir() if path.is_dir() and path in descendants),
         key=lambda path: path.name.casefold(),
     )
     updated += replace_generated_section(ROOT_README, root_section(top_level, descendants))
