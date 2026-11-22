@@ -22,13 +22,13 @@ Java-based Data Structures and Algorithms solutions, organized by data structure
 <!-- PROBLEM_TRACKER:START -->
 ## DSA Progress Overview
 
-**0 / 1157 problem placements solved (0.0%)**
+**18 / 1157 problem placements solved (1.6%)**
 
-🟩 Solved: 0 · 🟨 In Progress: 0 · ⬜ Not Started: 1157
+🟩 Solved: 18 · 🟨 In Progress: 0 · ⬜ Not Started: 1139
 
 | Top-level Directory | Total | Solved | In Progress | Not Started | Completion |
 |---|---:|---:|---:|---:|---:|
-| [src](src/main/java/src/README.md) | 1157 | 0 | 0 | 1157 | 0.0% |
+| [src](src/main/java/src/README.md) | 1157 | 18 | 0 | 1139 | 1.6% |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
 

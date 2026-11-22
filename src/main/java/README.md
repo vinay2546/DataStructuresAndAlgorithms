@@ -3,9 +3,9 @@
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — java
 
-**0 / 1157 problem placements solved (0.0%)**
+**18 / 1157 problem placements solved (1.6%)**
 
-🟩 Solved: 0 · 🟨 In Progress: 0 · ⬜ Not Started: 1157
+🟩 Solved: 18 · 🟨 In Progress: 0 · ⬜ Not Started: 1139
 
 This tracker is generated recursively. Update the **Status** field in an individual problem README.
 
@@ -13,7 +13,7 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Directory | Total | Solved | In Progress | Not Started | Completion |
 |---|---:|---:|---:|---:|---:|
-| [Array](Array/README.md) | 351 | 0 | 0 | 351 | 0.0% |
+| [Array](Array/README.md) | 351 | 18 | 0 | 333 | 5.1% |
 | [Graph](Graph/README.md) | 233 | 0 | 0 | 233 | 0.0% |
 | [HashMap](HashMap/README.md) | 25 | 0 | 0 | 25 | 0.0% |
 | [HashSet](HashSet/README.md) | 17 | 0 | 0 | 17 | 0.0% |

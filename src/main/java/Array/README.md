@@ -5,9 +5,9 @@ Array problems organized by the learning roadmap below. Problems may appear in m
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — Array
 
-**0 / 351 problem placements solved (0.0%)**
+**18 / 351 problem placements solved (5.1%)**
 
-🟩 Solved: 0 · 🟨 In Progress: 0 · ⬜ Not Started: 351
+🟩 Solved: 18 · 🟨 In Progress: 0 · ⬜ Not Started: 333
 
 This tracker is generated recursively. Update the **Status** field in an individual problem README.
 
@@ -15,8 +15,8 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Directory | Total | Solved | In Progress | Not Started | Completion |
 |---|---:|---:|---:|---:|---:|
-| [A_Fundamentals](A_Fundamentals/README.md) | 16 | 0 | 0 | 16 | 0.0% |
-| [B_Traversal](B_Traversal/README.md) | 10 | 0 | 0 | 10 | 0.0% |
+| [A_Fundamentals](A_Fundamentals/README.md) | 16 | 14 | 0 | 2 | 87.5% |
+| [B_Traversal](B_Traversal/README.md) | 10 | 4 | 0 | 6 | 40.0% |
 | [C_BasicSearching](C_BasicSearching/README.md) | 9 | 0 | 0 | 9 | 0.0% |
 | [D_InPlaceManipulation](D_InPlaceManipulation/README.md) | 15 | 0 | 0 | 15 | 0.0% |
 | [E_TwoPointers](E_TwoPointers/README.md) | 17 | 0 | 0 | 17 | 0.0% |
