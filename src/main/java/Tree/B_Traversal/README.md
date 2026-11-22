@@ -15,9 +15,9 @@ Add learning notes or references relevant to this section.
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — B_Traversal
 
-**20 / 110 problem placements solved (18.2%)**
+**44 / 110 problem placements solved (40.0%)**
 
-🟩 Solved: 20 · 🟨 In Progress: 0 · ⬜ Not Started: 90
+🟩 Solved: 44 · 🟨 In Progress: 0 · ⬜ Not Started: 66
 
 This tracker is generated recursively. Update the **Status** field in an individual problem README.
 
@@ -26,7 +26,7 @@ This tracker is generated recursively. Update the **Status** field in an individ
 | Directory | Total | Solved | In Progress | Not Started | Completion |
 |---|---:|---:|---:|---:|---:|
 | [AA_BFS](AA_BFS/README.md) | 39 | 19 | 0 | 20 | 48.7% |
-| [AB_DFS](AB_DFS/README.md) | 71 | 1 | 0 | 70 | 1.4% |
+| [AB_DFS](AB_DFS/README.md) | 71 | 25 | 0 | 46 | 35.2% |
 
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>

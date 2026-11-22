@@ -3,7 +3,7 @@
 **Data Structure:** Tree  
 **Pattern:** DFS  
 **LeetCode:** #1022  
-**Status:** Not Started
+**Status:** Solved
 
 ## Problem
 
