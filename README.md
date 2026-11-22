@@ -20,7 +20,7 @@ Java-based Data Structures and Algorithms solutions, organized by data structure
 | [Matrix](src/main/java/Matrix/README.md) | ⬜ |
 
 <!-- PROBLEM_TRACKER:START -->
-## Problem Progress Tracker
+## DSA Progress Overview
 
 The root tracker summarizes progress by data structure. Detailed problem and category trackers live in each data-structure README.
 <!-- PROBLEM_TRACKER:END -->
