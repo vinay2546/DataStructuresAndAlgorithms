@@ -2,23 +2,6 @@
 
 Java-based Data Structures and Algorithms solutions, organized by data structure.
 
-## Data Structures
-
-| Data Structure |
-|---|
-| [Array](src/main/java/Array/README.md) |
-| [LinkedList](src/main/java/LinkedList/README.md) |
-| [Stack](src/main/java/Stack/README.md) |
-| [Queue](src/main/java/Queue/README.md) |
-| [HashMap](src/main/java/HashMap/README.md) |
-| [HashSet](src/main/java/HashSet/README.md) |
-| [Tree](src/main/java/Tree/README.md) | 🟡 |
-| [Heap](src/main/java/Heap/README.md) |
-| [Graph](src/main/java/Graph/README.md) |
-| [Trie](src/main/java/Trie/README.md) | 🟡 |
-| [String](src/main/java/String/README.md) |
-| [Matrix](src/main/java/Matrix/README.md) |
-
 <!-- PROBLEM_TRACKER:START -->
 ## DSA Progress Overview
 
