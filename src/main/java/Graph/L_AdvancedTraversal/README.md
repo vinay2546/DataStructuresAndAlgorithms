@@ -2,9 +2,6 @@
 
 Advanced BFS/DFS state modeling, implicit graphs, and traversal with additional state dimensions.
 
-## Problem Count
-
-**3 problem entries**
 
 ## Learning Focus
 
