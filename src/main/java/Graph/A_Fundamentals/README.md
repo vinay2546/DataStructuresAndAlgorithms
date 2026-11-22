@@ -2,9 +2,6 @@
 
 Graph representation, vertices, edges, degree reasoning, direct connectivity, and basic graph modeling.
 
-## Problem Count
-
-**14 problem entries**
 
 ## Learning Focus
 
