@@ -1,36 +1,43 @@
 # Java README and Progress Tracker
 
-The README normalizer and hierarchical progress tracker are implemented in Java at `src/main/java/com/vinay2546/tracker/ProblemTracker.java`.
+The repository has two Java utilities:
 
-## Automatic execution with Maven
+- ProblemTracker.java normalizes problem README metadata and regenerates hierarchical progress trackers.
+- ReadmeResetter.java intentionally resets every existing README.md.
 
-The tracker is bound to Maven's `process-classes` phase. It runs automatically for lifecycle commands that reach that phase, including:
+## Normal Maven build
+
+The progress tracker runs automatically during Maven's process-classes phase:
 
 ```bash
-mvn package
-mvn test
-mvn verify
-mvn install
 mvn clean package
 ```
 
-Run Maven from the repository root. The tracker executes after Java compilation and before tests/package creation. It requires only the JDK already needed by this Java repository; **Python is not required**.
+It updates problem README metadata and managed progress sections without erasing manually written content outside generated sections.
 
-`mvn validate` and `mvn compile` do not reach `process-classes`, so they do not run the tracker.
+## One-time hard reset of every README
 
-## What it updates
+To replace every existing README.md—including the root README, category and directory documentation, problem READMEs, and manually written guides—with standard path-aware templates, run:
 
-- Standardizes every problem README using the repository's problem README format.
-- Preserves problem-specific explanations and moves unclassified sections under **Additional Notes**.
-- Regenerates managed progress-tracker sections in the root and relevant directory README files.
-- Leaves content outside the generated tracker markers untouched.
-- Counts problem-folder placements, including intentional duplicates, consistently with the existing tracker.
+```bash
+mvn -DresetReadmes=true clean package
+```
 
-The tracker only changes local files. It does not create commits, push changes, contact GitHub, or run GitHub Actions.
+**Warning:** this intentionally discards all existing README content. Before changing any file, the resetter backs up every README to a timestamped sibling directory named like DataStructuresAndAlgorithms-readme-backup-YYYYMMDD-HHMMSS-SSS. Keep that backup until you have reviewed the reset.
 
-## Review the changes
+The resetter:
+- Resets every existing README.md under the repository root.
+- Uses a problem template for LeetCode problem folders, a standard section template for other directory READMEs, and a project template for the root README.
+- Resets problem statuses to Not Started; old statuses and hand-written notes are not retained.
+- Preserves each README's existing newline convention (CRLF or LF).
+- Skips Git internals and Maven's target directory.
+- Runs in Maven's initialize phase, before the normal progress tracker.
 
-After a Maven build, inspect the generated changes before committing:
+The reset is opt-in. A normal mvn clean package never activates it. The resetter only changes local files; it does not commit or push anything.
+
+## Review changes
+
+After the build, inspect the result:
 
 ```bash
 git status
