@@ -55,7 +55,10 @@ def problem_table(items):
     for item in sorted(items, key=lambda x: x["folder"].name.lower()):
         match = PROBLEM_DIR.fullmatch(item["folder"].name)
         number = match.group(1) if match else "—"
-        link = (item["folder"] / "README.md").relative_to(ROOT).as_posix()
+        target = item["folder"] / "README.md"
+        if not target.is_file():
+            target = item["folder"] / "Solution.java"
+        link = target.relative_to(item["folder"].parent).as_posix()
         lines.append(f"| [{safe(item['title'])}]({link}) | #{number} | {STATUS_ICON[item['status']]} {item['status']} |")
     return lines
 
