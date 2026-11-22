@@ -229,6 +229,7 @@ public final class ProblemTracker {
             while (!lines.isEmpty() && lines.get(lines.size() - 1).isEmpty()) lines.remove(lines.size() - 1);
         }
         String updated = String.join("\n", lines).stripTrailing() + "\n";
+        updated = withLineEndings(updated, lineEndingOf(original));
         if (updated.equals(original)) return false;
         Files.createDirectories(folder);
         Files.writeString(readme, updated, StandardCharsets.UTF_8);
@@ -386,10 +387,28 @@ public final class ProblemTracker {
         } else {
             updated = current.stripTrailing() + "\n\n" + START + "\n" + generated + "\n" + END + "\n";
         }
+        updated = withLineEndings(updated, lineEndingOf(current));
         if (updated.equals(current)) return false;
         Files.createDirectories(path.getParent());
         Files.writeString(path, updated, StandardCharsets.UTF_8);
         return true;
+    }
+
+    /**
+     * Detect the newline convention already used by a file.
+     * Generated Markdown is assembled with LF, then converted back before writing.
+     * This preserves CRLF files on Windows and LF files on Unix or in LF-configured repos.
+     */
+    private static String lineEndingOf(String content) {
+        int firstNewline = content.indexOf('\n');
+        if (firstNewline >= 0) {
+            return firstNewline > 0 && content.charAt(firstNewline - 1) == '\r' ? "\r\n" : "\n";
+        }
+        return System.lineSeparator();
+    }
+
+    private static String withLineEndings(String content, String lineEnding) {
+        return content.replace("\r\n", "\n").replace("\n", lineEnding);
     }
 
     private String relativeLink(Path readme, Path target) {
