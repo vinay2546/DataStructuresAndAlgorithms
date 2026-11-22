@@ -102,9 +102,9 @@ public final class ReadmeResetter {
 
                     Run Maven clean package from the repository root to compile the solutions and refresh progress trackers.
 
-                    ## Progress Overview
+                    ## Getting Started
 
-                    The progress tracker is generated automatically during the Maven build.
+                    Build the project with Maven. The hierarchical progress tracker is generated automatically below.
                     """;
         }
 
