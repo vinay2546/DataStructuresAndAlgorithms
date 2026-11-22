@@ -2,9 +2,6 @@
 
 Depth-first search for recursive exploration, components, reachability, and graph traversal.
 
-## Problem Count
-
-**13 problem entries**
 
 ## Learning Focus
 
