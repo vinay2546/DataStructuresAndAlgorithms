@@ -27,7 +27,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate all tracker levels
+      - name: Generate recursive trackers at every hierarchy level
         env:
           BASE_SHA: \${{ github.event.before || '' }}
           HEAD_SHA: \${{ github.sha }}
