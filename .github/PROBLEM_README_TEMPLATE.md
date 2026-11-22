@@ -13,7 +13,7 @@ Every problem-folder README follows this section order:
 
 Use this template for new problem folders:
 
-\`\`\`md
+```md
 # Problem Name — LeetCode Number
 
 **Data Structure:** Array  
@@ -41,13 +41,13 @@ Add a brief explanation of the chosen approach.
 ## Solution
 
 See [Solution.java](./Solution.java).
-\`\`\`
+```
 
 ## Rules
 
 - Keep the four metadata fields in this exact order.
-- Allowed statuses: \`Not Started\`, \`In Progress\`, and \`Solved\`.
+- Allowed statuses: `Not Started`, `In Progress`, and `Solved`.
 - Keep the standard section order even when a section contains only a placeholder.
 - Preserve useful problem-specific explanations. Put other existing sections under **Additional Notes** rather than deleting them.
-- Link the Java implementation using the relative \`Solution.java\` link.
-- To standardize problem READMEs and regenerate progress trackers, run `python scripts/update_problem_tracker.py` from the repository root. See [`scripts/README.md`](../scripts/README.md) for local instructions.
+- Link the Java implementation using the relative `Solution.java` link.
+- The README normalizer and progress tracker run automatically during Maven's `validate` phase (for example, `mvn package`). See [`scripts/README.md`](../scripts/README.md) for requirements and manual execution instructions.
