@@ -1,15 +1,13 @@
-# 222. Count Complete Tree Nodes
+# Count Complete Tree Nodes — 222
 
 **Data Structure:** Tree  
-**Pattern:** TreeProperties  
+**Pattern:** Tree Properties  
 **LeetCode:** #222  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-complete-tree-nodes/
-- Difficulty: Medium
-- Topics: Binary Search, Bit Manipulation, Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

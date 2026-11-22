@@ -1,7 +1,7 @@
 # Remove Linked List Elements — 203
 
-**Data Structure:** LinkedList  
-**Pattern:** InsertionAndDeletion  
+**Data Structure:** Linked List  
+**Pattern:** Insertion And Deletion  
 **LeetCode:** #203  
 **Status:** Not Started
 

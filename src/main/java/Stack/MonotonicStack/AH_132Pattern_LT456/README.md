@@ -1,4 +1,4 @@
-# 132Pattern — 456
+# 132 Pattern — 456
 
 **Data Structure:** Stack  
 **Pattern:** Monotonic Stack  

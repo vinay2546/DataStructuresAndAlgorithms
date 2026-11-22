@@ -1,15 +1,13 @@
-# 2331. Evaluate Boolean Binary Tree
+# Evaluate Boolean Binary Tree — 2331
 
 **Data Structure:** Tree  
-**Pattern:** SpecialTreesAndHierarchies  
+**Pattern:** Special Trees And Hierarchies  
 **LeetCode:** #2331  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/evaluate-boolean-binary-tree/
-- Difficulty: Easy
-- Topics: Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

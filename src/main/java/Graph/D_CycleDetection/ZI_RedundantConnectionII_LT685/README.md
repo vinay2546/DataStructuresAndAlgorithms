@@ -1,15 +1,13 @@
-# 685. Redundant Connection II
+# Redundant Connection II — 685
 
 **Data Structure:** Graph  
-**Pattern:** CycleDetection  
+**Pattern:** Cycle Detection  
 **LeetCode:** #685  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/redundant-connection-ii/
-- Difficulty: Hard
-- Topics: Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

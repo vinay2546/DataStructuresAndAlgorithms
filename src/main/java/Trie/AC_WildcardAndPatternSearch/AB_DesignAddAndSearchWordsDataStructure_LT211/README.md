@@ -1,7 +1,7 @@
-# DesignAddAndSearchWordsDataStructure — 211
+# Design Add And Search Words Data Structure — 211
 
 **Data Structure:** Trie  
-**Pattern:** Fundamentals  
+**Pattern:** Wildcard And Pattern Search  
 **LeetCode:** #211  
 **Status:** Not Started
 

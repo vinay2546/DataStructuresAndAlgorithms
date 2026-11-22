@@ -1,4 +1,4 @@
-# DecodeString — 394
+# Decode String — 394
 
 **Data Structure:** Stack  
 **Pattern:** Parsing  

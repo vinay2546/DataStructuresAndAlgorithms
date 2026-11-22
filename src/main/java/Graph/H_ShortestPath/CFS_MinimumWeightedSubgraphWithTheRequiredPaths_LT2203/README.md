@@ -1,15 +1,13 @@
-# 2203. Minimum Weighted Subgraph With the Required Paths
+# Minimum Weighted Subgraph With The Required Paths — 2203
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #2203  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/
-- Difficulty: Hard
-- Topics: Graph Theory, Heap (Priority Queue), Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

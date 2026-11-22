@@ -1,15 +1,13 @@
-# 3632. Subarrays with XOR at Least K
+# Subarrays With XORAt Least K — 3632
 
 **Data Structure:** Trie  
-**Pattern:** BitwiseTrie  
+**Pattern:** Bitwise Trie  
 **LeetCode:** #3632  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/subarrays-with-xor-at-least-k/
-- Difficulty: Hard
-- Topics: Array, Bit Manipulation, Trie, Prefix Sum
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

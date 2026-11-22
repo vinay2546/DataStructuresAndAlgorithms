@@ -1,15 +1,13 @@
-# 3378. Count Connected Components in LCM Graph
+# Count Connected Components In LCMGraph — 3378
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #3378  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-connected-components-in-lcm-graph/
-- Difficulty: Hard
-- Topics: Array, Hash Table, Math, Union-Find, Number Theory, Least Common Multiple, Euclidean Algorithm, Greatest Common Divisor
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

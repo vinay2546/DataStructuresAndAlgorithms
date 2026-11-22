@@ -1,7 +1,7 @@
 # Remove Nth Node From End Of List — 19
 
-**Data Structure:** LinkedList  
-**Pattern:** TwoPointers  
+**Data Structure:** Linked List  
+**Pattern:** Two Pointers  
 **LeetCode:** #19  
 **Status:** Not Started
 

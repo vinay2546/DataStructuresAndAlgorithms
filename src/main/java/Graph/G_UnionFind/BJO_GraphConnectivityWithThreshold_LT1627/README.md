@@ -1,15 +1,13 @@
-# 1627. Graph Connectivity With Threshold
+# Graph Connectivity With Threshold — 1627
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #1627  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/graph-connectivity-with-threshold/
-- Difficulty: Hard
-- Topics: Array, Math, Union-Find, Number Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

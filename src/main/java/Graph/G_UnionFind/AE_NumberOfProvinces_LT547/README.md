@@ -1,7 +1,7 @@
-# NumberOfProvinces — 547
+# Number Of Provinces — 547
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #547  
 **Status:** Not Started
 

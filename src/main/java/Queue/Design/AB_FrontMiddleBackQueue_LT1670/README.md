@@ -1,4 +1,4 @@
-# FrontMiddleBackQueue — 1670
+# Front Middle Back Queue — 1670
 
 **Data Structure:** Queue  
 **Pattern:** Design  

@@ -1,15 +1,13 @@
-# 1597. Build Binary Expression Tree From Infix Expression
+# Build Binary Expression Tree From Infix Expression — 1597
 
 **Data Structure:** Tree  
-**Pattern:** ConstructionAndSerialization  
+**Pattern:** Construction And Serialization  
 **LeetCode:** #1597  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/
-- Difficulty: Hard
-- Topics: String, Stack, Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

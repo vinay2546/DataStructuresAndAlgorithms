@@ -1,15 +1,13 @@
-# 3841. Palindromic Path Queries in a Tree
+# Palindromic Path Queries In ATree — 3841
 
 **Data Structure:** Tree  
-**Pattern:** TreeQueries  
+**Pattern:** Tree Queries  
 **LeetCode:** #3841  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/palindromic-path-queries-in-a-tree/
-- Difficulty: Hard
-- Topics: Array, String, Divide and Conquer, Bit Manipulation, Tree, Depth-First Search, Binary Indexed Tree, Segment Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

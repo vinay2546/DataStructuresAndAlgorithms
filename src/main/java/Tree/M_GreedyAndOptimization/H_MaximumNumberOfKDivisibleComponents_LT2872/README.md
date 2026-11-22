@@ -1,15 +1,13 @@
-# 2872. Maximum Number of K-Divisible Components
+# Maximum Number Of KDivisible Components — 2872
 
 **Data Structure:** Tree  
-**Pattern:** GreedyAndOptimization  
+**Pattern:** Greedy And Optimization  
 **LeetCode:** #2872  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-number-of-k-divisible-components/
-- Difficulty: Hard
-- Topics: Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

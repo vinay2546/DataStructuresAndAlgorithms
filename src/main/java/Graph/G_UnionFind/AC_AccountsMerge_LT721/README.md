@@ -1,7 +1,7 @@
-# AccountsMerge — 721
+# Accounts Merge — 721
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #721  
 **Status:** Not Started
 

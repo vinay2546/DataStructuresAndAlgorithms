@@ -1,4 +1,4 @@
-# 2493. Divide Nodes Into the Maximum Number of Groups
+# Divide Nodes Into The Maximum Number Of Groups — 2493
 
 **Data Structure:** Graph  
 **Pattern:** Bipartite  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/
-- Difficulty: Hard
-- Topics: Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

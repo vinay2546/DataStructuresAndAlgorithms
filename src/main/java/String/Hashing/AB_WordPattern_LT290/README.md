@@ -1,4 +1,4 @@
-# WordPattern — 290
+# Word Pattern — 290
 
 **Data Structure:** String  
 **Pattern:** Hashing  

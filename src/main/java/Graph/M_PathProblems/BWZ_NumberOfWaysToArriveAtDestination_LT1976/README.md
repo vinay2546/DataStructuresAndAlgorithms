@@ -1,15 +1,13 @@
-# 1976. Number of Ways to Arrive at Destination
+# Number Of Ways To Arrive At Destination — 1976
 
 **Data Structure:** Graph  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #1976  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
-- Difficulty: Medium
-- Topics: Dynamic Programming, Graph Theory, Topological Sort, Shortest Path, Dijkstra's Algorithm
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

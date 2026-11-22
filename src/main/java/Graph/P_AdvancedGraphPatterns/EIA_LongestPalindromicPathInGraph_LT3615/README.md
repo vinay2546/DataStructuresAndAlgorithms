@@ -1,15 +1,13 @@
-# 3615. Longest Palindromic Path in Graph
+# Longest Palindromic Path In Graph — 3615
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3615  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/longest-palindromic-path-in-graph/
-- Difficulty: Hard
-- Topics: String, Dynamic Programming, Bit Manipulation, Graph Theory, Bitmask
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

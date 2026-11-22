@@ -1,7 +1,7 @@
 # Design AText Editor — 2296
 
-**Data Structure:** LinkedList  
-**Pattern:** DoublyLinkedList  
+**Data Structure:** Linked List  
+**Pattern:** Doubly Linked List  
 **LeetCode:** #2296  
 **Status:** Not Started
 

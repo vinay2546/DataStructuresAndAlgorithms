@@ -1,4 +1,4 @@
-# 3807. Minimum Cost to Repair Edges to Traverse a Graph
+# Minimum Cost To Repair Edges To Traverse AGraph — 3807
 
 **Data Structure:** Graph  
 **Pattern:** MST  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-cost-to-repair-edges-to-traverse-a-graph/
-- Difficulty: Medium
-- Topics: Binary Search, Breadth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

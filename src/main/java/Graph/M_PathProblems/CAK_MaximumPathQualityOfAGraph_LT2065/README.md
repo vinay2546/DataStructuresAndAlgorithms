@@ -1,15 +1,13 @@
-# 2065. Maximum Path Quality of a Graph
+# Maximum Path Quality Of AGraph — 2065
 
 **Data Structure:** Graph  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #2065  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-path-quality-of-a-graph/
-- Difficulty: Hard
-- Topics: Array, Backtracking, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

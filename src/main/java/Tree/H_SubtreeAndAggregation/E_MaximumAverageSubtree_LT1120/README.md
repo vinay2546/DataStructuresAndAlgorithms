@@ -1,15 +1,13 @@
-# 1120. Maximum Average Subtree
+# Maximum Average Subtree — 1120
 
 **Data Structure:** Tree  
-**Pattern:** SubtreeAndAggregation  
+**Pattern:** Subtree And Aggregation  
 **LeetCode:** #1120  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-average-subtree/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

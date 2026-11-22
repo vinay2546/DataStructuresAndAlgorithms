@@ -1,15 +1,13 @@
-# 1557. Minimum Number of Vertices to Reach All Nodes
+# Minimum Number Of Vertices To Reach All Nodes — 1557
 
 **Data Structure:** Graph  
-**Pattern:** DirectedGraphs  
+**Pattern:** Directed Graphs  
 **LeetCode:** #1557  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
-- Difficulty: Medium
-- Topics: Graph Theory, Directed Acyclic Graph
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

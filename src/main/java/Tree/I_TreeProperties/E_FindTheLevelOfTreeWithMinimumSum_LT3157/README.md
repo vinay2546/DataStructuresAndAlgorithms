@@ -1,15 +1,13 @@
-# 3157. Find the Level of Tree with Minimum Sum
+# Find The Level Of Tree With Minimum Sum — 3157
 
 **Data Structure:** Tree  
-**Pattern:** TreeProperties  
+**Pattern:** Tree Properties  
 **LeetCode:** #3157  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Breadth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

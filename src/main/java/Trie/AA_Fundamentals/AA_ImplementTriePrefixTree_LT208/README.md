@@ -1,4 +1,4 @@
-# ImplementTriePrefixTree — 208
+# Implement Trie Prefix Tree — 208
 
 **Data Structure:** Trie  
 **Pattern:** Fundamentals  

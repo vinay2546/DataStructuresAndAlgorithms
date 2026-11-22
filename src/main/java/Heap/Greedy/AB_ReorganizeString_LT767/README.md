@@ -1,4 +1,4 @@
-# ReorganizeString — 767
+# Reorganize String — 767
 
 **Data Structure:** Heap  
 **Pattern:** Greedy  

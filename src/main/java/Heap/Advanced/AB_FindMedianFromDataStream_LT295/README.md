@@ -1,4 +1,4 @@
-# FindMedianFromDataStream — 295
+# Find Median From Data Stream — 295
 
 **Data Structure:** Heap  
 **Pattern:** Advanced  

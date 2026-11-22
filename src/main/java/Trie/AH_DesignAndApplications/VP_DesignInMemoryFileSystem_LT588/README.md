@@ -1,15 +1,13 @@
-# 588. Design In-Memory File System
+# Design In Memory File System — 588
 
 **Data Structure:** Trie  
-**Pattern:** DesignAndApplications  
+**Pattern:** Design And Applications  
 **LeetCode:** #588  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/design-in-memory-file-system/
-- Difficulty: Hard
-- Topics: Hash Table, String, Design, Trie, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

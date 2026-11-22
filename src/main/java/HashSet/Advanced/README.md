@@ -1,6 +1,16 @@
 # Advanced
 
-HashSet problems grouped under this pattern/category.
+## Overview
+
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — Advanced
@@ -15,9 +25,9 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [DesignHashSet — 705](AA_DesignHashSet_LT705/README.md) | #705 | ⬜ Not Started |
-| [DesignHashMap — 706](AB_DesignHashMap_LT706/README.md) | #706 | ⬜ Not Started |
-| [WordBreak — 139](AC_WordBreak_LT139/README.md) | #139 | ⬜ Not Started |
+| [Design Hash Set — 705](AA_DesignHashSet_LT705/README.md) | #705 | ⬜ Not Started |
+| [Design Hash Map — 706](AB_DesignHashMap_LT706/README.md) | #706 | ⬜ Not Started |
+| [Word Break — 139](AC_WordBreak_LT139/README.md) | #139 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

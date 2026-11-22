@@ -1,15 +1,13 @@
-# 2932. Maximum Strong Pair XOR I
+# Maximum Strong Pair XORI — 2932
 
 **Data Structure:** Trie  
-**Pattern:** BitwiseTrie  
+**Pattern:** Bitwise Trie  
 **LeetCode:** #2932  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-strong-pair-xor-i/
-- Difficulty: Easy
-- Topics: Array, Hash Table, Bit Manipulation, Trie, Sliding Window
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

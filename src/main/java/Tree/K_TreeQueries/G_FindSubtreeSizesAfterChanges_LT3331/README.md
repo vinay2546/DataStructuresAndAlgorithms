@@ -1,15 +1,13 @@
-# 3331. Find Subtree Sizes After Changes
+# Find Subtree Sizes After Changes — 3331
 
 **Data Structure:** Tree  
-**Pattern:** TreeQueries  
+**Pattern:** Tree Queries  
 **LeetCode:** #3331  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-subtree-sizes-after-changes/
-- Difficulty: Medium
-- Topics: Array, Hash Table, String, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

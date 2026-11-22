@@ -9,7 +9,6 @@ Every problem-folder README follows this section order:
 5. Algorithm
 6. Complexity
 7. Solution
-8. Additional Notes (only when needed for existing material that does not fit the standard sections)
 
 Use this template for new problem folders:
 
@@ -46,8 +45,8 @@ See [Solution.java](./Solution.java).
 ## Rules
 
 - Keep the four metadata fields in this exact order.
-- Allowed statuses: `Not Started`, `In Progress`, and `Solved`.
+- Allowed statuses: Not Started, In Progress, and Solved.
 - Keep the standard section order even when a section contains only a placeholder.
-- Preserve useful problem-specific explanations. Put other existing sections under **Additional Notes** rather than deleting them.
-- Link the Java implementation using the relative `Solution.java` link.
-- The Java normalizer and progress tracker run automatically during Maven's `process-classes` phase (for example, `mvn package`). See [`scripts/README.md`](../scripts/README.md) for details.
+- Link the Java implementation using the relative Solution.java link.
+- The normal Java tracker preserves existing problem-specific content.
+- To reset every README—including manually written documentation—run mvn -DresetReadmes=true clean package. The operation backs up all README files to a timestamped sibling directory before replacement. See [scripts/README.md](../scripts/README.md).

@@ -1,15 +1,13 @@
-# 2050. Parallel Courses III
+# Parallel Courses III — 2050
 
 **Data Structure:** Graph  
-**Pattern:** TopologicalSort  
+**Pattern:** Topological Sort  
 **LeetCode:** #2050  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/parallel-courses-iii/
-- Difficulty: Hard
-- Topics: Array, Dynamic Programming, Graph Theory, Topological Sort, Directed Acyclic Graph
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

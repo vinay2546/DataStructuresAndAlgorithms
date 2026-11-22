@@ -1,4 +1,4 @@
-# ReverseString — 344
+# Reverse String — 344
 
 **Data Structure:** String  
 **Pattern:** Fundamentals  

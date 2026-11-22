@@ -1,15 +1,13 @@
-# 1023. Camelcase Matching
+# Camelcase Matching — 1023
 
 **Data Structure:** Trie  
-**Pattern:** WildcardAndPatternSearch  
+**Pattern:** Wildcard And Pattern Search  
 **LeetCode:** #1023  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/camelcase-matching/
-- Difficulty: Medium
-- Topics: Array, Two Pointers, String, Trie, String Matching
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

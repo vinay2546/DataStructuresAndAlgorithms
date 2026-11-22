@@ -1,4 +1,4 @@
-# 2508. Add Edges to Make Degrees of All Nodes Even
+# Add Edges To Make Degrees Of All Nodes Even — 2508
 
 **Data Structure:** Graph  
 **Pattern:** Fundamentals  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/
-- Difficulty: Hard
-- Topics: Hash Table, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

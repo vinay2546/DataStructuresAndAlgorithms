@@ -1,4 +1,4 @@
-# 3387. Maximize Amount After Two Days of Conversions
+# Maximize Amount After Two Days Of Conversions — 3387
 
 **Data Structure:** Graph  
 **Pattern:** Fundamentals  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions/
-- Difficulty: Medium
-- Topics: Array, String, Depth-First Search, Breadth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

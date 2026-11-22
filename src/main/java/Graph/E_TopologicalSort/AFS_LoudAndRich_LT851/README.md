@@ -1,15 +1,13 @@
-# 851. Loud and Rich
+# Loud And Rich — 851
 
 **Data Structure:** Graph  
-**Pattern:** TopologicalSort  
+**Pattern:** Topological Sort  
 **LeetCode:** #851  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/loud-and-rich/
-- Difficulty: Medium
-- Topics: Array, Depth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

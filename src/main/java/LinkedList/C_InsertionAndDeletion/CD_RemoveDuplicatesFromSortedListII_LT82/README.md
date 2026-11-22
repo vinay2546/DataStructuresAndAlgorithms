@@ -1,7 +1,7 @@
 # Remove Duplicates From Sorted List II — 82
 
-**Data Structure:** LinkedList  
-**Pattern:** InsertionAndDeletion  
+**Data Structure:** Linked List  
+**Pattern:** Insertion And Deletion  
 **LeetCode:** #82  
 **Status:** Not Started
 

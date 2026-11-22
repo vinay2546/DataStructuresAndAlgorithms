@@ -1,15 +1,13 @@
-# 1698. Number of Distinct Substrings in a String
+# Number Of Distinct Substrings In AString — 1698
 
 **Data Structure:** Trie  
-**Pattern:** StringAlgorithms  
+**Pattern:** String Algorithms  
 **LeetCode:** #1698  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/
-- Difficulty: Medium
-- Topics: String, Trie, Rolling Hash, Suffix Array, Hash Function
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

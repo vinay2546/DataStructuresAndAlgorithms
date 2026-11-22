@@ -1,6 +1,16 @@
 # Simulation
 
-Stack problems grouped under this pattern/category.
+## Overview
+
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — Simulation
@@ -15,10 +25,10 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [AsteroidCollision — 735](AA_AsteroidCollision_LT735/README.md) | #735 | ⬜ Not Started |
-| [BackspaceStringCompare — 844](AB_BackspaceStringCompare_LT844/README.md) | #844 | ⬜ Not Started |
-| [RemoveAllAdjacentDuplicatesInString — 1047](AC_RemoveAllAdjacentDuplicatesInString_LT1047/README.md) | #1047 | ⬜ Not Started |
-| [RemoveAllAdjacentDuplicatesInStringII — 1209](AD_RemoveAllAdjacentDuplicatesInStringII_LT1209/README.md) | #1209 | ⬜ Not Started |
+| [Asteroid Collision — 735](AA_AsteroidCollision_LT735/README.md) | #735 | ⬜ Not Started |
+| [Backspace String Compare — 844](AB_BackspaceStringCompare_LT844/README.md) | #844 | ⬜ Not Started |
+| [Remove All Adjacent Duplicates In String — 1047](AC_RemoveAllAdjacentDuplicatesInString_LT1047/README.md) | #1047 | ⬜ Not Started |
+| [Remove All Adjacent Duplicates In String II — 1209](AD_RemoveAllAdjacentDuplicatesInStringII_LT1209/README.md) | #1209 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

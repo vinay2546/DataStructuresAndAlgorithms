@@ -1,15 +1,13 @@
-# 2003. Smallest Missing Genetic Value in Each Subtree
+# Smallest Missing Genetic Value In Each Subtree — 2003
 
 **Data Structure:** Tree  
-**Pattern:** SubtreeAndAggregation  
+**Pattern:** Subtree And Aggregation  
 **LeetCode:** #2003  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/
-- Difficulty: Hard
-- Topics: Array, Dynamic Programming, Tree, Depth-First Search, Union-Find
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

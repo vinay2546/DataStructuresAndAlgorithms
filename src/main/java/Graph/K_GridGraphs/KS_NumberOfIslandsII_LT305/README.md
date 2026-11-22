@@ -1,15 +1,13 @@
-# 305. Number of Islands II
+# Number Of Islands II — 305
 
 **Data Structure:** Graph  
-**Pattern:** GridGraphs  
+**Pattern:** Grid Graphs  
 **LeetCode:** #305  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/number-of-islands-ii/
-- Difficulty: Hard
-- Topics: Array, Hash Table, Union-Find
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

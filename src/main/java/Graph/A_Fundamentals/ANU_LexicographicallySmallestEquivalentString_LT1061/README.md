@@ -1,4 +1,4 @@
-# 1061. Lexicographically Smallest Equivalent String
+# Lexicographically Smallest Equivalent String — 1061
 
 **Data Structure:** Graph  
 **Pattern:** Fundamentals  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
-- Difficulty: Medium
-- Topics: String, Union-Find
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

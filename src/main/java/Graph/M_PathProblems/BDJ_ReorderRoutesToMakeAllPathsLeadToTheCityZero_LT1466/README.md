@@ -1,15 +1,13 @@
-# 1466. Reorder Routes to Make All Paths Lead to the City Zero
+# Reorder Routes To Make All Paths Lead To The City Zero — 1466
 
 **Data Structure:** Graph  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #1466  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
-- Difficulty: Medium
-- Topics: Depth-First Search, Breadth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

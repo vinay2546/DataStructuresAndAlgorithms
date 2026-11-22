@@ -1,15 +1,13 @@
-# 2846. Minimum Edge Weight Equilibrium Queries in a Tree
+# Minimum Edge Weight Equilibrium Queries In ATree — 2846
 
 **Data Structure:** Tree  
-**Pattern:** TreeQueries  
+**Pattern:** Tree Queries  
 **LeetCode:** #2846  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/
-- Difficulty: Hard
-- Topics: Array, Dynamic Programming, Bit Manipulation, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

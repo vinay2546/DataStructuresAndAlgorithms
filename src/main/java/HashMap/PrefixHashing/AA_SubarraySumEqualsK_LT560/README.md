@@ -1,6 +1,6 @@
-# SubarraySumEqualsK — 560
+# Subarray Sum Equals K — 560
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Prefix Hashing  
 **LeetCode:** #560  
 **Status:** Not Started

@@ -1,15 +1,13 @@
-# 3123. Find Edges in Shortest Paths
+# Find Edges In Shortest Paths — 3123
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #3123  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-edges-in-shortest-paths/
-- Difficulty: Hard
-- Topics: Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

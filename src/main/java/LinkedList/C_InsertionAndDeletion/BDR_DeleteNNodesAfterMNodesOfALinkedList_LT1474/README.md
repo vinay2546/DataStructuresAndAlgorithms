@@ -1,7 +1,7 @@
 # Delete NNodes After MNodes Of ALinked List — 1474
 
-**Data Structure:** LinkedList  
-**Pattern:** InsertionAndDeletion  
+**Data Structure:** Linked List  
+**Pattern:** Insertion And Deletion  
 **LeetCode:** #1474  
 **Status:** Not Started
 

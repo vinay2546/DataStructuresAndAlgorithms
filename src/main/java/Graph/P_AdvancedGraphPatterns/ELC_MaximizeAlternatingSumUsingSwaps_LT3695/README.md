@@ -1,15 +1,13 @@
-# 3695. Maximize Alternating Sum Using Swaps
+# Maximize Alternating Sum Using Swaps — 3695
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3695  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximize-alternating-sum-using-swaps/
-- Difficulty: Hard
-- Topics: Array, Greedy, Union-Find, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

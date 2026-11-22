@@ -1,4 +1,4 @@
-# KeysAndRooms — 841
+# Keys And Rooms — 841
 
 **Data Structure:** Graph  
 **Pattern:** DFS  

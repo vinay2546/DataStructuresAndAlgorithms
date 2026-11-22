@@ -1,6 +1,6 @@
-# FourSumII — 454
+# Four Sum II — 454
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Advanced  
 **LeetCode:** #454  
 **Status:** Not Started

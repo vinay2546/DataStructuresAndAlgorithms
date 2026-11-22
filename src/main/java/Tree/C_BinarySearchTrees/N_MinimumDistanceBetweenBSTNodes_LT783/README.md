@@ -1,15 +1,13 @@
-# 783. Minimum Distance Between BST Nodes
+# Minimum Distance Between BSTNodes — 783
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #783  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-distance-between-bst-nodes/
-- Difficulty: Easy
-- Topics: Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

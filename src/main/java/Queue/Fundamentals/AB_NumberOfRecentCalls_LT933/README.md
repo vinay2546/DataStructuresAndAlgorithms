@@ -1,4 +1,4 @@
-# NumberOfRecentCalls — 933
+# Number Of Recent Calls — 933
 
 **Data Structure:** Queue  
 **Pattern:** Fundamentals  

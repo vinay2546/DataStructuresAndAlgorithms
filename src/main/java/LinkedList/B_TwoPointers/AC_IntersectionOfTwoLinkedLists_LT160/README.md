@@ -1,7 +1,7 @@
 # Intersection Of Two Linked Lists — 160
 
-**Data Structure:** LinkedList  
-**Pattern:** TwoPointers  
+**Data Structure:** Linked List  
+**Pattern:** Two Pointers  
 **LeetCode:** #160  
 **Status:** Not Started
 

@@ -1,6 +1,6 @@
-# LoggerRateLimiter — 359
+# Logger Rate Limiter — 359
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Mapping Design  
 **LeetCode:** #359  
 **Status:** Not Started

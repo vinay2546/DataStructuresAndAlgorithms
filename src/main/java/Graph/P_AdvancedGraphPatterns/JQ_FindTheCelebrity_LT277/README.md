@@ -1,15 +1,13 @@
-# 277. Find the Celebrity
+# Find The Celebrity — 277
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #277  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-the-celebrity/
-- Difficulty: Medium
-- Topics: Two Pointers, Graph Theory, Interactive
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

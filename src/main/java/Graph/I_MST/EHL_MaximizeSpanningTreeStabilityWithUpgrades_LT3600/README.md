@@ -1,4 +1,4 @@
-# 3600. Maximize Spanning Tree Stability with Upgrades
+# Maximize Spanning Tree Stability With Upgrades — 3600
 
 **Data Structure:** Graph  
 **Pattern:** MST  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/
-- Difficulty: Hard
-- Topics: Binary Search, Greedy, Union-Find, Graph Theory, Minimum Spanning Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

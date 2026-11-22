@@ -1,15 +1,13 @@
-# 3965. Finish Time of Tasks I
+# Finish Time Of Tasks I — 3965
 
 **Data Structure:** Tree  
-**Pattern:** GreedyAndOptimization  
+**Pattern:** Greedy And Optimization  
 **LeetCode:** #3965  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/finish-time-of-tasks-i/
-- Difficulty: Medium
-- Topics: Array, Dynamic Programming, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

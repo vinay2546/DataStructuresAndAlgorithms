@@ -1,6 +1,6 @@
-# IsomorphicStrings — 205
+# Isomorphic Strings — 205
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Advanced  
 **LeetCode:** #205  
 **Status:** Not Started

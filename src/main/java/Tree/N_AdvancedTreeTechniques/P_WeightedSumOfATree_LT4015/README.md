@@ -1,15 +1,13 @@
-# 4015. Weighted Sum of a Tree
+# Weighted Sum Of ATree — 4015
 
 **Data Structure:** Tree  
-**Pattern:** AdvancedTreeTechniques  
+**Pattern:** Advanced Tree Techniques  
 **LeetCode:** #4015  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/weighted-sum-of-a-tree/
-- Difficulty: Medium
-- Topics: Array, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

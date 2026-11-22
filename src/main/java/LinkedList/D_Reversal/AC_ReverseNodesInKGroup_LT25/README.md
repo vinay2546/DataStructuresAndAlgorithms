@@ -1,6 +1,6 @@
 # Reverse Nodes In KGroup — 25
 
-**Data Structure:** LinkedList  
+**Data Structure:** Linked List  
 **Pattern:** Reversal  
 **LeetCode:** #25  
 **Status:** Not Started

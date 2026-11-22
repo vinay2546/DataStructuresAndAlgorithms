@@ -1,15 +1,13 @@
-# 3590. Kth Smallest Path XOR Sum
+# Kth Smallest Path XORSum — 3590
 
 **Data Structure:** Tree  
-**Pattern:** AdvancedTreeTechniques  
+**Pattern:** Advanced Tree Techniques  
 **LeetCode:** #3590  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/kth-smallest-path-xor-sum/
-- Difficulty: Hard
-- Topics: Array, Tree, Depth-First Search, Ordered Set
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 1514. Path with Maximum Probability
+# Path With Maximum Probability — 1514
 
 **Data Structure:** Graph  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #1514  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/path-with-maximum-probability/
-- Difficulty: Medium
-- Topics: Array, Graph Theory, Heap (Priority Queue), Shortest Path, Dijkstra's Algorithm
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

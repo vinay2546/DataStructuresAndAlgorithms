@@ -1,4 +1,4 @@
-# 882. Reachable Nodes In Subdivided Graph
+# Reachable Nodes In Subdivided Graph — 882
 
 **Data Structure:** Graph  
 **Pattern:** DFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/
-- Difficulty: Hard
-- Topics: Graph Theory, Heap (Priority Queue), Shortest Path, Dijkstra's Algorithm
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 3283. Maximum Number of Moves to Kill All Pawns
+# Maximum Number Of Moves To Kill All Pawns — 3283
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3283  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/
-- Difficulty: Hard
-- Topics: Array, Math, Bit Manipulation, Breadth-First Search, Game Theory, Bitmask
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

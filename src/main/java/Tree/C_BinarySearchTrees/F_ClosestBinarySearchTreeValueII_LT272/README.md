@@ -1,15 +1,13 @@
-# 272. Closest Binary Search Tree Value II
+# Closest Binary Search Tree Value II — 272
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #272  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/closest-binary-search-tree-value-ii/
-- Difficulty: Hard
-- Topics: Two Pointers, Stack, Tree, Depth-First Search, Binary Search Tree, Heap (Priority Queue), Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

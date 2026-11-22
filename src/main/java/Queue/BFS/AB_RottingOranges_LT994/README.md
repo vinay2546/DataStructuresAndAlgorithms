@@ -1,4 +1,4 @@
-# RottingOranges — 994
+# Rotting Oranges — 994
 
 **Data Structure:** Queue  
 **Pattern:** BFS  

@@ -1,15 +1,13 @@
-# 2416. Sum of Prefix Scores of Strings
+# Sum Of Prefix Scores Of Strings — 2416
 
 **Data Structure:** Trie  
-**Pattern:** PrefixOperations  
+**Pattern:** Prefix Operations  
 **LeetCode:** #2416  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/sum-of-prefix-scores-of-strings/
-- Difficulty: Hard
-- Topics: Array, String, Trie, Counting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

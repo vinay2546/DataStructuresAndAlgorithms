@@ -1,4 +1,4 @@
-# ConnectingCitiesWithMinimumCost — 1135
+# Connecting Cities With Minimum Cost — 1135
 
 **Data Structure:** Graph  
 **Pattern:** MST  

@@ -1,4 +1,4 @@
-# DesignCircularDeque — 641
+# Design Circular Deque — 641
 
 **Data Structure:** Queue  
 **Pattern:** Fundamentals  

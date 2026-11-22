@@ -1,4 +1,4 @@
-# 797. All Paths From Source to Target
+# All Paths From Source To Target — 797
 
 **Data Structure:** Graph  
 **Pattern:** DFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/all-paths-from-source-to-target/
-- Difficulty: Medium
-- Topics: Backtracking, Depth-First Search, Breadth-First Search, Graph Theory, Directed Acyclic Graph
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

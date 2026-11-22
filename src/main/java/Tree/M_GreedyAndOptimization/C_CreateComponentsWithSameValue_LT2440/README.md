@@ -1,15 +1,13 @@
-# 2440. Create Components With Same Value
+# Create Components With Same Value — 2440
 
 **Data Structure:** Tree  
-**Pattern:** GreedyAndOptimization  
+**Pattern:** Greedy And Optimization  
 **LeetCode:** #2440  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/create-components-with-same-value/
-- Difficulty: Hard
-- Topics: Array, Math, Tree, Depth-First Search, Enumeration
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

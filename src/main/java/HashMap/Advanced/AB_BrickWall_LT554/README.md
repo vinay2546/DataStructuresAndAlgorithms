@@ -1,6 +1,6 @@
-# BrickWall — 554
+# Brick Wall — 554
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Advanced  
 **LeetCode:** #554  
 **Status:** Not Started

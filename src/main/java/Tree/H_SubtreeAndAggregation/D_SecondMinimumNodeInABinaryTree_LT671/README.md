@@ -1,15 +1,13 @@
-# 671. Second Minimum Node In a Binary Tree
+# Second Minimum Node In ABinary Tree — 671
 
 **Data Structure:** Tree  
-**Pattern:** SubtreeAndAggregation  
+**Pattern:** Subtree And Aggregation  
 **LeetCode:** #671  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
-- Difficulty: Easy
-- Topics: Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

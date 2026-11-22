@@ -1,15 +1,13 @@
-# 3949. Subtree Inversion Sum II
+# Subtree Inversion Sum II — 3949
 
 **Data Structure:** Tree  
-**Pattern:** TreeQueries  
+**Pattern:** Tree Queries  
 **LeetCode:** #3949  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/subtree-inversion-sum-ii/
-- Difficulty: Hard
-- Topics: Array, Dynamic Programming, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

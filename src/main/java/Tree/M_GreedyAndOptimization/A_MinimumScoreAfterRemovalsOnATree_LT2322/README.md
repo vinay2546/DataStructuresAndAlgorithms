@@ -1,15 +1,13 @@
-# 2322. Minimum Score After Removals on a Tree
+# Minimum Score After Removals On ATree — 2322
 
 **Data Structure:** Tree  
-**Pattern:** GreedyAndOptimization  
+**Pattern:** Greedy And Optimization  
 **LeetCode:** #2322  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/
-- Difficulty: Hard
-- Topics: Array, Bit Manipulation, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

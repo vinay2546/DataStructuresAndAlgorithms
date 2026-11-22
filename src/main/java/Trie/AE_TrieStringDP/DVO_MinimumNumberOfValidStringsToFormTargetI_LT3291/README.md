@@ -1,15 +1,13 @@
-# 3291. Minimum Number of Valid Strings to Form Target I
+# Minimum Number Of Valid Strings To Form Target I — 3291
 
 **Data Structure:** Trie  
-**Pattern:** TrieStringDP  
+**Pattern:** Trie String DP  
 **LeetCode:** #3291  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/
-- Difficulty: Medium
-- Topics: Array, String, Binary Search, Dynamic Programming, Greedy, Trie, Segment Tree, Rolling Hash, String Matching, Hash Function
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

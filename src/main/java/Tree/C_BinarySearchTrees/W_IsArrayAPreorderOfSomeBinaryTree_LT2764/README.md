@@ -1,15 +1,13 @@
-# 2764. Is Array a Preorder of Some ‌Binary Tree
+# Is Array APreorder Of Some Binary Tree — 2764
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #2764  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree/
-- Difficulty: Medium
-- Topics: Stack, Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

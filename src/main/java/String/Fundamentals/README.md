@@ -1,7 +1,16 @@
 # Fundamentals
 
-String problems grouped under this category.
+## Overview
 
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — Fundamentals
@@ -16,12 +25,12 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [ValidPalindrome — 125](AA_ValidPalindrome_LT125/README.md) | #125 | ⬜ Not Started |
-| [ValidAnagram — 242](AB_ValidAnagram_LT242/README.md) | #242 | ⬜ Not Started |
-| [LongestCommonPrefix — 14](AC_LongestCommonPrefix_LT14/README.md) | #14 | ⬜ Not Started |
-| [ReverseString — 344](AD_ReverseString_LT344/README.md) | #344 | ⬜ Not Started |
-| [ReverseWordsInAStringIII — 557](AE_ReverseWordsInAStringIII_LT557/README.md) | #557 | ⬜ Not Started |
-| [FirstUniqueCharacterInAString — 387](AF_FirstUniqueCharacterInAString_LT387/README.md) | #387 | ⬜ Not Started |
+| [Valid Palindrome — 125](AA_ValidPalindrome_LT125/README.md) | #125 | ⬜ Not Started |
+| [Valid Anagram — 242](AB_ValidAnagram_LT242/README.md) | #242 | ⬜ Not Started |
+| [Longest Common Prefix — 14](AC_LongestCommonPrefix_LT14/README.md) | #14 | ⬜ Not Started |
+| [Reverse String — 344](AD_ReverseString_LT344/README.md) | #344 | ⬜ Not Started |
+| [Reverse Words In AString III — 557](AE_ReverseWordsInAStringIII_LT557/README.md) | #557 | ⬜ Not Started |
+| [First Unique Character In AString — 387](AF_FirstUniqueCharacterInAString_LT387/README.md) | #387 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

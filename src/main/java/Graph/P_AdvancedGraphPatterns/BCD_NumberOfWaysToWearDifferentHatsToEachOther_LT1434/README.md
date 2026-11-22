@@ -1,15 +1,13 @@
-# 1434. Number of Ways to Wear Different Hats to Each Other
+# Number Of Ways To Wear Different Hats To Each Other — 1434
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #1434  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/
-- Difficulty: Hard
-- Topics: Array, Dynamic Programming, Bit Manipulation, Bitmask, Bipartite Graph, Matching (Graph), Perfect Matching
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

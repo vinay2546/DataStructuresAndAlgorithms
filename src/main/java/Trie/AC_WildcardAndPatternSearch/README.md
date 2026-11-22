@@ -1,6 +1,16 @@
-# Trie / Wildcard and Pattern Search
+# Wildcard And Pattern Search
 
-Flexible dictionary matching: wildcard characters, one-edit matching, camel-case matching, abbreviations, and pattern-driven Trie traversal.
+## Overview
+
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — AC_WildcardAndPatternSearch
@@ -15,12 +25,12 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [DesignAddAndSearchWordsDataStructure — 211](AB_DesignAddAndSearchWordsDataStructure_LT211/README.md) | #211 | ⬜ Not Started |
-| [792. Number of Matching Subsequences](ADL_NumberOfMatchingSubsequences_LT792/README.md) | #792 | ⬜ Not Started |
-| [ImplementMagicDictionary — 676](AE_ImplementMagicDictionary_LT676/README.md) | #676 | ⬜ Not Started |
-| [1023. Camelcase Matching](AMI_CamelcaseMatching_LT1023/README.md) | #1023 | ⬜ Not Started |
-| [2452. Words Within Two Edits of Dictionary](CPH_WordsWithinTwoEditsOfDictionary_LT2452/README.md) | #2452 | ⬜ Not Started |
-| [527. Word Abbreviation](TG_WordAbbreviation_LT527/README.md) | #527 | ⬜ Not Started |
+| [Design Add And Search Words Data Structure — 211](AB_DesignAddAndSearchWordsDataStructure_LT211/README.md) | #211 | ⬜ Not Started |
+| [Number Of Matching Subsequences — 792](ADL_NumberOfMatchingSubsequences_LT792/README.md) | #792 | ⬜ Not Started |
+| [Implement Magic Dictionary — 676](AE_ImplementMagicDictionary_LT676/README.md) | #676 | ⬜ Not Started |
+| [Camelcase Matching — 1023](AMI_CamelcaseMatching_LT1023/README.md) | #1023 | ⬜ Not Started |
+| [Words Within Two Edits Of Dictionary — 2452](CPH_WordsWithinTwoEditsOfDictionary_LT2452/README.md) | #2452 | ⬜ Not Started |
+| [Word Abbreviation — 527](TG_WordAbbreviation_LT527/README.md) | #527 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

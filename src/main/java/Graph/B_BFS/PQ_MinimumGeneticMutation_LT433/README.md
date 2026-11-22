@@ -1,4 +1,4 @@
-# 433. Minimum Genetic Mutation
+# Minimum Genetic Mutation — 433
 
 **Data Structure:** Graph  
 **Pattern:** BFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-genetic-mutation/
-- Difficulty: Medium
-- Topics: Hash Table, String, Breadth-First Search, Bidirectional Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

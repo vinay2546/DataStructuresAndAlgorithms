@@ -1,15 +1,13 @@
-# 2421. Number of Good Paths
+# Number Of Good Paths — 2421
 
 **Data Structure:** Tree  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #2421  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/number-of-good-paths/
-- Difficulty: Hard
-- Topics: Array, Hash Table, Tree, Union-Find, Graph Theory, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

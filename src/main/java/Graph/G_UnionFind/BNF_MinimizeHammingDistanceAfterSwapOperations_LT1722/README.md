@@ -1,15 +1,13 @@
-# 1722. Minimize Hamming Distance After Swap Operations
+# Minimize Hamming Distance After Swap Operations — 1722
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #1722  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
-- Difficulty: Medium
-- Topics: Array, Depth-First Search, Union-Find
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

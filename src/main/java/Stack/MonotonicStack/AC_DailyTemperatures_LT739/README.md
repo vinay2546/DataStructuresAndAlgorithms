@@ -1,4 +1,4 @@
-# DailyTemperatures — 739
+# Daily Temperatures — 739
 
 **Data Structure:** Stack  
 **Pattern:** Monotonic Stack  

@@ -1,7 +1,7 @@
 # Steps To Make Array Non Decreasing — 2289
 
-**Data Structure:** LinkedList  
-**Pattern:** AdvancedPatterns  
+**Data Structure:** Linked List  
+**Pattern:** Advanced Patterns  
 **LeetCode:** #2289  
 **Status:** Not Started
 

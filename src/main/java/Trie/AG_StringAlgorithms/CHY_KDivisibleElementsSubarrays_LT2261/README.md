@@ -1,15 +1,13 @@
-# 2261. K Divisible Elements Subarrays
+# KDivisible Elements Subarrays — 2261
 
 **Data Structure:** Trie  
-**Pattern:** StringAlgorithms  
+**Pattern:** String Algorithms  
 **LeetCode:** #2261  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/k-divisible-elements-subarrays/
-- Difficulty: Medium
-- Topics: Array, Hash Table, Trie, Rolling Hash, Hash Function, Enumeration
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

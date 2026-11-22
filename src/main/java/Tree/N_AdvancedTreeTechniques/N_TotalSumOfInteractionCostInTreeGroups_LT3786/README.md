@@ -1,15 +1,13 @@
-# 3786. Total Sum of Interaction Cost in Tree Groups
+# Total Sum Of Interaction Cost In Tree Groups — 3786
 
 **Data Structure:** Tree  
-**Pattern:** AdvancedTreeTechniques  
+**Pattern:** Advanced Tree Techniques  
 **LeetCode:** #3786  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/total-sum-of-interaction-cost-in-tree-groups/
-- Difficulty: Hard
-- Topics: Array, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

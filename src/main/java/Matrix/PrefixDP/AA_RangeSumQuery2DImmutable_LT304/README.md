@@ -1,7 +1,7 @@
-# RangeSumQuery2DImmutable — 304
+# Range Sum Query2 DImmutable — 304
 
 **Data Structure:** Matrix  
-**Pattern:** PrefixDP  
+**Pattern:** Prefix DP  
 **LeetCode:** #304  
 **Status:** Not Started
 

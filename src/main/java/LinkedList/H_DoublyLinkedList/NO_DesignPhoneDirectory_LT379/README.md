@@ -1,7 +1,7 @@
 # Design Phone Directory — 379
 
-**Data Structure:** LinkedList  
-**Pattern:** DoublyLinkedList  
+**Data Structure:** Linked List  
+**Pattern:** Doubly Linked List  
 **LeetCode:** #379  
 **Status:** Not Started
 

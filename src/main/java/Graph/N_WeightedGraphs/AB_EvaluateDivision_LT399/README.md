@@ -1,7 +1,7 @@
-# EvaluateDivision — 399
+# Evaluate Division — 399
 
 **Data Structure:** Graph  
-**Pattern:** Advanced  
+**Pattern:** Weighted Graphs  
 **LeetCode:** #399  
 **Status:** Not Started
 

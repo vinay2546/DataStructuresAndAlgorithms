@@ -1,15 +1,13 @@
-# 2204. Distance to a Cycle in Undirected Graph
+# Distance To ACycle In Undirected Graph — 2204
 
 **Data Structure:** Graph  
-**Pattern:** CycleDetection  
+**Pattern:** Cycle Detection  
 **LeetCode:** #2204  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/
-- Difficulty: Hard
-- Topics: Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

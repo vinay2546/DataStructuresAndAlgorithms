@@ -1,15 +1,13 @@
-# 2477. Minimum Fuel Cost to Report to the Capital
+# Minimum Fuel Cost To Report To The Capital — 2477
 
 **Data Structure:** Tree  
-**Pattern:** GreedyAndOptimization  
+**Pattern:** Greedy And Optimization  
 **LeetCode:** #2477  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Breadth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

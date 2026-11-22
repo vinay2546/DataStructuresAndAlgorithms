@@ -1,15 +1,13 @@
-# 2959. Number of Possible Sets of Closing Branches
+# Number Of Possible Sets Of Closing Branches — 2959
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #2959  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/
-- Difficulty: Hard
-- Topics: Bit Manipulation, Graph Theory, Heap (Priority Queue), Enumeration, Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

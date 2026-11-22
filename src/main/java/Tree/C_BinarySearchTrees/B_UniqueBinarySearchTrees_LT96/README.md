@@ -1,15 +1,13 @@
-# 96. Unique Binary Search Trees
+# Unique Binary Search Trees — 96
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #96  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/unique-binary-search-trees/
-- Difficulty: Medium
-- Topics: Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

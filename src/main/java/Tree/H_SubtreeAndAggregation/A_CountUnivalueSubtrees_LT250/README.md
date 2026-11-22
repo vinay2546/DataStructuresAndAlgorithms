@@ -1,15 +1,13 @@
-# 250. Count Univalue Subtrees
+# Count Univalue Subtrees — 250
 
 **Data Structure:** Tree  
-**Pattern:** SubtreeAndAggregation  
+**Pattern:** Subtree And Aggregation  
 **LeetCode:** #250  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-univalue-subtrees/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Binary Tree, DP on Trees
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

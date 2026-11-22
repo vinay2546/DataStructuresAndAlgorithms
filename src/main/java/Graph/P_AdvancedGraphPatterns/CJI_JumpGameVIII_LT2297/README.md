@@ -1,15 +1,13 @@
-# 2297. Jump Game VIII
+# Jump Game VIII — 2297
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #2297  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/jump-game-viii/
-- Difficulty: Medium
-- Topics: Array, Dynamic Programming, Stack, Graph Theory, Monotonic Stack, Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

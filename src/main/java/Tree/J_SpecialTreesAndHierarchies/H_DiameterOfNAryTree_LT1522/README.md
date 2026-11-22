@@ -1,15 +1,13 @@
-# 1522. Diameter of N-Ary Tree
+# Diameter Of NAry Tree — 1522
 
 **Data Structure:** Tree  
-**Pattern:** SpecialTreesAndHierarchies  
+**Pattern:** Special Trees And Hierarchies  
 **LeetCode:** #1522  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/diameter-of-n-ary-tree/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, DP on Trees
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

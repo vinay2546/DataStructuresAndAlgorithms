@@ -1,4 +1,4 @@
-# TextJustification — 68
+# Text Justification — 68
 
 **Data Structure:** String  
 **Pattern:** Advanced  

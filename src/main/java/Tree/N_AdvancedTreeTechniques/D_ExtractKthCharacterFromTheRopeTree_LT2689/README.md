@@ -1,15 +1,13 @@
-# 2689. Extract Kth Character From The Rope Tree
+# Extract Kth Character From The Rope Tree — 2689
 
 **Data Structure:** Tree  
-**Pattern:** AdvancedTreeTechniques  
+**Pattern:** Advanced Tree Techniques  
 **LeetCode:** #2689  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/extract-kth-character-from-the-rope-tree/
-- Difficulty: Easy
-- Topics: Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 388. Longest Absolute File Path
+# Longest Absolute File Path — 388
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #388  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/longest-absolute-file-path/
-- Difficulty: Medium
-- Topics: String, Stack, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

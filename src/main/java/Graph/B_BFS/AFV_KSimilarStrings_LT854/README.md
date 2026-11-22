@@ -1,4 +1,4 @@
-# 854. K-Similar Strings
+# KSimilar Strings — 854
 
 **Data Structure:** Graph  
 **Pattern:** BFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/k-similar-strings/
-- Difficulty: Hard
-- Topics: Hash Table, String, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

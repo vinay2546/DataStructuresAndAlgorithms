@@ -1,7 +1,7 @@
-# MaximalSquare — 221
+# Maximal Square — 221
 
 **Data Structure:** Matrix  
-**Pattern:** PrefixDP  
+**Pattern:** Prefix DP  
 **LeetCode:** #221  
 **Status:** Not Started
 

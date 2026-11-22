@@ -1,6 +1,6 @@
-# FindAllNumbersDisappearedInAnArray — 448
+# Find All Numbers Disappeared In An Array — 448
 
-**Data Structure:** HashSet  
+**Data Structure:** Hash Set  
 **Pattern:** Set Patterns  
 **LeetCode:** #448  
 **Status:** Not Started

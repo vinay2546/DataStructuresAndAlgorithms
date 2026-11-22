@@ -1,4 +1,4 @@
-# SumOfSubarrayMinimums — 907
+# Sum Of Subarray Minimums — 907
 
 **Data Structure:** Stack  
 **Pattern:** Monotonic Stack  

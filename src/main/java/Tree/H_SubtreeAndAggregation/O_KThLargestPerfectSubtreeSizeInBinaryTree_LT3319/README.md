@@ -1,15 +1,13 @@
-# 3319. K-th Largest Perfect Subtree Size in Binary Tree
+# KTh Largest Perfect Subtree Size In Binary Tree — 3319
 
 **Data Structure:** Tree  
-**Pattern:** SubtreeAndAggregation  
+**Pattern:** Subtree And Aggregation  
 **LeetCode:** #3319  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Sorting, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

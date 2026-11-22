@@ -1,15 +1,13 @@
-# 1096. Brace Expansion II
+# Brace Expansion II — 1096
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #1096  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/brace-expansion-ii/
-- Difficulty: Hard
-- Topics: Hash Table, String, Backtracking, Stack, Breadth-First Search, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

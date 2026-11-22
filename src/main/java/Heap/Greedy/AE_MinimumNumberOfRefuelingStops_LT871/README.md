@@ -1,4 +1,4 @@
-# MinimumNumberOfRefuelingStops — 871
+# Minimum Number Of Refueling Stops — 871
 
 **Data Structure:** Heap  
 **Pattern:** Greedy  

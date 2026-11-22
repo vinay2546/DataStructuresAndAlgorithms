@@ -1,15 +1,13 @@
-# 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
+# Find The City With The Smallest Number Of Neighbors At AThreshold Distance — 1334
 
 **Data Structure:** Graph  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #1334  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
-- Difficulty: Medium
-- Topics: Dynamic Programming, Graph Theory, Shortest Path, Dijkstra's Algorithm, Bellman–Ford Algorithm, Floyd–Warshall Algorithm
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

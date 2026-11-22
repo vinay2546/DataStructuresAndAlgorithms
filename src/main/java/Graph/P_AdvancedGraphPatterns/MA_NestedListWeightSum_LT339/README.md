@@ -1,15 +1,13 @@
-# 339. Nested List Weight Sum
+# Nested List Weight Sum — 339
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #339  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/nested-list-weight-sum/
-- Difficulty: Medium
-- Topics: Depth-First Search, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

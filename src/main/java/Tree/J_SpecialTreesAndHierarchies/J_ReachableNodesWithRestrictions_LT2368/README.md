@@ -1,15 +1,13 @@
-# 2368. Reachable Nodes With Restrictions
+# Reachable Nodes With Restrictions — 2368
 
 **Data Structure:** Tree  
-**Pattern:** SpecialTreesAndHierarchies  
+**Pattern:** Special Trees And Hierarchies  
 **LeetCode:** #2368  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/reachable-nodes-with-restrictions/
-- Difficulty: Medium
-- Topics: Array, Hash Table, Tree, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 2049. Count Nodes With the Highest Score
+# Count Nodes With The Highest Score — 2049
 
 **Data Structure:** Tree  
-**Pattern:** SubtreeAndAggregation  
+**Pattern:** Subtree And Aggregation  
 **LeetCode:** #2049  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-nodes-with-the-highest-score/
-- Difficulty: Medium
-- Topics: Array, Tree, Depth-First Search, Binary Tree, DP on Trees
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

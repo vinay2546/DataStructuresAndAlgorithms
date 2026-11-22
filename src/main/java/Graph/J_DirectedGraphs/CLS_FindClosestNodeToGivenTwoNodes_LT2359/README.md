@@ -1,15 +1,13 @@
-# 2359. Find Closest Node to Given Two Nodes
+# Find Closest Node To Given Two Nodes — 2359
 
 **Data Structure:** Graph  
-**Pattern:** DirectedGraphs  
+**Pattern:** Directed Graphs  
 **LeetCode:** #2359  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-closest-node-to-given-two-nodes/
-- Difficulty: Medium
-- Topics: Depth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

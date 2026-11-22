@@ -1,7 +1,7 @@
 # Insert Greatest Common Divisors In Linked List — 2807
 
-**Data Structure:** LinkedList  
-**Pattern:** AdvancedPatterns  
+**Data Structure:** Linked List  
+**Pattern:** Advanced Patterns  
 **LeetCode:** #2807  
 **Status:** Not Started
 

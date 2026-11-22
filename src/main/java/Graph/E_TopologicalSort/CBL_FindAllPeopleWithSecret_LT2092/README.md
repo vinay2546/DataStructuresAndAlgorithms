@@ -1,15 +1,13 @@
-# 2092. Find All People With Secret
+# Find All People With Secret — 2092
 
 **Data Structure:** Graph  
-**Pattern:** TopologicalSort  
+**Pattern:** Topological Sort  
 **LeetCode:** #2092  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-all-people-with-secret/
-- Difficulty: Hard
-- Topics: Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

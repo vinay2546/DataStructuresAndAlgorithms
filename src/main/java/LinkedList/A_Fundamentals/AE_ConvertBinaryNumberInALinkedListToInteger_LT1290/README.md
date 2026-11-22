@@ -1,6 +1,6 @@
 # Convert Binary Number In ALinked List To Integer — 1290
 
-**Data Structure:** LinkedList  
+**Data Structure:** Linked List  
 **Pattern:** Fundamentals  
 **LeetCode:** #1290  
 **Status:** Not Started

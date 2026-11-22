@@ -1,15 +1,13 @@
-# 3241. Time Taken to Mark All Nodes
+# Time Taken To Mark All Nodes — 3241
 
 **Data Structure:** Tree  
-**Pattern:** AncestorsAndDistance  
+**Pattern:** Ancestors And Distance  
 **LeetCode:** #3241  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/time-taken-to-mark-all-nodes/
-- Difficulty: Hard
-- Topics: Dynamic Programming, Tree, Depth-First Search, Graph Theory, DP on Trees
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

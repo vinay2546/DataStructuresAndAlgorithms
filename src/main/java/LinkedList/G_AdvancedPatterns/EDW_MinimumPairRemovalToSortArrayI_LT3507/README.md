@@ -1,7 +1,7 @@
 # Minimum Pair Removal To Sort Array I — 3507
 
-**Data Structure:** LinkedList  
-**Pattern:** AdvancedPatterns  
+**Data Structure:** Linked List  
+**Pattern:** Advanced Patterns  
 **LeetCode:** #3507  
 **Status:** Not Started
 

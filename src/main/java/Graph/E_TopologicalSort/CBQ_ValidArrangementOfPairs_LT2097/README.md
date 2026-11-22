@@ -1,15 +1,13 @@
-# 2097. Valid Arrangement of Pairs
+# Valid Arrangement Of Pairs — 2097
 
 **Data Structure:** Graph  
-**Pattern:** TopologicalSort  
+**Pattern:** Topological Sort  
 **LeetCode:** #2097  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/valid-arrangement-of-pairs/
-- Difficulty: Hard
-- Topics: Array, Depth-First Search, Graph Theory, Eulerian Circuit, Eulerian Path, Semi-Eulerian Graph
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

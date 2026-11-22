@@ -1,15 +1,13 @@
-# 2473. Minimum Cost to Buy Apples
+# Minimum Cost To Buy Apples — 2473
 
 **Data Structure:** Graph  
-**Pattern:** WeightedGraphs  
+**Pattern:** Weighted Graphs  
 **LeetCode:** #2473  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-cost-to-buy-apples/
-- Difficulty: Medium
-- Topics: Array, Graph Theory, Heap (Priority Queue), Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

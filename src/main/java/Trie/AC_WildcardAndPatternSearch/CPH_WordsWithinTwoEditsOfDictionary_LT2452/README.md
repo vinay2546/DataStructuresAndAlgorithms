@@ -1,15 +1,13 @@
-# 2452. Words Within Two Edits of Dictionary
+# Words Within Two Edits Of Dictionary — 2452
 
 **Data Structure:** Trie  
-**Pattern:** WildcardAndPatternSearch  
+**Pattern:** Wildcard And Pattern Search  
 **LeetCode:** #2452  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/words-within-two-edits-of-dictionary/
-- Difficulty: Medium
-- Topics: Array, String, Trie
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

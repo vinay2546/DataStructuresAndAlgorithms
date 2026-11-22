@@ -1,6 +1,16 @@
-# LinkedList / Merge and Partition
+# Merge And Partition
 
-Merging, splitting, and combining linked-list segments.
+## Overview
+
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — E_MergeAndPartition
@@ -26,4 +36,4 @@ This tracker is generated recursively. Update the **Status** field in an individ
 | [Odd Even Linked List — 328](LP_OddEvenLinkedList_LT328/README.md) | #328 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

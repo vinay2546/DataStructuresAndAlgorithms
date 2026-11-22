@@ -1,4 +1,4 @@
-# 3629. Minimum Jumps to Reach End via Prime Teleportation
+# Minimum Jumps To Reach End Via Prime Teleportation — 3629
 
 **Data Structure:** Graph  
 **Pattern:** BFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/
-- Difficulty: Medium
-- Topics: Array, Hash Table, Math, Breadth-First Search, Number Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,11 +1,16 @@
-# 15_GraphDesign
+# Graph Design
 
-Graph data-structure and graph API design, including shortest-path query abstractions.
+## Overview
 
+Add a concise overview of this section.
 
-## Learning Focus
+## Contents
 
-Problems are grouped by their primary technique. Secondary patterns should be documented in individual problem READMEs instead of creating duplicate problem folders.
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — O_GraphDesign
@@ -20,7 +25,7 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [2642. Design Graph With Shortest Path Calculator](CWP_DesignGraphWithShortestPathCalculator_LT2642/README.md) | #2642 | ⬜ Not Started |
+| [Design Graph With Shortest Path Calculator — 2642](CWP_DesignGraphWithShortestPathCalculator_LT2642/README.md) | #2642 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

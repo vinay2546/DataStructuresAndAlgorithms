@@ -1,7 +1,7 @@
-# ConcatenatedWords — 472
+# Concatenated Words — 472
 
 **Data Structure:** Trie  
-**Pattern:** WordSearch  
+**Pattern:** Trie String DP  
 **LeetCode:** #472  
 **Status:** Not Started
 

@@ -1,15 +1,13 @@
-# 2948. Make Lexicographically Smallest Array by Swapping Elements
+# Make Lexicographically Smallest Array By Swapping Elements — 2948
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #2948  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/
-- Difficulty: Medium
-- Topics: Array, Union-Find, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

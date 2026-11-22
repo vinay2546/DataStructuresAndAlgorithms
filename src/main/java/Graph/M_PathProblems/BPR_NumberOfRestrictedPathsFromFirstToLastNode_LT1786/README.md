@@ -1,15 +1,13 @@
-# 1786. Number of Restricted Paths From First to Last Node
+# Number Of Restricted Paths From First To Last Node — 1786
 
 **Data Structure:** Graph  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #1786  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/
-- Difficulty: Medium
-- Topics: Dynamic Programming, Graph Theory, Topological Sort, Heap (Priority Queue), Shortest Path, Dijkstra's Algorithm
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

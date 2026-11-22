@@ -1,7 +1,7 @@
-# ValidParentheses — 20
+# Valid Parentheses — 20
 
 **Data Structure:** String  
-**Pattern:** StackParsing  
+**Pattern:** Stack Parsing  
 **LeetCode:** #20  
 **Status:** Not Started
 

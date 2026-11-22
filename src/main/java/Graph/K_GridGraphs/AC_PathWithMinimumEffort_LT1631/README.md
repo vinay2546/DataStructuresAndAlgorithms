@@ -1,7 +1,7 @@
-# PathWithMinimumEffort — 1631
+# Path With Minimum Effort — 1631
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Grid Graphs  
 **LeetCode:** #1631  
 **Status:** Not Started
 

@@ -1,15 +1,13 @@
-# 386. Lexicographical Numbers
+# Lexicographical Numbers — 386
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #386  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/lexicographical-numbers/
-- Difficulty: Medium
-- Topics: Depth-First Search, Trie
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

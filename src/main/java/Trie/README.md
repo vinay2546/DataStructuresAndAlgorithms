@@ -1,24 +1,16 @@
 # Trie
 
-Trie problems are organized into a learning-oriented progression from core operations to advanced string and bitwise techniques.
+## Overview
 
-## Package progression
+Add a concise overview of this section.
 
-1. `AA_Fundamentals` — Trie nodes, insertion, search, deletion, and word termination
-2. `AB_PrefixOperations` — prefix queries, prefix counts, scores, autocomplete, and prefix/suffix structures
-3. `AC_WildcardAndPatternSearch` — wildcard and pattern matching over Trie paths
-4. `AD_TrieBacktracking` — Trie + DFS/backtracking for dictionary and board search
-5. `AE_TrieStringDP` — Trie + dynamic programming for segmentation and construction
-6. `AF_BitwiseTrie` — binary Trie and XOR optimization
-7. `AG_StringAlgorithms` — advanced substring, encoding, palindrome, and lexicographic techniques
-8. `AH_DesignAndApplications` — Trie-based system and data-structure design
-9. `AI_AdvancedTrieStructures` — advanced combinations and specialized Trie patterns
+## Contents
 
-Each problem has one primary learning category. Cross-topic relationships remain documented in the problem README.
+Add links to the important topics, subdirectories, or implementations.
 
-## Learning principle
+## Notes
 
-Build the basic Trie first, then master prefix and pattern queries, combine Trie with backtracking and DP, learn binary Tries for XOR, and finally study specialized and design-oriented applications.
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — Trie
@@ -45,4 +37,4 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

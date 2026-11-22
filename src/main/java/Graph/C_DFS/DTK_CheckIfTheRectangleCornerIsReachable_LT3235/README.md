@@ -1,4 +1,4 @@
-# 3235. Check if the Rectangle Corner Is Reachable
+# Check If The Rectangle Corner Is Reachable — 3235
 
 **Data Structure:** Graph  
 **Pattern:** DFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/
-- Difficulty: Hard
-- Topics: Array, Math, Depth-First Search, Breadth-First Search, Union-Find, Geometry
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 2792. Count Nodes That Are Great Enough
+# Count Nodes That Are Great Enough — 2792
 
 **Data Structure:** Tree  
-**Pattern:** SubtreeAndAggregation  
+**Pattern:** Subtree And Aggregation  
 **LeetCode:** #2792  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-nodes-that-are-great-enough/
-- Difficulty: Hard
-- Topics: Divide and Conquer, Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

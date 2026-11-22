@@ -1,15 +1,13 @@
-# 3067. Count Pairs of Connectable Servers in a Weighted Tree Network
+# Count Pairs Of Connectable Servers In AWeighted Tree Network — 3067
 
 **Data Structure:** Tree  
-**Pattern:** AdvancedTreeTechniques  
+**Pattern:** Advanced Tree Techniques  
 **LeetCode:** #3067  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/
-- Difficulty: Medium
-- Topics: Array, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

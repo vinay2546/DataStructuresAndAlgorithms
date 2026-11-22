@@ -1,7 +1,7 @@
-# MergeKSortedLists — 23
+# Merge KSorted Lists — 23
 
 **Data Structure:** Heap  
-**Pattern:** MergeK  
+**Pattern:** Merge K  
 **LeetCode:** #23  
 **Status:** Not Started
 

@@ -1,7 +1,16 @@
-# TwoPointers
+# Two Pointers
 
-String problems grouped under this category.
+## Overview
 
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — TwoPointers
@@ -16,11 +25,11 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [ValidPalindrome — 125](AA_ValidPalindrome_LT125/README.md) | #125 | ⬜ Not Started |
-| [ReverseString — 344](AB_ReverseString_LT344/README.md) | #344 | ⬜ Not Started |
-| [ReverseVowelsOfAString — 345](AC_ReverseVowelsOfAString_LT345/README.md) | #345 | ⬜ Not Started |
-| [ValidPalindromeII — 680](AD_ValidPalindromeII_LT680/README.md) | #680 | ⬜ Not Started |
-| [BackspaceStringCompare — 844](AE_BackspaceStringCompare_LT844/README.md) | #844 | ⬜ Not Started |
+| [Valid Palindrome — 125](AA_ValidPalindrome_LT125/README.md) | #125 | ⬜ Not Started |
+| [Reverse String — 344](AB_ReverseString_LT344/README.md) | #344 | ⬜ Not Started |
+| [Reverse Vowels Of AString — 345](AC_ReverseVowelsOfAString_LT345/README.md) | #345 | ⬜ Not Started |
+| [Valid Palindrome II — 680](AD_ValidPalindromeII_LT680/README.md) | #680 | ⬜ Not Started |
+| [Backspace String Compare — 844](AE_BackspaceStringCompare_LT844/README.md) | #844 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

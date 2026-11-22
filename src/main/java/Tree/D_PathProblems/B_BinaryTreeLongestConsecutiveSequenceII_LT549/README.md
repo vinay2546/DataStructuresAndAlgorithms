@@ -1,15 +1,13 @@
-# 549. Binary Tree Longest Consecutive Sequence II
+# Binary Tree Longest Consecutive Sequence II — 549
 
 **Data Structure:** Tree  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #549  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Binary Tree, DP on Trees
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

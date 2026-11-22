@@ -1,15 +1,13 @@
-# 510. Inorder Successor in BST II
+# Inorder Successor In BSTII — 510
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #510  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/inorder-successor-in-bst-ii/
-- Difficulty: Medium
-- Topics: Tree, Binary Search Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

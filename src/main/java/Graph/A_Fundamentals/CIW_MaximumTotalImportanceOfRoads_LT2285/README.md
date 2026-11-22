@@ -1,4 +1,4 @@
-# 2285. Maximum Total Importance of Roads
+# Maximum Total Importance Of Roads — 2285
 
 **Data Structure:** Graph  
 **Pattern:** Fundamentals  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-total-importance-of-roads/
-- Difficulty: Medium
-- Topics: Greedy, Graph Theory, Sorting, Heap (Priority Queue)
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

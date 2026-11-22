@@ -1,4 +1,4 @@
-# 1782. Count Pairs Of Nodes
+# Count Pairs Of Nodes — 1782
 
 **Data Structure:** Graph  
 **Pattern:** Fundamentals  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-pairs-of-nodes/
-- Difficulty: Hard
-- Topics: Array, Hash Table, Two Pointers, Binary Search, Graph Theory, Sorting, Counting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

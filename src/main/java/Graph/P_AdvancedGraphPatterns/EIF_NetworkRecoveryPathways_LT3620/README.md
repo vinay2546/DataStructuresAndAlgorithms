@@ -1,15 +1,13 @@
-# 3620. Network Recovery Pathways
+# Network Recovery Pathways — 3620
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3620  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/network-recovery-pathways/
-- Difficulty: Hard
-- Topics: Array, Binary Search, Dynamic Programming, Graph Theory, Topological Sort, Heap (Priority Queue), Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

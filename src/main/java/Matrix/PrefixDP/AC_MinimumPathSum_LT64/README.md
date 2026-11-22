@@ -1,7 +1,7 @@
-# MinimumPathSum — 64
+# Minimum Path Sum — 64
 
 **Data Structure:** Matrix  
-**Pattern:** PrefixDP  
+**Pattern:** Prefix DP  
 **LeetCode:** #64  
 **Status:** Not Started
 

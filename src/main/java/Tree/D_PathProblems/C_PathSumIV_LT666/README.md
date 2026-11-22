@@ -1,15 +1,13 @@
-# 666. Path Sum IV
+# Path Sum IV — 666
 
 **Data Structure:** Tree  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #666  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/path-sum-iv/
-- Difficulty: Medium
-- Topics: Array, Hash Table, Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

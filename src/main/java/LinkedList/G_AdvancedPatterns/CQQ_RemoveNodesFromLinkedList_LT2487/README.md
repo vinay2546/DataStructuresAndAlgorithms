@@ -1,7 +1,7 @@
 # Remove Nodes From Linked List — 2487
 
-**Data Structure:** LinkedList  
-**Pattern:** AdvancedPatterns  
+**Data Structure:** Linked List  
+**Pattern:** Advanced Patterns  
 **LeetCode:** #2487  
 **Status:** Not Started
 

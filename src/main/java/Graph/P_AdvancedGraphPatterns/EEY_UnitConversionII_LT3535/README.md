@@ -1,15 +1,13 @@
-# 3535. Unit Conversion II
+# Unit Conversion II — 3535
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3535  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/unit-conversion-ii/
-- Difficulty: Medium
-- Topics: Array, Math, Depth-First Search, Breadth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

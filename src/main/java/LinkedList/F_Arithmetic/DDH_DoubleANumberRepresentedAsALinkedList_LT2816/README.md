@@ -1,6 +1,6 @@
 # Double ANumber Represented As ALinked List — 2816
 
-**Data Structure:** LinkedList  
+**Data Structure:** Linked List  
 **Pattern:** Arithmetic  
 **LeetCode:** #2816  
 **Status:** Not Started

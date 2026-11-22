@@ -1,15 +1,13 @@
-# 255. Verify Preorder Sequence in Binary Search Tree
+# Verify Preorder Sequence In Binary Search Tree — 255
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #255  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/
-- Difficulty: Medium
-- Topics: Array, Stack, Tree, Binary Search Tree, Recursion, Monotonic Stack, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

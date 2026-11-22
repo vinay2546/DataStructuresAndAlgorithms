@@ -1,7 +1,7 @@
 # Linked List Cycle — 141
 
-**Data Structure:** LinkedList  
-**Pattern:** TwoPointers  
+**Data Structure:** Linked List  
+**Pattern:** Two Pointers  
 **LeetCode:** #141  
 **Status:** Not Started
 

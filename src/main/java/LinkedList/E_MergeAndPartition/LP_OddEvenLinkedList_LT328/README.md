@@ -1,7 +1,7 @@
 # Odd Even Linked List — 328
 
-**Data Structure:** LinkedList  
-**Pattern:** MergeAndPartition  
+**Data Structure:** Linked List  
+**Pattern:** Merge And Partition  
 **LeetCode:** #328  
 **Status:** Not Started
 

@@ -1,7 +1,16 @@
-# MergeK
+# Merge K
 
-Heap problems grouped under this category.
+## Overview
 
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — MergeK
@@ -16,9 +25,9 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [MergeKSortedLists — 23](AA_MergeKSortedLists_LT23/README.md) | #23 | ⬜ Not Started |
-| [SmallestRangeCoveringElementsFromKLists — 632](AB_SmallestRangeCoveringElementsFromKLists_LT632/README.md) | #632 | ⬜ Not Started |
-| [FindKPairsWithSmallestSums — 373](AC_FindKPairsWithSmallestSums_LT373/README.md) | #373 | ⬜ Not Started |
+| [Merge KSorted Lists — 23](AA_MergeKSortedLists_LT23/README.md) | #23 | ⬜ Not Started |
+| [Smallest Range Covering Elements From KLists — 632](AB_SmallestRangeCoveringElementsFromKLists_LT632/README.md) | #632 | ⬜ Not Started |
+| [Find KPairs With Smallest Sums — 373](AC_FindKPairsWithSmallestSums_LT373/README.md) | #373 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

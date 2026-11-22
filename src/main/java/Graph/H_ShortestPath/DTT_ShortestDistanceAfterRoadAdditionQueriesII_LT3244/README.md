@@ -1,15 +1,13 @@
-# 3244. Shortest Distance After Road Addition Queries II
+# Shortest Distance After Road Addition Queries II — 3244
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #3244  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/
-- Difficulty: Hard
-- Topics: Array, Greedy, Graph Theory, Ordered Set
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

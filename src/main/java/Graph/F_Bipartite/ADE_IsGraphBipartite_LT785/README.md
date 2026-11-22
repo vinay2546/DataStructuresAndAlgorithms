@@ -1,4 +1,4 @@
-# 785. Is Graph Bipartite?
+# Is Graph Bipartite — 785
 
 **Data Structure:** Graph  
 **Pattern:** Bipartite  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/is-graph-bipartite/
-- Difficulty: Medium
-- Topics: Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Graph Coloring, Bipartite Graph
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 279. Perfect Squares
+# Perfect Squares — 279
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #279  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/perfect-squares/
-- Difficulty: Medium
-- Topics: Math, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

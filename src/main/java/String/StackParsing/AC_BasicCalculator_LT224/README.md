@@ -1,7 +1,7 @@
-# BasicCalculator — 224
+# Basic Calculator — 224
 
 **Data Structure:** String  
-**Pattern:** StackParsing  
+**Pattern:** Stack Parsing  
 **LeetCode:** #224  
 **Status:** Not Started
 

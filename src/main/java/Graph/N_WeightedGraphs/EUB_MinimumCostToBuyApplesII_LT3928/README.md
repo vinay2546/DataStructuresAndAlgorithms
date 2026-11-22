@@ -1,15 +1,13 @@
-# 3928. Minimum Cost to Buy Apples II
+# Minimum Cost To Buy Apples II — 3928
 
 **Data Structure:** Graph  
-**Pattern:** WeightedGraphs  
+**Pattern:** Weighted Graphs  
 **LeetCode:** #3928  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-cost-to-buy-apples-ii/
-- Difficulty: Hard
-- Topics: Array, Graph Theory, Heap (Priority Queue), Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

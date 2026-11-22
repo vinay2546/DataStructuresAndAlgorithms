@@ -1,7 +1,7 @@
-# RottingOranges — 994
+# Rotting Oranges — 994
 
 **Data Structure:** Graph  
-**Pattern:** BFS  
+**Pattern:** Grid Graphs  
 **LeetCode:** #994  
 **Status:** Not Started
 

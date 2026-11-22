@@ -1,6 +1,6 @@
-# JewelsAndStones — 771
+# Jewels And Stones — 771
 
-**Data Structure:** HashSet  
+**Data Structure:** Hash Set  
 **Pattern:** Strings  
 **LeetCode:** #771  
 **Status:** Not Started

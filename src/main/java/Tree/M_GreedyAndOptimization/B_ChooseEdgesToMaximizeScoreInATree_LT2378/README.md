@@ -1,15 +1,13 @@
-# 2378. Choose Edges to Maximize Score in a Tree
+# Choose Edges To Maximize Score In ATree — 2378
 
 **Data Structure:** Tree  
-**Pattern:** GreedyAndOptimization  
+**Pattern:** Greedy And Optimization  
 **LeetCode:** #2378  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/
-- Difficulty: Medium
-- Topics: Dynamic Programming, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

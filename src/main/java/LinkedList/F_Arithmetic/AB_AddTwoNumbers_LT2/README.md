@@ -1,6 +1,6 @@
 # Add Two Numbers — 2
 
-**Data Structure:** LinkedList  
+**Data Structure:** Linked List  
 **Pattern:** Arithmetic  
 **LeetCode:** #2  
 **Status:** Not Started

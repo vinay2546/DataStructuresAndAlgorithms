@@ -1,6 +1,6 @@
-# TopKFrequentElements — 347
+# Top KFrequent Elements — 347
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Frequency  
 **LeetCode:** #347  
 **Status:** Not Started

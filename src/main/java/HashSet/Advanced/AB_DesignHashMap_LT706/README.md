@@ -1,6 +1,6 @@
-# DesignHashMap — 706
+# Design Hash Map — 706
 
-**Data Structure:** HashSet  
+**Data Structure:** Hash Set  
 **Pattern:** Advanced  
 **LeetCode:** #706  
 **Status:** Not Started

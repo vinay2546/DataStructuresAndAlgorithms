@@ -1,15 +1,13 @@
-# 1612. Check If Two Expression Trees are Equivalent
+# Check If Two Expression Trees Are Equivalent — 1612
 
 **Data Structure:** Tree  
-**Pattern:** ConstructionAndSerialization  
+**Pattern:** Construction And Serialization  
 **LeetCode:** #1612  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/
-- Difficulty: Medium
-- Topics: Hash Table, Tree, Depth-First Search, Binary Tree, Counting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

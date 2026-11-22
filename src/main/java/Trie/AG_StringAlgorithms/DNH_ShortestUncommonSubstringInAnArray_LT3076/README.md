@@ -1,15 +1,13 @@
-# 3076. Shortest Uncommon Substring in an Array
+# Shortest Uncommon Substring In An Array — 3076
 
 **Data Structure:** Trie  
-**Pattern:** StringAlgorithms  
+**Pattern:** String Algorithms  
 **LeetCode:** #3076  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/
-- Difficulty: Medium
-- Topics: Array, Hash Table, String, Trie
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

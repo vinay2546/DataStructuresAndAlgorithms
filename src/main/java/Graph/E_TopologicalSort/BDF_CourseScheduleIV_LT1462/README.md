@@ -1,15 +1,13 @@
-# 1462. Course Schedule IV
+# Course Schedule IV — 1462
 
 **Data Structure:** Graph  
-**Pattern:** TopologicalSort  
+**Pattern:** Topological Sort  
 **LeetCode:** #1462  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/course-schedule-iv/
-- Difficulty: Medium
-- Topics: Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 1377. Frog Position After T Seconds
+# Frog Position After TSeconds — 1377
 
 **Data Structure:** Tree  
-**Pattern:** AdvancedTreeTechniques  
+**Pattern:** Advanced Tree Techniques  
 **LeetCode:** #1377  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/frog-position-after-t-seconds/
-- Difficulty: Hard
-- Topics: Tree, Depth-First Search, Breadth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

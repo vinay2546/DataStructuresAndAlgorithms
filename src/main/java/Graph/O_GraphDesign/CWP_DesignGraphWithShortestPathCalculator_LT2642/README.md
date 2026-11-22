@@ -1,15 +1,13 @@
-# 2642. Design Graph With Shortest Path Calculator
+# Design Graph With Shortest Path Calculator — 2642
 
 **Data Structure:** Graph  
-**Pattern:** GraphDesign  
+**Pattern:** Graph Design  
 **LeetCode:** #2642  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/design-graph-with-shortest-path-calculator/
-- Difficulty: Hard
-- Topics: Graph Theory, Design, Heap (Priority Queue), Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

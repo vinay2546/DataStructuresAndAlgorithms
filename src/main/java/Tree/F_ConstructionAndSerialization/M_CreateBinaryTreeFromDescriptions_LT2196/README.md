@@ -1,15 +1,13 @@
-# 2196. Create Binary Tree From Descriptions
+# Create Binary Tree From Descriptions — 2196
 
 **Data Structure:** Tree  
-**Pattern:** ConstructionAndSerialization  
+**Pattern:** Construction And Serialization  
 **LeetCode:** #2196  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/create-binary-tree-from-descriptions/
-- Difficulty: Medium
-- Topics: Array, Hash Table, Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

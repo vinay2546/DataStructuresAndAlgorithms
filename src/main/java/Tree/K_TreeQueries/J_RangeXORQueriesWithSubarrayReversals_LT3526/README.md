@@ -1,15 +1,13 @@
-# 3526. Range XOR Queries with Subarray Reversals
+# Range XORQueries With Subarray Reversals — 3526
 
 **Data Structure:** Tree  
-**Pattern:** TreeQueries  
+**Pattern:** Tree Queries  
 **LeetCode:** #3526  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/range-xor-queries-with-subarray-reversals/
-- Difficulty: Hard
-- Topics: Array, Bit Manipulation, Tree, Binary Search Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

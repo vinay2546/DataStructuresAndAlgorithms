@@ -1,4 +1,4 @@
-# PalindromicSubstrings — 647
+# Palindromic Substrings — 647
 
 **Data Structure:** String  
 **Pattern:** DP  

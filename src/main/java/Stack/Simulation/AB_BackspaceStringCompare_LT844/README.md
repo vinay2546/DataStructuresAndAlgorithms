@@ -1,4 +1,4 @@
-# BackspaceStringCompare — 844
+# Backspace String Compare — 844
 
 **Data Structure:** Stack  
 **Pattern:** Simulation  

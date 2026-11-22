@@ -1,15 +1,13 @@
-# 558. Logical OR of Two Binary Grids Represented as Quad-Trees
+# Logical OROf Two Binary Grids Represented As Quad Trees — 558
 
 **Data Structure:** Tree  
-**Pattern:** SpecialTreesAndHierarchies  
+**Pattern:** Special Trees And Hierarchies  
 **LeetCode:** #558  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/
-- Difficulty: Medium
-- Topics: Divide and Conquer, Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

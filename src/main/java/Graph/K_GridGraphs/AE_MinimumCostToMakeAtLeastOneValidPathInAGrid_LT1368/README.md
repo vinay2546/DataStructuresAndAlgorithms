@@ -1,7 +1,7 @@
-# MinimumCostToMakeAtLeastOneValidPathInAGrid — 1368
+# Minimum Cost To Make At Least One Valid Path In AGrid — 1368
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Grid Graphs  
 **LeetCode:** #1368  
 **Status:** Not Started
 

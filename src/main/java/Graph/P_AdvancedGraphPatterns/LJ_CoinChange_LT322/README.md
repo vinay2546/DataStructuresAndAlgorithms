@@ -1,15 +1,13 @@
-# 322. Coin Change
+# Coin Change — 322
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #322  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/coin-change/
-- Difficulty: Medium
-- Topics: Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 3997. Count Dominant Nodes in a Binary Tree
+# Count Dominant Nodes In ABinary Tree — 3997
 
 **Data Structure:** Tree  
-**Pattern:** SubtreeAndAggregation  
+**Pattern:** Subtree And Aggregation  
 **LeetCode:** #3997  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

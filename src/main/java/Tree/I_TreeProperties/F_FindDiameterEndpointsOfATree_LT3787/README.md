@@ -1,15 +1,13 @@
-# 3787. Find Diameter Endpoints of a Tree
+# Find Diameter Endpoints Of ATree — 3787
 
 **Data Structure:** Tree  
-**Pattern:** TreeProperties  
+**Pattern:** Tree Properties  
 **LeetCode:** #3787  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-diameter-endpoints-of-a-tree/
-- Difficulty: Medium
-- Topics: Tree, Breadth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

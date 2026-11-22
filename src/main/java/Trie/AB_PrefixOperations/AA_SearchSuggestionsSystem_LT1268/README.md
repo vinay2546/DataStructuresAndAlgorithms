@@ -1,7 +1,7 @@
-# SearchSuggestionsSystem — 1268
+# Search Suggestions System — 1268
 
 **Data Structure:** Trie  
-**Pattern:** PrefixSearch  
+**Pattern:** Prefix Operations  
 **LeetCode:** #1268  
 **Status:** Not Started
 

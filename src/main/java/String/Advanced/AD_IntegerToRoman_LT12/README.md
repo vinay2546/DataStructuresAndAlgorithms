@@ -1,4 +1,4 @@
-# IntegerToRoman — 12
+# Integer To Roman — 12
 
 **Data Structure:** String  
 **Pattern:** Advanced  

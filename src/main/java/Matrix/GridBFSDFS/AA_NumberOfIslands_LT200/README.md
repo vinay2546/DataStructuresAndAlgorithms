@@ -1,7 +1,7 @@
-# NumberOfIslands — 200
+# Number Of Islands — 200
 
 **Data Structure:** Matrix  
-**Pattern:** GridBFSDFS  
+**Pattern:** Grid BFSDFS  
 **LeetCode:** #200  
 **Status:** Not Started
 

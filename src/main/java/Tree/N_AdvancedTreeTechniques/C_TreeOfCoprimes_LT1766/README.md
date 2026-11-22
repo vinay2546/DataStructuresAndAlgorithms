@@ -1,15 +1,13 @@
-# 1766. Tree of Coprimes
+# Tree Of Coprimes — 1766
 
 **Data Structure:** Tree  
-**Pattern:** AdvancedTreeTechniques  
+**Pattern:** Advanced Tree Techniques  
 **LeetCode:** #1766  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/tree-of-coprimes/
-- Difficulty: Hard
-- Topics: Array, Math, Tree, Depth-First Search, Number Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

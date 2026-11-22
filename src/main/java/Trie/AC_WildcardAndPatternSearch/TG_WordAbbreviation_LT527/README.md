@@ -1,15 +1,13 @@
-# 527. Word Abbreviation
+# Word Abbreviation — 527
 
 **Data Structure:** Trie  
-**Pattern:** WildcardAndPatternSearch  
+**Pattern:** Wildcard And Pattern Search  
 **LeetCode:** #527  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/word-abbreviation/
-- Difficulty: Hard
-- Topics: Array, String, Greedy, Trie, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,4 +1,4 @@
-# LongestCommonSubsequence — 1143
+# Longest Common Subsequence — 1143
 
 **Data Structure:** String  
 **Pattern:** DP  

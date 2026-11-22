@@ -1,15 +1,13 @@
-# 913. Cat and Mouse
+# Cat And Mouse — 913
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedTraversal  
+**Pattern:** Advanced Traversal  
 **LeetCode:** #913  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/cat-and-mouse/
-- Difficulty: Hard
-- Topics: Math, Dynamic Programming, Graph Theory, Topological Sort, Memoization, Minimax, Game Theory, Zero-Sum Game
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

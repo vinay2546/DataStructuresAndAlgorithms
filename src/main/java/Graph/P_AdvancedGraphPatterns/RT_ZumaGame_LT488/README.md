@@ -1,15 +1,13 @@
-# 488. Zuma Game
+# Zuma Game — 488
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #488  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/zuma-game/
-- Difficulty: Hard
-- Topics: String, Dynamic Programming, Stack, Breadth-First Search, Memoization
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

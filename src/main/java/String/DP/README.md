@@ -1,7 +1,16 @@
 # DP
 
-String problems grouped under this category.
+## Overview
 
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — DP
@@ -16,10 +25,10 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [LongestPalindromicSubstring — 5](AA_LongestPalindromicSubstring_LT5/README.md) | #5 | ⬜ Not Started |
-| [PalindromicSubstrings — 647](AB_PalindromicSubstrings_LT647/README.md) | #647 | ⬜ Not Started |
-| [LongestCommonSubsequence — 1143](AC_LongestCommonSubsequence_LT1143/README.md) | #1143 | ⬜ Not Started |
-| [EditDistance — 72](AD_EditDistance_LT72/README.md) | #72 | ⬜ Not Started |
+| [Longest Palindromic Substring — 5](AA_LongestPalindromicSubstring_LT5/README.md) | #5 | ⬜ Not Started |
+| [Palindromic Substrings — 647](AB_PalindromicSubstrings_LT647/README.md) | #647 | ⬜ Not Started |
+| [Longest Common Subsequence — 1143](AC_LongestCommonSubsequence_LT1143/README.md) | #1143 | ⬜ Not Started |
+| [Edit Distance — 72](AD_EditDistance_LT72/README.md) | #72 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

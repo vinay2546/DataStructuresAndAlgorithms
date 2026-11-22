@@ -1,7 +1,7 @@
-# MaximumXORWithAnElementFromArray — 1707
+# Maximum XORWith An Element From Array — 1707
 
 **Data Structure:** Trie  
-**Pattern:** BitwiseTrie  
+**Pattern:** Bitwise Trie  
 **LeetCode:** #1707  
 **Status:** Not Started
 

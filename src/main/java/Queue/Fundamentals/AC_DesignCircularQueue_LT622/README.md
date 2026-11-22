@@ -1,4 +1,4 @@
-# DesignCircularQueue — 622
+# Design Circular Queue — 622
 
 **Data Structure:** Queue  
 **Pattern:** Fundamentals  

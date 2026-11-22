@@ -1,6 +1,6 @@
-# IntersectionOfTwoArraysII — 350
+# Intersection Of Two Arrays II — 350
 
-**Data Structure:** HashSet  
+**Data Structure:** Hash Set  
 **Pattern:** Fundamentals  
 **LeetCode:** #350  
 **Status:** Not Started

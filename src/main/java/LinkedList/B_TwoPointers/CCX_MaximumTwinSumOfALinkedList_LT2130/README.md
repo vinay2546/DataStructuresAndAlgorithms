@@ -1,7 +1,7 @@
 # Maximum Twin Sum Of ALinked List — 2130
 
-**Data Structure:** LinkedList  
-**Pattern:** TwoPointers  
+**Data Structure:** Linked List  
+**Pattern:** Two Pointers  
 **LeetCode:** #2130  
 **Status:** Not Started
 

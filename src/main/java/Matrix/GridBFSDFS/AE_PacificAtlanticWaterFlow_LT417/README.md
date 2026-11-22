@@ -1,7 +1,7 @@
-# PacificAtlanticWaterFlow — 417
+# Pacific Atlantic Water Flow — 417
 
 **Data Structure:** Matrix  
-**Pattern:** GridBFSDFS  
+**Pattern:** Grid BFSDFS  
 **LeetCode:** #417  
 **Status:** Not Started
 

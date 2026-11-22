@@ -1,15 +1,13 @@
-# 3924. Minimum Threshold Path With Limited Heavy Edges
+# Minimum Threshold Path With Limited Heavy Edges — 3924
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #3924  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-threshold-path-with-limited-heavy-edges/
-- Difficulty: Hard
-- Topics: Binary Search, Breadth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

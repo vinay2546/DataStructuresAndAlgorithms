@@ -1,6 +1,6 @@
-# FindAllDuplicatesInAnArray — 442
+# Find All Duplicates In An Array — 442
 
-**Data Structure:** HashSet  
+**Data Structure:** Hash Set  
 **Pattern:** Set Patterns  
 **LeetCode:** #442  
 **Status:** Not Started

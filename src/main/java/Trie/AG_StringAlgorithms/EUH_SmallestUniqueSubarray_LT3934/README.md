@@ -1,15 +1,13 @@
-# 3934. Smallest Unique Subarray
+# Smallest Unique Subarray — 3934
 
 **Data Structure:** Trie  
-**Pattern:** StringAlgorithms  
+**Pattern:** String Algorithms  
 **LeetCode:** #3934  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/smallest-unique-subarray/
-- Difficulty: Hard
-- Topics: Array, Hash Table, Binary Search, Rolling Hash, Suffix Array, Hash Function
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 952. Largest Component Size by Common Factor
+# Largest Component Size By Common Factor — 952
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #952  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/largest-component-size-by-common-factor/
-- Difficulty: Hard
-- Topics: Array, Hash Table, Math, Union-Find, Number Theory, Prime Factorization
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

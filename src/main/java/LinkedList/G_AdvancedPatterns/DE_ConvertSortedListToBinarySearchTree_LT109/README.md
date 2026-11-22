@@ -1,7 +1,7 @@
 # Convert Sorted List To Binary Search Tree — 109
 
-**Data Structure:** LinkedList  
-**Pattern:** AdvancedPatterns  
+**Data Structure:** Linked List  
+**Pattern:** Advanced Patterns  
 **LeetCode:** #109  
 **Status:** Not Started
 

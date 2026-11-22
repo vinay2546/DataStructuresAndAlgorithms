@@ -1,7 +1,7 @@
-# ReverseString — 344
+# Reverse String — 344
 
 **Data Structure:** String  
-**Pattern:** TwoPointers  
+**Pattern:** Two Pointers  
 **LeetCode:** #344  
 **Status:** Not Started
 

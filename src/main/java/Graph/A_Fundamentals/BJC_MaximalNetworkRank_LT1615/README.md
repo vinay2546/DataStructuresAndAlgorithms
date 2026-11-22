@@ -1,4 +1,4 @@
-# 1615. Maximal Network Rank
+# Maximal Network Rank — 1615
 
 **Data Structure:** Graph  
 **Pattern:** Fundamentals  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximal-network-rank/
-- Difficulty: Medium
-- Topics: Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

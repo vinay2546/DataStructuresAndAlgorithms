@@ -1,15 +1,13 @@
-# 3607. Power Grid Maintenance
+# Power Grid Maintenance — 3607
 
 **Data Structure:** Graph  
-**Pattern:** GridGraphs  
+**Pattern:** Grid Graphs  
 **LeetCode:** #3607  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/power-grid-maintenance/
-- Difficulty: Medium
-- Topics: Array, Hash Table, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Heap (Priority Queue), Ordered Set
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

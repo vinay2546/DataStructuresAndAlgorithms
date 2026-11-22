@@ -1,4 +1,4 @@
-# 1804. Implement Trie II (Prefix Tree)
+# Implement Trie IIPrefix Tree — 1804
 
 **Data Structure:** Trie  
 **Pattern:** Fundamentals  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/implement-trie-ii-prefix-tree/
-- Difficulty: Medium
-- Topics: Hash Table, String, Design, Trie
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 1203. Sort Items by Groups Respecting Dependencies
+# Sort Items By Groups Respecting Dependencies — 1203
 
 **Data Structure:** Graph  
-**Pattern:** TopologicalSort  
+**Pattern:** Topological Sort  
 **LeetCode:** #1203  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
-- Difficulty: Hard
-- Topics: Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

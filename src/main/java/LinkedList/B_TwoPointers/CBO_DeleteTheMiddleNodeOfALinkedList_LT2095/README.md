@@ -1,7 +1,7 @@
 # Delete The Middle Node Of ALinked List — 2095
 
-**Data Structure:** LinkedList  
-**Pattern:** TwoPointers  
+**Data Structure:** Linked List  
+**Pattern:** Two Pointers  
 **LeetCode:** #2095  
 **Status:** Not Started
 

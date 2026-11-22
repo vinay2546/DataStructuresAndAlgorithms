@@ -1,15 +1,13 @@
-# 582. Kill Process
+# Kill Process — 582
 
 **Data Structure:** Tree  
-**Pattern:** TreeDesignAndImplementation  
+**Pattern:** Tree Design And Implementation  
 **LeetCode:** #582  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/kill-process/
-- Difficulty: Medium
-- Topics: Array, Hash Table, Tree, Depth-First Search, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

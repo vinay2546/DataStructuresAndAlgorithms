@@ -1,15 +1,13 @@
-# 3715. Sum of Perfect Square Ancestors
+# Sum Of Perfect Square Ancestors — 3715
 
 **Data Structure:** Tree  
-**Pattern:** AncestorsAndDistance  
+**Pattern:** Ancestors And Distance  
 **LeetCode:** #3715  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/sum-of-perfect-square-ancestors/
-- Difficulty: Hard
-- Topics: Array, Hash Table, Math, Tree, Depth-First Search, Counting, Number Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

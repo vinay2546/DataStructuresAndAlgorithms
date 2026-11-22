@@ -1,7 +1,7 @@
-# SurroundedRegions — 130
+# Surrounded Regions — 130
 
 **Data Structure:** Matrix  
-**Pattern:** GridBFSDFS  
+**Pattern:** Grid BFSDFS  
 **LeetCode:** #130  
 **Status:** Not Started
 

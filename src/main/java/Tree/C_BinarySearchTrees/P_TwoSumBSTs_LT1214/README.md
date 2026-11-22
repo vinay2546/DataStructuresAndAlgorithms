@@ -1,15 +1,13 @@
-# 1214. Two Sum BSTs
+# Two Sum BSTs — 1214
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #1214  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/two-sum-bsts/
-- Difficulty: Medium
-- Topics: Two Pointers, Binary Search, Stack, Tree, Depth-First Search, Binary Search Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

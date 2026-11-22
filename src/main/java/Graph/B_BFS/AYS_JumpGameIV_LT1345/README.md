@@ -1,4 +1,4 @@
-# 1345. Jump Game IV
+# Jump Game IV — 1345
 
 **Data Structure:** Graph  
 **Pattern:** BFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/jump-game-iv/
-- Difficulty: Hard
-- Topics: Array, Hash Table, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

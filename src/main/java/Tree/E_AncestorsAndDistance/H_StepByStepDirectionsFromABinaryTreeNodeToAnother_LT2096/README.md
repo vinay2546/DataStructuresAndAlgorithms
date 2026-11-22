@@ -1,15 +1,13 @@
-# 2096. Step-By-Step Directions From a Binary Tree Node to Another
+# Step By Step Directions From ABinary Tree Node To Another — 2096
 
 **Data Structure:** Tree  
-**Pattern:** AncestorsAndDistance  
+**Pattern:** Ancestors And Distance  
 **LeetCode:** #2096  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/
-- Difficulty: Medium
-- Topics: String, Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

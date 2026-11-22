@@ -1,7 +1,7 @@
-# LongestRepeatingCharacterReplacement — 424
+# Longest Repeating Character Replacement — 424
 
 **Data Structure:** String  
-**Pattern:** SlidingWindow  
+**Pattern:** Sliding Window  
 **LeetCode:** #424  
 **Status:** Not Started
 

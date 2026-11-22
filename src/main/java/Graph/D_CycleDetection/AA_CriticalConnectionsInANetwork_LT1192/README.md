@@ -1,7 +1,7 @@
-# CriticalConnectionsInANetwork — 1192
+# Critical Connections In ANetwork — 1192
 
 **Data Structure:** Graph  
-**Pattern:** Advanced  
+**Pattern:** Cycle Detection  
 **LeetCode:** #1192  
 **Status:** Not Started
 

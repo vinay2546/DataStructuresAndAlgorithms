@@ -1,15 +1,13 @@
-# 3887. Incremental Even-Weighted Cycle Queries
+# Incremental Even Weighted Cycle Queries — 3887
 
 **Data Structure:** Graph  
-**Pattern:** CycleDetection  
+**Pattern:** Cycle Detection  
 **LeetCode:** #3887  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/incremental-even-weighted-cycle-queries/
-- Difficulty: Hard
-- Topics: Union-Find, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

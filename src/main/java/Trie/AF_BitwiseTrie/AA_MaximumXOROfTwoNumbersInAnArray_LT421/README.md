@@ -1,7 +1,7 @@
-# MaximumXOROfTwoNumbersInAnArray — 421
+# Maximum XOROf Two Numbers In An Array — 421
 
 **Data Structure:** Trie  
-**Pattern:** BitwiseTrie  
+**Pattern:** Bitwise Trie  
 **LeetCode:** #421  
 **Status:** Not Started
 

@@ -1,15 +1,13 @@
-# 3553. Minimum Weighted Subgraph With the Required Paths II
+# Minimum Weighted Subgraph With The Required Paths II — 3553
 
 **Data Structure:** Tree  
-**Pattern:** AdvancedTreeTechniques  
+**Pattern:** Advanced Tree Techniques  
 **LeetCode:** #3553  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii/
-- Difficulty: Hard
-- Topics: Array, Dynamic Programming, Bit Manipulation, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

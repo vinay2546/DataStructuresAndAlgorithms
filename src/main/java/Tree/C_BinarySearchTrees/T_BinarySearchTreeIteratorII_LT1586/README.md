@@ -1,15 +1,13 @@
-# 1586. Binary Search Tree Iterator II
+# Binary Search Tree Iterator II — 1586
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #1586  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/binary-search-tree-iterator-ii/
-- Difficulty: Medium
-- Topics: Stack, Tree, Design, Binary Search Tree, Binary Tree, Iterator
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,7 +1,7 @@
 # Sort List — 148
 
-**Data Structure:** LinkedList  
-**Pattern:** AdvancedPatterns  
+**Data Structure:** Linked List  
+**Pattern:** Advanced Patterns  
 **LeetCode:** #148  
 **Status:** Not Started
 

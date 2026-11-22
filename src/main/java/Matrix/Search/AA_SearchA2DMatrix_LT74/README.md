@@ -1,4 +1,4 @@
-# SearchA2DMatrix — 74
+# Search A2 DMatrix — 74
 
 **Data Structure:** Matrix  
 **Pattern:** Search  

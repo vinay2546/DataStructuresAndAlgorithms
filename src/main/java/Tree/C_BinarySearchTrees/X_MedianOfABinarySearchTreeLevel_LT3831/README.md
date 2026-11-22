@@ -1,15 +1,13 @@
-# 3831. Median of a Binary Search Tree Level
+# Median Of ABinary Search Tree Level — 3831
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #3831  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/median-of-a-binary-search-tree-level/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

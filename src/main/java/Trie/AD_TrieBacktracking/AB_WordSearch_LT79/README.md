@@ -1,7 +1,7 @@
-# WordSearch — 79
+# Word Search — 79
 
 **Data Structure:** Trie  
-**Pattern:** WordSearch  
+**Pattern:** Trie Backtracking  
 **LeetCode:** #79  
 **Status:** Not Started
 

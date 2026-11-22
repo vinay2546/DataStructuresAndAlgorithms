@@ -1,4 +1,4 @@
-# SlidingWindowMaximum — 239
+# Sliding Window Maximum — 239
 
 **Data Structure:** Queue  
 **Pattern:** Deque  

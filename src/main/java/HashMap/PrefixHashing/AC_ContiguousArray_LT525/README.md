@@ -1,6 +1,6 @@
-# ContiguousArray — 525
+# Contiguous Array — 525
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Prefix Hashing  
 **LeetCode:** #525  
 **Status:** Not Started

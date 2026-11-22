@@ -1,4 +1,4 @@
-# IsomorphicStrings — 205
+# Isomorphic Strings — 205
 
 **Data Structure:** String  
 **Pattern:** Hashing  

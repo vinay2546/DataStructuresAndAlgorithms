@@ -1,15 +1,13 @@
-# 1857. Largest Color Value in a Directed Graph
+# Largest Color Value In ADirected Graph — 1857
 
 **Data Structure:** Graph  
-**Pattern:** DirectedGraphs  
+**Pattern:** Directed Graphs  
 **LeetCode:** #1857  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
-- Difficulty: Hard
-- Topics: Hash Table, String, Dynamic Programming, Graph Theory, Topological Sort, Memoization, Counting, Directed Acyclic Graph
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

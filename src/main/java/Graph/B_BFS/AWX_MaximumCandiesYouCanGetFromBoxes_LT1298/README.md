@@ -1,4 +1,4 @@
-# 1298. Maximum Candies You Can Get from Boxes
+# Maximum Candies You Can Get From Boxes — 1298
 
 **Data Structure:** Graph  
 **Pattern:** BFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
-- Difficulty: Hard
-- Topics: Array, Breadth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

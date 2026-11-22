@@ -1,15 +1,13 @@
-# 672. Bulb Switcher II
+# Bulb Switcher II — 672
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #672  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/bulb-switcher-ii/
-- Difficulty: Medium
-- Topics: Math, Bit Manipulation, Depth-First Search, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

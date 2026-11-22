@@ -1,6 +1,6 @@
 # Design Skiplist — 1206
 
-**Data Structure:** LinkedList  
+**Data Structure:** Linked List  
 **Pattern:** Design  
 **LeetCode:** #1206  
 **Status:** Not Started

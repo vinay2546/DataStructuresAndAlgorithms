@@ -1,15 +1,13 @@
-# 2157. Groups of Strings
+# Groups Of Strings — 2157
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #2157  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/groups-of-strings/
-- Difficulty: Hard
-- Topics: Array, Hash Table, String, Bit Manipulation, Union-Find
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

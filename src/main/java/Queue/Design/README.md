@@ -1,6 +1,16 @@
 # Design
 
-Queue problems grouped under this pattern/category.
+## Overview
+
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — Design
@@ -15,8 +25,8 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [Dota2Senate — 649](AA_Dota2Senate_LT649/README.md) | #649 | ⬜ Not Started |
-| [FrontMiddleBackQueue — 1670](AB_FrontMiddleBackQueue_LT1670/README.md) | #1670 | ⬜ Not Started |
+| [Dota2 Senate — 649](AA_Dota2Senate_LT649/README.md) | #649 | ⬜ Not Started |
+| [Front Middle Back Queue — 1670](AB_FrontMiddleBackQueue_LT1670/README.md) | #1670 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

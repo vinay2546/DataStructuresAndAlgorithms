@@ -1,15 +1,13 @@
-# 1136. Parallel Courses
+# Parallel Courses — 1136
 
 **Data Structure:** Graph  
-**Pattern:** TopologicalSort  
+**Pattern:** Topological Sort  
 **LeetCode:** #1136  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/parallel-courses/
-- Difficulty: Medium
-- Topics: Graph Theory, Topological Sort, Directed Acyclic Graph
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 331. Verify Preorder Serialization of a Binary Tree
+# Verify Preorder Serialization Of ABinary Tree — 331
 
 **Data Structure:** Tree  
-**Pattern:** ConstructionAndSerialization  
+**Pattern:** Construction And Serialization  
 **LeetCode:** #331  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
-- Difficulty: Medium
-- Topics: String, Stack, Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

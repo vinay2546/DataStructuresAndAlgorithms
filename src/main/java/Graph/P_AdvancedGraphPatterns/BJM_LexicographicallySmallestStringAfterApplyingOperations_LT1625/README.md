@@ -1,15 +1,13 @@
-# 1625. Lexicographically Smallest String After Applying Operations
+# Lexicographically Smallest String After Applying Operations — 1625
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #1625  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
-- Difficulty: Medium
-- Topics: String, Depth-First Search, Breadth-First Search, Enumeration
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

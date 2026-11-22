@@ -1,15 +1,13 @@
-# 3543. Maximum Weighted K-Edge Path
+# Maximum Weighted KEdge Path — 3543
 
 **Data Structure:** Graph  
-**Pattern:** WeightedGraphs  
+**Pattern:** Weighted Graphs  
 **LeetCode:** #3543  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-weighted-k-edge-path/
-- Difficulty: Medium
-- Topics: Hash Table, Dynamic Programming, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

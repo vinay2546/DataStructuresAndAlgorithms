@@ -1,15 +1,13 @@
-# 2424. Longest Uploaded Prefix
+# Longest Uploaded Prefix — 2424
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #2424  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/longest-uploaded-prefix/
-- Difficulty: Medium
-- Topics: Hash Table, Binary Search, Union-Find, Design, Binary Indexed Tree, Segment Tree, Heap (Priority Queue), Ordered Set
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

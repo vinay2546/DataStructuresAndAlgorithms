@@ -1,6 +1,16 @@
-# LinkedList / Circular Linked List
+# Circular Linked List
 
-Circular traversal, insertion, and splitting.
+## Overview
+
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — I_CircularLinkedList
@@ -19,4 +29,4 @@ This tracker is generated recursively. Update the **Status** field in an individ
 | [Split ACircular Linked List — 2674](CXV_SplitACircularLinkedList_LT2674/README.md) | #2674 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

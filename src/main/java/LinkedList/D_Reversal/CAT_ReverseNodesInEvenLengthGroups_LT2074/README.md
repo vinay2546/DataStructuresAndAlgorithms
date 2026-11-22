@@ -1,6 +1,6 @@
 # Reverse Nodes In Even Length Groups — 2074
 
-**Data Structure:** LinkedList  
+**Data Structure:** Linked List  
 **Pattern:** Reversal  
 **LeetCode:** #2074  
 **Status:** Not Started

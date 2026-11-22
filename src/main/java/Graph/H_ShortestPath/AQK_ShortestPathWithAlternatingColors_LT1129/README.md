@@ -1,15 +1,13 @@
-# 1129. Shortest Path with Alternating Colors
+# Shortest Path With Alternating Colors — 1129
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #1129  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/shortest-path-with-alternating-colors/
-- Difficulty: Medium
-- Topics: Breadth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

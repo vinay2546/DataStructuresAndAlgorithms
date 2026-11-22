@@ -1,15 +1,13 @@
-# 4018. Total Sum of Interaction Cost in Tree Groups II
+# Total Sum Of Interaction Cost In Tree Groups II — 4018
 
 **Data Structure:** Tree  
-**Pattern:** TreeQueries  
+**Pattern:** Tree Queries  
 **LeetCode:** #4018  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/total-sum-of-interaction-cost-in-tree-groups-ii/
-- Difficulty: Hard
-- Topics: Array, Tree, Depth-First Search, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,7 +1,7 @@
-# MinimumWindowSubstring — 76
+# Minimum Window Substring — 76
 
 **Data Structure:** String  
-**Pattern:** SlidingWindow  
+**Pattern:** Sliding Window  
 **LeetCode:** #76  
 **Status:** Not Started
 

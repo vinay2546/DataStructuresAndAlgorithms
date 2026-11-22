@@ -1,7 +1,7 @@
 # Next Greater Node In Linked List — 1019
 
-**Data Structure:** LinkedList  
-**Pattern:** AdvancedPatterns  
+**Data Structure:** Linked List  
+**Pattern:** Advanced Patterns  
 **LeetCode:** #1019  
 **Status:** Not Started
 

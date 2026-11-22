@@ -1,7 +1,16 @@
 # Advanced
 
-String problems grouped under this category.
+## Overview
 
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — Advanced
@@ -16,11 +25,11 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [RegularExpressionMatching — 10](AA_RegularExpressionMatching_LT10/README.md) | #10 | ⬜ Not Started |
-| [WildcardMatching — 44](AB_WildcardMatching_LT44/README.md) | #44 | ⬜ Not Started |
-| [TextJustification — 68](AC_TextJustification_LT68/README.md) | #68 | ⬜ Not Started |
-| [IntegerToRoman — 12](AD_IntegerToRoman_LT12/README.md) | #12 | ⬜ Not Started |
-| [RomanToInteger — 13](AE_RomanToInteger_LT13/README.md) | #13 | ⬜ Not Started |
+| [Regular Expression Matching — 10](AA_RegularExpressionMatching_LT10/README.md) | #10 | ⬜ Not Started |
+| [Wildcard Matching — 44](AB_WildcardMatching_LT44/README.md) | #44 | ⬜ Not Started |
+| [Text Justification — 68](AC_TextJustification_LT68/README.md) | #68 | ⬜ Not Started |
+| [Integer To Roman — 12](AD_IntegerToRoman_LT12/README.md) | #12 | ⬜ Not Started |
+| [Roman To Integer — 13](AE_RomanToInteger_LT13/README.md) | #13 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

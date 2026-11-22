@@ -1,7 +1,7 @@
-# BackspaceStringCompare — 844
+# Backspace String Compare — 844
 
 **Data Structure:** String  
-**Pattern:** TwoPointers  
+**Pattern:** Two Pointers  
 **LeetCode:** #844  
 **Status:** Not Started
 

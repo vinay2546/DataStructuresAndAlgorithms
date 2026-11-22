@@ -1,7 +1,7 @@
-# ShortestPathInBinaryMatrix — 1091
+# Shortest Path In Binary Matrix — 1091
 
 **Data Structure:** Graph  
-**Pattern:** BFS  
+**Pattern:** Grid Graphs  
 **LeetCode:** #1091  
 **Status:** Not Started
 

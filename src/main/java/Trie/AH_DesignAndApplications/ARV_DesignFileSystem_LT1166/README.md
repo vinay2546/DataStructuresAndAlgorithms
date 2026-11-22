@@ -1,15 +1,13 @@
-# 1166. Design File System
+# Design File System — 1166
 
 **Data Structure:** Trie  
-**Pattern:** DesignAndApplications  
+**Pattern:** Design And Applications  
 **LeetCode:** #1166  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/design-file-system/
-- Difficulty: Medium
-- Topics: Hash Table, String, Design, Trie
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

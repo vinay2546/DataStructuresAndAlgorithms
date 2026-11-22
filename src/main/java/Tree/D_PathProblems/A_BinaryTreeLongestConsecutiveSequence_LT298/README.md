@@ -1,15 +1,13 @@
-# 298. Binary Tree Longest Consecutive Sequence
+# Binary Tree Longest Consecutive Sequence — 298
 
 **Data Structure:** Tree  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #298  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Binary Tree, DP on Trees
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

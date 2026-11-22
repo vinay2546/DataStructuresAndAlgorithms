@@ -1,4 +1,4 @@
-# 967. Numbers With Same Consecutive Differences
+# Numbers With Same Consecutive Differences — 967
 
 **Data Structure:** Graph  
 **Pattern:** BFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/numbers-with-same-consecutive-differences/
-- Difficulty: Medium
-- Topics: Backtracking, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

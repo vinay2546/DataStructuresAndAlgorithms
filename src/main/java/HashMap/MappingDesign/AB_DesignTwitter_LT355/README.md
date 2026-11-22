@@ -1,6 +1,6 @@
-# DesignTwitter — 355
+# Design Twitter — 355
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Mapping Design  
 **LeetCode:** #355  
 **Status:** Not Started

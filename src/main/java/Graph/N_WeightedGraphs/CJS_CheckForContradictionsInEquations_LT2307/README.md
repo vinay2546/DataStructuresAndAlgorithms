@@ -1,15 +1,13 @@
-# 2307. Check for Contradictions in Equations
+# Check For Contradictions In Equations — 2307
 
 **Data Structure:** Graph  
-**Pattern:** WeightedGraphs  
+**Pattern:** Weighted Graphs  
 **LeetCode:** #2307  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/check-for-contradictions-in-equations/
-- Difficulty: Hard
-- Topics: Array, String, Depth-First Search, Union-Find, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,4 +1,4 @@
-# WordSearch — 79
+# Word Search — 79
 
 **Data Structure:** Matrix  
 **Pattern:** Advanced  

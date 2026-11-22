@@ -1,4 +1,4 @@
-# 1311. Get Watched Videos by Your Friends
+# Get Watched Videos By Your Friends — 1311
 
 **Data Structure:** Graph  
 **Pattern:** BFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/get-watched-videos-by-your-friends/
-- Difficulty: Medium
-- Topics: Array, Hash Table, Breadth-First Search, Graph Theory, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 3486. Longest Special Path II
+# Longest Special Path II — 3486
 
 **Data Structure:** Tree  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #3486  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/longest-special-path-ii/
-- Difficulty: Hard
-- Topics: Array, Hash Table, Tree, Depth-First Search, Prefix Sum
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

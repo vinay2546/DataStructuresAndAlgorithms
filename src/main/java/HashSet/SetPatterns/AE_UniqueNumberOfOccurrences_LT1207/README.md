@@ -1,6 +1,6 @@
-# UniqueNumberOfOccurrences — 1207
+# Unique Number Of Occurrences — 1207
 
-**Data Structure:** HashSet  
+**Data Structure:** Hash Set  
 **Pattern:** Set Patterns  
 **LeetCode:** #1207  
 **Status:** Not Started

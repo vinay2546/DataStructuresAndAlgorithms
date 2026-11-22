@@ -1,15 +1,13 @@
-# 1947. Maximum Compatibility Score Sum
+# Maximum Compatibility Score Sum — 1947
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #1947  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-compatibility-score-sum/
-- Difficulty: Medium
-- Topics: Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask, Hungarian Algorithm, Bipartite Graph, Successive Shortest Path Algorithm, Matching (Graph), Perfect Matching, Minimum-Cost Flow, Flow Network
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

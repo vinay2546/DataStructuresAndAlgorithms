@@ -1,15 +1,13 @@
-# 2497. Maximum Star Sum of a Graph
+# Maximum Star Sum Of AGraph — 2497
 
 **Data Structure:** Graph  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #2497  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-star-sum-of-a-graph/
-- Difficulty: Medium
-- Topics: Array, Greedy, Graph Theory, Sorting, Heap (Priority Queue)
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

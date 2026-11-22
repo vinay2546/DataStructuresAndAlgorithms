@@ -1,15 +1,13 @@
-# 1998. GCD Sort of an Array
+# GCDSort Of An Array — 1998
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #1998  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/gcd-sort-of-an-array/
-- Difficulty: Hard
-- Topics: Array, Math, Union-Find, Sorting, Number Theory, Prime Factorization, Euclidean Algorithm, Greatest Common Divisor
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

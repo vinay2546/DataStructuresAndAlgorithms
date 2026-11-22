@@ -1,15 +1,13 @@
-# 565. Array Nesting
+# Array Nesting — 565
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #565  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/array-nesting/
-- Difficulty: Medium
-- Topics: Array, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

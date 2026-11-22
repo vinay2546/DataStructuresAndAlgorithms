@@ -1,15 +1,13 @@
-# 3690. Split and Merge Array Transformation
+# Split And Merge Array Transformation — 3690
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3690  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/split-and-merge-array-transformation/
-- Difficulty: Medium
-- Topics: Array, Hash Table, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

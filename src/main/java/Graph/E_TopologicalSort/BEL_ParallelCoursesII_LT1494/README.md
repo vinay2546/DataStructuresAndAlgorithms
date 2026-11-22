@@ -1,15 +1,13 @@
-# 1494. Parallel Courses II
+# Parallel Courses II — 1494
 
 **Data Structure:** Graph  
-**Pattern:** TopologicalSort  
+**Pattern:** Topological Sort  
 **LeetCode:** #1494  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/parallel-courses-ii/
-- Difficulty: Hard
-- Topics: Dynamic Programming, Bit Manipulation, Graph Theory, Bitmask, Directed Acyclic Graph
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 1923. Longest Common Subpath
+# Longest Common Subpath — 1923
 
 **Data Structure:** Trie  
-**Pattern:** StringAlgorithms  
+**Pattern:** String Algorithms  
 **LeetCode:** #1923  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/longest-common-subpath/
-- Difficulty: Hard
-- Topics: Array, Binary Search, Rolling Hash, Suffix Array, Hash Function, Suffix Automaton, Suffix Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

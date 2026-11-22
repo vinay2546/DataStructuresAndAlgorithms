@@ -1,15 +1,13 @@
-# 1469. Find All The Lonely Nodes
+# Find All The Lonely Nodes — 1469
 
 **Data Structure:** Tree  
-**Pattern:** SubtreeAndAggregation  
+**Pattern:** Subtree And Aggregation  
 **LeetCode:** #1469  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-all-the-lonely-nodes/
-- Difficulty: Easy
-- Topics: Tree, Depth-First Search, Breadth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

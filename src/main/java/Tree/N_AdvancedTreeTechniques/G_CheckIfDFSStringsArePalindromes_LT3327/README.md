@@ -1,15 +1,13 @@
-# 3327. Check if DFS Strings Are Palindromes
+# Check If DFSStrings Are Palindromes — 3327
 
 **Data Structure:** Tree  
-**Pattern:** AdvancedTreeTechniques  
+**Pattern:** Advanced Tree Techniques  
 **LeetCode:** #3327  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/
-- Difficulty: Hard
-- Topics: Array, Hash Table, String, Tree, Depth-First Search, Hash Function
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

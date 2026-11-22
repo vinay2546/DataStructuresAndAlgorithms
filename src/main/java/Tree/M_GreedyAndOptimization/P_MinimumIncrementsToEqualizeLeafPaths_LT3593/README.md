@@ -1,15 +1,13 @@
-# 3593. Minimum Increments to Equalize Leaf Paths
+# Minimum Increments To Equalize Leaf Paths — 3593
 
 **Data Structure:** Tree  
-**Pattern:** GreedyAndOptimization  
+**Pattern:** Greedy And Optimization  
 **LeetCode:** #3593  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-increments-to-equalize-leaf-paths/
-- Difficulty: Medium
-- Topics: Array, Dynamic Programming, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

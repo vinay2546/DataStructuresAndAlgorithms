@@ -1,15 +1,13 @@
-# 1233. Remove Sub-Folders from the Filesystem
+# Remove Sub Folders From The Filesystem — 1233
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #1233  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
-- Difficulty: Medium
-- Topics: Array, String, Depth-First Search, Trie
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

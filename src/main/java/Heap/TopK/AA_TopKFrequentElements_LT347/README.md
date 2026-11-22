@@ -1,7 +1,7 @@
-# TopKFrequentElements — 347
+# Top KFrequent Elements — 347
 
 **Data Structure:** Heap  
-**Pattern:** TopK  
+**Pattern:** Top K  
 **LeetCode:** #347  
 **Status:** Not Started
 

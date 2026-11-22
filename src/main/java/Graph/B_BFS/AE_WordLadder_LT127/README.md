@@ -1,4 +1,4 @@
-# WordLadder — 127
+# Word Ladder — 127
 
 **Data Structure:** Graph  
 **Pattern:** BFS  

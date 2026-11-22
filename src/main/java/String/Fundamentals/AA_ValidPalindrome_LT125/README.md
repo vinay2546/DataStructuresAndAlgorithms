@@ -1,4 +1,4 @@
-# ValidPalindrome — 125
+# Valid Palindrome — 125
 
 **Data Structure:** String  
 **Pattern:** Fundamentals  

@@ -1,4 +1,4 @@
-# 1202. Smallest String With Swaps
+# Smallest String With Swaps — 1202
 
 **Data Structure:** Graph  
 **Pattern:** Fundamentals  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/smallest-string-with-swaps/
-- Difficulty: Medium
-- Topics: Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union-Find, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

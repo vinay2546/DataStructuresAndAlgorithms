@@ -1,4 +1,4 @@
-# 1654. Minimum Jumps to Reach Home
+# Minimum Jumps To Reach Home — 1654
 
 **Data Structure:** Graph  
 **Pattern:** BFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-jumps-to-reach-home/
-- Difficulty: Medium
-- Topics: Array, Hash Table, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

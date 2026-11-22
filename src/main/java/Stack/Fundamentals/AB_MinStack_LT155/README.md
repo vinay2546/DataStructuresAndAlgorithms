@@ -1,4 +1,4 @@
-# MinStack — 155
+# Min Stack — 155
 
 **Data Structure:** Stack  
 **Pattern:** Fundamentals  

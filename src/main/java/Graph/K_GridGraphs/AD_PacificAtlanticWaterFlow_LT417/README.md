@@ -1,7 +1,7 @@
-# PacificAtlanticWaterFlow — 417
+# Pacific Atlantic Water Flow — 417
 
 **Data Structure:** Graph  
-**Pattern:** DFS  
+**Pattern:** Grid Graphs  
 **LeetCode:** #417  
 **Status:** Not Started
 

@@ -1,4 +1,4 @@
-# ConstrainedSubsequenceSum — 1425
+# Constrained Subsequence Sum — 1425
 
 **Data Structure:** Queue  
 **Pattern:** Deque  

@@ -1,15 +1,13 @@
-# 1938. Maximum Genetic Difference Query
+# Maximum Genetic Difference Query — 1938
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #1938  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-genetic-difference-query/
-- Difficulty: Hard
-- Topics: Array, Hash Table, Bit Manipulation, Depth-First Search, Trie
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

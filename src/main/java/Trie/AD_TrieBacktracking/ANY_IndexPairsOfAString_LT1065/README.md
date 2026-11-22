@@ -1,15 +1,13 @@
-# 1065. Index Pairs of a String
+# Index Pairs Of AString — 1065
 
 **Data Structure:** Trie  
-**Pattern:** TrieBacktracking  
+**Pattern:** Trie Backtracking  
 **LeetCode:** #1065  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/index-pairs-of-a-string/
-- Difficulty: Easy
-- Topics: Array, String, Trie, Sorting, Aho–Corasick Algorithm
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

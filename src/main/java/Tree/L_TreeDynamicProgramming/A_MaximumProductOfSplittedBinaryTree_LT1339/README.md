@@ -1,15 +1,13 @@
-# 1339. Maximum Product of Splitted Binary Tree
+# Maximum Product Of Splitted Binary Tree — 1339
 
 **Data Structure:** Tree  
-**Pattern:** TreeDynamicProgramming  
+**Pattern:** Tree Dynamic Programming  
 **LeetCode:** #1339  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

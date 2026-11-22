@@ -1,6 +1,6 @@
-# TimeBasedKeyValueStore — 981
+# Time Based Key Value Store — 981
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Mapping Design  
 **LeetCode:** #981  
 **Status:** Not Started

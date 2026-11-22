@@ -1,15 +1,13 @@
-# 2924. Find Champion II
+# Find Champion II — 2924
 
 **Data Structure:** Graph  
-**Pattern:** DirectedGraphs  
+**Pattern:** Directed Graphs  
 **LeetCode:** #2924  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-champion-ii/
-- Difficulty: Medium
-- Topics: Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

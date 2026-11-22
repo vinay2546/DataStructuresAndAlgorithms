@@ -1,7 +1,7 @@
 # Sort Linked List Already Sorted Using Absolute Values — 2046
 
-**Data Structure:** LinkedList  
-**Pattern:** AdvancedPatterns  
+**Data Structure:** Linked List  
+**Pattern:** Advanced Patterns  
 **LeetCode:** #2046  
 **Status:** Not Started
 

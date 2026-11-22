@@ -1,4 +1,4 @@
-# 1215. Stepping Numbers
+# Stepping Numbers — 1215
 
 **Data Structure:** Graph  
 **Pattern:** BFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/stepping-numbers/
-- Difficulty: Medium
-- Topics: Math, Backtracking, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

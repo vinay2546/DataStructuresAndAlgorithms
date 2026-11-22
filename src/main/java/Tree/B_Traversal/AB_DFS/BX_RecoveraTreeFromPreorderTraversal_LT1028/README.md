@@ -1,4 +1,4 @@
-# 1028. Recovera Tree From Preorder Traversal
+# Recovera Tree From Preorder Traversal — 1028
 
 **Data Structure:** Tree  
 **Pattern:** DFS  
@@ -7,41 +7,21 @@
 
 ## Problem
 
-[LeetCode 1028](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
+Add the problem statement or LeetCode link here.
 
 ## Approach
 
-Implementation not added yet. The folder is ready for the solution.
+Add a brief explanation of the chosen approach.
 
 ## Algorithm
 
-1. Traverse the tree using depth-first traversal.
-2. Apply the problem-specific condition or aggregation.
-3. Return the required result.
+1. Add the solution steps.
 
 ## Complexity
 
-- **Time:** —
-- **Space:** —
+- **Time:** Add time complexity.
+- **Space:** Add space complexity.
 
 ## Solution
 
 See [Solution.java](./Solution.java).
-
----
-
-**Problem Order:** BX
-
-## Additional Notes
-
-### Status
-
-**Placeholder**
-
-### Data Structure
-
-**Tree**
-
-### Pattern
-
-**DFS — Depth-First Search**

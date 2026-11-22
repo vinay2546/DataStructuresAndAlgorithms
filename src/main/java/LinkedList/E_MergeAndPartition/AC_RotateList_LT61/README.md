@@ -1,7 +1,7 @@
 # Rotate List — 61
 
-**Data Structure:** LinkedList  
-**Pattern:** MergeAndPartition  
+**Data Structure:** Linked List  
+**Pattern:** Merge And Partition  
 **LeetCode:** #61  
 **Status:** Not Started
 

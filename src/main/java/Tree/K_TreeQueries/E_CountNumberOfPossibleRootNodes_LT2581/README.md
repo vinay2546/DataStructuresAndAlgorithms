@@ -1,15 +1,13 @@
-# 2581. Count Number of Possible Root Nodes
+# Count Number Of Possible Root Nodes — 2581
 
 **Data Structure:** Tree  
-**Pattern:** TreeQueries  
+**Pattern:** Tree Queries  
 **LeetCode:** #2581  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-number-of-possible-root-nodes/
-- Difficulty: Hard
-- Topics: Array, Hash Table, Dynamic Programming, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

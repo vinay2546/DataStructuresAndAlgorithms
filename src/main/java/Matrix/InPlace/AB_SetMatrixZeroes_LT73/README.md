@@ -1,7 +1,7 @@
-# SetMatrixZeroes — 73
+# Set Matrix Zeroes — 73
 
 **Data Structure:** Matrix  
-**Pattern:** InPlace  
+**Pattern:** In Place  
 **LeetCode:** #73  
 **Status:** Not Started
 

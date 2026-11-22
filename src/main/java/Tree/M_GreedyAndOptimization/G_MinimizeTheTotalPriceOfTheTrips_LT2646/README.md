@@ -1,15 +1,13 @@
-# 2646. Minimize the Total Price of the Trips
+# Minimize The Total Price Of The Trips — 2646
 
 **Data Structure:** Tree  
-**Pattern:** GreedyAndOptimization  
+**Pattern:** Greedy And Optimization  
 **LeetCode:** #2646  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimize-the-total-price-of-the-trips/
-- Difficulty: Hard
-- Topics: Array, Dynamic Programming, Tree, Depth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

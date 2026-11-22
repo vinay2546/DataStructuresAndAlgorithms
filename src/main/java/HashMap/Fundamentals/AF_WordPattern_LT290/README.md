@@ -1,6 +1,6 @@
-# WordPattern — 290
+# Word Pattern — 290
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Fundamentals  
 **LeetCode:** #290  
 **Status:** Not Started

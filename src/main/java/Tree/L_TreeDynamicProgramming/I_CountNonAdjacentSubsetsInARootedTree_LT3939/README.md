@@ -1,15 +1,13 @@
-# 3939. Count Non Adjacent Subsets in a Rooted Tree
+# Count Non Adjacent Subsets In ARooted Tree — 3939
 
 **Data Structure:** Tree  
-**Pattern:** TreeDynamicProgramming  
+**Pattern:** Tree Dynamic Programming  
 **LeetCode:** #3939  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-non-adjacent-subsets-in-a-rooted-tree/
-- Difficulty: Hard
-- Topics: Array, Dynamic Programming, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

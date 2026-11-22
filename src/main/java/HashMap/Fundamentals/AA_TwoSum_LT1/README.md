@@ -1,6 +1,6 @@
-# TwoSum — 1
+# Two Sum — 1
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Fundamentals  
 **LeetCode:** #1  
 **Status:** Not Started

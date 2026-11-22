@@ -1,15 +1,13 @@
-# 1928. Minimum Cost to Reach Destination in Time
+# Minimum Cost To Reach Destination In Time — 1928
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #1928  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/
-- Difficulty: Hard
-- Topics: Array, Dynamic Programming, Graph Theory, Dijkstra's Algorithm
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

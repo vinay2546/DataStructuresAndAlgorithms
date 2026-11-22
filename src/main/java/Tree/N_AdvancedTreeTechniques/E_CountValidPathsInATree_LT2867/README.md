@@ -1,15 +1,13 @@
-# 2867. Count Valid Paths in a Tree
+# Count Valid Paths In ATree — 2867
 
 **Data Structure:** Tree  
-**Pattern:** AdvancedTreeTechniques  
+**Pattern:** Advanced Tree Techniques  
 **LeetCode:** #2867  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-valid-paths-in-a-tree/
-- Difficulty: Hard
-- Topics: Math, Dynamic Programming, Tree, Depth-First Search, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

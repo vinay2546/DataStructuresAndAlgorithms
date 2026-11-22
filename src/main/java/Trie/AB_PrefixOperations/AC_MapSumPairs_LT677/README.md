@@ -1,7 +1,7 @@
-# MapSumPairs — 677
+# Map Sum Pairs — 677
 
 **Data Structure:** Trie  
-**Pattern:** PrefixSearch  
+**Pattern:** Prefix Operations  
 **LeetCode:** #677  
 **Status:** Not Started
 

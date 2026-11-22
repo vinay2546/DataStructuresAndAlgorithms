@@ -1,4 +1,4 @@
-# TransposeMatrix — 867
+# Transpose Matrix — 867
 
 **Data Structure:** Matrix  
 **Pattern:** Fundamentals  

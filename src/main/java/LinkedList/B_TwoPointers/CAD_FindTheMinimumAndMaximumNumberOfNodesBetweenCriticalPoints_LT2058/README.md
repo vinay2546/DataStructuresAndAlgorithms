@@ -1,7 +1,7 @@
 # Find The Minimum And Maximum Number Of Nodes Between Critical Points — 2058
 
-**Data Structure:** LinkedList  
-**Pattern:** TwoPointers  
+**Data Structure:** Linked List  
+**Pattern:** Two Pointers  
 **LeetCode:** #2058  
 **Status:** Not Started
 

@@ -1,15 +1,13 @@
-# 1372. Longest ZigZag Path in a Binary Tree
+# Longest Zig Zag Path In ABinary Tree — 1372
 
 **Data Structure:** Tree  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #1372  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
-- Difficulty: Medium
-- Topics: Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

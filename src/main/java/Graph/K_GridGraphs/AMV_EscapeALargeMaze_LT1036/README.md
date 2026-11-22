@@ -1,15 +1,13 @@
-# 1036. Escape a Large Maze
+# Escape ALarge Maze — 1036
 
 **Data Structure:** Graph  
-**Pattern:** GridGraphs  
+**Pattern:** Grid Graphs  
 **LeetCode:** #1036  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/escape-a-large-maze/
-- Difficulty: Hard
-- Topics: Array, Hash Table, Depth-First Search, Breadth-First Search, Bidirectional Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

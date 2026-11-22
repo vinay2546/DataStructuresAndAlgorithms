@@ -1,4 +1,4 @@
-# 3608. Minimum Time for K Connected Components
+# Minimum Time For KConnected Components — 3608
 
 **Data Structure:** Graph  
 **Pattern:** Fundamentals  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-time-for-k-connected-components/
-- Difficulty: Medium
-- Topics: Binary Search, Union-Find, Graph Theory, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

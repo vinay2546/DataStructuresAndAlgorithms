@@ -1,15 +1,13 @@
-# 3493. Properties Graph
+# Properties Graph — 3493
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3493  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/properties-graph/
-- Difficulty: Medium
-- Topics: Array, Hash Table, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

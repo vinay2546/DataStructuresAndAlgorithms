@@ -1,7 +1,7 @@
-# BusRoutes — 815
+# Bus Routes — 815
 
 **Data Structure:** Graph  
-**Pattern:** Advanced  
+**Pattern:** Advanced Traversal  
 **LeetCode:** #815  
 **Status:** Not Started
 

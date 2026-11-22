@@ -1,4 +1,4 @@
-# ValidParentheses — 20
+# Valid Parentheses — 20
 
 **Data Structure:** Stack  
 **Pattern:** Fundamentals  

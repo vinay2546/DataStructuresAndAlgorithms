@@ -1,15 +1,13 @@
-# 2876. Count Visited Nodes in a Directed Graph
+# Count Visited Nodes In ADirected Graph — 2876
 
 **Data Structure:** Graph  
-**Pattern:** DirectedGraphs  
+**Pattern:** Directed Graphs  
 **LeetCode:** #2876  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/
-- Difficulty: Hard
-- Topics: Dynamic Programming, Depth-First Search, Graph Theory, Topological Sort, Memoization, Kosaraju's Algorithm, Tarjan's SCC Algorithm
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

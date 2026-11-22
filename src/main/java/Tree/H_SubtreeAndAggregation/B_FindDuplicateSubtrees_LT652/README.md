@@ -1,15 +1,13 @@
-# 652. Find Duplicate Subtrees
+# Find Duplicate Subtrees — 652
 
 **Data Structure:** Tree  
-**Pattern:** SubtreeAndAggregation  
+**Pattern:** Subtree And Aggregation  
 **LeetCode:** #652  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-duplicate-subtrees/
-- Difficulty: Medium
-- Topics: Hash Table, Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

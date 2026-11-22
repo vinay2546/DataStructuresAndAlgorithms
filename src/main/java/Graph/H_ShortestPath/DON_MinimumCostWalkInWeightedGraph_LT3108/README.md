@@ -1,15 +1,13 @@
-# 3108. Minimum Cost Walk in Weighted Graph
+# Minimum Cost Walk In Weighted Graph — 3108
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #3108  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/
-- Difficulty: Hard
-- Topics: Array, Bit Manipulation, Union-Find, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

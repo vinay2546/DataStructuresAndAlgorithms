@@ -1,7 +1,7 @@
 # Flatten AMultilevel Doubly Linked List — 430
 
-**Data Structure:** LinkedList  
-**Pattern:** DoublyLinkedList  
+**Data Structure:** Linked List  
+**Pattern:** Doubly Linked List  
 **LeetCode:** #430  
 **Status:** Not Started
 

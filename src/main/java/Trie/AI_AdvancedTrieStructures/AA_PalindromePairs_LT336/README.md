@@ -1,7 +1,7 @@
-# PalindromePairs — 336
+# Palindrome Pairs — 336
 
 **Data Structure:** Trie  
-**Pattern:** Advanced  
+**Pattern:** Advanced Trie Structures  
 **LeetCode:** #336  
 **Status:** Not Started
 

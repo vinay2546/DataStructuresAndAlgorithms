@@ -1,6 +1,6 @@
 # Linked List Random Node — 382
 
-**Data Structure:** LinkedList  
+**Data Structure:** Linked List  
 **Pattern:** Fundamentals  
 **LeetCode:** #382  
 **Status:** Not Started

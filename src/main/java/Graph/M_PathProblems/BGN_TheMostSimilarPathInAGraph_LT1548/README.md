@@ -1,15 +1,13 @@
-# 1548. The Most Similar Path in a Graph
+# The Most Similar Path In AGraph — 1548
 
 **Data Structure:** Graph  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #1548  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/the-most-similar-path-in-a-graph/
-- Difficulty: Hard
-- Topics: Array, String, Dynamic Programming, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

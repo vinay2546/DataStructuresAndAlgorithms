@@ -1,6 +1,6 @@
-# ValidSudoku — 36
+# Valid Sudoku — 36
 
-**Data Structure:** HashSet  
+**Data Structure:** Hash Set  
 **Pattern:** Fundamentals  
 **LeetCode:** #36  
 **Status:** Not Started

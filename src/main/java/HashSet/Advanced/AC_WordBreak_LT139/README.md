@@ -1,6 +1,6 @@
-# WordBreak — 139
+# Word Break — 139
 
-**Data Structure:** HashSet  
+**Data Structure:** Hash Set  
 **Pattern:** Advanced  
 **LeetCode:** #139  
 **Status:** Not Started

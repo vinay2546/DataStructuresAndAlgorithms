@@ -1,6 +1,6 @@
-# LongestConsecutiveSequence — 128
+# Longest Consecutive Sequence — 128
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Prefix Hashing  
 **LeetCode:** #128  
 **Status:** Not Started

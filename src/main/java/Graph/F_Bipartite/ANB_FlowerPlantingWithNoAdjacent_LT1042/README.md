@@ -1,4 +1,4 @@
-# 1042. Flower Planting With No Adjacent
+# Flower Planting With No Adjacent — 1042
 
 **Data Structure:** Graph  
 **Pattern:** Bipartite  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/flower-planting-with-no-adjacent/
-- Difficulty: Medium
-- Topics: Depth-First Search, Breadth-First Search, Graph Theory, Graph Coloring
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

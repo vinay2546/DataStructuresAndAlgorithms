@@ -1,15 +1,13 @@
-# 3004. Maximum Subtree of the Same Color
+# Maximum Subtree Of The Same Color — 3004
 
 **Data Structure:** Tree  
-**Pattern:** TransformationAndModification  
+**Pattern:** Transformation And Modification  
 **LeetCode:** #3004  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-subtree-of-the-same-color/
-- Difficulty: Medium
-- Topics: Array, Dynamic Programming, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

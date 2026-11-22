@@ -1,15 +1,13 @@
-# 2076. Process Restricted Friend Requests
+# Process Restricted Friend Requests — 2076
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #2076  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/process-restricted-friend-requests/
-- Difficulty: Hard
-- Topics: Union-Find, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

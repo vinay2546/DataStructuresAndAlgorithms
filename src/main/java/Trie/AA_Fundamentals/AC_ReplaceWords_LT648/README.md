@@ -1,4 +1,4 @@
-# ReplaceWords — 648
+# Replace Words — 648
 
 **Data Structure:** Trie  
 **Pattern:** Fundamentals  

@@ -1,6 +1,16 @@
-# LinkedList / Advanced Patterns
+# Advanced Patterns
 
-Prefix sums, monotonic stacks, sorting, and advanced pointer combinations.
+## Overview
+
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — G_AdvancedPatterns
@@ -29,4 +39,4 @@ This tracker is generated recursively. Update the **Status** field in an individ
 | [Minimum Pair Removal To Sort Array II — 3510](EDZ_MinimumPairRemovalToSortArrayII_LT3510/README.md) | #3510 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

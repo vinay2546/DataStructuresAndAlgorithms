@@ -1,4 +1,4 @@
-# SimplifyPath — 71
+# Simplify Path — 71
 
 **Data Structure:** Stack  
 **Pattern:** Parsing  

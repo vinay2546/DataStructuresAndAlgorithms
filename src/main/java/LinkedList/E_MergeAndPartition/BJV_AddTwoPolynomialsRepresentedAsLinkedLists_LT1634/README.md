@@ -1,7 +1,7 @@
 # Add Two Polynomials Represented As Linked Lists — 1634
 
-**Data Structure:** LinkedList  
-**Pattern:** MergeAndPartition  
+**Data Structure:** Linked List  
+**Pattern:** Merge And Partition  
 **LeetCode:** #1634  
 **Status:** Not Started
 

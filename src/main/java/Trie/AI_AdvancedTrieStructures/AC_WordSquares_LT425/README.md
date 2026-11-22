@@ -1,7 +1,7 @@
-# WordSquares — 425
+# Word Squares — 425
 
 **Data Structure:** Trie  
-**Pattern:** Advanced  
+**Pattern:** Advanced Trie Structures  
 **LeetCode:** #425  
 **Status:** Not Started
 

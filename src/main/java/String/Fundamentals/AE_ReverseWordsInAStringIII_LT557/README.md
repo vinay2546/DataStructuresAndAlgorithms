@@ -1,4 +1,4 @@
-# ReverseWordsInAStringIII — 557
+# Reverse Words In AString III — 557
 
 **Data Structure:** String  
 **Pattern:** Fundamentals  

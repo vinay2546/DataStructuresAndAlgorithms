@@ -1,15 +1,13 @@
-# 971. Flip Binary Tree To Match Preorder Traversal
+# Flip Binary Tree To Match Preorder Traversal — 971
 
 **Data Structure:** Tree  
-**Pattern:** TransformationAndModification  
+**Pattern:** Transformation And Modification  
 **LeetCode:** #971  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

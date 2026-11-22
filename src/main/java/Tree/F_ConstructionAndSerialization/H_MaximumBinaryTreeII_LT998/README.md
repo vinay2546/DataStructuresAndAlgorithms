@@ -1,15 +1,13 @@
-# 998. Maximum Binary Tree II
+# Maximum Binary Tree II — 998
 
 **Data Structure:** Tree  
-**Pattern:** ConstructionAndSerialization  
+**Pattern:** Construction And Serialization  
 **LeetCode:** #998  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-binary-tree-ii/
-- Difficulty: Medium
-- Topics: Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

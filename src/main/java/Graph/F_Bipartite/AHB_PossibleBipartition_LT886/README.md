@@ -1,4 +1,4 @@
-# 886. Possible Bipartition
+# Possible Bipartition — 886
 
 **Data Structure:** Graph  
 **Pattern:** Bipartite  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/possible-bipartition/
-- Difficulty: Medium
-- Topics: Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Graph Coloring, Bipartite Graph
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

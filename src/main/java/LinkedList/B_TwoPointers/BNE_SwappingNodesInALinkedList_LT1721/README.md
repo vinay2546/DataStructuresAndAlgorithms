@@ -1,7 +1,7 @@
 # Swapping Nodes In ALinked List — 1721
 
-**Data Structure:** LinkedList  
-**Pattern:** TwoPointers  
+**Data Structure:** Linked List  
+**Pattern:** Two Pointers  
 **LeetCode:** #1721  
 **Status:** Not Started
 

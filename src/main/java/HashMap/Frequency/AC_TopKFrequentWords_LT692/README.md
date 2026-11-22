@@ -1,6 +1,6 @@
-# TopKFrequentWords — 692
+# Top KFrequent Words — 692
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Frequency  
 **LeetCode:** #692  
 **Status:** Not Started

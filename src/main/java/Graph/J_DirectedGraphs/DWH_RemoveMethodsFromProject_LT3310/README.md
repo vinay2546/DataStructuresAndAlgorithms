@@ -1,15 +1,13 @@
-# 3310. Remove Methods From Project
+# Remove Methods From Project — 3310
 
 **Data Structure:** Graph  
-**Pattern:** DirectedGraphs  
+**Pattern:** Directed Graphs  
 **LeetCode:** #3310  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/remove-methods-from-project/
-- Difficulty: Medium
-- Topics: Depth-First Search, Breadth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

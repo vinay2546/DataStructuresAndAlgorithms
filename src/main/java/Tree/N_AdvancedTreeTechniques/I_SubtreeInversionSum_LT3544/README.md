@@ -1,15 +1,13 @@
-# 3544. Subtree Inversion Sum
+# Subtree Inversion Sum — 3544
 
 **Data Structure:** Tree  
-**Pattern:** AdvancedTreeTechniques  
+**Pattern:** Advanced Tree Techniques  
 **LeetCode:** #3544  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/subtree-inversion-sum/
-- Difficulty: Hard
-- Topics: Array, Dynamic Programming, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 1506. Find Root of N-Ary Tree
+# Find Root Of NAry Tree — 1506
 
 **Data Structure:** Tree  
-**Pattern:** SpecialTreesAndHierarchies  
+**Pattern:** Special Trees And Hierarchies  
 **LeetCode:** #1506  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-root-of-n-ary-tree/
-- Difficulty: Medium
-- Topics: Hash Table, Bit Manipulation, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

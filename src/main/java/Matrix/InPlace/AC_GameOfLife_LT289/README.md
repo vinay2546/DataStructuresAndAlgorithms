@@ -1,7 +1,7 @@
-# GameOfLife — 289
+# Game Of Life — 289
 
 **Data Structure:** Matrix  
-**Pattern:** InPlace  
+**Pattern:** In Place  
 **LeetCode:** #289  
 **Status:** Not Started
 

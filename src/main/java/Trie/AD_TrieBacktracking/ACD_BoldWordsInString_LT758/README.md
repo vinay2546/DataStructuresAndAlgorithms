@@ -1,15 +1,13 @@
-# 758. Bold Words in String
+# Bold Words In String — 758
 
 **Data Structure:** Trie  
-**Pattern:** TrieBacktracking  
+**Pattern:** Trie Backtracking  
 **LeetCode:** #758  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/bold-words-in-string/
-- Difficulty: Medium
-- Topics: Array, Hash Table, String, Trie, String Matching, Aho–Corasick Algorithm
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 3772. Maximum Subgraph Score in a Tree
+# Maximum Subgraph Score In ATree — 3772
 
 **Data Structure:** Tree  
-**Pattern:** TreeDynamicProgramming  
+**Pattern:** Tree Dynamic Programming  
 **LeetCode:** #3772  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-subgraph-score-in-a-tree/
-- Difficulty: Hard
-- Topics: Array, Dynamic Programming, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
+# Remove Max Number Of Edges To Keep Graph Fully Traversable — 1579
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #1579  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
-- Difficulty: Hard
-- Topics: Union-Find, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

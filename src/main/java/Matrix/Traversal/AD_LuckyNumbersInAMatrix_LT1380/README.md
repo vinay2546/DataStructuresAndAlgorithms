@@ -1,4 +1,4 @@
-# LuckyNumbersInAMatrix — 1380
+# Lucky Numbers In AMatrix — 1380
 
 **Data Structure:** Matrix  
 **Pattern:** Traversal  

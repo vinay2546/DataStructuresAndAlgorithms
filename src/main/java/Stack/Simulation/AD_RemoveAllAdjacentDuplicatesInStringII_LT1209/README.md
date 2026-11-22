@@ -1,4 +1,4 @@
-# RemoveAllAdjacentDuplicatesInStringII — 1209
+# Remove All Adjacent Duplicates In String II — 1209
 
 **Data Structure:** Stack  
 **Pattern:** Simulation  

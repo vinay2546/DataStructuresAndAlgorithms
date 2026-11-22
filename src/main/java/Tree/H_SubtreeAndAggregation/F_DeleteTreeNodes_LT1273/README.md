@@ -1,15 +1,13 @@
-# 1273. Delete Tree Nodes
+# Delete Tree Nodes — 1273
 
 **Data Structure:** Tree  
-**Pattern:** SubtreeAndAggregation  
+**Pattern:** Subtree And Aggregation  
 **LeetCode:** #1273  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/delete-tree-nodes/
-- Difficulty: Medium
-- Topics: Array, Tree, Depth-First Search, Breadth-First Search, DP on Trees
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,7 +1,16 @@
 # Fundamentals
 
-Matrix problems grouped under this category.
+## Overview
 
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — Fundamentals
@@ -16,11 +25,11 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [RichestCustomerWealth — 1672](AA_RichestCustomerWealth_LT1672/README.md) | #1672 | ⬜ Not Started |
-| [MatrixDiagonalSum — 1572](AB_MatrixDiagonalSum_LT1572/README.md) | #1572 | ⬜ Not Started |
-| [TransposeMatrix — 867](AC_TransposeMatrix_LT867/README.md) | #867 | ⬜ Not Started |
-| [ReshapeTheMatrix — 566](AD_ReshapeTheMatrix_LT566/README.md) | #566 | ⬜ Not Started |
-| [ToeplitzMatrix — 766](AE_ToeplitzMatrix_LT766/README.md) | #766 | ⬜ Not Started |
+| [Richest Customer Wealth — 1672](AA_RichestCustomerWealth_LT1672/README.md) | #1672 | ⬜ Not Started |
+| [Matrix Diagonal Sum — 1572](AB_MatrixDiagonalSum_LT1572/README.md) | #1572 | ⬜ Not Started |
+| [Transpose Matrix — 867](AC_TransposeMatrix_LT867/README.md) | #867 | ⬜ Not Started |
+| [Reshape The Matrix — 566](AD_ReshapeTheMatrix_LT566/README.md) | #566 | ⬜ Not Started |
+| [Toeplitz Matrix — 766](AE_ToeplitzMatrix_LT766/README.md) | #766 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

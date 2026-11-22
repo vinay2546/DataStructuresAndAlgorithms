@@ -1,15 +1,13 @@
-# 765. Couples Holding Hands
+# Couples Holding Hands — 765
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #765  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/couples-holding-hands/
-- Difficulty: Hard
-- Topics: Greedy, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 3372. Maximize the Number of Target Nodes After Connecting Trees I
+# Maximize The Number Of Target Nodes After Connecting Trees I — 3372
 
 **Data Structure:** Tree  
-**Pattern:** TreeQueries  
+**Pattern:** Tree Queries  
 **LeetCode:** #3372  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

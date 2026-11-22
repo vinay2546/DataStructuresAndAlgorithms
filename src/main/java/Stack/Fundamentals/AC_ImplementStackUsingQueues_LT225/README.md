@@ -1,4 +1,4 @@
-# ImplementStackUsingQueues — 225
+# Implement Stack Using Queues — 225
 
 **Data Structure:** Stack  
 **Pattern:** Fundamentals  

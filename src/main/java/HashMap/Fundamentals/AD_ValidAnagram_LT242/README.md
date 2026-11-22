@@ -1,6 +1,6 @@
-# ValidAnagram — 242
+# Valid Anagram — 242
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Fundamentals  
 **LeetCode:** #242  
 **Status:** Not Started

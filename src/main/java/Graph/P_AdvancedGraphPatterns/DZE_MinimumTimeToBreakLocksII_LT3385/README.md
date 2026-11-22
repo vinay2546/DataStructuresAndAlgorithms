@@ -1,15 +1,13 @@
-# 3385. Minimum Time to Break Locks II
+# Minimum Time To Break Locks II — 3385
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3385  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-time-to-break-locks-ii/
-- Difficulty: Hard
-- Topics: Array, Breadth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

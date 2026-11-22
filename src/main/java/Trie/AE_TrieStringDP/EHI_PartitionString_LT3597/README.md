@@ -1,15 +1,13 @@
-# 3597. Partition String
+# Partition String — 3597
 
 **Data Structure:** Trie  
-**Pattern:** TrieStringDP  
+**Pattern:** Trie String DP  
 **LeetCode:** #3597  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/partition-string/
-- Difficulty: Medium
-- Topics: Hash Table, String, Trie, Simulation
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

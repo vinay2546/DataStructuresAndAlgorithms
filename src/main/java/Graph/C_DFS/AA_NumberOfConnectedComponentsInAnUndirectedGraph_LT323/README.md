@@ -1,7 +1,7 @@
-# NumberOfConnectedComponentsInAnUndirectedGraph — 323
+# Number Of Connected Components In An Undirected Graph — 323
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** DFS  
 **LeetCode:** #323  
 **Status:** Not Started
 

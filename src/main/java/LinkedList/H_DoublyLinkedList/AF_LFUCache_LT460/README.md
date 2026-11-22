@@ -1,7 +1,7 @@
 # LFUCache — 460
 
-**Data Structure:** LinkedList  
-**Pattern:** DoublyLinkedList  
+**Data Structure:** Linked List  
+**Pattern:** Doubly Linked List  
 **LeetCode:** #460  
 **Status:** Not Started
 

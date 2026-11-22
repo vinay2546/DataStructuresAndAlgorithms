@@ -1,15 +1,13 @@
-# 2492. Minimum Score of a Path Between Two Cities
+# Minimum Score Of APath Between Two Cities — 2492
 
 **Data Structure:** Graph  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #2492  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/
-- Difficulty: Medium
-- Topics: Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

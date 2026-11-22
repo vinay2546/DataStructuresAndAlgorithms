@@ -1,6 +1,6 @@
-# SortCharactersByFrequency — 451
+# Sort Characters By Frequency — 451
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Frequency  
 **LeetCode:** #451  
 **Status:** Not Started

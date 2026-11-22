@@ -1,6 +1,6 @@
 # Reverse Linked List II — 92
 
-**Data Structure:** LinkedList  
+**Data Structure:** Linked List  
 **Pattern:** Reversal  
 **LeetCode:** #92  
 **Status:** Not Started

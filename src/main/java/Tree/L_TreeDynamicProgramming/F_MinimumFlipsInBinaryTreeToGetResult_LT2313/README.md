@@ -1,15 +1,13 @@
-# 2313. Minimum Flips in Binary Tree to Get Result
+# Minimum Flips In Binary Tree To Get Result — 2313
 
 **Data Structure:** Tree  
-**Pattern:** TreeDynamicProgramming  
+**Pattern:** Tree Dynamic Programming  
 **LeetCode:** #2313  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result/
-- Difficulty: Hard
-- Topics: Dynamic Programming, Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

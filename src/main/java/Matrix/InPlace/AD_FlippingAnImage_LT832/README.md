@@ -1,7 +1,7 @@
-# FlippingAnImage — 832
+# Flipping An Image — 832
 
 **Data Structure:** Matrix  
-**Pattern:** InPlace  
+**Pattern:** In Place  
 **LeetCode:** #832  
 **Status:** Not Started
 

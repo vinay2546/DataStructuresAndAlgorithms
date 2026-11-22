@@ -1,7 +1,7 @@
-# KthLargestElementInAnArray — 215
+# Kth Largest Element In An Array — 215
 
 **Data Structure:** Heap  
-**Pattern:** MinMaxHeap  
+**Pattern:** Min Max Heap  
 **LeetCode:** #215  
 **Status:** Not Started
 
