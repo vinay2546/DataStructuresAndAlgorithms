@@ -1,20 +1,22 @@
 name: Fix Solution.java package declarations
 
 on:
-  push:
-    branches:
-      - fix/solution-package-declarations
+  pull_request:
+    types: [opened, synchronize]
+    branches: [main]
 
 permissions:
   contents: write
 
 jobs:
   fix-packages:
+    if: github.event.pull_request.head.ref == 'fix/solution-package-declarations'
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
+      - name: Check out correction branch
         uses: actions/checkout@v4
         with:
+          ref: fix/solution-package-declarations
           persist-credentials: true
 
       - name: Align package declarations with directory paths
@@ -25,7 +27,7 @@ jobs:
           import re
 
           source_root = Path("src/main/java")
-          package_pattern = re.compile(r"(?m)^package\\s+[^;]+;")
+          package_pattern = re.compile(r"(?m)^package\s+[^;]+;")
           changed = 0
           checked = 0
 
@@ -36,7 +38,7 @@ jobs:
               if package_pattern.search(original):
                   updated = package_pattern.sub(expected, original, count=1)
               else:
-                  updated = expected + "\\n\\n" + original
+                  updated = expected + "\n\n" + original
               if updated != original:
                   solution.write_text(updated, encoding="utf-8")
                   changed += 1
