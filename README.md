@@ -19,6 +19,12 @@ Java-based Data Structures and Algorithms solutions, organized by data structure
 | [String](src/main/java/String/README.md) | ⬜ |
 | [Matrix](src/main/java/Matrix/README.md) | ⬜ |
 
+<!-- PROBLEM_TRACKER:START -->
+## DSA Progress Overview
+
+The root tracker summarizes progress by data structure. Detailed problem and category trackers live in each data-structure README.
+<!-- PROBLEM_TRACKER:END -->
+
 ## Trie learning progression
 
 `Trie/AA_Fundamentals` → `AB_PrefixOperations` → `AC_WildcardAndPatternSearch` → `AD_TrieBacktracking` → `AE_TrieStringDP` → `AF_BitwiseTrie` → `AG_StringAlgorithms` → `AH_DesignAndApplications` → `AI_AdvancedTrieStructures`
