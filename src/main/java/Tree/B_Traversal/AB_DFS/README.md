@@ -15,9 +15,9 @@ Add learning notes or references relevant to this section.
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — AB_DFS
 
-**0 / 71 problem placements solved (0.0%)**
+**1 / 71 problem placements solved (1.4%)**
 
-🟩 Solved: 0 · 🟨 In Progress: 0 · ⬜ Not Started: 71
+🟩 Solved: 1 · 🟨 In Progress: 0 · ⬜ Not Started: 70
 
 This tracker is generated recursively. Update the **Status** field in an individual problem README.
 
@@ -35,7 +35,7 @@ This tracker is generated recursively. Update the **Status** field in an individ
 | [Symmetric Tree — 101](AH_SymmetricTree_LT101/README.md) | #101 | ⬜ Not Started |
 | [Invert Binary Tree — 226](AI_InvertBinaryTree_LT226/README.md) | #226 | ⬜ Not Started |
 | [Balanced Binary Tree — 110](AJ_BalancedBinaryTree_LT110/README.md) | #110 | ⬜ Not Started |
-| [Leaf Similar Trees — 872](AK_LeafSimilarTrees_LT872/README.md) | #872 | ⬜ Not Started |
+| [Leaf Similar Trees — 872](AK_LeafSimilarTrees_LT872/README.md) | #872 | 🟩 Solved |
 | [Univalued Binary Tree — 965](AL_UnivaluedBinaryTree_LT965/README.md) | #965 | ⬜ Not Started |
 | [Path Sum — 112](AM_PathSum_LT112/README.md) | #112 | ⬜ Not Started |
 | [Binary Tree Paths — 257](AN_BinaryTreePaths_LT257/README.md) | #257 | ⬜ Not Started |
