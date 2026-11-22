@@ -19,9 +19,9 @@ Build the project with Maven. The hierarchical progress tracker is generated aut
 <!-- PROBLEM_TRACKER:START -->
 ## DSA Progress Overview
 
-**37 / 2314 problem placements solved (1.6%)**
+**62 / 2314 problem placements solved (2.7%)**
 
-🟩 Solved: 37 · 🟨 In Progress: 0 · ⬜ Not Started: 2277
+🟩 Solved: 62 · 🟨 In Progress: 0 · ⬜ Not Started: 2252
 
 | Top-level Directory | Total | Solved | In Progress | Not Started | Completion |
 |---|---:|---:|---:|---:|---:|
@@ -35,7 +35,7 @@ Build the project with Maven. The hierarchical progress tracker is generated aut
 | [Queue](src/main/java/Queue/README.md) | 16 | 0 | 0 | 16 | 0.0% |
 | [Stack](src/main/java/Stack/README.md) | 21 | 0 | 0 | 21 | 0.0% |
 | [String](src/main/java/String/README.md) | 33 | 0 | 0 | 33 | 0.0% |
-| [Tree](src/main/java/Tree/README.md) | 275 | 19 | 0 | 256 | 6.9% |
+| [Tree](src/main/java/Tree/README.md) | 275 | 44 | 0 | 231 | 16.0% |
 | [Trie](src/main/java/Trie/README.md) | 61 | 0 | 0 | 61 | 0.0% |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>

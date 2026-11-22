@@ -15,9 +15,9 @@ Add learning notes or references relevant to this section.
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — java
 
-**37 / 1157 problem placements solved (3.2%)**
+**62 / 1157 problem placements solved (5.4%)**
 
-🟩 Solved: 37 · 🟨 In Progress: 0 · ⬜ Not Started: 1120
+🟩 Solved: 62 · 🟨 In Progress: 0 · ⬜ Not Started: 1095
 
 This tracker is generated recursively. Update the **Status** field in an individual problem README.
 
@@ -35,7 +35,7 @@ This tracker is generated recursively. Update the **Status** field in an individ
 | [Queue](Queue/README.md) | 16 | 0 | 0 | 16 | 0.0% |
 | [Stack](Stack/README.md) | 21 | 0 | 0 | 21 | 0.0% |
 | [String](String/README.md) | 33 | 0 | 0 | 33 | 0.0% |
-| [Tree](Tree/README.md) | 275 | 19 | 0 | 256 | 6.9% |
+| [Tree](Tree/README.md) | 275 | 44 | 0 | 231 | 16.0% |
 | [Trie](Trie/README.md) | 61 | 0 | 0 | 61 | 0.0% |
 
 
