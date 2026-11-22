@@ -28,7 +28,18 @@ Java-based Data Structures and Algorithms solutions, organized by data structure
 
 | Top-level Directory | Total | Solved | In Progress | Not Started | Completion |
 |---|---:|---:|---:|---:|---:|
-| [src](src/main/java/src/README.md) | 1157 | 18 | 0 | 1139 | 1.6% |
+| [Array](src/main/java/Array/README.md) | 351 | 18 | 0 | 333 | 5.1% |
+| [Graph](src/main/java/Graph/README.md) | 233 | 0 | 0 | 233 | 0.0% |
+| [HashMap](src/main/java/HashMap/README.md) | 25 | 0 | 0 | 25 | 0.0% |
+| [HashSet](src/main/java/HashSet/README.md) | 17 | 0 | 0 | 17 | 0.0% |
+| [Heap](src/main/java/Heap/README.md) | 21 | 0 | 0 | 21 | 0.0% |
+| [LinkedList](src/main/java/LinkedList/README.md) | 71 | 0 | 0 | 71 | 0.0% |
+| [Matrix](src/main/java/Matrix/README.md) | 33 | 0 | 0 | 33 | 0.0% |
+| [Queue](src/main/java/Queue/README.md) | 16 | 0 | 0 | 16 | 0.0% |
+| [Stack](src/main/java/Stack/README.md) | 21 | 0 | 0 | 21 | 0.0% |
+| [String](src/main/java/String/README.md) | 33 | 0 | 0 | 33 | 0.0% |
+| [Tree](src/main/java/Tree/README.md) | 275 | 0 | 0 | 275 | 0.0% |
+| [Trie](src/main/java/Trie/README.md) | 61 | 0 | 0 | 61 | 0.0% |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
 
