@@ -31,7 +31,7 @@ METADATA_LINE = re.compile(
 
 
 def normalize_problem_readme(folder: Path) -> bool:
-    """Ensure every problem README has the same metadata block without losing its notes."""
+    """Standardize a problem README while retaining all authored problem notes."""
     readme = folder / "README.md"
     original = readme.read_text(encoding="utf-8") if readme.is_file() else ""
 
@@ -80,63 +80,77 @@ def normalize_problem_readme(folder: Path) -> bool:
         else:
             status = "Not Started"
 
-    # Leave already-complete READMEs untouched, including their existing formatting.
-    if (
-        structure_match and structure_match.group(1).strip()
-        and pattern_match and pattern_match.group(1).strip()
-        and LEETCODE_LINE.search(original)
-        and status_match and raw_status in {"solved", "in progress", "not started"}
-        and RESERVED_LINE.search(original)
-        and not re.search(r"^##\s+Status\s*$", original, re.IGNORECASE | re.MULTILINE)
-    ):
-        return False
+    body = METADATA_LINE.sub("", original)
+    body = RESERVED_LINE.sub("", body)
+    body_lines = [line for line in body.splitlines() if not re.match(r"^#\s+", line)]
+    body = "\n".join(body_lines).strip()
 
-    # Remove only the metadata lines being standardized; retain problem statements,
-    # LeetCode links, difficulty/topics, solution notes, and all other authored content.
-    remainder = METADATA_LINE.sub("", original)
-    remainder = RESERVED_LINE.sub("", remainder)
-    # The legacy checklist-only Status section is superseded by the single metadata status field.
-    legacy_status = re.search(
-        r"^##\s+Status\s*$([\s\S]*?)(?=^##\s+|\Z)",
-        remainder,
-        re.IGNORECASE | re.MULTILINE,
-    )
-    if legacy_status and re.fullmatch(
-        r"\s*(?:[-*]\s*\[[ xX]\]\s*Solution\s*)+",
-        legacy_status.group(1),
-        re.IGNORECASE,
-    ):
-        remainder = remainder[:legacy_status.start()] + remainder[legacy_status.end():]
-    lines = remainder.splitlines()
-    heading_index = next((i for i, line in enumerate(lines) if re.match(r"^#\s+", line)), None)
-    if heading_index is None:
-        lines.insert(0, heading)
-        heading_index = 0
-    else:
-        lines[heading_index] = heading
+    section_matches = list(re.finditer(r"^##\s+(.+?)\s*$", body, re.MULTILINE))
+    preamble = body[:section_matches[0].start()].strip() if section_matches else body
+    sections: dict[str, list[str]] = defaultdict(list)
+    extras: list[tuple[str, str]] = []
+    aliases = {
+        "problem": "Problem",
+        "problem statement": "Problem",
+        "approach": "Approach",
+        "algorithm": "Algorithm",
+        "complexity": "Complexity",
+        "time and space complexity": "Complexity",
+        "solution": "Solution",
+    }
+    for index, match in enumerate(section_matches):
+        section_title = match.group(1).strip()
+        section_start = match.end()
+        section_end = section_matches[index + 1].start() if index + 1 < len(section_matches) else len(body)
+        content = body[section_start:section_end].strip()
+        canonical = aliases.get(section_title.casefold())
+        if canonical:
+            if content:
+                sections[canonical].append(content)
+        elif content:
+            extras.append((section_title, content))
 
-    tail = lines[heading_index + 1:]
-    while tail and not tail[0].strip():
-        tail.pop(0)
-    while tail and not tail[-1].strip():
-        tail.pop()
+    if preamble:
+        sections["Problem"].insert(0, preamble)
+
+    def combined(name: str) -> str:
+        return "\n\n".join(part for part in sections.get(name, []) if part).strip()
+
+    problem = combined("Problem") or "Add the problem statement or LeetCode link here."
+    approach = combined("Approach") or "Add a brief explanation of the chosen approach."
+    algorithm = combined("Algorithm") or "1. Add the solution steps."
+    complexity = combined("Complexity") or "- **Time:** Add time complexity.\n- **Space:** Add space complexity."
+    solution = combined("Solution") or "See [Solution.java](./Solution.java)."
+    if "Solution.java" not in solution:
+        solution = solution.rstrip() + "\n\nSee [Solution.java](./Solution.java)."
 
     metadata = [
-        f"**Data Structure:** {data_structure}",
-        f"**Pattern:** {pattern}",
-        f"**LeetCode:** #{number}",
+        f"**Data Structure:** {data_structure}  ",
+        f"**Pattern:** {pattern}  ",
+        f"**LeetCode:** #{number}  ",
         f"**Status:** {status}",
     ]
-    updated_lines = lines[:heading_index + 1] + [""] + metadata + ["", RESERVED_NOTE]
-    if tail:
-        updated_lines += [""] + tail
+    updated_lines = [
+        heading, "", *metadata, "",
+        "## Problem", "", problem, "",
+        "## Approach", "", approach, "",
+        "## Algorithm", "", algorithm, "",
+        "## Complexity", "", complexity, "",
+        "## Solution", "", solution,
+    ]
+    if extras:
+        updated_lines += ["", "## Additional Notes", ""]
+        for section_title, content in extras:
+            updated_lines += [f"### {section_title}", "", content, ""]
+        while updated_lines and not updated_lines[-1]:
+            updated_lines.pop()
+
     updated = "\n".join(updated_lines).rstrip() + "\n"
     if updated == original:
         return False
     readme.parent.mkdir(parents=True, exist_ok=True)
     readme.write_text(updated, encoding="utf-8")
     return True
-
 
 def normalize_problem_readmes() -> int:
     """Normalize metadata for every problem folder in the repository."""

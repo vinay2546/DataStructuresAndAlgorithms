@@ -1,43 +1,39 @@
-name: Update Hierarchical Problem Progress Trackers
+name: Manually Standardize Problem READMEs and Update Trackers
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: problem-progress-tracker
+  group: problem-readme-standardization
   cancel-in-progress: false
 
 jobs:
-  update-trackers:
-    if: github.actor != 'github-actions[bot]' || github.event_name == 'workflow_dispatch'
+  standardize:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
+      - name: Check out selected branch
         uses: actions/checkout@v4
         with:
+          ref: ${{ github.ref }}
           token: ${{ secrets.TRACKER_PUSH_TOKEN }}
           fetch-depth: 0
 
-      - name: Normalize problem README metadata and generate recursive trackers
-        env:
-          BASE_SHA: \${{ github.event.before || '' }}
-          HEAD_SHA: \${{ github.sha }}
+      - name: Standardize problem READMEs and generate progress trackers
         run: python3 .github/scripts/update_problem_tracker.py
 
-      - name: Commit tracker updates
+      - name: Commit and push README updates
+        env:
+          TARGET_BRANCH: ${{ github.ref_name }}
         run: |
           if git diff --quiet; then
-            echo "All progress trackers are already up to date."
+            echo "All problem READMEs and progress trackers already follow the standard."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A -- README.md '**/README.md'
-          git commit -m "docs: standardize problem readmes and update trackers"
-          git push
+          git commit -m "docs: standardize problem README structure"
+          git push origin "HEAD:${TARGET_BRANCH}"
