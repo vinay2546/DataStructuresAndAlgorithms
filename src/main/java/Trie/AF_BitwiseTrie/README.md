@@ -34,4 +34,4 @@ This tracker is generated recursively. Update the **Status** field in an individ
 | [Maximum Subarray XORWith Bounded Range — 3845](EQW_MaximumSubarrayXORWithBoundedRange_LT3845/README.md) | #3845 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-
+<!-- PROBLEM_TRACKER:END -->

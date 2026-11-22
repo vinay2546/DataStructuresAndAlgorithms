@@ -3,7 +3,7 @@
 **Data Structure:** Tree  
 **Pattern:** BFS  
 **LeetCode:** #1161  
-**Status:** Not Started
+**Status:** Solved
 
 ## Problem
 

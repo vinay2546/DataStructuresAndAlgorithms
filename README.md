@@ -19,9 +19,9 @@ Build the project with Maven. The hierarchical progress tracker is generated aut
 <!-- PROBLEM_TRACKER:START -->
 ## DSA Progress Overview
 
-**19 / 2314 problem placements solved (0.8%)**
+**37 / 2314 problem placements solved (1.6%)**
 
-🟩 Solved: 19 · 🟨 In Progress: 0 · ⬜ Not Started: 2295
+🟩 Solved: 37 · 🟨 In Progress: 0 · ⬜ Not Started: 2277
 
 | Top-level Directory | Total | Solved | In Progress | Not Started | Completion |
 |---|---:|---:|---:|---:|---:|
@@ -35,10 +35,10 @@ Build the project with Maven. The hierarchical progress tracker is generated aut
 | [Queue](src/main/java/Queue/README.md) | 16 | 0 | 0 | 16 | 0.0% |
 | [Stack](src/main/java/Stack/README.md) | 21 | 0 | 0 | 21 | 0.0% |
 | [String](src/main/java/String/README.md) | 33 | 0 | 0 | 33 | 0.0% |
-| [Tree](src/main/java/Tree/README.md) | 275 | 1 | 0 | 274 | 0.4% |
+| [Tree](src/main/java/Tree/README.md) | 275 | 19 | 0 | 256 | 6.9% |
 | [Trie](src/main/java/Trie/README.md) | 61 | 0 | 0 | 61 | 0.0% |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
 
 The individual problem README is the source of truth. Allowed statuses: Not Started, In Progress, Solved. Missing READMEs, legacy Placeholder values, and unknown statuses count as Not Started.
-
+<!-- PROBLEM_TRACKER:END -->

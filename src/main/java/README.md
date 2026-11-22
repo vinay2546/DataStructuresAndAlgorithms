@@ -15,9 +15,9 @@ Add learning notes or references relevant to this section.
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — java
 
-**19 / 1157 problem placements solved (1.6%)**
+**37 / 1157 problem placements solved (3.2%)**
 
-🟩 Solved: 19 · 🟨 In Progress: 0 · ⬜ Not Started: 1138
+🟩 Solved: 37 · 🟨 In Progress: 0 · ⬜ Not Started: 1120
 
 This tracker is generated recursively. Update the **Status** field in an individual problem README.
 
@@ -35,9 +35,9 @@ This tracker is generated recursively. Update the **Status** field in an individ
 | [Queue](Queue/README.md) | 16 | 0 | 0 | 16 | 0.0% |
 | [Stack](Stack/README.md) | 21 | 0 | 0 | 21 | 0.0% |
 | [String](String/README.md) | 33 | 0 | 0 | 33 | 0.0% |
-| [Tree](Tree/README.md) | 275 | 1 | 0 | 274 | 0.4% |
+| [Tree](Tree/README.md) | 275 | 19 | 0 | 256 | 6.9% |
 | [Trie](Trie/README.md) | 61 | 0 | 0 | 61 | 0.0% |
 
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-
+<!-- PROBLEM_TRACKER:END -->

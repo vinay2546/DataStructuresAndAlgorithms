@@ -40,4 +40,4 @@ This tracker is generated recursively. Update the **Status** field in an individ
 | [Maximum Star Sum Of AGraph — 2497](CRA_MaximumStarSumOfAGraph_LT2497/README.md) | #2497 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-
+<!-- PROBLEM_TRACKER:END -->
