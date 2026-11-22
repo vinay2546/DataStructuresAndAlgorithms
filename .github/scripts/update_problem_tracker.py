@@ -213,10 +213,13 @@ def main() -> None:
             directory_section(directory, descendants[directory], descendants),
         )
 
+    # The repository's DSA categories live under src/main/java, not at
+    # the repository root. Use that directory as the root tracker grouping.
+    source_root = ROOT / "src" / "main" / "java"
     top_level = sorted(
-        (path for path in ROOT.iterdir() if path.is_dir() and path in descendants),
+        (path for path in source_root.iterdir() if path.is_dir() and path in descendants),
         key=lambda path: path.name.casefold(),
-    )
+    ) if source_root.is_dir() else []
     updated += replace_generated_section(ROOT_README, root_section(top_level, descendants))
 
     print(
