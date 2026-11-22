@@ -3,7 +3,7 @@
 **Data Structure:** Tree  
 **Pattern:** DFS  
 **LeetCode:** #113  
-**Status:** Not Started
+**Status:** Solved
 
 ## Problem
 

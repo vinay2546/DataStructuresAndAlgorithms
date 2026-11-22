@@ -15,9 +15,9 @@ Add learning notes or references relevant to this section.
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — AB_DFS
 
-**0 / 71 problem placements solved (0.0%)**
+**25 / 71 problem placements solved (35.2%)**
 
-🟩 Solved: 0 · 🟨 In Progress: 0 · ⬜ Not Started: 71
+🟩 Solved: 25 · 🟨 In Progress: 0 · ⬜ Not Started: 46
 
 This tracker is generated recursively. Update the **Status** field in an individual problem README.
 
@@ -25,33 +25,33 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [Binary Tree Preorder Traversal — 144](AA_BinaryTreePreorderTraversal_LT144/README.md) | #144 | ⬜ Not Started |
-| [Binary Tree Inorder Traversal — 94](AB_BinaryTreeInorderTraversal_LT94/README.md) | #94 | ⬜ Not Started |
-| [Binary Tree Postorder Traversal — 145](AC_BinaryTreePostorderTraversal_LT145/README.md) | #145 | ⬜ Not Started |
-| [Nary Tree Preorder Traversal — 589](AD_NaryTreePreorderTraversal_LT589/README.md) | #589 | ⬜ Not Started |
-| [Nary Tree Postorder Traversal — 590](AE_NaryTreePostorderTraversal_LT590/README.md) | #590 | ⬜ Not Started |
-| [Maximum Depthof Binary Tree — 104](AF_MaximumDepthofBinaryTree_LT104/README.md) | #104 | ⬜ Not Started |
-| [Same Tree — 100](AG_SameTree_LT100/README.md) | #100 | ⬜ Not Started |
-| [Symmetric Tree — 101](AH_SymmetricTree_LT101/README.md) | #101 | ⬜ Not Started |
-| [Invert Binary Tree — 226](AI_InvertBinaryTree_LT226/README.md) | #226 | ⬜ Not Started |
-| [Balanced Binary Tree — 110](AJ_BalancedBinaryTree_LT110/README.md) | #110 | ⬜ Not Started |
-| [Leaf Similar Trees — 872](AK_LeafSimilarTrees_LT872/README.md) | #872 | ⬜ Not Started |
-| [Univalued Binary Tree — 965](AL_UnivaluedBinaryTree_LT965/README.md) | #965 | ⬜ Not Started |
-| [Path Sum — 112](AM_PathSum_LT112/README.md) | #112 | ⬜ Not Started |
-| [Binary Tree Paths — 257](AN_BinaryTreePaths_LT257/README.md) | #257 | ⬜ Not Started |
-| [Path Sum II — 113](AO_PathSumII_LT113/README.md) | #113 | ⬜ Not Started |
-| [Sum Rootto Leaf Numbers — 129](AP_SumRoottoLeafNumbers_LT129/README.md) | #129 | ⬜ Not Started |
-| [Sumof Root To Leaf Binary Numbers — 1022](AQ_SumofRootToLeafBinaryNumbers_LT1022/README.md) | #1022 | ⬜ Not Started |
+| [Binary Tree Preorder Traversal — 144](AA_BinaryTreePreorderTraversal_LT144/README.md) | #144 | 🟩 Solved |
+| [Binary Tree Inorder Traversal — 94](AB_BinaryTreeInorderTraversal_LT94/README.md) | #94 | 🟩 Solved |
+| [Binary Tree Postorder Traversal — 145](AC_BinaryTreePostorderTraversal_LT145/README.md) | #145 | 🟩 Solved |
+| [Nary Tree Preorder Traversal — 589](AD_NaryTreePreorderTraversal_LT589/README.md) | #589 | 🟩 Solved |
+| [Nary Tree Postorder Traversal — 590](AE_NaryTreePostorderTraversal_LT590/README.md) | #590 | 🟩 Solved |
+| [Maximum Depthof Binary Tree — 104](AF_MaximumDepthofBinaryTree_LT104/README.md) | #104 | 🟩 Solved |
+| [Same Tree — 100](AG_SameTree_LT100/README.md) | #100 | 🟩 Solved |
+| [Symmetric Tree — 101](AH_SymmetricTree_LT101/README.md) | #101 | 🟩 Solved |
+| [Invert Binary Tree — 226](AI_InvertBinaryTree_LT226/README.md) | #226 | 🟩 Solved |
+| [Balanced Binary Tree — 110](AJ_BalancedBinaryTree_LT110/README.md) | #110 | 🟩 Solved |
+| [Leaf Similar Trees — 872](AK_LeafSimilarTrees_LT872/README.md) | #872 | 🟩 Solved |
+| [Univalued Binary Tree — 965](AL_UnivaluedBinaryTree_LT965/README.md) | #965 | 🟩 Solved |
+| [Path Sum — 112](AM_PathSum_LT112/README.md) | #112 | 🟩 Solved |
+| [Binary Tree Paths — 257](AN_BinaryTreePaths_LT257/README.md) | #257 | 🟩 Solved |
+| [Path Sum II — 113](AO_PathSumII_LT113/README.md) | #113 | 🟩 Solved |
+| [Sum Rootto Leaf Numbers — 129](AP_SumRoottoLeafNumbers_LT129/README.md) | #129 | 🟩 Solved |
+| [Sumof Root To Leaf Binary Numbers — 1022](AQ_SumofRootToLeafBinaryNumbers_LT1022/README.md) | #1022 | 🟩 Solved |
 | [Smallest String Starting From Leaf — 988](AR_SmallestStringStartingFromLeaf_LT988/README.md) | #988 | ⬜ Not Started |
-| [Insufficient Nodesin Rootto Leaf Paths — 1080](AS_InsufficientNodesinRoottoLeafPaths_LT1080/README.md) | #1080 | ⬜ Not Started |
-| [Pseudo Palindromic Pathsina Binary Tree — 1457](AT_PseudoPalindromicPathsinaBinaryTree_LT1457/README.md) | #1457 | ⬜ Not Started |
+| [Insufficient Nodesin Rootto Leaf Paths — 1080](AS_InsufficientNodesinRoottoLeafPaths_LT1080/README.md) | #1080 | 🟩 Solved |
+| [Pseudo Palindromic Pathsina Binary Tree — 1457](AT_PseudoPalindromicPathsinaBinaryTree_LT1457/README.md) | #1457 | 🟩 Solved |
 | [Path Sum III — 437](AU_PathSumIII_LT437/README.md) | #437 | ⬜ Not Started |
-| [Count Good Nodesin Binary Tree — 1448](AV_CountGoodNodesinBinaryTree_LT1448/README.md) | #1448 | ⬜ Not Started |
-| [Maximum Difference Between Nodeand Ancestor — 1026](AW_MaximumDifferenceBetweenNodeandAncestor_LT1026/README.md) | #1026 | ⬜ Not Started |
-| [Diameterof Binary Tree — 543](AX_DiameterofBinaryTree_LT543/README.md) | #543 | ⬜ Not Started |
-| [Longest Univalue Path — 687](AY_LongestUnivaluePath_LT687/README.md) | #687 | ⬜ Not Started |
-| [Binary Tree Maximum Path Sum — 124](AZ_BinaryTreeMaximumPathSum_LT124/README.md) | #124 | ⬜ Not Started |
-| [Subtreeof Another Tree — 572](BA_SubtreeofAnotherTree_LT572/README.md) | #572 | ⬜ Not Started |
+| [Count Good Nodesin Binary Tree — 1448](AV_CountGoodNodesinBinaryTree_LT1448/README.md) | #1448 | 🟩 Solved |
+| [Maximum Difference Between Nodeand Ancestor — 1026](AW_MaximumDifferenceBetweenNodeandAncestor_LT1026/README.md) | #1026 | 🟩 Solved |
+| [Diameterof Binary Tree — 543](AX_DiameterofBinaryTree_LT543/README.md) | #543 | 🟩 Solved |
+| [Longest Univalue Path — 687](AY_LongestUnivaluePath_LT687/README.md) | #687 | 🟩 Solved |
+| [Binary Tree Maximum Path Sum — 124](AZ_BinaryTreeMaximumPathSum_LT124/README.md) | #124 | 🟩 Solved |
+| [Subtreeof Another Tree — 572](BA_SubtreeofAnotherTree_LT572/README.md) | #572 | 🟩 Solved |
 | [Flip Equivalent Binary Trees — 951](BB_FlipEquivalentBinaryTrees_LT951/README.md) | #951 | ⬜ Not Started |
 | [Linked Listin Binary Tree — 1367](BC_LinkedListinBinaryTree_LT1367/README.md) | #1367 | ⬜ Not Started |
 | [Lowest Common Ancestorofa Binary Search Tree — 235](BD_LowestCommonAncestorofaBinarySearchTree_LT235/README.md) | #235 | ⬜ Not Started |
