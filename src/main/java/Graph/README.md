@@ -6,8 +6,8 @@ Graph problems organized into a learning-oriented progression from fundamentals 
 
 **Fundamentals → Traversal → Structure → Connectivity → Optimization → Specialized Models → Design/Advanced**
 
-| Package | Focus | Problems |
-|---|---|---:|
+| Package | Focus |
+|---|---|
 | 01_Fundamentals | Graph representation, vertices, edges, degree reasoning, direct connectivity, and basic graph modeling. |
 | 02_BFS | Breadth-first search for unweighted shortest paths, level exploration, and implicit state-space graphs. |
 | 03_DFS | Depth-first search for recursive exploration, components, reachability, and graph traversal. |
