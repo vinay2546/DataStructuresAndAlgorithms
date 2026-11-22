@@ -2,9 +2,6 @@
 
 Disjoint Set Union for connectivity, component merging, equivalence classes, and redundant edges.
 
-## Problem Count
-
-**25 problem entries**
 
 ## Learning Focus
 
