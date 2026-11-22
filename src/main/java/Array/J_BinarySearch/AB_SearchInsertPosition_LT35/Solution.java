@@ -1,4 +1,4 @@
-package Array.J_BinarySearch.AB_SearchInsertPosition_35;
+package Array.J_BinarySearch.AB_SearchInsertPosition_LT35;
 
 // Placeholder — LeetCode 35: Search Insert Position
 // Array / BinarySearch

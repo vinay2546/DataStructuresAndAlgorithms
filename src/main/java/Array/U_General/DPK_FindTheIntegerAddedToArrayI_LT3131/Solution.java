@@ -1,4 +1,4 @@
-package Array.U_General.DPK_FindTheIntegerAddedToArrayI_3131;
+package Array.U_General.DPK_FindTheIntegerAddedToArrayI_LT3131;
 
 // Placeholder — LeetCode 3131: Find the Integer Added to Array I
 // Array / General

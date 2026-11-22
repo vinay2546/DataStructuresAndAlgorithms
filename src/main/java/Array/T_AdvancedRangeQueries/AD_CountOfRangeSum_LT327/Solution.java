@@ -1,4 +1,4 @@
-package Array.T_AdvancedRangeQueries.AD_CountOfRangeSum_327;
+package Array.T_AdvancedRangeQueries.AD_CountOfRangeSum_LT327;
 
 // Placeholder — LeetCode 327: Count Of Range Sum
 // Array / AdvancedRangeQueries

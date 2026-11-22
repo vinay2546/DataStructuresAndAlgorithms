@@ -1,4 +1,4 @@
-package Tree.J_SpecialTreesAndHierarchies.F_FindRootOfNAryTree_1506;
+package Tree.J_SpecialTreesAndHierarchies.F_FindRootOfNAryTree_LT1506;
 
 // Placeholder — LeetCode 1506: Find Root of N-Ary Tree
 // Tree / General

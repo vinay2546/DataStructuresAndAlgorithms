@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.BC_LinkedListinBinaryTree_1367;
+package Tree.B_Traversal.AB_DFS.BC_LinkedListinBinaryTree_LT1367;
 
 /** Placeholder for LeetCode 1367: Linked Listin Binary Tree. */
 public class Solution {

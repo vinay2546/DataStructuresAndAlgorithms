@@ -1,4 +1,4 @@
-package LinkedList.A_Fundamentals.DMT_WinnerOfTheLinkedListGame_3062;
+package LinkedList.A_Fundamentals.DMT_WinnerOfTheLinkedListGame_LT3062;
 
 // Placeholder — LeetCode 3062: Winner of the Linked List Game
 // LinkedList / General

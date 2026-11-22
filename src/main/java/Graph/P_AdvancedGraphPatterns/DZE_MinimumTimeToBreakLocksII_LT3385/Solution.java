@@ -1,4 +1,4 @@
-package Graph.P_AdvancedGraphPatterns.DZE_MinimumTimeToBreakLocksII_3385;
+package Graph.P_AdvancedGraphPatterns.DZE_MinimumTimeToBreakLocksII_LT3385;
 
 // Placeholder — LeetCode 3385: Minimum Time to Break Locks II
 // Graph / General

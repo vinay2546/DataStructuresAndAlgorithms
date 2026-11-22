@@ -1,4 +1,4 @@
-package Graph.C_DFS.ADQ_AllPathsFromSourceToTarget_797;
+package Graph.C_DFS.ADQ_AllPathsFromSourceToTarget_LT797;
 
 // Placeholder — LeetCode 797: All Paths From Source to Target
 // Graph / General

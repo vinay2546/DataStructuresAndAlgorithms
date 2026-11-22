@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.BA_SubtreeofAnotherTree_572;
+package Tree.B_Traversal.AB_DFS.BA_SubtreeofAnotherTree_LT572;
 
 import Tree.TreeNode;
 

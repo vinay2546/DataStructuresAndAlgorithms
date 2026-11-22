@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.AY_LongestUnivaluePath_687;
+package Tree.B_Traversal.AB_DFS.AY_LongestUnivaluePath_LT687;
 
 import Tree.TreeNode;
 

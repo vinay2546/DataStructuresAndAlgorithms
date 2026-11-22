@@ -1,4 +1,4 @@
-package Array.N_Intervals.AJ_MyCalendarIII_732;
+package Array.N_Intervals.AJ_MyCalendarIII_LT732;
 
 // Placeholder — LeetCode 732: My Calendar III
 // Array / Intervals

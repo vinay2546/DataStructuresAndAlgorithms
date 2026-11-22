@@ -1,4 +1,4 @@
-package Trie.WordSearch.AC_ConcatenatedWords_472;
+package Trie.AE_TrieStringDP.AC_ConcatenatedWords_LT472;
 
 // Placeholder — LeetCode 472: ConcatenatedWords
 

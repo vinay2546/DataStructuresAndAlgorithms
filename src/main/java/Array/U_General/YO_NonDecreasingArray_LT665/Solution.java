@@ -1,4 +1,4 @@
-package Array.U_General.YO_NonDecreasingArray_665;
+package Array.U_General.YO_NonDecreasingArray_LT665;
 
 // Placeholder — LeetCode 665: Non-decreasing Array
 // Array / General

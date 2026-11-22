@@ -1,4 +1,4 @@
-package Trie.A_General.ANV_LongestRepeatingSubstring_1062;
+package Trie.AG_StringAlgorithms.ANV_LongestRepeatingSubstring_LT1062;
 
 // Placeholder — LeetCode 1062: Longest Repeating Substring
 // Trie / General

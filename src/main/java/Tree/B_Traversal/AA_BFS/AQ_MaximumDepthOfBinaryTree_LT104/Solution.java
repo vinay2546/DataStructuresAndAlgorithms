@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AA_BFS.AQ_MaximumDepthOfBinaryTree_104;
+package Tree.B_Traversal.AA_BFS.AQ_MaximumDepthOfBinaryTree_LT104;
 
 import Tree.TreeNode;
 

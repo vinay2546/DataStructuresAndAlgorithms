@@ -1,4 +1,4 @@
-package Queue.Fundamentals.AD_DesignCircularDeque_641;
+package Queue.Fundamentals.AD_DesignCircularDeque_LT641;
 
 // Placeholder — LeetCode 641: DesignCircularDeque
 // Queue / Fundamentals

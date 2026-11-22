@@ -1,4 +1,4 @@
-package Graph.P_AdvancedGraphPatterns.KO_RemoveInvalidParentheses_301;
+package Graph.P_AdvancedGraphPatterns.KO_RemoveInvalidParentheses_LT301;
 
 // Placeholder — LeetCode 301: Remove Invalid Parentheses
 // Graph / General

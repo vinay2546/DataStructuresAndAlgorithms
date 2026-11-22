@@ -1,4 +1,4 @@
-package Matrix.GridBFSDFS.AB_MaxAreaOfIsland_695;
+package Matrix.GridBFSDFS.AB_MaxAreaOfIsland_LT695;
 
 // Placeholder — LeetCode 695: MaxAreaOfIsland
 

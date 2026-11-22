@@ -1,4 +1,4 @@
-package Heap.Greedy.AB_ReorganizeString_767;
+package Heap.Greedy.AB_ReorganizeString_LT767;
 
 // Placeholder — LeetCode 767: ReorganizeString
 

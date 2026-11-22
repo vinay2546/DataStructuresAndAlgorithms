@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AA_BFS.AD_BinaryTreeZigzagLevelOrderTraversal_103;
+package Tree.B_Traversal.AA_BFS.AD_BinaryTreeZigzagLevelOrderTraversal_LT103;
 
 import Tree.TreeNode;
 

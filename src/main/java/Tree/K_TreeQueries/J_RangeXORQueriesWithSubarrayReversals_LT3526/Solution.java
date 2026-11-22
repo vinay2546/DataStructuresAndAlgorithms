@@ -1,4 +1,4 @@
-package Tree.K_TreeQueries.J_RangeXORQueriesWithSubarrayReversals_3526;
+package Tree.K_TreeQueries.J_RangeXORQueriesWithSubarrayReversals_LT3526;
 
 // Placeholder — LeetCode 3526: Range XOR Queries with Subarray Reversals
 // Tree / General

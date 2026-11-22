@@ -1,4 +1,4 @@
-package Tree.C_BinarySearchTrees.K_InorderSuccessorInBSTII_510;
+package Tree.C_BinarySearchTrees.K_InorderSuccessorInBSTII_LT510;
 
 // Placeholder — LeetCode 510: Inorder Successor in BST II
 // Tree / General

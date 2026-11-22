@@ -1,4 +1,4 @@
-package LinkedList.C_InsertionAndDeletion.CE_RemoveDuplicatesFromSortedList_83;
+package LinkedList.C_InsertionAndDeletion.CE_RemoveDuplicatesFromSortedList_LT83;
 
 // Placeholder — LeetCode 83: Remove Duplicates from Sorted List
 // LinkedList / General

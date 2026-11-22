@@ -1,4 +1,4 @@
-package Queue.Deque.AC_JumpGameVI_1696;
+package Queue.Deque.AC_JumpGameVI_LT1696;
 
 // Placeholder — LeetCode 1696: JumpGameVI
 // Queue / Deque

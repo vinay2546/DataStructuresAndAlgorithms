@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AA_BFS.AJ_BinaryTreeRightSideView_199;
+package Tree.B_Traversal.AA_BFS.AJ_BinaryTreeRightSideView_LT199;
 
 import Tree.TreeNode;
 

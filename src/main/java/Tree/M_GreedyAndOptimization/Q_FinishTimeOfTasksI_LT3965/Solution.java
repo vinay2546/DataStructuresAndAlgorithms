@@ -1,4 +1,4 @@
-package Tree.M_GreedyAndOptimization.Q_FinishTimeOfTasksI_3965;
+package Tree.M_GreedyAndOptimization.Q_FinishTimeOfTasksI_LT3965;
 
 // Placeholder — LeetCode 3965: Finish Time of Tasks I
 // Tree / General

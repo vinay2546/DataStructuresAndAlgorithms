@@ -1,4 +1,4 @@
-package Array.A_Fundamentals.AH_MissingNumber_268;
+package Array.A_Fundamentals.AH_MissingNumber_LT268;
 
 class Solution {
     public int missingNumber(int[] nums) {

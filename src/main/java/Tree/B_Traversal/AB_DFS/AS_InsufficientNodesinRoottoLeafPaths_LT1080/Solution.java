@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.AS_InsufficientNodesinRoottoLeafPaths_1080;
+package Tree.B_Traversal.AB_DFS.AS_InsufficientNodesinRoottoLeafPaths_LT1080;
 
 import Tree.TreeNode;
 

@@ -1,4 +1,4 @@
-package Array.P_MonotonicStack.AF_SumOfSubarrayMinimums_907;
+package Array.P_MonotonicStack.AF_SumOfSubarrayMinimums_LT907;
 
 // Placeholder — LeetCode 907: Sum Of Subarray Minimums
 // Array / MonotonicStack

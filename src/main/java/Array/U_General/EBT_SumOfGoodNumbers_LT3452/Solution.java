@@ -1,4 +1,4 @@
-package Array.U_General.EBT_SumOfGoodNumbers_3452;
+package Array.U_General.EBT_SumOfGoodNumbers_LT3452;
 
 // Placeholder — LeetCode 3452: Sum of Good Numbers
 // Array / General

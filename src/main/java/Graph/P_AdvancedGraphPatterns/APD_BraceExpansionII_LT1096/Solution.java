@@ -1,4 +1,4 @@
-package Graph.P_AdvancedGraphPatterns.APD_BraceExpansionII_1096;
+package Graph.P_AdvancedGraphPatterns.APD_BraceExpansionII_LT1096;
 
 // Placeholder — LeetCode 1096: Brace Expansion II
 // Graph / General

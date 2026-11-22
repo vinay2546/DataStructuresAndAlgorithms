@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.AN_BinaryTreePaths_257;
+package Tree.B_Traversal.AB_DFS.AN_BinaryTreePaths_LT257;
 
 import Tree.TreeNode;
 

@@ -1,4 +1,4 @@
-package String.StackParsing.AA_ValidParentheses_20;
+package String.StackParsing.AA_ValidParentheses_LT20;
 
 // Placeholder — LeetCode 20: ValidParentheses
 

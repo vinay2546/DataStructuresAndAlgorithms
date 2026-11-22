@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.AH_SymmetricTree_101;
+package Tree.B_Traversal.AB_DFS.AH_SymmetricTree_LT101;
 
 import Tree.TreeNode;
 

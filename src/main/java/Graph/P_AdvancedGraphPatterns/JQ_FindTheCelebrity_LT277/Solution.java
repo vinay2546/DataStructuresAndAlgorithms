@@ -1,4 +1,4 @@
-package Graph.P_AdvancedGraphPatterns.JQ_FindTheCelebrity_277;
+package Graph.P_AdvancedGraphPatterns.JQ_FindTheCelebrity_LT277;
 
 // Placeholder — LeetCode 277: Find the Celebrity
 // Graph / General

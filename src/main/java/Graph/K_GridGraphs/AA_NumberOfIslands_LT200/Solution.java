@@ -1,4 +1,4 @@
-package Graph.K_GridGraphs.AA_NumberOfIslands_200;
+package Graph.K_GridGraphs.AA_NumberOfIslands_LT200;
 
 // Placeholder — LeetCode 200: NumberOfIslands
 

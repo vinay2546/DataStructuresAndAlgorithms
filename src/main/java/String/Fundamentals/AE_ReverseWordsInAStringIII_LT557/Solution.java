@@ -1,4 +1,4 @@
-package String.Fundamentals.AE_ReverseWordsInAStringIII_557;
+package String.Fundamentals.AE_ReverseWordsInAStringIII_LT557;
 
 // Placeholder — LeetCode 557: ReverseWordsInAStringIII
 

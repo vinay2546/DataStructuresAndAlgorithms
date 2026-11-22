@@ -1,4 +1,4 @@
-package Array.R_GreedyArrays.AF_PartitionLabels_763;
+package Array.R_GreedyArrays.AF_PartitionLabels_LT763;
 
 // Placeholder — LeetCode 763: Partition Labels
 // Array / GreedyArrays

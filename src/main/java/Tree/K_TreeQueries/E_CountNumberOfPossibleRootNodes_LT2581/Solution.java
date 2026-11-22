@@ -1,4 +1,4 @@
-package Tree.K_TreeQueries.E_CountNumberOfPossibleRootNodes_2581;
+package Tree.K_TreeQueries.E_CountNumberOfPossibleRootNodes_LT2581;
 
 // Placeholder — LeetCode 2581: Count Number of Possible Root Nodes
 // Tree / General

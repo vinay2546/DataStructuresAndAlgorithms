@@ -1,4 +1,4 @@
-package Heap.Advanced.AA_SlidingWindowMedian_480;
+package Heap.Advanced.AA_SlidingWindowMedian_LT480;
 
 // Placeholder — LeetCode 480: SlidingWindowMedian
 

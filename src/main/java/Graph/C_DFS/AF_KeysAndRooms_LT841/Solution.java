@@ -1,4 +1,4 @@
-package Graph.C_DFS.AF_KeysAndRooms_841;
+package Graph.C_DFS.AF_KeysAndRooms_LT841;
 
 // Placeholder — LeetCode 841: KeysAndRooms
 

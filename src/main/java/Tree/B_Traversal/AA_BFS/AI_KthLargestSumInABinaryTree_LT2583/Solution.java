@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AA_BFS.AI_KthLargestSumInABinaryTree_2583;
+package Tree.B_Traversal.AA_BFS.AI_KthLargestSumInABinaryTree_LT2583;
 
 import Tree.TreeNode;
 

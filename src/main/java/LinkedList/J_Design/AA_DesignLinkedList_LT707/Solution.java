@@ -1,4 +1,4 @@
-package LinkedList.J_Design.AA_DesignLinkedList_707;
+package LinkedList.J_Design.AA_DesignLinkedList_LT707;
 
 // Placeholder — LeetCode 707: DesignLinkedList
 // LinkedList / Fundamentals

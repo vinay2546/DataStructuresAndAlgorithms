@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.AX_DiameterofBinaryTree_543;
+package Tree.B_Traversal.AB_DFS.AX_DiameterofBinaryTree_LT543;
 
 import Tree.TreeNode;
 

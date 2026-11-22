@@ -1,4 +1,4 @@
-package Array.A_Fundamentals.AI_SingleNumber_136;
+package Array.A_Fundamentals.AI_SingleNumber_LT136;
 
 class Solution {
     public int singleNumber(int[] nums) {

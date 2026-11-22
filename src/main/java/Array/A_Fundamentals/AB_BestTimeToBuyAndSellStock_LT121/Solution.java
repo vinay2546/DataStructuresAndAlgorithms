@@ -1,4 +1,4 @@
-package Array.A_Fundamentals.AB_BestTimeToBuyAndSellStock_121;
+package Array.A_Fundamentals.AB_BestTimeToBuyAndSellStock_LT121;
 
 class Solution {
     public int maxProfit(int[] prices) {

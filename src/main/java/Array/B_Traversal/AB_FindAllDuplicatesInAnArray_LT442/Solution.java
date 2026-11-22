@@ -1,4 +1,4 @@
-package Array.B_Traversal.AB_FindAllDuplicatesInAnArray_442;
+package Array.B_Traversal.AB_FindAllDuplicatesInAnArray_LT442;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package Heap.MinMaxHeap.AD_KthLargestElementInAStream_703;
+package Heap.MinMaxHeap.AD_KthLargestElementInAStream_LT703;
 
 // Placeholder — LeetCode 703: KthLargestElementInAStream
 

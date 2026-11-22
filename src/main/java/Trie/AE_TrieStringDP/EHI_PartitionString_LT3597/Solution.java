@@ -1,4 +1,4 @@
-package Trie.A_General.EHI_PartitionString_3597;
+package Trie.AE_TrieStringDP.EHI_PartitionString_LT3597;
 
 // Placeholder — LeetCode 3597: Partition String 
 // Trie / General

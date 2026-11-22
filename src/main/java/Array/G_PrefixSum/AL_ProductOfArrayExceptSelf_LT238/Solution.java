@@ -1,4 +1,4 @@
-package Array.G_PrefixSum.AL_ProductOfArrayExceptSelf_238;
+package Array.G_PrefixSum.AL_ProductOfArrayExceptSelf_LT238;
 
 // Placeholder — LeetCode 238: Product Of Array Except Self
 // Array / PrefixSum

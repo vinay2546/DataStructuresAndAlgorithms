@@ -1,4 +1,4 @@
-package String.Hashing.AA_GroupAnagrams_49;
+package String.Hashing.AA_GroupAnagrams_LT49;
 
 // Placeholder — LeetCode 49: GroupAnagrams
 

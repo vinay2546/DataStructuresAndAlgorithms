@@ -1,4 +1,4 @@
-package String.DP.AB_PalindromicSubstrings_647;
+package String.DP.AB_PalindromicSubstrings_LT647;
 
 // Placeholder — LeetCode 647: PalindromicSubstrings
 

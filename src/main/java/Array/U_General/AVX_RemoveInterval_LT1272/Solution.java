@@ -1,4 +1,4 @@
-package Array.U_General.AVX_RemoveInterval_1272;
+package Array.U_General.AVX_RemoveInterval_LT1272;
 
 // Placeholder — LeetCode 1272: Remove Interval
 // Array / General

@@ -1,4 +1,4 @@
-package HashMap.Frequency.AA_GroupAnagrams_49;
+package HashMap.Frequency.AA_GroupAnagrams_LT49;
 
 // Placeholder — LeetCode 49: GroupAnagrams
 // HashMap / Frequency

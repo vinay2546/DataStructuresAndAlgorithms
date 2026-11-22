@@ -1,4 +1,4 @@
-package Array.A_Fundamentals.AD_PlusOne_66;
+package Array.A_Fundamentals.AD_PlusOne_LT66;
 
 import java.util.Arrays;
 

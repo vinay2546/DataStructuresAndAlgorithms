@@ -1,4 +1,4 @@
-package Heap.Advanced.AB_FindMedianFromDataStream_295;
+package Heap.Advanced.AB_FindMedianFromDataStream_LT295;
 
 // Placeholder — LeetCode 295: FindMedianFromDataStream
 

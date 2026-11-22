@@ -1,4 +1,4 @@
-package Graph.P_AdvancedGraphPatterns.CJI_JumpGameVIII_2297;
+package Graph.P_AdvancedGraphPatterns.CJI_JumpGameVIII_LT2297;
 
 // Placeholder — LeetCode 2297: Jump Game VIII
 // Graph / General

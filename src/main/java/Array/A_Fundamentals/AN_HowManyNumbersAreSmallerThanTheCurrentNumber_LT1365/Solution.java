@@ -1,4 +1,4 @@
-package Array.A_Fundamentals.AN_HowManyNumbersAreSmallerThanTheCurrentNumber_1365;
+package Array.A_Fundamentals.AN_HowManyNumbersAreSmallerThanTheCurrentNumber_LT1365;
 
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {

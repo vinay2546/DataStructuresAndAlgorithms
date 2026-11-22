@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.AW_MaximumDifferenceBetweenNodeandAncestor_1026;
+package Tree.B_Traversal.AB_DFS.AW_MaximumDifferenceBetweenNodeandAncestor_LT1026;
 
 import Tree.TreeNode;
 

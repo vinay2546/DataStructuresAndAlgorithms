@@ -1,4 +1,4 @@
-package Array.A_Fundamentals.AL_RichestCustomerWealth_1672;
+package Array.A_Fundamentals.AL_RichestCustomerWealth_LT1672;
 
 class Solution {
     public int maximumWealth(int[][] accounts) {

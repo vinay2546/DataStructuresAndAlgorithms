@@ -1,4 +1,4 @@
-package Array.P_MonotonicStack.AI_FinalPricesWithASpecialDiscountInAShop_1475;
+package Array.P_MonotonicStack.AI_FinalPricesWithASpecialDiscountInAShop_LT1475;
 
 // Placeholder — LeetCode 1475: Final Prices With ASpecial Discount In AShop
 // Array / MonotonicStack

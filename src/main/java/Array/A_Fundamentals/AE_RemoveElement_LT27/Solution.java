@@ -1,4 +1,4 @@
-package Array.A_Fundamentals.AE_RemoveElement_27;
+package Array.A_Fundamentals.AE_RemoveElement_LT27;
 
 class Solution {
     public static int removeElement(int[] nums, int val) {

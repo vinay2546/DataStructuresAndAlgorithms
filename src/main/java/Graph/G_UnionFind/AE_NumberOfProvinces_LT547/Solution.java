@@ -1,4 +1,4 @@
-package Graph.G_UnionFind.AE_NumberOfProvinces_547;
+package Graph.G_UnionFind.AE_NumberOfProvinces_LT547;
 
 // Placeholder — LeetCode 547: NumberOfProvinces
 

@@ -1,4 +1,4 @@
-package LinkedList.H_DoublyLinkedList.PJ_ConvertBinarySearchTreeToSortedDoublyLinkedList_426;
+package LinkedList.H_DoublyLinkedList.PJ_ConvertBinarySearchTreeToSortedDoublyLinkedList_LT426;
 
 // Placeholder — LeetCode 426: Convert Binary Search Tree to Sorted Doubly Linked List
 // LinkedList / General

@@ -1,4 +1,4 @@
-package Matrix.PrefixDP.AA_RangeSumQuery2DImmutable_304;
+package Matrix.PrefixDP.AA_RangeSumQuery2DImmutable_LT304;
 
 // Placeholder — LeetCode 304: RangeSumQuery2DImmutable
 

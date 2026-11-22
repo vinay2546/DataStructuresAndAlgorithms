@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AA_BFS.AM_PopulatingNextRightPointersInEachNode_116;
+package Tree.B_Traversal.AA_BFS.AM_PopulatingNextRightPointersInEachNode_LT116;
 
 /*
 // Definition for a Node.

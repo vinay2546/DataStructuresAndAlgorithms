@@ -1,4 +1,4 @@
-package Graph.G_UnionFind.AFG_SimilarStringGroups_839;
+package Graph.G_UnionFind.AFG_SimilarStringGroups_LT839;
 
 // Placeholder — LeetCode 839: Similar String Groups
 // Graph / General

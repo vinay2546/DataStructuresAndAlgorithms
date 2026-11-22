@@ -1,4 +1,4 @@
-package Trie.WordSearch.AB_WordSearch_79;
+package Trie.AD_TrieBacktracking.AB_WordSearch_LT79;
 
 // Placeholder — LeetCode 79: WordSearch
 

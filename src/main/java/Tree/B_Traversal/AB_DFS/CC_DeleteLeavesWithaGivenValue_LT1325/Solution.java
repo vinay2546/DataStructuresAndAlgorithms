@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.CC_DeleteLeavesWithaGivenValue_1325;
+package Tree.B_Traversal.AB_DFS.CC_DeleteLeavesWithaGivenValue_LT1325;
 
 /** Placeholder for LeetCode 1325: Delete Leaves Witha Given Value. */
 public class Solution {

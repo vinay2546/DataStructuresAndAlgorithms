@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.AI_InvertBinaryTree_226;
+package Tree.B_Traversal.AB_DFS.AI_InvertBinaryTree_LT226;
 
 import Tree.TreeNode;
 

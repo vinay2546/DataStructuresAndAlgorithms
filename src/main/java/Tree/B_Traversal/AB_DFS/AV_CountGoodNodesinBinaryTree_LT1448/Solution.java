@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.AV_CountGoodNodesinBinaryTree_1448;
+package Tree.B_Traversal.AB_DFS.AV_CountGoodNodesinBinaryTree_LT1448;
 
 import Tree.TreeNode;
 

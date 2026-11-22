@@ -1,4 +1,4 @@
-package Heap.Greedy.AC_FurthestBuildingYouCanReach_1642;
+package Heap.Greedy.AC_FurthestBuildingYouCanReach_LT1642;
 
 // Placeholder — LeetCode 1642: FurthestBuildingYouCanReach
 

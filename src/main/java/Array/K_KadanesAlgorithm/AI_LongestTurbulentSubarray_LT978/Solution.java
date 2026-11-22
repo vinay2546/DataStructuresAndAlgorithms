@@ -1,4 +1,4 @@
-package Array.K_KadanesAlgorithm.AI_LongestTurbulentSubarray_978;
+package Array.K_KadanesAlgorithm.AI_LongestTurbulentSubarray_LT978;
 
 // Placeholder — LeetCode 978: Longest Turbulent Subarray
 // Array / KadanesAlgorithm

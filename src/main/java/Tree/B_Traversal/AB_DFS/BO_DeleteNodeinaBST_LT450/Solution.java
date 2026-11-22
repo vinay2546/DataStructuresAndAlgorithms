@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.BO_DeleteNodeinaBST_450;
+package Tree.B_Traversal.AB_DFS.BO_DeleteNodeinaBST_LT450;
 
 /** Placeholder for LeetCode 450: Delete Nodeina BST. */
 public class Solution {

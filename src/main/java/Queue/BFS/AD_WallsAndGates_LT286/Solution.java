@@ -1,4 +1,4 @@
-package Queue.BFS.AD_WallsAndGates_286;
+package Queue.BFS.AD_WallsAndGates_LT286;
 
 // Placeholder — LeetCode 286: WallsAndGates
 // Queue / BFS

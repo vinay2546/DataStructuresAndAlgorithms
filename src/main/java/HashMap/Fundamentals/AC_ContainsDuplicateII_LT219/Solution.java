@@ -1,4 +1,4 @@
-package HashMap.Fundamentals.AC_ContainsDuplicateII_219;
+package HashMap.Fundamentals.AC_ContainsDuplicateII_LT219;
 
 // Placeholder — LeetCode 219: ContainsDuplicateII
 // HashMap / Fundamentals

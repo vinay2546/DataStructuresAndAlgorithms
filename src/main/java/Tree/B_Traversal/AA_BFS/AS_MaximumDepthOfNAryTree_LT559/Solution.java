@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AA_BFS.AS_MaximumDepthOfNAryTree_559;
+package Tree.B_Traversal.AA_BFS.AS_MaximumDepthOfNAryTree_LT559;
 
 /*
 // Definition for a Node.

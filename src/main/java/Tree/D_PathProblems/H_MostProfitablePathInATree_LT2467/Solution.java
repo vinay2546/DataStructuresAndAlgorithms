@@ -1,4 +1,4 @@
-package Tree.D_PathProblems.H_MostProfitablePathInATree_2467;
+package Tree.D_PathProblems.H_MostProfitablePathInATree_LT2467;
 
 // Placeholder — LeetCode 2467: Most Profitable Path in a Tree
 // Tree / General

@@ -1,4 +1,4 @@
-package Matrix.Advanced.AE_NQueensII_52;
+package Matrix.Advanced.AE_NQueensII_LT52;
 
 // Placeholder — LeetCode 52: NQueensII
 

@@ -1,4 +1,4 @@
-package Graph.I_MST.AB_ConnectingCitiesWithMinimumCost_1135;
+package Graph.I_MST.AB_ConnectingCitiesWithMinimumCost_LT1135;
 
 // Placeholder — LeetCode 1135: ConnectingCitiesWithMinimumCost
 

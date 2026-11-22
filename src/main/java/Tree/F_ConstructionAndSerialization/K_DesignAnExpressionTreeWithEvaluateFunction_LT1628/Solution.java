@@ -1,4 +1,4 @@
-package Tree.F_ConstructionAndSerialization.K_DesignAnExpressionTreeWithEvaluateFunction_1628;
+package Tree.F_ConstructionAndSerialization.K_DesignAnExpressionTreeWithEvaluateFunction_LT1628;
 
 // Placeholder — LeetCode 1628: Design an Expression Tree With Evaluate Function
 // Tree / General

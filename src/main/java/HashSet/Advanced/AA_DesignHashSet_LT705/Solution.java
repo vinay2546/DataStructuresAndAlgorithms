@@ -1,4 +1,4 @@
-package HashSet.Advanced.AA_DesignHashSet_705;
+package HashSet.Advanced.AA_DesignHashSet_LT705;
 
 // Placeholder — LeetCode 705: DesignHashSet
 // HashSet / Advanced
