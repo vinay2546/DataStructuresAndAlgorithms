@@ -22,7 +22,17 @@ Java-based Data Structures and Algorithms solutions, organized by data structure
 <!-- PROBLEM_TRACKER:START -->
 ## DSA Progress Overview
 
-The root tracker summarizes progress by data structure. Detailed problem and category trackers live in each data-structure README.
+**0 / 1157 problem placements solved (0.0%)**
+
+🟩 Solved: 0 · 🟨 In Progress: 0 · ⬜ Not Started: 1157
+
+| Top-level Directory | Total | Solved | In Progress | Not Started | Completion |
+|---|---:|---:|---:|---:|---:|
+| [src](src/main/java/src/README.md) | 1157 | 0 | 0 | 1157 | 0.0% |
+
+<sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
+
+The individual problem README is the source of truth. Allowed statuses: Not Started, In Progress, Solved. Missing READMEs, legacy Placeholder values, and unknown statuses count as Not Started.
 <!-- PROBLEM_TRACKER:END -->
 
 ## Trie learning progression

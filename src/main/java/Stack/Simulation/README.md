@@ -10,3 +10,24 @@ All current problem folders are placeholders.
 - AB — BackspaceStringCompare — 844
 - AC — RemoveAllAdjacentDuplicatesInString — 1047
 - AD — RemoveAllAdjacentDuplicatesInStringII — 1209
+
+<!-- PROBLEM_TRACKER:START -->
+## Progress Overview — Simulation
+
+**0 / 4 problem placements solved (0.0%)**
+
+🟩 Solved: 0 · 🟨 In Progress: 0 · ⬜ Not Started: 4
+
+This tracker is generated recursively. Update the **Status** field in an individual problem README.
+
+### Problems in this directory
+
+| Problem | LeetCode # | Status |
+|---|---:|---|
+| [AsteroidCollision — 735](AA_AsteroidCollision_LT735/README.md) | #735 | ⬜ Not Started |
+| [BackspaceStringCompare — 844](AB_BackspaceStringCompare_LT844/README.md) | #844 | ⬜ Not Started |
+| [RemoveAllAdjacentDuplicatesInString — 1047](AC_RemoveAllAdjacentDuplicatesInString_LT1047/README.md) | #1047 | ⬜ Not Started |
+| [RemoveAllAdjacentDuplicatesInStringII — 1209](AD_RemoveAllAdjacentDuplicatesInStringII_LT1209/README.md) | #1209 | ⬜ Not Started |
+
+<sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
+<!-- PROBLEM_TRACKER:END -->
