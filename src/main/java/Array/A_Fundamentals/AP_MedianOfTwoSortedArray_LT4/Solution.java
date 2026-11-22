@@ -1,4 +1,4 @@
-package Array.A_Fundamentals.AP_MedianOfTwoSortedArray_4;
+package Array.A_Fundamentals.AP_MedianOfTwoSortedArray_LT4;
 
 import java.util.Arrays;
 

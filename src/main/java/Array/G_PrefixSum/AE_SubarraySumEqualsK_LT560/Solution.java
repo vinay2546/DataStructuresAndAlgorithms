@@ -1,4 +1,4 @@
-package Array.G_PrefixSum.AE_SubarraySumEqualsK_560;
+package Array.G_PrefixSum.AE_SubarraySumEqualsK_LT560;
 
 // Placeholder — LeetCode 560: Subarray Sum Equals K
 // Array / PrefixSum

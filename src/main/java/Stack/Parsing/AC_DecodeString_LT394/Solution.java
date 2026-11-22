@@ -1,4 +1,4 @@
-package Stack.Parsing.AC_DecodeString_394;
+package Stack.Parsing.AC_DecodeString_LT394;
 
 // Placeholder — LeetCode 394: DecodeString
 // Stack / Parsing

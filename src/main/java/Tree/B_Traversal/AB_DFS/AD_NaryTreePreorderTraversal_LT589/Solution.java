@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.AD_NaryTreePreorderTraversal_589;
+package Tree.B_Traversal.AB_DFS.AD_NaryTreePreorderTraversal_LT589;
 
 /*
 // Definition for a Node.

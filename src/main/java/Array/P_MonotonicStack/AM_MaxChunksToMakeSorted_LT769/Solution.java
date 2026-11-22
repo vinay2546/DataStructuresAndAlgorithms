@@ -1,4 +1,4 @@
-package Array.P_MonotonicStack.AM_MaxChunksToMakeSorted_769;
+package Array.P_MonotonicStack.AM_MaxChunksToMakeSorted_LT769;
 
 // Placeholder — LeetCode 769: Max Chunks To Make Sorted
 // Array / MonotonicStack

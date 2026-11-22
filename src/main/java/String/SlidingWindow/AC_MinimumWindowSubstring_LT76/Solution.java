@@ -1,4 +1,4 @@
-package String.SlidingWindow.AC_MinimumWindowSubstring_76;
+package String.SlidingWindow.AC_MinimumWindowSubstring_LT76;
 
 // Placeholder — LeetCode 76: MinimumWindowSubstring
 

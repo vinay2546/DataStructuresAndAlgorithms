@@ -1,4 +1,4 @@
-package Graph.A_Fundamentals.EHP_MinimumTimeToReachDestinationInDirectedGraph_3604;
+package Graph.A_Fundamentals.EHP_MinimumTimeToReachDestinationInDirectedGraph_LT3604;
 
 // Placeholder — LeetCode 3604: Minimum Time to Reach Destination in Directed Graph
 // Graph / General

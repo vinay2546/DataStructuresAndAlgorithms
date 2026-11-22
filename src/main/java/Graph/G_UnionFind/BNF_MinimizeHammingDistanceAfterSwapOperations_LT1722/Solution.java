@@ -1,4 +1,4 @@
-package Graph.G_UnionFind.BNF_MinimizeHammingDistanceAfterSwapOperations_1722;
+package Graph.G_UnionFind.BNF_MinimizeHammingDistanceAfterSwapOperations_LT1722;
 
 // Placeholder — LeetCode 1722: Minimize Hamming Distance After Swap Operations
 // Graph / General

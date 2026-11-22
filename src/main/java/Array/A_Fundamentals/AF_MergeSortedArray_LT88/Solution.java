@@ -1,4 +1,4 @@
-package Array.A_Fundamentals.AF_MergeSortedArray_88;
+package Array.A_Fundamentals.AF_MergeSortedArray_LT88;
 
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {

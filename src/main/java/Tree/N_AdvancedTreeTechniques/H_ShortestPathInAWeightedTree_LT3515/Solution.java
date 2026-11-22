@@ -1,4 +1,4 @@
-package Tree.N_AdvancedTreeTechniques.H_ShortestPathInAWeightedTree_3515;
+package Tree.N_AdvancedTreeTechniques.H_ShortestPathInAWeightedTree_LT3515;
 
 // Placeholder — LeetCode 3515: Shortest Path in a Weighted Tree
 // Tree / General

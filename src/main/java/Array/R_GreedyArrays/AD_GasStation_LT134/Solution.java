@@ -1,4 +1,4 @@
-package Array.R_GreedyArrays.AD_GasStation_134;
+package Array.R_GreedyArrays.AD_GasStation_LT134;
 
 // Placeholder — LeetCode 134: Gas Station
 // Array / GreedyArrays

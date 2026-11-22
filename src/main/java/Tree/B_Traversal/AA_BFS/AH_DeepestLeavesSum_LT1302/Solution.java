@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AA_BFS.AH_DeepestLeavesSum_1302;
+package Tree.B_Traversal.AA_BFS.AH_DeepestLeavesSum_LT1302;
 
 import Tree.TreeNode;
 

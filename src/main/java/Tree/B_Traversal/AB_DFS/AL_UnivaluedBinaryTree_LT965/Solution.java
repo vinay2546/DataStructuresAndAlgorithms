@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.AL_UnivaluedBinaryTree_965;
+package Tree.B_Traversal.AB_DFS.AL_UnivaluedBinaryTree_LT965;
 
 import Tree.TreeNode;
 

@@ -1,4 +1,4 @@
-package Array.U_General.DKJ_MaximumAreaOfLongestDiagonalRectangle_3000;
+package Array.U_General.DKJ_MaximumAreaOfLongestDiagonalRectangle_LT3000;
 
 // Placeholder — LeetCode 3000: Maximum Area of Longest Diagonal Rectangle
 // Array / General

@@ -1,4 +1,4 @@
-package Array.O_Matrix.AH_ReshapeTheMatrix_566;
+package Array.O_Matrix.AH_ReshapeTheMatrix_LT566;
 
 // Placeholder — LeetCode 566: Reshape The Matrix
 // Array / Matrix

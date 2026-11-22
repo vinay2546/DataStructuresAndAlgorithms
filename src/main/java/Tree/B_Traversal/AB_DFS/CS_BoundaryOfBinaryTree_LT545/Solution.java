@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.CS_BoundaryOfBinaryTree_545;
+package Tree.B_Traversal.AB_DFS.CS_BoundaryOfBinaryTree_LT545;
 
 // Placeholder — LeetCode 545: Boundary of Binary Tree
 // Tree / General

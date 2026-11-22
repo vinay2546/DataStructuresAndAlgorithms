@@ -1,4 +1,4 @@
-package Tree.L_TreeDynamicProgramming.G_MaximumGoodSubtreeScore_3575;
+package Tree.L_TreeDynamicProgramming.G_MaximumGoodSubtreeScore_LT3575;
 
 // Placeholder — LeetCode 3575: Maximum Good Subtree Score
 // Tree / General

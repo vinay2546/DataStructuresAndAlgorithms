@@ -1,4 +1,4 @@
-package Array.A_Fundamentals.AO_ShuffleTheArray_1470;
+package Array.A_Fundamentals.AO_ShuffleTheArray_LT1470;
 
 class Solution {
     public int[] shuffle(int[] nums, int n) {

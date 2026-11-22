@@ -1,4 +1,4 @@
-package LinkedList.D_Reversal.AVQ_PrintImmutableLinkedListInReverse_1265;
+package LinkedList.D_Reversal.AVQ_PrintImmutableLinkedListInReverse_LT1265;
 
 // Placeholder — LeetCode 1265: Print Immutable Linked List in Reverse
 // LinkedList / General

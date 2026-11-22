@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.AJ_BalancedBinaryTree_110;
+package Tree.B_Traversal.AB_DFS.AJ_BalancedBinaryTree_LT110;
 
 import Tree.TreeNode;
 

@@ -1,4 +1,4 @@
-package LinkedList.H_DoublyLinkedList.PP_AllOOneDataStructure_432;
+package LinkedList.H_DoublyLinkedList.PP_AllOOneDataStructure_LT432;
 
 // Placeholder — LeetCode 432: All O`one Data Structure
 // LinkedList / General

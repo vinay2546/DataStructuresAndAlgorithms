@@ -1,4 +1,4 @@
-package Array.T_AdvancedRangeQueries.AA_RangeSumQueryMutable_307;
+package Array.T_AdvancedRangeQueries.AA_RangeSumQueryMutable_LT307;
 
 // Placeholder — LeetCode 307: Range Sum Query Mutable
 // Array / AdvancedRangeQueries

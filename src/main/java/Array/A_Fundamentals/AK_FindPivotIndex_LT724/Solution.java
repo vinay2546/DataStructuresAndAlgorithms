@@ -1,4 +1,4 @@
-package Array.A_Fundamentals.AK_FindPivotIndex_724;
+package Array.A_Fundamentals.AK_FindPivotIndex_LT724;
 
 class Solution {
     public int pivotIndex(int[] nums) {

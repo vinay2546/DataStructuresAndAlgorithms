@@ -1,4 +1,4 @@
-package Trie.A_General.VP_DesignInMemoryFileSystem_588;
+package Trie.AH_DesignAndApplications.VP_DesignInMemoryFileSystem_LT588;
 
 // Placeholder — LeetCode 588: Design In-Memory File System
 // Trie / General

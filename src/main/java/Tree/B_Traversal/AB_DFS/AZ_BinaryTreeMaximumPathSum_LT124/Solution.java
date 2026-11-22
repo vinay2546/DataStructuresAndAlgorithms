@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.AZ_BinaryTreeMaximumPathSum_124;
+package Tree.B_Traversal.AB_DFS.AZ_BinaryTreeMaximumPathSum_LT124;
 
 import Tree.TreeNode;
 

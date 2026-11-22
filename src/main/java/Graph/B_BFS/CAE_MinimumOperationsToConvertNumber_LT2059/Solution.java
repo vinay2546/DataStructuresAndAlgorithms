@@ -1,4 +1,4 @@
-package Graph.B_BFS.CAE_MinimumOperationsToConvertNumber_2059;
+package Graph.B_BFS.CAE_MinimumOperationsToConvertNumber_LT2059;
 
 // Placeholder — LeetCode 2059: Minimum Operations to Convert Number
 // Graph / General

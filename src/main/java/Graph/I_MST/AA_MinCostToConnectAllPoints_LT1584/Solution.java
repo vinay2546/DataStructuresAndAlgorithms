@@ -1,4 +1,4 @@
-package Graph.I_MST.AA_MinCostToConnectAllPoints_1584;
+package Graph.I_MST.AA_MinCostToConnectAllPoints_LT1584;
 
 // Placeholder — LeetCode 1584: MinCostToConnectAllPoints
 

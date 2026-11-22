@@ -1,4 +1,4 @@
-package Queue.Fundamentals.AB_NumberOfRecentCalls_933;
+package Queue.Fundamentals.AB_NumberOfRecentCalls_LT933;
 
 // Placeholder — LeetCode 933: NumberOfRecentCalls
 // Queue / Fundamentals

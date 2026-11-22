@@ -1,4 +1,4 @@
-package Array.P_MonotonicStack.AD_LargestRectangleInHistogram_84;
+package Array.P_MonotonicStack.AD_LargestRectangleInHistogram_LT84;
 
 // Placeholder — LeetCode 84: Largest Rectangle In Histogram
 // Array / MonotonicStack

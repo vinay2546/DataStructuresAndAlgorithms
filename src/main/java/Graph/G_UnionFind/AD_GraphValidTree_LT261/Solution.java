@@ -1,4 +1,4 @@
-package Graph.G_UnionFind.AD_GraphValidTree_261;
+package Graph.G_UnionFind.AD_GraphValidTree_LT261;
 
 // Placeholder — LeetCode 261: GraphValidTree
 

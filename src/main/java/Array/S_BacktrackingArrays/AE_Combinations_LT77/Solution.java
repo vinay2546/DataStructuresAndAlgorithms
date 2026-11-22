@@ -1,4 +1,4 @@
-package Array.S_BacktrackingArrays.AE_Combinations_77;
+package Array.S_BacktrackingArrays.AE_Combinations_LT77;
 
 // Placeholder — LeetCode 77: Combinations
 // Array / BacktrackingArrays

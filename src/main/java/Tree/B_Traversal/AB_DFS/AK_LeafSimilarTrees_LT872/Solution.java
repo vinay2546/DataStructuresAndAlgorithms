@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.AK_LeafSimilarTrees_872;
+package Tree.B_Traversal.AB_DFS.AK_LeafSimilarTrees_LT872;
 
 import Tree.TreeNode;
 

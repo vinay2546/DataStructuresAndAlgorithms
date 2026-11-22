@@ -1,4 +1,4 @@
-package Tree.K_TreeQueries.C_ClosestNodesQueriesInABinarySearchTree_2476;
+package Tree.K_TreeQueries.C_ClosestNodesQueriesInABinarySearchTree_LT2476;
 
 // Placeholder — LeetCode 2476: Closest Nodes Queries in a Binary Search Tree
 // Tree / General

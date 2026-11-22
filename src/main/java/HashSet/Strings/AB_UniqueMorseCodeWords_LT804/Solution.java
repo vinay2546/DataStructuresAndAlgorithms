@@ -1,4 +1,4 @@
-package HashSet.Strings.AB_UniqueMorseCodeWords_804;
+package HashSet.Strings.AB_UniqueMorseCodeWords_LT804;
 
 // Placeholder — LeetCode 804: UniqueMorseCodeWords
 // HashSet / Strings

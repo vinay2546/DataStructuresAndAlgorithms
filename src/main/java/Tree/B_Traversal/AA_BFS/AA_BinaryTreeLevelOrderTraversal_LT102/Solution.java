@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AA_BFS.AA_BinaryTreeLevelOrderTraversal_102;
+package Tree.B_Traversal.AA_BFS.AA_BinaryTreeLevelOrderTraversal_LT102;
 
 import Tree.TreeNode;
 

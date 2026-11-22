@@ -1,4 +1,4 @@
-package Array.R_GreedyArrays.AI_LemonadeChange_860;
+package Array.R_GreedyArrays.AI_LemonadeChange_LT860;
 
 // Placeholder — LeetCode 860: Lemonade Change
 // Array / GreedyArrays

@@ -1,4 +1,4 @@
-package Stack.MonotonicStack.AB_NextGreaterElementII_503;
+package Stack.MonotonicStack.AB_NextGreaterElementII_LT503;
 
 // Placeholder — LeetCode 503: NextGreaterElementII
 // Stack / MonotonicStack

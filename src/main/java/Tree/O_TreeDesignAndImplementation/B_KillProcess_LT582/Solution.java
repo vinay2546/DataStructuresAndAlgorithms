@@ -1,4 +1,4 @@
-package Tree.O_TreeDesignAndImplementation.B_KillProcess_582;
+package Tree.O_TreeDesignAndImplementation.B_KillProcess_LT582;
 
 // Placeholder — LeetCode 582: Kill Process
 // Tree / General

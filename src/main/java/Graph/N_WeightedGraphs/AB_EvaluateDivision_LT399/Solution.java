@@ -1,4 +1,4 @@
-package Graph.N_WeightedGraphs.AB_EvaluateDivision_399;
+package Graph.N_WeightedGraphs.AB_EvaluateDivision_LT399;
 
 // Placeholder — LeetCode 399: EvaluateDivision
 

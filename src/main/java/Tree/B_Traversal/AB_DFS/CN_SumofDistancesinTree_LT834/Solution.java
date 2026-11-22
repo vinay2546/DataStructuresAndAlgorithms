@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.CN_SumofDistancesinTree_834;
+package Tree.B_Traversal.AB_DFS.CN_SumofDistancesinTree_LT834;
 
 /** Placeholder for LeetCode 834: Sumof Distancesin Tree. */
 public class Solution {

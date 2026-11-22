@@ -1,4 +1,4 @@
-package Graph.P_AdvancedGraphPatterns.MZ_NestedListWeightSumII_364;
+package Graph.P_AdvancedGraphPatterns.MZ_NestedListWeightSumII_LT364;
 
 // Placeholder — LeetCode 364: Nested List Weight Sum II
 // Graph / General

@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.AQ_SumofRootToLeafBinaryNumbers_1022;
+package Tree.B_Traversal.AB_DFS.AQ_SumofRootToLeafBinaryNumbers_LT1022;
 
 import Tree.TreeNode;
 

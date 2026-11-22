@@ -1,4 +1,4 @@
-package Stack.MonotonicStack.AA_NextGreaterElementI_496;
+package Stack.MonotonicStack.AA_NextGreaterElementI_LT496;
 
 // Placeholder — LeetCode 496: NextGreaterElementI
 // Stack / MonotonicStack

@@ -1,4 +1,4 @@
-package Queue.Fundamentals.AE_TimeNeededToBuyTickets_2073;
+package Queue.Fundamentals.AE_TimeNeededToBuyTickets_LT2073;
 
 // Placeholder — LeetCode 2073: TimeNeededToBuyTickets
 // Queue / Fundamentals

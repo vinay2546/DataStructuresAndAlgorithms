@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.CE_BinaryTreeTilt_563;
+package Tree.B_Traversal.AB_DFS.CE_BinaryTreeTilt_LT563;
 
 /** Placeholder for LeetCode 563: Binary Tree Tilt. */
 public class Solution {

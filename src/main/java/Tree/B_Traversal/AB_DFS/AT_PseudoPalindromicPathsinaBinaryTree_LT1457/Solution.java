@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.AT_PseudoPalindromicPathsinaBinaryTree_1457;
+package Tree.B_Traversal.AB_DFS.AT_PseudoPalindromicPathsinaBinaryTree_LT1457;
 
 import Tree.TreeNode;
 

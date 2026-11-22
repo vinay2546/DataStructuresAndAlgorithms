@@ -1,4 +1,4 @@
-package Tree.H_SubtreeAndAggregation.J_CountNodesWithTheHighestScore_2049;
+package Tree.H_SubtreeAndAggregation.J_CountNodesWithTheHighestScore_LT2049;
 
 // Placeholder — LeetCode 2049: Count Nodes With the Highest Score
 // Tree / General

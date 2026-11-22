@@ -1,4 +1,4 @@
-package Heap.MergeK.AC_FindKPairsWithSmallestSums_373;
+package Heap.MergeK.AC_FindKPairsWithSmallestSums_LT373;
 
 // Placeholder — LeetCode 373: FindKPairsWithSmallestSums
 

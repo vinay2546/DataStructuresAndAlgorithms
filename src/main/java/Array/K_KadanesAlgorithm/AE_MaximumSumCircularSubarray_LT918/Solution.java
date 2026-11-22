@@ -1,4 +1,4 @@
-package Array.K_KadanesAlgorithm.AE_MaximumSumCircularSubarray_918;
+package Array.K_KadanesAlgorithm.AE_MaximumSumCircularSubarray_LT918;
 
 // Placeholder — LeetCode 918: Maximum Sum Circular Subarray
 // Array / KadanesAlgorithm

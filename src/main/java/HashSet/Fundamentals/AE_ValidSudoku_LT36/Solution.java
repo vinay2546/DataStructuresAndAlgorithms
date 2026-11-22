@@ -1,4 +1,4 @@
-package HashSet.Fundamentals.AE_ValidSudoku_36;
+package HashSet.Fundamentals.AE_ValidSudoku_LT36;
 
 // Placeholder — LeetCode 36: ValidSudoku
 // HashSet / Fundamentals

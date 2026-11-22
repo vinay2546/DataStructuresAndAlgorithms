@@ -1,4 +1,4 @@
-package Heap.TopK.AA_TopKFrequentElements_347;
+package Heap.TopK.AA_TopKFrequentElements_LT347;
 
 // Placeholder — LeetCode 347: TopKFrequentElements
 

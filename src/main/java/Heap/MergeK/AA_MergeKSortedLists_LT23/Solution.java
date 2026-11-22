@@ -1,4 +1,4 @@
-package Heap.MergeK.AA_MergeKSortedLists_23;
+package Heap.MergeK.AA_MergeKSortedLists_LT23;
 
 // Placeholder — LeetCode 23: MergeKSortedLists
 

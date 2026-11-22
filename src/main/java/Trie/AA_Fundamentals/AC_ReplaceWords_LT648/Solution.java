@@ -1,4 +1,4 @@
-package Trie.Fundamentals.AC_ReplaceWords_648;
+package Trie.AA_Fundamentals.AC_ReplaceWords_LT648;
 
 // Placeholder — LeetCode 648: ReplaceWords
 

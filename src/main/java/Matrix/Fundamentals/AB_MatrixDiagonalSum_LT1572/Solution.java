@@ -1,4 +1,4 @@
-package Matrix.Fundamentals.AB_MatrixDiagonalSum_1572;
+package Matrix.Fundamentals.AB_MatrixDiagonalSum_LT1572;
 
 // Placeholder — LeetCode 1572: MatrixDiagonalSum
 

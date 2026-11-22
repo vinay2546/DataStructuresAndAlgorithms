@@ -1,4 +1,4 @@
-package Array.F_Hashing.AM_IntersectionOfTwoArraysII_350;
+package Array.F_Hashing.AM_IntersectionOfTwoArraysII_LT350;
 
 // Placeholder — LeetCode 350: Intersection Of Two Arrays II
 // Array / Hashing

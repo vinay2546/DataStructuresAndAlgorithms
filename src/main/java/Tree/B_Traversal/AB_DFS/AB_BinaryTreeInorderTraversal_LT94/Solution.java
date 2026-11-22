@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.AB_BinaryTreeInorderTraversal_94;
+package Tree.B_Traversal.AB_DFS.AB_BinaryTreeInorderTraversal_LT94;
 
 import Tree.TreeNode;
 

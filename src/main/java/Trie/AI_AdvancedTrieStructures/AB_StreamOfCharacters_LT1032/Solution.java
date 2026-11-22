@@ -1,4 +1,4 @@
-package Trie.Advanced.AB_StreamOfCharacters_1032;
+package Trie.AI_AdvancedTrieStructures.AB_StreamOfCharacters_LT1032;
 
 // Placeholder — LeetCode 1032: StreamOfCharacters
 

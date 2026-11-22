@@ -1,4 +1,4 @@
-package LinkedList.E_MergeAndPartition.AA_MergeTwoSortedLists_21;
+package LinkedList.E_MergeAndPartition.AA_MergeTwoSortedLists_LT21;
 
 // Placeholder — LeetCode 21: MergeTwoSortedLists
 // LinkedList / MergeSort

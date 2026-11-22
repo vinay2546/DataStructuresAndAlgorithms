@@ -1,4 +1,4 @@
-package String.SlidingWindow.AE_PermutationInString_567;
+package String.SlidingWindow.AE_PermutationInString_LT567;
 
 // Placeholder — LeetCode 567: PermutationInString
 

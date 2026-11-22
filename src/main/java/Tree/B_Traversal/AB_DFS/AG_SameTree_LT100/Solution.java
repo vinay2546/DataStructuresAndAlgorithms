@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.AG_SameTree_100;
+package Tree.B_Traversal.AB_DFS.AG_SameTree_LT100;
 
 import Tree.TreeNode;
 

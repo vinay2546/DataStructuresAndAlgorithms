@@ -1,4 +1,4 @@
-package String.SlidingWindow.AA_LongestSubstringWithoutRepeatingCharacters_3;
+package String.SlidingWindow.AA_LongestSubstringWithoutRepeatingCharacters_LT3;
 
 // Placeholder — LeetCode 3: LongestSubstringWithoutRepeatingCharacters
 

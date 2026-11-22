@@ -1,4 +1,4 @@
-package Array.A_Fundamentals.AC_ContainsDuplicate_217;
+package Array.A_Fundamentals.AC_ContainsDuplicate_LT217;
 
 import java.util.HashSet;
 import java.util.Set;

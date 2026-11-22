@@ -1,4 +1,4 @@
-package Array.O_Matrix.AC_RotateImage_48;
+package Array.O_Matrix.AC_RotateImage_LT48;
 
 // Placeholder — LeetCode 48: Rotate Image
 // Array / Matrix

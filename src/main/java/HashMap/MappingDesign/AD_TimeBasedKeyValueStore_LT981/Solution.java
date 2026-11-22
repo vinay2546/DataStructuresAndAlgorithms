@@ -1,4 +1,4 @@
-package HashMap.MappingDesign.AD_TimeBasedKeyValueStore_981;
+package HashMap.MappingDesign.AD_TimeBasedKeyValueStore_LT981;
 
 // Placeholder — LeetCode 981: TimeBasedKeyValueStore
 // HashMap / MappingDesign

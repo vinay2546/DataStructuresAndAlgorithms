@@ -1,4 +1,4 @@
-package Trie.A_General.EJ_WordBreakII_140;
+package Trie.AE_TrieStringDP.EJ_WordBreakII_LT140;
 
 // Placeholder — LeetCode 140: Word Break II
 // Trie / General

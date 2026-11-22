@@ -1,4 +1,4 @@
-package Tree.H_SubtreeAndAggregation.L_MaximumXOROfTwoNonOverlappingSubtrees_2479;
+package Tree.H_SubtreeAndAggregation.L_MaximumXOROfTwoNonOverlappingSubtrees_LT2479;
 
 // Placeholder — LeetCode 2479: Maximum XOR of Two Non-Overlapping Subtrees
 // Tree / General

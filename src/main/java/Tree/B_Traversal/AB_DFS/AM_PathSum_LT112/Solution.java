@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AB_DFS.AM_PathSum_112;
+package Tree.B_Traversal.AB_DFS.AM_PathSum_LT112;
 
 import Tree.TreeNode;
 

@@ -1,4 +1,4 @@
-package Trie.WordSearch.AD_WordBreak_139;
+package Trie.AE_TrieStringDP.AD_WordBreak_LT139;
 
 // Placeholder — LeetCode 139: WordBreak
 

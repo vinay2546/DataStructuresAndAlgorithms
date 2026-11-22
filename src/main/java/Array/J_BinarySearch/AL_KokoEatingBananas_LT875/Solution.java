@@ -1,4 +1,4 @@
-package Array.J_BinarySearch.AL_KokoEatingBananas_875;
+package Array.J_BinarySearch.AL_KokoEatingBananas_LT875;
 
 // Placeholder — LeetCode 875: Koko Eating Bananas
 // Array / BinarySearch

@@ -1,4 +1,4 @@
-package Matrix.PrefixDP.AD_UniquePaths_62;
+package Matrix.PrefixDP.AD_UniquePaths_LT62;
 
 // Placeholder — LeetCode 62: UniquePaths
 

@@ -1,4 +1,4 @@
-package Array.N_Intervals.AK_RemoveCoveredIntervals_1288;
+package Array.N_Intervals.AK_RemoveCoveredIntervals_LT1288;
 
 // Placeholder — LeetCode 1288: Remove Covered Intervals
 // Array / Intervals

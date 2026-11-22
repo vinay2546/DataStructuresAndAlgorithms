@@ -1,4 +1,4 @@
-package Graph.P_AdvancedGraphPatterns.ANZ_CampusBikesII_1066;
+package Graph.P_AdvancedGraphPatterns.ANZ_CampusBikesII_LT1066;
 
 // Placeholder — LeetCode 1066: Campus Bikes II
 // Graph / General

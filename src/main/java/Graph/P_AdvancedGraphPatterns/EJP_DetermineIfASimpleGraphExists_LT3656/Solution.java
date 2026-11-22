@@ -1,4 +1,4 @@
-package Graph.P_AdvancedGraphPatterns.EJP_DetermineIfASimpleGraphExists_3656;
+package Graph.P_AdvancedGraphPatterns.EJP_DetermineIfASimpleGraphExists_LT3656;
 
 // Placeholder — LeetCode 3656: Determine if a Simple Graph Exists
 // Graph / General

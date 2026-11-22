@@ -1,4 +1,4 @@
-package Tree.B_Traversal.AA_BFS.AR_MinimumDepthOfBinaryTree_111;
+package Tree.B_Traversal.AA_BFS.AR_MinimumDepthOfBinaryTree_LT111;
 
 import Tree.TreeNode;
 

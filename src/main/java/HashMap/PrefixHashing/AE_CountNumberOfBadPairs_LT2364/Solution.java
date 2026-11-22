@@ -1,4 +1,4 @@
-package HashMap.PrefixHashing.AE_CountNumberOfBadPairs_2364;
+package HashMap.PrefixHashing.AE_CountNumberOfBadPairs_LT2364;
 
 // Placeholder — LeetCode 2364: CountNumberOfBadPairs
 // HashMap / PrefixHashing

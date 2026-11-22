@@ -1,4 +1,4 @@
-package Array.A_Fundamentals.AJ_ThirdMaximumNumber_414;
+package Array.A_Fundamentals.AJ_ThirdMaximumNumber_LT414;
 
 class Solution {
     public int thirdMax(int[] nums) {

@@ -1,4 +1,4 @@
-package Array.A_Fundamentals.AM_FindNumbersWithEvenNumberOfDigits_1295;
+package Array.A_Fundamentals.AM_FindNumbersWithEvenNumberOfDigits_LT1295;
 
 class Solution {
     public int findNumbers(int[] nums) {

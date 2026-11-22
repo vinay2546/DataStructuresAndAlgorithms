@@ -1,4 +1,4 @@
-package Array.D_InPlaceManipulation.AO_StringCompression_443;
+package Array.D_InPlaceManipulation.AO_StringCompression_LT443;
 
 // Placeholder — LeetCode 443: String Compression
 // Array / InPlaceManipulation

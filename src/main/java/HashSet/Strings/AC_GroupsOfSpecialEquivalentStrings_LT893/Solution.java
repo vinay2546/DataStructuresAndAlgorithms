@@ -1,4 +1,4 @@
-package HashSet.Strings.AC_GroupsOfSpecialEquivalentStrings_893;
+package HashSet.Strings.AC_GroupsOfSpecialEquivalentStrings_LT893;
 
 // Placeholder — LeetCode 893: GroupsOfSpecialEquivalentStrings
 // HashSet / Strings

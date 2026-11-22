@@ -1,4 +1,4 @@
-package HashMap.MappingDesign.AB_DesignTwitter_355;
+package HashMap.MappingDesign.AB_DesignTwitter_LT355;
 
 // Placeholder — LeetCode 355: DesignTwitter
 // HashMap / MappingDesign

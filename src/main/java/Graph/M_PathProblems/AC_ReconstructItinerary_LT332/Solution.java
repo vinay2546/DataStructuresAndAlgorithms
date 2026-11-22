@@ -1,4 +1,4 @@
-package Graph.M_PathProblems.AC_ReconstructItinerary_332;
+package Graph.M_PathProblems.AC_ReconstructItinerary_LT332;
 
 // Placeholder — LeetCode 332: ReconstructItinerary
 

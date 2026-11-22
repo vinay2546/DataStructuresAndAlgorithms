@@ -1,4 +1,4 @@
-package LinkedList.B_TwoPointers.AB_MiddleOfTheLinkedList_876;
+package LinkedList.B_TwoPointers.AB_MiddleOfTheLinkedList_LT876;
 
 // Placeholder — LeetCode 876: MiddleOfTheLinkedList
 // LinkedList / Fundamentals
