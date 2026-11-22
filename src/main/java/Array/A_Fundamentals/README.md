@@ -50,7 +50,7 @@ This tracker is generated recursively. Update the **Status** field in an individ
 | [Find Numbers With Even Number Of Digits — 1295](AM_FindNumbersWithEvenNumberOfDigits_LT1295/README.md) | #1295 | ⬜ Not Started |
 | [How Many Numbers Are Smaller Than The Current Number — 1365](AN_HowManyNumbersAreSmallerThanTheCurrentNumber_LT1365/README.md) | #1365 | ⬜ Not Started |
 | [Shuffle The Array — 1470](AO_ShuffleTheArray_LT1470/README.md) | #1470 | ⬜ Not Started |
-| [AP_MedianOfTwoSortedArray_LT4](AP_MedianOfTwoSortedArray_LT4/Solution.java) | #4 | ⬜ Not Started |
+| [Median Of Two Sorter Array — 4](AP_MedianOfTwoSortedArray_LT4/README.md) | #4 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
 <!-- PROBLEM_TRACKER:END -->
