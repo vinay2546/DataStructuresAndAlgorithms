@@ -1,15 +1,13 @@
-# 2509. Cycle Length Queries in a Tree
+# Cycle Length Queries In ATree — 2509
 
 **Data Structure:** Tree  
-**Pattern:** TreeQueries  
+**Pattern:** Tree Queries  
 **LeetCode:** #2509  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/cycle-length-queries-in-a-tree/
-- Difficulty: Hard
-- Topics: Array, Tree, Binary Tree, Binary Lifting, Lowest Common Ancestor
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

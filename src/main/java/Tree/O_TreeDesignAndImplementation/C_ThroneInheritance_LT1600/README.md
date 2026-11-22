@@ -1,15 +1,13 @@
-# 1600. Throne Inheritance
+# Throne Inheritance — 1600
 
 **Data Structure:** Tree  
-**Pattern:** TreeDesignAndImplementation  
+**Pattern:** Tree Design And Implementation  
 **LeetCode:** #1600  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/throne-inheritance/
-- Difficulty: Medium
-- Topics: Hash Table, Tree, Depth-First Search, Design
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

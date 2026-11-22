@@ -1,4 +1,4 @@
-# 515. Find Largest Value In Each Tree Row
+# Find Largest Value In Each Tree Row — 515
 
 **Data Structure:** Tree  
 **Pattern:** BFS  
@@ -7,45 +7,21 @@
 
 ## Problem
 
-[LeetCode 515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
+Add the problem statement or LeetCode link here.
 
 ## Approach
 
-BFS by level while tracking the largest value in each level.
+Add a brief explanation of the chosen approach.
 
 ## Algorithm
 
-1. Traverse the tree using breadth-first traversal.
-2. Apply the problem-specific condition or aggregation.
-3. Return the required result.
+1. Add the solution steps.
 
 ## Complexity
 
-- **Time:** O(n)
-- **Space:** O(w)
+- **Time:** Add time complexity.
+- **Space:** Add space complexity.
 
 ## Solution
 
 See [Solution.java](./Solution.java).
-
----
-
-**Problem Order:** AG
-
-## Additional Notes
-
-### Status
-
-**Implemented**
-
-### Data Structure
-
-**Tree**
-
-### Pattern
-
-**BFS — Breadth-First Search**
-
-### Submission
-
-[View LeetCode submission](https://leetcode.com/problems/find-largest-value-in-each-tree-row/submissions/2153493595/)

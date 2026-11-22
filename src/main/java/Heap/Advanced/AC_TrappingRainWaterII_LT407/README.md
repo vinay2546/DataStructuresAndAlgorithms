@@ -1,4 +1,4 @@
-# TrappingRainWaterII — 407
+# Trapping Rain Water II — 407
 
 **Data Structure:** Heap  
 **Pattern:** Advanced  

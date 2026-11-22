@@ -1,15 +1,13 @@
-# 3203. Find Minimum Diameter After Merging Two Trees
+# Find Minimum Diameter After Merging Two Trees — 3203
 
 **Data Structure:** Tree  
-**Pattern:** GreedyAndOptimization  
+**Pattern:** Greedy And Optimization  
 **LeetCode:** #3203  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/
-- Difficulty: Hard
-- Topics: Tree, Depth-First Search, Breadth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

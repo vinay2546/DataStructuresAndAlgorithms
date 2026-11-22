@@ -1,15 +1,13 @@
-# 1258. Synonymous Sentences
+# Synonymous Sentences — 1258
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #1258  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/synonymous-sentences/
-- Difficulty: Medium
-- Topics: Array, Hash Table, String, Backtracking, Sort, Union-Find
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

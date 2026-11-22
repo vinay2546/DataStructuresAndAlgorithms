@@ -1,4 +1,4 @@
-# 3613. Minimize Maximum Component Cost
+# Minimize Maximum Component Cost — 3613
 
 **Data Structure:** Graph  
 **Pattern:** MST  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimize-maximum-component-cost/
-- Difficulty: Medium
-- Topics: Binary Search, Union-Find, Graph Theory, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

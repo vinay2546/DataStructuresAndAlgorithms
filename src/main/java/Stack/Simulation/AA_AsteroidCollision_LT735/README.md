@@ -1,4 +1,4 @@
-# AsteroidCollision — 735
+# Asteroid Collision — 735
 
 **Data Structure:** Stack  
 **Pattern:** Simulation  

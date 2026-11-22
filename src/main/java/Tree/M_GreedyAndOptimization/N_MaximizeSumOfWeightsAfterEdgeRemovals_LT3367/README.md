@@ -1,15 +1,13 @@
-# 3367. Maximize Sum of Weights after Edge Removals
+# Maximize Sum Of Weights After Edge Removals — 3367
 
 **Data Structure:** Tree  
-**Pattern:** GreedyAndOptimization  
+**Pattern:** Greedy And Optimization  
 **LeetCode:** #3367  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/
-- Difficulty: Hard
-- Topics: Dynamic Programming, Tree, Depth-First Search, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

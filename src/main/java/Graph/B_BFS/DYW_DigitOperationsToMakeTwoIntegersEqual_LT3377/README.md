@@ -1,4 +1,4 @@
-# 3377. Digit Operations to Make Two Integers Equal
+# Digit Operations To Make Two Integers Equal — 3377
 
 **Data Structure:** Graph  
 **Pattern:** BFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/
-- Difficulty: Medium
-- Topics: Math, Graph Theory, Heap (Priority Queue), Number Theory, Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

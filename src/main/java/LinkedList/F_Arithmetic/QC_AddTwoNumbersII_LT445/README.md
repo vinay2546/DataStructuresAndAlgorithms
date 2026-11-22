@@ -1,6 +1,6 @@
 # Add Two Numbers II — 445
 
-**Data Structure:** LinkedList  
+**Data Structure:** Linked List  
 **Pattern:** Arithmetic  
 **LeetCode:** #445  
 **Status:** Not Started

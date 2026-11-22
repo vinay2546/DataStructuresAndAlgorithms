@@ -1,15 +1,13 @@
-# 1319. Number of Operations to Make Network Connected
+# Number Of Operations To Make Network Connected — 1319
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #1319  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/number-of-operations-to-make-network-connected/
-- Difficulty: Medium
-- Topics: Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

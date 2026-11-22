@@ -1,7 +1,7 @@
 # Linked List Cycle II — 142
 
-**Data Structure:** LinkedList  
-**Pattern:** TwoPointers  
+**Data Structure:** Linked List  
+**Pattern:** Two Pointers  
 **LeetCode:** #142  
 **Status:** Not Started
 

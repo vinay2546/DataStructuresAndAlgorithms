@@ -1,4 +1,4 @@
-# 104. Maximum Depth Of Binary Tree
+# Maximum Depth Of Binary Tree — 104
 
 **Data Structure:** Tree  
 **Pattern:** BFS  
@@ -7,45 +7,21 @@
 
 ## Problem
 
-[LeetCode 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+Add the problem statement or LeetCode link here.
 
 ## Approach
 
-BFS level by level and count how many complete levels are processed.
+Add a brief explanation of the chosen approach.
 
 ## Algorithm
 
-1. Traverse the tree using breadth-first traversal.
-2. Apply the problem-specific condition or aggregation.
-3. Return the required result.
+1. Add the solution steps.
 
 ## Complexity
 
-- **Time:** O(n)
-- **Space:** O(w)
+- **Time:** Add time complexity.
+- **Space:** Add space complexity.
 
 ## Solution
 
 See [Solution.java](./Solution.java).
-
----
-
-**Problem Order:** AQ
-
-## Additional Notes
-
-### Status
-
-**Implemented**
-
-### Data Structure
-
-**Tree**
-
-### Pattern
-
-**BFS — Breadth-First Search**
-
-### Submission
-
-[View LeetCode submission](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2153454944/)

@@ -1,15 +1,13 @@
-# 285. Inorder Successor in BST
+# Inorder Successor In BST — 285
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #285  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/inorder-successor-in-bst/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Binary Search Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 3547. Maximum Sum of Edge Values in a Graph
+# Maximum Sum Of Edge Values In AGraph — 3547
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3547  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph/
-- Difficulty: Hard
-- Topics: Math, Greedy, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

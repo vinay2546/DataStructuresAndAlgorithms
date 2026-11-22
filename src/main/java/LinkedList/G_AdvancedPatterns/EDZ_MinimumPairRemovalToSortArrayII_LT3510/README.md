@@ -1,7 +1,7 @@
 # Minimum Pair Removal To Sort Array II — 3510
 
-**Data Structure:** LinkedList  
-**Pattern:** AdvancedPatterns  
+**Data Structure:** Linked List  
+**Pattern:** Advanced Patterns  
 **LeetCode:** #3510  
 **Status:** Not Started
 

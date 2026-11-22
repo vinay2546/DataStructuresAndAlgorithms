@@ -1,15 +1,13 @@
-# 3879. Maximum Distinct Path Sum in a Binary Tree
+# Maximum Distinct Path Sum In ABinary Tree — 3879
 
 **Data Structure:** Tree  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #3879  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-distinct-path-sum-in-a-binary-tree/
-- Difficulty: Medium
-- Topics: Hash Table, Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

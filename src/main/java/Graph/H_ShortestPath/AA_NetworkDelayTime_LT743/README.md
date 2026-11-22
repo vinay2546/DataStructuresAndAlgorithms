@@ -1,7 +1,7 @@
-# NetworkDelayTime — 743
+# Network Delay Time — 743
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #743  
 **Status:** Not Started
 

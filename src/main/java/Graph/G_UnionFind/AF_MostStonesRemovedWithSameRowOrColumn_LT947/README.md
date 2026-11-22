@@ -1,7 +1,7 @@
-# MostStonesRemovedWithSameRowOrColumn — 947
+# Most Stones Removed With Same Row Or Column — 947
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #947  
 **Status:** Not Started
 

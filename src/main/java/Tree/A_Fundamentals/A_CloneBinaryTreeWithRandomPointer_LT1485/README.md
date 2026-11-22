@@ -1,4 +1,4 @@
-# 1485. Clone Binary Tree With Random Pointer
+# Clone Binary Tree With Random Pointer — 1485
 
 **Data Structure:** Tree  
 **Pattern:** Fundamentals  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/clone-binary-tree-with-random-pointer/
-- Difficulty: Medium
-- Topics: Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

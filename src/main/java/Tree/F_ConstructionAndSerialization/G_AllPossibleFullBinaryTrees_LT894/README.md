@@ -1,15 +1,13 @@
-# 894. All Possible Full Binary Trees
+# All Possible Full Binary Trees — 894
 
 **Data Structure:** Tree  
-**Pattern:** ConstructionAndSerialization  
+**Pattern:** Construction And Serialization  
 **LeetCode:** #894  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/all-possible-full-binary-trees/
-- Difficulty: Medium
-- Topics: Dynamic Programming, Tree, Recursion, Memoization, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,7 +1,7 @@
-# SwimInRisingWater — 778
+# Swim In Rising Water — 778
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Grid Graphs  
 **LeetCode:** #778  
 **Status:** Not Started
 

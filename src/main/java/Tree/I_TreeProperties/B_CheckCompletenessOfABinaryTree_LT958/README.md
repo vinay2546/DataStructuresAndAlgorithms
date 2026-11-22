@@ -1,15 +1,13 @@
-# 958. Check Completeness of a Binary Tree
+# Check Completeness Of ABinary Tree — 958
 
 **Data Structure:** Tree  
-**Pattern:** TreeProperties  
+**Pattern:** Tree Properties  
 **LeetCode:** #958  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/check-completeness-of-a-binary-tree/
-- Difficulty: Medium
-- Topics: Tree, Breadth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

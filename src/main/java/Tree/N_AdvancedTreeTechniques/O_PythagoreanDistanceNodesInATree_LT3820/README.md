@@ -1,15 +1,13 @@
-# 3820. Pythagorean Distance Nodes in a Tree
+# Pythagorean Distance Nodes In ATree — 3820
 
 **Data Structure:** Tree  
-**Pattern:** AdvancedTreeTechniques  
+**Pattern:** Advanced Tree Techniques  
 **LeetCode:** #3820  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree/
-- Difficulty: Medium
-- Topics: Tree, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

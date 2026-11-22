@@ -1,15 +1,13 @@
-# 1973. Count Nodes Equal to Sum of Descendants
+# Count Nodes Equal To Sum Of Descendants — 1973
 
 **Data Structure:** Tree  
-**Pattern:** TreeDynamicProgramming  
+**Pattern:** Tree Dynamic Programming  
 **LeetCode:** #1973  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

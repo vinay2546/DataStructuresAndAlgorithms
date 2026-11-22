@@ -1,4 +1,4 @@
-# 1791. Find Center of Star Graph
+# Find Center Of Star Graph — 1791
 
 **Data Structure:** Graph  
 **Pattern:** DFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-center-of-star-graph/
-- Difficulty: Easy
-- Topics: Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

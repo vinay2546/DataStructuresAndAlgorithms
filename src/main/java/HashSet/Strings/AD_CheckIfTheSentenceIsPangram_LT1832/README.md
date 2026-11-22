@@ -1,6 +1,6 @@
-# CheckIfTheSentenceIsPangram — 1832
+# Check If The Sentence Is Pangram — 1832
 
-**Data Structure:** HashSet  
+**Data Structure:** Hash Set  
 **Pattern:** Strings  
 **LeetCode:** #1832  
 **Status:** Not Started

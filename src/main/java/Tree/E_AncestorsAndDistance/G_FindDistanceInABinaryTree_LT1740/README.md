@@ -1,15 +1,13 @@
-# 1740. Find Distance in a Binary Tree
+# Find Distance In ABinary Tree — 1740
 
 **Data Structure:** Tree  
-**Pattern:** AncestorsAndDistance  
+**Pattern:** Ancestors And Distance  
 **LeetCode:** #1740  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-distance-in-a-binary-tree/
-- Difficulty: Medium
-- Topics: Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

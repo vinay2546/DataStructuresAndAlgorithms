@@ -1,15 +1,13 @@
-# 1948. Delete Duplicate Folders in System
+# Delete Duplicate Folders In System — 1948
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #1948  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/delete-duplicate-folders-in-system/
-- Difficulty: Hard
-- Topics: Array, Hash Table, String, Depth-First Search, Trie, Sorting, Hash Function
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

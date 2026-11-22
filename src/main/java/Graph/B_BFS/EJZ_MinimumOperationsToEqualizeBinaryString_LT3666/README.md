@@ -1,4 +1,4 @@
-# 3666. Minimum Operations to Equalize Binary String
+# Minimum Operations To Equalize Binary String — 3666
 
 **Data Structure:** Graph  
 **Pattern:** BFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/
-- Difficulty: Hard
-- Topics: Math, String, Breadth-First Search, Union-Find, Ordered Set
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

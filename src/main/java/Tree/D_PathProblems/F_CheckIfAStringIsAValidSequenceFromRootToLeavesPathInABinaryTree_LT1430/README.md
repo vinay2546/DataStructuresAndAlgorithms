@@ -1,15 +1,13 @@
-# 1430. Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
+# Check If AString Is AValid Sequence From Root To Leaves Path In ABinary Tree — 1430
 
 **Data Structure:** Tree  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #1430  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Breadth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

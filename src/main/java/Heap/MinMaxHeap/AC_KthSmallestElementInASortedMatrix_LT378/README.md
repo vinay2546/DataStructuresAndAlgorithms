@@ -1,7 +1,7 @@
-# KthSmallestElementInASortedMatrix — 378
+# Kth Smallest Element In ASorted Matrix — 378
 
 **Data Structure:** Heap  
-**Pattern:** MinMaxHeap  
+**Pattern:** Min Max Heap  
 **LeetCode:** #378  
 **Status:** Not Started
 

@@ -1,4 +1,4 @@
-# GroupAnagrams — 49
+# Group Anagrams — 49
 
 **Data Structure:** String  
 **Pattern:** Hashing  

@@ -1,15 +1,13 @@
-# 2374. Node With Highest Edge Score
+# Node With Highest Edge Score — 2374
 
 **Data Structure:** Graph  
-**Pattern:** DirectedGraphs  
+**Pattern:** Directed Graphs  
 **LeetCode:** #2374  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/node-with-highest-edge-score/
-- Difficulty: Medium
-- Topics: Hash Table, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

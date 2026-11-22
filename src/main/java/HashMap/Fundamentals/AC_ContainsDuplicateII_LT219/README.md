@@ -1,6 +1,6 @@
-# ContainsDuplicateII — 219
+# Contains Duplicate II — 219
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Fundamentals  
 **LeetCode:** #219  
 **Status:** Not Started

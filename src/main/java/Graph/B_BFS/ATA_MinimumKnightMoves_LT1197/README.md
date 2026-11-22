@@ -1,4 +1,4 @@
-# 1197. Minimum Knight Moves
+# Minimum Knight Moves — 1197
 
 **Data Structure:** Graph  
 **Pattern:** BFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-knight-moves/
-- Difficulty: Medium
-- Topics: Breadth-First Search, Heuristic Search, Bidirectional Search, A* Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

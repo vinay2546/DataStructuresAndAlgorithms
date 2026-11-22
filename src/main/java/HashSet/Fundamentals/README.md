@@ -1,6 +1,16 @@
 # Fundamentals
 
-HashSet problems grouped under this pattern/category.
+## Overview
+
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — Fundamentals
@@ -15,11 +25,11 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [ContainsDuplicate — 217](AA_ContainsDuplicate_LT217/README.md) | #217 | ⬜ Not Started |
-| [IntersectionOfTwoArrays — 349](AB_IntersectionOfTwoArrays_LT349/README.md) | #349 | ⬜ Not Started |
-| [IntersectionOfTwoArraysII — 350](AC_IntersectionOfTwoArraysII_LT350/README.md) | #350 | ⬜ Not Started |
-| [HappyNumber — 202](AD_HappyNumber_LT202/README.md) | #202 | ⬜ Not Started |
-| [ValidSudoku — 36](AE_ValidSudoku_LT36/README.md) | #36 | ⬜ Not Started |
+| [Contains Duplicate — 217](AA_ContainsDuplicate_LT217/README.md) | #217 | ⬜ Not Started |
+| [Intersection Of Two Arrays — 349](AB_IntersectionOfTwoArrays_LT349/README.md) | #349 | ⬜ Not Started |
+| [Intersection Of Two Arrays II — 350](AC_IntersectionOfTwoArraysII_LT350/README.md) | #350 | ⬜ Not Started |
+| [Happy Number — 202](AD_HappyNumber_LT202/README.md) | #202 | ⬜ Not Started |
+| [Valid Sudoku — 36](AE_ValidSudoku_LT36/README.md) | #36 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

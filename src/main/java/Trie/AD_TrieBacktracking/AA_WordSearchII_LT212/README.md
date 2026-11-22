@@ -1,7 +1,7 @@
-# WordSearchII — 212
+# Word Search II — 212
 
 **Data Structure:** Trie  
-**Pattern:** WordSearch  
+**Pattern:** Trie Backtracking  
 **LeetCode:** #212  
 **Status:** Not Started
 

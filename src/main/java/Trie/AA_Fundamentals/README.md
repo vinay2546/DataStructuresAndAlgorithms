@@ -1,6 +1,16 @@
-# Trie / Fundamentals
+# Fundamentals
 
-Core Trie representation and operations: node structure, insertion, exact search, deletion, word termination, and frequency-aware nodes.
+## Overview
+
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — AA_Fundamentals
@@ -15,9 +25,9 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [ImplementTriePrefixTree — 208](AA_ImplementTriePrefixTree_LT208/README.md) | #208 | ⬜ Not Started |
-| [ReplaceWords — 648](AC_ReplaceWords_LT648/README.md) | #648 | ⬜ Not Started |
-| [1804. Implement Trie II (Prefix Tree)](BQJ_ImplementTrieIIPrefixTree_LT1804/README.md) | #1804 | ⬜ Not Started |
+| [Implement Trie Prefix Tree — 208](AA_ImplementTriePrefixTree_LT208/README.md) | #208 | ⬜ Not Started |
+| [Replace Words — 648](AC_ReplaceWords_LT648/README.md) | #648 | ⬜ Not Started |
+| [Implement Trie IIPrefix Tree — 1804](BQJ_ImplementTrieIIPrefixTree_LT1804/README.md) | #1804 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

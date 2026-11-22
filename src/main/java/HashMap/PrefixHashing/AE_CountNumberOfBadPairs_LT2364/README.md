@@ -1,6 +1,6 @@
-# CountNumberOfBadPairs — 2364
+# Count Number Of Bad Pairs — 2364
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Prefix Hashing  
 **LeetCode:** #2364  
 **Status:** Not Started

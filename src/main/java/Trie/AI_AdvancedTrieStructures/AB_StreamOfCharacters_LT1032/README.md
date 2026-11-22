@@ -1,7 +1,7 @@
-# StreamOfCharacters — 1032
+# Stream Of Characters — 1032
 
 **Data Structure:** Trie  
-**Pattern:** Advanced  
+**Pattern:** Advanced Trie Structures  
 **LeetCode:** #1032  
 **Status:** Not Started
 

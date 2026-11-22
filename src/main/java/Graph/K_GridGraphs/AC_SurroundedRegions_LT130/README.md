@@ -1,7 +1,7 @@
-# SurroundedRegions — 130
+# Surrounded Regions — 130
 
 **Data Structure:** Graph  
-**Pattern:** DFS  
+**Pattern:** Grid Graphs  
 **LeetCode:** #130  
 **Status:** Not Started
 

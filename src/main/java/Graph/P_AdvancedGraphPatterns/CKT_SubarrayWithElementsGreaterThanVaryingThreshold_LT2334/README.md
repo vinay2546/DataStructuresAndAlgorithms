@@ -1,15 +1,13 @@
-# 2334. Subarray With Elements Greater Than Varying Threshold
+# Subarray With Elements Greater Than Varying Threshold — 2334
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #2334  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/
-- Difficulty: Hard
-- Topics: Array, Stack, Union-Find, Monotonic Stack
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

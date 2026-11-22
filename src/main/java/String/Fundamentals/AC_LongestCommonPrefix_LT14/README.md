@@ -1,4 +1,4 @@
-# LongestCommonPrefix — 14
+# Longest Common Prefix — 14
 
 **Data Structure:** String  
 **Pattern:** Fundamentals  

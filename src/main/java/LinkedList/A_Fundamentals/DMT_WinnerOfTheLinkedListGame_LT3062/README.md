@@ -1,6 +1,6 @@
 # Winner Of The Linked List Game — 3062
 
-**Data Structure:** LinkedList  
+**Data Structure:** Linked List  
 **Pattern:** Fundamentals  
 **LeetCode:** #3062  
 **Status:** Not Started

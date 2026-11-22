@@ -1,4 +1,4 @@
-# 2101. Detonate the Maximum Bombs
+# Detonate The Maximum Bombs — 2101
 
 **Data Structure:** Graph  
 **Pattern:** DFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/detonate-the-maximum-bombs/
-- Difficulty: Medium
-- Topics: Array, Math, Depth-First Search, Breadth-First Search, Graph Theory, Geometry
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

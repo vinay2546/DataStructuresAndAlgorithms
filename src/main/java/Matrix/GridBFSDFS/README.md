@@ -1,7 +1,16 @@
-# GridBFSDFS
+# Grid BFSDFS
 
-Matrix problems grouped under this category.
+## Overview
 
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — GridBFSDFS
@@ -16,12 +25,12 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [NumberOfIslands — 200](AA_NumberOfIslands_LT200/README.md) | #200 | ⬜ Not Started |
-| [MaxAreaOfIsland — 695](AB_MaxAreaOfIsland_LT695/README.md) | #695 | ⬜ Not Started |
-| [FloodFill — 733](AC_FloodFill_LT733/README.md) | #733 | ⬜ Not Started |
-| [SurroundedRegions — 130](AD_SurroundedRegions_LT130/README.md) | #130 | ⬜ Not Started |
-| [PacificAtlanticWaterFlow — 417](AE_PacificAtlanticWaterFlow_LT417/README.md) | #417 | ⬜ Not Started |
-| [RottingOranges — 994](AF_RottingOranges_LT994/README.md) | #994 | ⬜ Not Started |
+| [Number Of Islands — 200](AA_NumberOfIslands_LT200/README.md) | #200 | ⬜ Not Started |
+| [Max Area Of Island — 695](AB_MaxAreaOfIsland_LT695/README.md) | #695 | ⬜ Not Started |
+| [Flood Fill — 733](AC_FloodFill_LT733/README.md) | #733 | ⬜ Not Started |
+| [Surrounded Regions — 130](AD_SurroundedRegions_LT130/README.md) | #130 | ⬜ Not Started |
+| [Pacific Atlantic Water Flow — 417](AE_PacificAtlanticWaterFlow_LT417/README.md) | #417 | ⬜ Not Started |
+| [Rotting Oranges — 994](AF_RottingOranges_LT994/README.md) | #994 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

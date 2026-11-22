@@ -1,7 +1,7 @@
-# PermutationInString — 567
+# Permutation In String — 567
 
 **Data Structure:** String  
-**Pattern:** SlidingWindow  
+**Pattern:** Sliding Window  
 **LeetCode:** #567  
 **Status:** Not Started
 

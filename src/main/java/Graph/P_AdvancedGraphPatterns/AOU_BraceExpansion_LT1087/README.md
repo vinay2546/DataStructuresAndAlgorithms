@@ -1,15 +1,13 @@
-# 1087. Brace Expansion
+# Brace Expansion — 1087
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #1087  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/brace-expansion/
-- Difficulty: Medium
-- Topics: String, Backtracking, Stack, Breadth-First Search, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

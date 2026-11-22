@@ -1,15 +1,13 @@
-# 1101. The Earliest Moment When Everyone Become Friends
+# The Earliest Moment When Everyone Become Friends — 1101
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #1101  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/
-- Difficulty: Medium
-- Topics: Array, Union-Find, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

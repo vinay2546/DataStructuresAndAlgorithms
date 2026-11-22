@@ -1,15 +1,13 @@
-# 776. Split BST
+# Split BST — 776
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #776  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/split-bst/
-- Difficulty: Medium
-- Topics: Tree, Binary Search Tree, Recursion, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

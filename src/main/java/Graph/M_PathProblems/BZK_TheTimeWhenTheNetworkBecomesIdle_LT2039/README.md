@@ -1,15 +1,13 @@
-# 2039. The Time When the Network Becomes Idle
+# The Time When The Network Becomes Idle — 2039
 
 **Data Structure:** Graph  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #2039  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/the-time-when-the-network-becomes-idle/
-- Difficulty: Medium
-- Topics: Array, Breadth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

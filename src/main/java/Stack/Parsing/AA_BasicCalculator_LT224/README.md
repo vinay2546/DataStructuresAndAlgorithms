@@ -1,4 +1,4 @@
-# BasicCalculator — 224
+# Basic Calculator — 224
 
 **Data Structure:** Stack  
 **Pattern:** Parsing  

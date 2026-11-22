@@ -1,4 +1,4 @@
-# 3902. Zigzag Level Sum of Binary Tree
+# Zigzag Level Sum Of Binary Tree — 3902
 
 **Data Structure:** Tree  
 **Pattern:** Fundamentals  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/zigzag-level-sum-of-binary-tree/
-- Difficulty: Medium
-- Topics: Tree, Breadth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

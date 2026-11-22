@@ -1,6 +1,16 @@
-# LinkedList / Design
+# Design
 
-Linked-list-based data-structure design problems.
+## Overview
+
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — J_Design
@@ -19,4 +29,4 @@ This tracker is generated recursively. Update the **Status** field in an individ
 | [Design Skiplist — 1206](ATJ_DesignSkiplist_LT1206/README.md) | #1206 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

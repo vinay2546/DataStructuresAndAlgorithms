@@ -1,6 +1,6 @@
 # Print Immutable Linked List In Reverse — 1265
 
-**Data Structure:** LinkedList  
+**Data Structure:** Linked List  
 **Pattern:** Reversal  
 **LeetCode:** #1265  
 **Status:** Not Started

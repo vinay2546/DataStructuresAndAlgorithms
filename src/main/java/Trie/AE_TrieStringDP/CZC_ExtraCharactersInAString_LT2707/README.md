@@ -1,15 +1,13 @@
-# 2707. Extra Characters in a String
+# Extra Characters In AString — 2707
 
 **Data Structure:** Trie  
-**Pattern:** TrieStringDP  
+**Pattern:** Trie String DP  
 **LeetCode:** #2707  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/extra-characters-in-a-string/
-- Difficulty: Medium
-- Topics: Array, Hash Table, String, Dynamic Programming, Trie
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

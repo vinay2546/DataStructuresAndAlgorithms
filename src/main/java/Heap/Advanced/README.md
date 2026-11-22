@@ -1,7 +1,16 @@
 # Advanced
 
-Heap problems grouped under this category.
+## Overview
 
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — Advanced
@@ -16,9 +25,9 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [SlidingWindowMedian — 480](AA_SlidingWindowMedian_LT480/README.md) | #480 | ⬜ Not Started |
-| [FindMedianFromDataStream — 295](AB_FindMedianFromDataStream_LT295/README.md) | #295 | ⬜ Not Started |
-| [TrappingRainWaterII — 407](AC_TrappingRainWaterII_LT407/README.md) | #407 | ⬜ Not Started |
+| [Sliding Window Median — 480](AA_SlidingWindowMedian_LT480/README.md) | #480 | ⬜ Not Started |
+| [Find Median From Data Stream — 295](AB_FindMedianFromDataStream_LT295/README.md) | #295 | ⬜ Not Started |
+| [Trapping Rain Water II — 407](AC_TrappingRainWaterII_LT407/README.md) | #407 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

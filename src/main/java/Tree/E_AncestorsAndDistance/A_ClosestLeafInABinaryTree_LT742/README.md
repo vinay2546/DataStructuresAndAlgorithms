@@ -1,15 +1,13 @@
-# 742. Closest Leaf in a Binary Tree
+# Closest Leaf In ABinary Tree — 742
 
 **Data Structure:** Tree  
-**Pattern:** AncestorsAndDistance  
+**Pattern:** Ancestors And Distance  
 **LeetCode:** #742  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/closest-leaf-in-a-binary-tree/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Breadth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

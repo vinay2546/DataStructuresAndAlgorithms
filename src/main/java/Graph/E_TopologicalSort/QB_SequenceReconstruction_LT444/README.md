@@ -1,15 +1,13 @@
-# 444. Sequence Reconstruction
+# Sequence Reconstruction — 444
 
 **Data Structure:** Graph  
-**Pattern:** TopologicalSort  
+**Pattern:** Topological Sort  
 **LeetCode:** #444  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/sequence-reconstruction/
-- Difficulty: Medium
-- Topics: Array, Graph Theory, Topological Sort, Directed Acyclic Graph
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

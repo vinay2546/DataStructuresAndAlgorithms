@@ -1,4 +1,4 @@
-# 1306. Jump Game III
+# Jump Game III — 1306
 
 **Data Structure:** Graph  
 **Pattern:** BFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/jump-game-iii/
-- Difficulty: Medium
-- Topics: Array, Depth-First Search, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

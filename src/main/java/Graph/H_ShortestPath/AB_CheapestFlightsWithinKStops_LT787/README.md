@@ -1,7 +1,7 @@
-# CheapestFlightsWithinKStops — 787
+# Cheapest Flights Within KStops — 787
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #787  
 **Status:** Not Started
 

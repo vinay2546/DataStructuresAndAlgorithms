@@ -1,4 +1,4 @@
-# 2685. Count the Number of Complete Components
+# Count The Number Of Complete Components — 2685
 
 **Data Structure:** Graph  
 **Pattern:** DFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-the-number-of-complete-components/
-- Difficulty: Medium
-- Topics: Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 440. K-th Smallest in Lexicographical Order
+# KTh Smallest In Lexicographical Order — 440
 
 **Data Structure:** Trie  
-**Pattern:** StringAlgorithms  
+**Pattern:** String Algorithms  
 **LeetCode:** #440  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/
-- Difficulty: Hard
-- Topics: Trie
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

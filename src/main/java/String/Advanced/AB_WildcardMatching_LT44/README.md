@@ -1,4 +1,4 @@
-# WildcardMatching — 44
+# Wildcard Matching — 44
 
 **Data Structure:** String  
 **Pattern:** Advanced  

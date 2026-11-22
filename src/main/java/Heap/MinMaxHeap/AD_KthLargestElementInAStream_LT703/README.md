@@ -1,7 +1,7 @@
-# KthLargestElementInAStream — 703
+# Kth Largest Element In AStream — 703
 
 **Data Structure:** Heap  
-**Pattern:** MinMaxHeap  
+**Pattern:** Min Max Heap  
 **LeetCode:** #703  
 **Status:** Not Started
 

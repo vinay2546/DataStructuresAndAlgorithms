@@ -1,4 +1,4 @@
-# 199. Binary Tree Right Side View
+# Binary Tree Right Side View — 199
 
 **Data Structure:** Tree  
 **Pattern:** BFS  
@@ -7,45 +7,21 @@
 
 ## Problem
 
-[LeetCode 199](https://leetcode.com/problems/binary-tree-right-side-view/)
+Add the problem statement or LeetCode link here.
 
 ## Approach
 
-BFS by level and record the last node processed at each level.
+Add a brief explanation of the chosen approach.
 
 ## Algorithm
 
-1. Traverse the tree using breadth-first traversal.
-2. Apply the problem-specific condition or aggregation.
-3. Return the required result.
+1. Add the solution steps.
 
 ## Complexity
 
-- **Time:** O(n)
-- **Space:** O(w)
+- **Time:** Add time complexity.
+- **Space:** Add space complexity.
 
 ## Solution
 
 See [Solution.java](./Solution.java).
-
----
-
-**Problem Order:** AJ
-
-## Additional Notes
-
-### Status
-
-**Implemented**
-
-### Data Structure
-
-**Tree**
-
-### Pattern
-
-**BFS — Breadth-First Search**
-
-### Submission
-
-[View LeetCode submission](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2155467547/)

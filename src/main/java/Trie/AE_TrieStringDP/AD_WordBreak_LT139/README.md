@@ -1,7 +1,7 @@
-# WordBreak — 139
+# Word Break — 139
 
 **Data Structure:** Trie  
-**Pattern:** WordSearch  
+**Pattern:** Trie String DP  
 **LeetCode:** #139  
 **Status:** Not Started
 

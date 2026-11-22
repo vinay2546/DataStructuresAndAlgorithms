@@ -1,15 +1,13 @@
-# 3515. Shortest Path in a Weighted Tree
+# Shortest Path In AWeighted Tree — 3515
 
 **Data Structure:** Tree  
-**Pattern:** AdvancedTreeTechniques  
+**Pattern:** Advanced Tree Techniques  
 **LeetCode:** #3515  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/shortest-path-in-a-weighted-tree/
-- Difficulty: Hard
-- Topics: Array, Tree, Depth-First Search, Binary Indexed Tree, Segment Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

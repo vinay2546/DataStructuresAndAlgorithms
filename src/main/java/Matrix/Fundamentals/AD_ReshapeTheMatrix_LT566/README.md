@@ -1,4 +1,4 @@
-# ReshapeTheMatrix — 566
+# Reshape The Matrix — 566
 
 **Data Structure:** Matrix  
 **Pattern:** Fundamentals  

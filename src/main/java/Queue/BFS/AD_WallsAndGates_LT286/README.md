@@ -1,4 +1,4 @@
-# WallsAndGates — 286
+# Walls And Gates — 286
 
 **Data Structure:** Queue  
 **Pattern:** BFS  

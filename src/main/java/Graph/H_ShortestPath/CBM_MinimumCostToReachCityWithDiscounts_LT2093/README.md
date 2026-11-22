@@ -1,15 +1,13 @@
-# 2093. Minimum Cost to Reach City With Discounts
+# Minimum Cost To Reach City With Discounts — 2093
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #2093  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/
-- Difficulty: Medium
-- Topics: Graph Theory, Heap (Priority Queue), Shortest Path, Dijkstra's Algorithm
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

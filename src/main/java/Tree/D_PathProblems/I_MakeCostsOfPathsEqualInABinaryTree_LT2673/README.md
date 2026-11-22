@@ -1,15 +1,13 @@
-# 2673. Make Costs of Paths Equal in a Binary Tree
+# Make Costs Of Paths Equal In ABinary Tree — 2673
 
 **Data Structure:** Tree  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #2673  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/
-- Difficulty: Medium
-- Topics: Array, Dynamic Programming, Greedy, Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

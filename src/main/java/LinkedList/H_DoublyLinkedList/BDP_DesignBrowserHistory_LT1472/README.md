@@ -1,7 +1,7 @@
 # Design Browser History — 1472
 
-**Data Structure:** LinkedList  
-**Pattern:** DoublyLinkedList  
+**Data Structure:** Linked List  
+**Pattern:** Doubly Linked List  
 **LeetCode:** #1472  
 **Status:** Not Started
 

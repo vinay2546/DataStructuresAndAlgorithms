@@ -1,7 +1,7 @@
-# LongestWordInDictionary — 720
+# Longest Word In Dictionary — 720
 
 **Data Structure:** Trie  
-**Pattern:** PrefixSearch  
+**Pattern:** Prefix Operations  
 **LeetCode:** #720  
 **Status:** Not Started
 

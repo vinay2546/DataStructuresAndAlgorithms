@@ -1,7 +1,7 @@
-# FindKPairsWithSmallestSums — 373
+# Find KPairs With Smallest Sums — 373
 
 **Data Structure:** Heap  
-**Pattern:** MergeK  
+**Pattern:** Merge K  
 **LeetCode:** #373  
 **Status:** Not Started
 

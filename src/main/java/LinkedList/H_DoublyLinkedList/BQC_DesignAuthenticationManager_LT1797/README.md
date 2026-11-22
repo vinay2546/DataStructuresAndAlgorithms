@@ -1,7 +1,7 @@
 # Design Authentication Manager — 1797
 
-**Data Structure:** LinkedList  
-**Pattern:** DoublyLinkedList  
+**Data Structure:** Linked List  
+**Pattern:** Doubly Linked List  
 **LeetCode:** #1797  
 **Status:** Not Started
 

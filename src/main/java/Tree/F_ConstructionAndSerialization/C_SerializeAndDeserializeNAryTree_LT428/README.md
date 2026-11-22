@@ -1,15 +1,13 @@
-# 428. Serialize and Deserialize N-ary Tree
+# Serialize And Deserialize NAry Tree — 428
 
 **Data Structure:** Tree  
-**Pattern:** ConstructionAndSerialization  
+**Pattern:** Construction And Serialization  
 **LeetCode:** #428  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/
-- Difficulty: Hard
-- Topics: String, Tree, Depth-First Search, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

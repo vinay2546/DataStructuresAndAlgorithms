@@ -1,6 +1,6 @@
-# ContainsDuplicate — 217
+# Contains Duplicate — 217
 
-**Data Structure:** HashSet  
+**Data Structure:** Hash Set  
 **Pattern:** Fundamentals  
 **LeetCode:** #217  
 **Status:** Not Started

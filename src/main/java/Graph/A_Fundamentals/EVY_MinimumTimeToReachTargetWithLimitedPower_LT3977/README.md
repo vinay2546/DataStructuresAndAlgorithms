@@ -1,4 +1,4 @@
-# 3977. Minimum Time to Reach Target With Limited Power
+# Minimum Time To Reach Target With Limited Power — 3977
 
 **Data Structure:** Graph  
 **Pattern:** Fundamentals  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-time-to-reach-target-with-limited-power/
-- Difficulty: Hard
-- Topics: Array, Dynamic Programming, Graph Theory, Heap (Priority Queue), Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

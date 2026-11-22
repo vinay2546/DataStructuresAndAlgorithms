@@ -1,15 +1,13 @@
-# 333. Largest BST Subtree
+# Largest BSTSubtree — 333
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #333  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/largest-bst-subtree/
-- Difficulty: Medium
-- Topics: Dynamic Programming, Tree, Depth-First Search, Binary Search Tree, Binary Tree, DP on Trees
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,4 +1,4 @@
-# MinCostToConnectAllPoints — 1584
+# Min Cost To Connect All Points — 1584
 
 **Data Structure:** Graph  
 **Pattern:** MST  

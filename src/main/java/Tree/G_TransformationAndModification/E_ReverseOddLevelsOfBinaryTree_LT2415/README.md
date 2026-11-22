@@ -1,15 +1,13 @@
-# 2415. Reverse Odd Levels of Binary Tree
+# Reverse Odd Levels Of Binary Tree — 2415
 
 **Data Structure:** Tree  
-**Pattern:** TransformationAndModification  
+**Pattern:** Transformation And Modification  
 **LeetCode:** #2415  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Breadth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

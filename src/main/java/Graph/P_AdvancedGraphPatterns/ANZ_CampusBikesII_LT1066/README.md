@@ -1,15 +1,13 @@
-# 1066. Campus Bikes II
+# Campus Bikes II — 1066
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #1066  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/campus-bikes-ii/
-- Difficulty: Medium
-- Topics: Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask, Hungarian Algorithm, Bipartite Graph, Successive Shortest Path Algorithm, Matching (Graph), Minimum-Cost Flow, Flow Network
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

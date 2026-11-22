@@ -1,15 +1,13 @@
-# 270. Closest Binary Search Tree Value
+# Closest Binary Search Tree Value — 270
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #270  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/closest-binary-search-tree-value/
-- Difficulty: Easy
-- Topics: Binary Search, Tree, Depth-First Search, Binary Search Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

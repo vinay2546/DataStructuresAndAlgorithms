@@ -1,7 +1,7 @@
-# RedundantConnection — 684
+# Redundant Connection — 684
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #684  
 **Status:** Not Started
 

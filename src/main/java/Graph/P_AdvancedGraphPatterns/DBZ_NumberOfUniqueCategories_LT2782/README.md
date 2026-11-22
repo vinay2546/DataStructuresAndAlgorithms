@@ -1,15 +1,13 @@
-# 2782. Number of Unique Categories
+# Number Of Unique Categories — 2782
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #2782  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/number-of-unique-categories/
-- Difficulty: Medium
-- Topics: Union-Find, Interactive, Counting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

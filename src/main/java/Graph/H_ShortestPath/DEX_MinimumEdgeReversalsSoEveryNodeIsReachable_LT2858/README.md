@@ -1,15 +1,13 @@
-# 2858. Minimum Edge Reversals So Every Node Is Reachable
+# Minimum Edge Reversals So Every Node Is Reachable — 2858
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #2858  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/
-- Difficulty: Hard
-- Topics: Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

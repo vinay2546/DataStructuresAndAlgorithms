@@ -1,4 +1,4 @@
-# ShortestSubarrayWithSumAtLeastK — 862
+# Shortest Subarray With Sum At Least K — 862
 
 **Data Structure:** Queue  
 **Pattern:** Deque  

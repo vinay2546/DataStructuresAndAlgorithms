@@ -1,6 +1,6 @@
-# GroupsOfSpecialEquivalentStrings — 893
+# Groups Of Special Equivalent Strings — 893
 
-**Data Structure:** HashSet  
+**Data Structure:** Hash Set  
 **Pattern:** Strings  
 **LeetCode:** #893  
 **Status:** Not Started

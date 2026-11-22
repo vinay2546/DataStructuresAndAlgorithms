@@ -1,7 +1,16 @@
-# InPlace
+# In Place
 
-Matrix problems grouped under this category.
+## Overview
 
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — InPlace
@@ -16,10 +25,10 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [RotateImage — 48](AA_RotateImage_LT48/README.md) | #48 | ⬜ Not Started |
-| [SetMatrixZeroes — 73](AB_SetMatrixZeroes_LT73/README.md) | #73 | ⬜ Not Started |
-| [GameOfLife — 289](AC_GameOfLife_LT289/README.md) | #289 | ⬜ Not Started |
-| [FlippingAnImage — 832](AD_FlippingAnImage_LT832/README.md) | #832 | ⬜ Not Started |
+| [Rotate Image — 48](AA_RotateImage_LT48/README.md) | #48 | ⬜ Not Started |
+| [Set Matrix Zeroes — 73](AB_SetMatrixZeroes_LT73/README.md) | #73 | ⬜ Not Started |
+| [Game Of Life — 289](AC_GameOfLife_LT289/README.md) | #289 | ⬜ Not Started |
+| [Flipping An Image — 832](AD_FlippingAnImage_LT832/README.md) | #832 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

@@ -1,15 +1,13 @@
-# 1261. Find Elements in a Contaminated Binary Tree
+# Find Elements In AContaminated Binary Tree — 1261
 
 **Data Structure:** Tree  
-**Pattern:** SpecialTreesAndHierarchies  
+**Pattern:** Special Trees And Hierarchies  
 **LeetCode:** #1261  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
-- Difficulty: Medium
-- Topics: Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

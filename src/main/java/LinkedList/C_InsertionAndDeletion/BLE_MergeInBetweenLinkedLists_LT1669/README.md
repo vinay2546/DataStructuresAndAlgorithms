@@ -1,7 +1,7 @@
 # Merge In Between Linked Lists — 1669
 
-**Data Structure:** LinkedList  
-**Pattern:** InsertionAndDeletion  
+**Data Structure:** Linked List  
+**Pattern:** Insertion And Deletion  
 **LeetCode:** #1669  
 **Status:** Not Started
 

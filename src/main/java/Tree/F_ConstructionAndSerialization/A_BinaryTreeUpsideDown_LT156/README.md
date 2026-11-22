@@ -1,15 +1,13 @@
-# 156. Binary Tree Upside Down
+# Binary Tree Upside Down — 156
 
 **Data Structure:** Tree  
-**Pattern:** ConstructionAndSerialization  
+**Pattern:** Construction And Serialization  
 **LeetCode:** #156  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/binary-tree-upside-down/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

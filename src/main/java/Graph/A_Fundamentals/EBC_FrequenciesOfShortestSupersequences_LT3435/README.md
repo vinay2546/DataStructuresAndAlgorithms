@@ -1,4 +1,4 @@
-# 3435. Frequencies of Shortest Supersequences
+# Frequencies Of Shortest Supersequences — 3435
 
 **Data Structure:** Graph  
 **Pattern:** Fundamentals  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/frequencies-of-shortest-supersequences/
-- Difficulty: Hard
-- Topics: Array, String, Bit Manipulation, Graph Theory, Topological Sort, Enumeration
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

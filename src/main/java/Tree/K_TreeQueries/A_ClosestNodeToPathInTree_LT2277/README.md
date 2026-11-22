@@ -1,15 +1,13 @@
-# 2277. Closest Node to Path in Tree
+# Closest Node To Path In Tree — 2277
 
 **Data Structure:** Tree  
-**Pattern:** TreeQueries  
+**Pattern:** Tree Queries  
 **LeetCode:** #2277  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/closest-node-to-path-in-tree/
-- Difficulty: Hard
-- Topics: Array, Tree, Depth-First Search, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

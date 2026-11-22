@@ -1,15 +1,13 @@
-# 2227. Encrypt and Decrypt Strings
+# Encrypt And Decrypt Strings — 2227
 
 **Data Structure:** Trie  
-**Pattern:** DesignAndApplications  
+**Pattern:** Design And Applications  
 **LeetCode:** #2227  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/encrypt-and-decrypt-strings/
-- Difficulty: Hard
-- Topics: Array, Hash Table, String, Design, Trie
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

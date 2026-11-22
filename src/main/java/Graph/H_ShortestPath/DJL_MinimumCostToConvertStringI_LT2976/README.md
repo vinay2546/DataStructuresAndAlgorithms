@@ -1,15 +1,13 @@
-# 2976. Minimum Cost to Convert String I
+# Minimum Cost To Convert String I — 2976
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #2976  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-cost-to-convert-string-i/
-- Difficulty: Medium
-- Topics: Array, String, Graph Theory, Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

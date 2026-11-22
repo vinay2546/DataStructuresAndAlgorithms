@@ -1,15 +1,13 @@
-# 653. Two Sum IV - Input is a BST
+# Two Sum IVInput Is ABST — 653
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #653  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
-- Difficulty: Easy
-- Topics: Hash Table, Two Pointers, Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

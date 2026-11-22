@@ -1,4 +1,4 @@
-# RemoveKDigits — 402
+# Remove KDigits — 402
 
 **Data Structure:** Stack  
 **Pattern:** Parsing  

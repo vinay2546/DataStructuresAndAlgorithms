@@ -1,7 +1,7 @@
-# CourseSchedule — 207
+# Course Schedule — 207
 
 **Data Structure:** Graph  
-**Pattern:** TopologicalSort  
+**Pattern:** Topological Sort  
 **LeetCode:** #207  
 **Status:** Not Started
 

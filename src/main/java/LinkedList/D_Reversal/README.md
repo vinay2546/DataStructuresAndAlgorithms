@@ -1,6 +1,16 @@
-# LinkedList / Reversal
+# Reversal
 
-Iterative, recursive, and grouped linked-list reversal patterns.
+## Overview
+
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — D_Reversal
@@ -23,4 +33,4 @@ This tracker is generated recursively. Update the **Status** field in an individ
 | [Reverse Nodes In Even Length Groups — 2074](CAT_ReverseNodesInEvenLengthGroups_LT2074/README.md) | #2074 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

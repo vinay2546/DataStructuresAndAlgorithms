@@ -1,7 +1,7 @@
 # Max Stack — 716
 
-**Data Structure:** LinkedList  
-**Pattern:** DoublyLinkedList  
+**Data Structure:** Linked List  
+**Pattern:** Doubly Linked List  
 **LeetCode:** #716  
 **Status:** Not Started
 

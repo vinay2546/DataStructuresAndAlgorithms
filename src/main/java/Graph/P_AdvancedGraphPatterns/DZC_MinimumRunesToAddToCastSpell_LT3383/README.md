@@ -1,15 +1,13 @@
-# 3383. Minimum Runes to Add to Cast Spell
+# Minimum Runes To Add To Cast Spell — 3383
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3383  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-runes-to-add-to-cast-spell/
-- Difficulty: Hard
-- Topics: Array, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

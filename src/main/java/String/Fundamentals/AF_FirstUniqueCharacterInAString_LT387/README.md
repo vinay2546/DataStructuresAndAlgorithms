@@ -1,4 +1,4 @@
-# FirstUniqueCharacterInAString — 387
+# First Unique Character In AString — 387
 
 **Data Structure:** String  
 **Pattern:** Fundamentals  

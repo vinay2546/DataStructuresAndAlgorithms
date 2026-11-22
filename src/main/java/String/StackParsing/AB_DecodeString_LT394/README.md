@@ -1,7 +1,7 @@
-# DecodeString — 394
+# Decode String — 394
 
 **Data Structure:** String  
-**Pattern:** StackParsing  
+**Pattern:** Stack Parsing  
 **LeetCode:** #394  
 **Status:** Not Started
 

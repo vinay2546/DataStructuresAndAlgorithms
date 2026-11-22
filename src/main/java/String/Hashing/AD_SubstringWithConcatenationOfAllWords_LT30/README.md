@@ -1,4 +1,4 @@
-# SubstringWithConcatenationOfAllWords — 30
+# Substring With Concatenation Of All Words — 30
 
 **Data Structure:** String  
 **Pattern:** Hashing  

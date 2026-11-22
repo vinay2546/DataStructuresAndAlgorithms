@@ -1,7 +1,7 @@
-# RottingOranges — 994
+# Rotting Oranges — 994
 
 **Data Structure:** Matrix  
-**Pattern:** GridBFSDFS  
+**Pattern:** Grid BFSDFS  
 **LeetCode:** #994  
 **Status:** Not Started
 

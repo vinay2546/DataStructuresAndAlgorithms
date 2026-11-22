@@ -1,6 +1,6 @@
 # Plus One Linked List — 369
 
-**Data Structure:** LinkedList  
+**Data Structure:** Linked List  
 **Pattern:** Arithmetic  
 **LeetCode:** #369  
 **Status:** Not Started

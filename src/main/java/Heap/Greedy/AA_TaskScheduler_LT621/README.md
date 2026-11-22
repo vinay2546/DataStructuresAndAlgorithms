@@ -1,4 +1,4 @@
-# TaskScheduler — 621
+# Task Scheduler — 621
 
 **Data Structure:** Heap  
 **Pattern:** Greedy  

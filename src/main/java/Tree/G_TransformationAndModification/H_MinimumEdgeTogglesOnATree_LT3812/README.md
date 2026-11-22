@@ -1,15 +1,13 @@
-# 3812. Minimum Edge Toggles on a Tree
+# Minimum Edge Toggles On ATree — 3812
 
 **Data Structure:** Tree  
-**Pattern:** TransformationAndModification  
+**Pattern:** Transformation And Modification  
 **LeetCode:** #3812  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-edge-toggles-on-a-tree/
-- Difficulty: Hard
-- Topics: Tree, Depth-First Search, Graph Theory, Topological Sort, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

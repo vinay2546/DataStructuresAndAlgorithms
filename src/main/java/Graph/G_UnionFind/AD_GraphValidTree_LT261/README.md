@@ -1,7 +1,7 @@
-# GraphValidTree — 261
+# Graph Valid Tree — 261
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #261  
 **Status:** Not Started
 

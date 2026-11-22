@@ -1,15 +1,13 @@
-# 2242. Maximum Score of a Node Sequence
+# Maximum Score Of ANode Sequence — 2242
 
 **Data Structure:** Graph  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #2242  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-score-of-a-node-sequence/
-- Difficulty: Hard
-- Topics: Array, Graph Theory, Sorting, Enumeration
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

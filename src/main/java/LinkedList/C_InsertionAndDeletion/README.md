@@ -1,6 +1,16 @@
-# LinkedList / Insertion and Deletion
+# Insertion And Deletion
 
-Node insertion, deletion, duplicate removal, and list reconnection.
+## Overview
+
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — C_InsertionAndDeletion
@@ -25,4 +35,4 @@ This tracker is generated recursively. Update the **Status** field in an individ
 | [Delete Nodes From Linked List Present In Array — 3217](DSS_DeleteNodesFromLinkedListPresentInArray_LT3217/README.md) | #3217 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

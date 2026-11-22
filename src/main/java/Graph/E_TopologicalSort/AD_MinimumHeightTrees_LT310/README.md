@@ -1,7 +1,7 @@
-# MinimumHeightTrees — 310
+# Minimum Height Trees — 310
 
 **Data Structure:** Graph  
-**Pattern:** TopologicalSort  
+**Pattern:** Topological Sort  
 **LeetCode:** #310  
 **Status:** Not Started
 

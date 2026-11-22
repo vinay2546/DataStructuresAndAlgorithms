@@ -1,15 +1,13 @@
-# 1858. Longest Word With All Prefixes
+# Longest Word With All Prefixes — 1858
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #1858  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/longest-word-with-all-prefixes/
-- Difficulty: Medium
-- Topics: Array, String, Depth-First Search, Trie
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

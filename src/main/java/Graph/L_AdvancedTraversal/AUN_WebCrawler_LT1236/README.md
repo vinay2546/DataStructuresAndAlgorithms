@@ -1,15 +1,13 @@
-# 1236. Web Crawler
+# Web Crawler — 1236
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedTraversal  
+**Pattern:** Advanced Traversal  
 **LeetCode:** #1236  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/web-crawler/
-- Difficulty: Medium
-- Topics: String, Depth-First Search, Breadth-First Search, Interactive
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

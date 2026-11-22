@@ -1,7 +1,7 @@
-# SmallestRangeCoveringElementsFromKLists — 632
+# Smallest Range Covering Elements From KLists — 632
 
 **Data Structure:** Heap  
-**Pattern:** MergeK  
+**Pattern:** Merge K  
 **LeetCode:** #632  
 **Status:** Not Started
 

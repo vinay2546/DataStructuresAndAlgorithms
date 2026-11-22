@@ -1,6 +1,6 @@
-# SubarraySumsDivisibleByK — 974
+# Subarray Sums Divisible By K — 974
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Prefix Hashing  
 **LeetCode:** #974  
 **Status:** Not Started

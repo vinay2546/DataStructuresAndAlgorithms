@@ -1,7 +1,7 @@
-# RotateImage — 48
+# Rotate Image — 48
 
 **Data Structure:** Matrix  
-**Pattern:** InPlace  
+**Pattern:** In Place  
 **LeetCode:** #48  
 **Status:** Not Started
 

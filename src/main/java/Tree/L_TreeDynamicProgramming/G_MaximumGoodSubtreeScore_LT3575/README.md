@@ -1,15 +1,13 @@
-# 3575. Maximum Good Subtree Score
+# Maximum Good Subtree Score — 3575
 
 **Data Structure:** Tree  
-**Pattern:** TreeDynamicProgramming  
+**Pattern:** Tree Dynamic Programming  
 **LeetCode:** #3575  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-good-subtree-score/
-- Difficulty: Hard
-- Topics: Array, Dynamic Programming, Bit Manipulation, Tree, Depth-First Search, Bitmask
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,6 +1,6 @@
-# FindTheDifferenceOfTwoArrays — 2215
+# Find The Difference Of Two Arrays — 2215
 
-**Data Structure:** HashSet  
+**Data Structure:** Hash Set  
 **Pattern:** Set Patterns  
 **LeetCode:** #2215  
 **Status:** Not Started

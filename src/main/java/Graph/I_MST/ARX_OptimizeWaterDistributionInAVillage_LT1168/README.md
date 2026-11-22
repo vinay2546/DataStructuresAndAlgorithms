@@ -1,4 +1,4 @@
-# 1168. Optimize Water Distribution in a Village
+# Optimize Water Distribution In AVillage — 1168
 
 **Data Structure:** Graph  
 **Pattern:** MST  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/optimize-water-distribution-in-a-village/
-- Difficulty: Hard
-- Topics: Union-Find, Graph Theory, Heap (Priority Queue), Minimum Spanning Tree, Prim's Algorithm, Kruskal's Algorithm, Borůvka's Algorithm
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

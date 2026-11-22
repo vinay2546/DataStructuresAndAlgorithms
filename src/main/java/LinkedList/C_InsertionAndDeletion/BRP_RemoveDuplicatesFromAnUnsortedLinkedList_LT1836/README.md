@@ -1,7 +1,7 @@
 # Remove Duplicates From An Unsorted Linked List — 1836
 
-**Data Structure:** LinkedList  
-**Pattern:** InsertionAndDeletion  
+**Data Structure:** Linked List  
+**Pattern:** Insertion And Deletion  
 **LeetCode:** #1836  
 **Status:** Not Started
 

@@ -1,15 +1,13 @@
-# 1490. Clone N-ary Tree
+# Clone NAry Tree — 1490
 
 **Data Structure:** Tree  
-**Pattern:** SpecialTreesAndHierarchies  
+**Pattern:** Special Trees And Hierarchies  
 **LeetCode:** #1490  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/clone-n-ary-tree/
-- Difficulty: Medium
-- Topics: Hash Table, Tree, Depth-First Search, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,4 +1,4 @@
-# RichestCustomerWealth — 1672
+# Richest Customer Wealth — 1672
 
 **Data Structure:** Matrix  
 **Pattern:** Fundamentals  

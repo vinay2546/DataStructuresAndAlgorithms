@@ -1,15 +1,13 @@
-# 1315. Sum of Nodes with Even-Valued Grandparent
+# Sum Of Nodes With Even Valued Grandparent — 1315
 
 **Data Structure:** Tree  
-**Pattern:** SubtreeAndAggregation  
+**Pattern:** Subtree And Aggregation  
 **LeetCode:** #1315  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Breadth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

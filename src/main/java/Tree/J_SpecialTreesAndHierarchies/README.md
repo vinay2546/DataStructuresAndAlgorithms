@@ -1,9 +1,16 @@
-# SpecialTreesAndHierarchies
+# Special Trees And Hierarchies
 
-N-ary, expression/quad, contaminated and employee/process hierarchy models.
+## Overview
 
-## Study Goal
-Master the recognition pattern, then solve the problems using core tree traversal and recursion templates.
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — J_SpecialTreesAndHierarchies
@@ -18,16 +25,16 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [558. Logical OR of Two Binary Grids Represented as Quad-Trees](A_LogicalOROfTwoBinaryGridsRepresentedAsQuadTrees_LT558/README.md) | #558 | ⬜ Not Started |
-| [690. Employee Importance](B_EmployeeImportance_LT690/README.md) | #690 | ⬜ Not Started |
-| [1261. Find Elements in a Contaminated Binary Tree](C_FindElementsInAContaminatedBinaryTree_LT1261/README.md) | #1261 | ⬜ Not Started |
-| [1376. Time Needed to Inform All Employees](D_TimeNeededToInformAllEmployees_LT1376/README.md) | #1376 | ⬜ Not Started |
-| [1490. Clone N-ary Tree](E_CloneNAryTree_LT1490/README.md) | #1490 | ⬜ Not Started |
-| [1506. Find Root of N-Ary Tree](F_FindRootOfNAryTree_LT1506/README.md) | #1506 | ⬜ Not Started |
-| [1516. Move Sub-Tree of N-Ary Tree](G_MoveSubTreeOfNAryTree_LT1516/README.md) | #1516 | ⬜ Not Started |
-| [1522. Diameter of N-Ary Tree](H_DiameterOfNAryTree_LT1522/README.md) | #1522 | ⬜ Not Started |
-| [2331. Evaluate Boolean Binary Tree](I_EvaluateBooleanBinaryTree_LT2331/README.md) | #2331 | ⬜ Not Started |
-| [2368. Reachable Nodes With Restrictions](J_ReachableNodesWithRestrictions_LT2368/README.md) | #2368 | ⬜ Not Started |
+| [Logical OROf Two Binary Grids Represented As Quad Trees — 558](A_LogicalOROfTwoBinaryGridsRepresentedAsQuadTrees_LT558/README.md) | #558 | ⬜ Not Started |
+| [Employee Importance — 690](B_EmployeeImportance_LT690/README.md) | #690 | ⬜ Not Started |
+| [Find Elements In AContaminated Binary Tree — 1261](C_FindElementsInAContaminatedBinaryTree_LT1261/README.md) | #1261 | ⬜ Not Started |
+| [Time Needed To Inform All Employees — 1376](D_TimeNeededToInformAllEmployees_LT1376/README.md) | #1376 | ⬜ Not Started |
+| [Clone NAry Tree — 1490](E_CloneNAryTree_LT1490/README.md) | #1490 | ⬜ Not Started |
+| [Find Root Of NAry Tree — 1506](F_FindRootOfNAryTree_LT1506/README.md) | #1506 | ⬜ Not Started |
+| [Move Sub Tree Of NAry Tree — 1516](G_MoveSubTreeOfNAryTree_LT1516/README.md) | #1516 | ⬜ Not Started |
+| [Diameter Of NAry Tree — 1522](H_DiameterOfNAryTree_LT1522/README.md) | #1522 | ⬜ Not Started |
+| [Evaluate Boolean Binary Tree — 2331](I_EvaluateBooleanBinaryTree_LT2331/README.md) | #2331 | ⬜ Not Started |
+| [Reachable Nodes With Restrictions — 2368](J_ReachableNodesWithRestrictions_LT2368/README.md) | #2368 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

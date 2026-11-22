@@ -1,15 +1,13 @@
-# 2236. Root Equals Sum of Children
+# Root Equals Sum Of Children — 2236
 
 **Data Structure:** Tree  
-**Pattern:** TreeProperties  
+**Pattern:** Tree Properties  
 **LeetCode:** #2236  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/root-equals-sum-of-children/
-- Difficulty: Easy
-- Topics: Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

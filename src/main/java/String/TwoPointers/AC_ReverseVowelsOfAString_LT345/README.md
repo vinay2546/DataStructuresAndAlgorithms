@@ -1,7 +1,7 @@
-# ReverseVowelsOfAString — 345
+# Reverse Vowels Of AString — 345
 
 **Data Structure:** String  
-**Pattern:** TwoPointers  
+**Pattern:** Two Pointers  
 **LeetCode:** #345  
 **Status:** Not Started
 

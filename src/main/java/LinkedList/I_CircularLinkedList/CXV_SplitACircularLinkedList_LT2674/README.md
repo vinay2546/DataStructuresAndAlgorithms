@@ -1,7 +1,7 @@
 # Split ACircular Linked List — 2674
 
-**Data Structure:** LinkedList  
-**Pattern:** CircularLinkedList  
+**Data Structure:** Linked List  
+**Pattern:** Circular Linked List  
 **LeetCode:** #2674  
 **Status:** Not Started
 

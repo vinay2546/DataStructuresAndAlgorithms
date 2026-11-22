@@ -1,15 +1,13 @@
-# 2045. Second Minimum Time to Reach Destination
+# Second Minimum Time To Reach Destination — 2045
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #2045  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/second-minimum-time-to-reach-destination/
-- Difficulty: Hard
-- Topics: Breadth-First Search, Graph Theory, Shortest Path, Dijkstra's Algorithm, K Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

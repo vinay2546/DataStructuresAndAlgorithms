@@ -1,7 +1,7 @@
-# TopKFrequentWords — 692
+# Top KFrequent Words — 692
 
 **Data Structure:** Heap  
-**Pattern:** TopK  
+**Pattern:** Top K  
 **LeetCode:** #692  
 **Status:** Not Started
 

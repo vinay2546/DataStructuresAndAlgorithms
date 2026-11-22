@@ -1,15 +1,13 @@
-# 2360. Longest Cycle in a Graph
+# Longest Cycle In AGraph — 2360
 
 **Data Structure:** Graph  
-**Pattern:** CycleDetection  
+**Pattern:** Cycle Detection  
 **LeetCode:** #2360  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/longest-cycle-in-a-graph/
-- Difficulty: Hard
-- Topics: Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Kosaraju's Algorithm, Tarjan's SCC Algorithm
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

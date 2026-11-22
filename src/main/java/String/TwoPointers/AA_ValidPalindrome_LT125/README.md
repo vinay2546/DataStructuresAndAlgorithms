@@ -1,7 +1,7 @@
-# ValidPalindrome — 125
+# Valid Palindrome — 125
 
 **Data Structure:** String  
-**Pattern:** TwoPointers  
+**Pattern:** Two Pointers  
 **LeetCode:** #125  
 **Status:** Not Started
 

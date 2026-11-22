@@ -1,4 +1,4 @@
-# NextGreaterElementI — 496
+# Next Greater Element I — 496
 
 **Data Structure:** Stack  
 **Pattern:** Monotonic Stack  

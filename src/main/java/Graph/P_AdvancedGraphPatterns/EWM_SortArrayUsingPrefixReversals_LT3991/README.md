@@ -1,15 +1,13 @@
-# 3991. Sort Array Using Prefix Reversals
+# Sort Array Using Prefix Reversals — 3991
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3991  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/sort-array-using-prefix-reversals/
-- Difficulty: Medium
-- Topics: Array, Hash Table, Two Pointers, Breadth-First Search, Hash Function
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

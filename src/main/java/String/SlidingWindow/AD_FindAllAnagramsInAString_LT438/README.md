@@ -1,7 +1,7 @@
-# FindAllAnagramsInAString — 438
+# Find All Anagrams In AString — 438
 
 **Data Structure:** String  
-**Pattern:** SlidingWindow  
+**Pattern:** Sliding Window  
 **LeetCode:** #438  
 **Status:** Not Started
 

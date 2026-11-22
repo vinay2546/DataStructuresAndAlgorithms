@@ -1,7 +1,7 @@
-# ReconstructItinerary — 332
+# Reconstruct Itinerary — 332
 
 **Data Structure:** Graph  
-**Pattern:** Advanced  
+**Pattern:** Path Problems  
 **LeetCode:** #332  
 **Status:** Not Started
 

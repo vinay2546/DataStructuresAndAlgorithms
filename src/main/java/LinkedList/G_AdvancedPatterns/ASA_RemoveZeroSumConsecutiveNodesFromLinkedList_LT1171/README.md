@@ -1,7 +1,7 @@
 # Remove Zero Sum Consecutive Nodes From Linked List — 1171
 
-**Data Structure:** LinkedList  
-**Pattern:** AdvancedPatterns  
+**Data Structure:** Linked List  
+**Pattern:** Advanced Patterns  
 **LeetCode:** #1171  
 **Status:** Not Started
 

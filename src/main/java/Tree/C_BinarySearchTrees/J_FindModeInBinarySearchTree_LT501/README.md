@@ -1,15 +1,13 @@
-# 501. Find Mode in Binary Search Tree
+# Find Mode In Binary Search Tree — 501
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #501  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-mode-in-binary-search-tree/
-- Difficulty: Easy
-- Topics: Tree, Depth-First Search, Binary Search Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 2005. Subtree Removal Game with Fibonacci Tree
+# Subtree Removal Game With Fibonacci Tree — 2005
 
 **Data Structure:** Tree  
-**Pattern:** TreeDynamicProgramming  
+**Pattern:** Tree Dynamic Programming  
 **LeetCode:** #2005  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree/
-- Difficulty: Hard
-- Topics: Math, Dynamic Programming, Tree, Binary Tree, Game Theory, Sprague–Grundy Theorem
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

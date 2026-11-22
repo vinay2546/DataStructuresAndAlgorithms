@@ -1,4 +1,4 @@
-# 545. Boundary of Binary Tree
+# Boundary Of Binary Tree — 545
 
 **Data Structure:** Tree  
 **Pattern:** DFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/boundary-of-binary-tree/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

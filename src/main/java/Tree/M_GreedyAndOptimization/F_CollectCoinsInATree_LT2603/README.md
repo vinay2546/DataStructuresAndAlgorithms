@@ -1,15 +1,13 @@
-# 2603. Collect Coins in a Tree
+# Collect Coins In ATree — 2603
 
 **Data Structure:** Tree  
-**Pattern:** GreedyAndOptimization  
+**Pattern:** Greedy And Optimization  
 **LeetCode:** #2603  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/collect-coins-in-a-tree/
-- Difficulty: Hard
-- Topics: Array, Tree, Graph Theory, Topological Sort
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

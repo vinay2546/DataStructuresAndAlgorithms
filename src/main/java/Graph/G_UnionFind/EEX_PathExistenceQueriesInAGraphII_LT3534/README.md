@@ -1,15 +1,13 @@
-# 3534. Path Existence Queries in a Graph II
+# Path Existence Queries In AGraph II — 3534
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #3534  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/
-- Difficulty: Hard
-- Topics: Array, Two Pointers, Binary Search, Dynamic Programming, Greedy, Bit Manipulation, Graph Theory, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

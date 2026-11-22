@@ -1,7 +1,7 @@
-# AlienDictionary — 269
+# Alien Dictionary — 269
 
 **Data Structure:** Graph  
-**Pattern:** TopologicalSort  
+**Pattern:** Topological Sort  
 **LeetCode:** #269  
 **Status:** Not Started
 

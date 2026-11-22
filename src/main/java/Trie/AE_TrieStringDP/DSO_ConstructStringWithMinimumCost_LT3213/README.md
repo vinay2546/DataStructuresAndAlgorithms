@@ -1,15 +1,13 @@
-# 3213. Construct String with Minimum Cost
+# Construct String With Minimum Cost — 3213
 
 **Data Structure:** Trie  
-**Pattern:** TrieStringDP  
+**Pattern:** Trie String DP  
 **LeetCode:** #3213  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/construct-string-with-minimum-cost/
-- Difficulty: Hard
-- Topics: Array, String, Dynamic Programming, Suffix Array
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

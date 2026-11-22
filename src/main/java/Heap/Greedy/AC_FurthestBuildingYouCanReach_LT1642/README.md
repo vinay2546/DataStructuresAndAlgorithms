@@ -1,4 +1,4 @@
-# FurthestBuildingYouCanReach — 1642
+# Furthest Building You Can Reach — 1642
 
 **Data Structure:** Heap  
 **Pattern:** Greedy  

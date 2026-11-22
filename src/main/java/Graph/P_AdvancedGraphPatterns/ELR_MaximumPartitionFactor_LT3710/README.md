@@ -1,15 +1,13 @@
-# 3710. Maximum Partition Factor
+# Maximum Partition Factor — 3710
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3710  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-partition-factor/
-- Difficulty: Hard
-- Topics: Array, Binary Search, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

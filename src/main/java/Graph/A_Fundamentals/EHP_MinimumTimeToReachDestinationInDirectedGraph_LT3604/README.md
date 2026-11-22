@@ -1,4 +1,4 @@
-# 3604. Minimum Time to Reach Destination in Directed Graph
+# Minimum Time To Reach Destination In Directed Graph — 3604
 
 **Data Structure:** Graph  
 **Pattern:** Fundamentals  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph/
-- Difficulty: Medium
-- Topics: Graph Theory, Heap (Priority Queue), Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

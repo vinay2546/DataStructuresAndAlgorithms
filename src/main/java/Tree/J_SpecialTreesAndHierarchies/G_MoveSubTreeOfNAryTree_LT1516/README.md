@@ -1,15 +1,13 @@
-# 1516. Move Sub-Tree of N-Ary Tree
+# Move Sub Tree Of NAry Tree — 1516
 
 **Data Structure:** Tree  
-**Pattern:** SpecialTreesAndHierarchies  
+**Pattern:** Special Trees And Hierarchies  
 **LeetCode:** #1516  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/
-- Difficulty: Hard
-- Topics: Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

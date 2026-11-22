@@ -1,15 +1,13 @@
-# 2115. Find All Possible Recipes from Given Supplies
+# Find All Possible Recipes From Given Supplies — 2115
 
 **Data Structure:** Graph  
-**Pattern:** TopologicalSort  
+**Pattern:** Topological Sort  
 **LeetCode:** #2115  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
-- Difficulty: Medium
-- Topics: Array, Hash Table, String, Graph Theory, Topological Sort, Directed Acyclic Graph
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

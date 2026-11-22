@@ -1,15 +1,13 @@
-# 1257. Smallest Common Region
+# Smallest Common Region — 1257
 
 **Data Structure:** Tree  
-**Pattern:** AncestorsAndDistance  
+**Pattern:** Ancestors And Distance  
 **LeetCode:** #1257  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/smallest-common-region/
-- Difficulty: Medium
-- Topics: Array, Hash Table, String, Tree, Depth-First Search, Breadth-First Search, Binary Lifting, Lowest Common Ancestor
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

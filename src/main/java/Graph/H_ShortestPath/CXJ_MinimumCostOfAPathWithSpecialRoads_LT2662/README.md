@@ -1,15 +1,13 @@
-# 2662. Minimum Cost of a Path With Special Roads
+# Minimum Cost Of APath With Special Roads — 2662
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #2662  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/
-- Difficulty: Medium
-- Topics: Array, Graph Theory, Heap (Priority Queue), Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

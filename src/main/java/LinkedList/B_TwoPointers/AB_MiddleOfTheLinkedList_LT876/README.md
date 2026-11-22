@@ -1,7 +1,7 @@
 # Middle Of The Linked List — 876
 
-**Data Structure:** LinkedList  
-**Pattern:** TwoPointers  
+**Data Structure:** Linked List  
+**Pattern:** Two Pointers  
 **LeetCode:** #876  
 **Status:** Not Started
 

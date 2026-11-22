@@ -1,4 +1,4 @@
-# SpiralMatrix — 54
+# Spiral Matrix — 54
 
 **Data Structure:** Matrix  
 **Pattern:** Traversal  

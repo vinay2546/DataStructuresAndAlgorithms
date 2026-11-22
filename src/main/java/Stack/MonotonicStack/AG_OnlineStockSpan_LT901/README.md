@@ -1,4 +1,4 @@
-# OnlineStockSpan — 901
+# Online Stock Span — 901
 
 **Data Structure:** Stack  
 **Pattern:** Monotonic Stack  

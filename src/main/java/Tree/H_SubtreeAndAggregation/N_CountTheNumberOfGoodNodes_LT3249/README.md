@@ -1,15 +1,13 @@
-# 3249. Count the Number of Good Nodes
+# Count The Number Of Good Nodes — 3249
 
 **Data Structure:** Tree  
-**Pattern:** SubtreeAndAggregation  
+**Pattern:** Subtree And Aggregation  
 **LeetCode:** #3249  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-the-number-of-good-nodes/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 2608. Shortest Cycle in a Graph
+# Shortest Cycle In AGraph — 2608
 
 **Data Structure:** Graph  
-**Pattern:** CycleDetection  
+**Pattern:** Cycle Detection  
 **LeetCode:** #2608  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/shortest-cycle-in-a-graph/
-- Difficulty: Hard
-- Topics: Breadth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

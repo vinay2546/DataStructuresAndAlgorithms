@@ -1,6 +1,16 @@
-# Trie / Bitwise Trie
+# Bitwise Trie
 
-Binary Trie techniques for XOR: maximum XOR, constrained XOR queries, XOR pairs, subarray XOR, and range constraints.
+## Overview
+
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — AF_BitwiseTrie
@@ -15,13 +25,13 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [MaximumXOROfTwoNumbersInAnArray — 421](AA_MaximumXOROfTwoNumbersInAnArray_LT421/README.md) | #421 | ⬜ Not Started |
-| [MaximumXORWithAnElementFromArray — 1707](AB_MaximumXORWithAnElementFromArray_LT1707/README.md) | #1707 | ⬜ Not Started |
-| [CountPairsWithXORInARange — 1803](AC_CountPairsWithXORInARange_LT1803/README.md) | #1803 | ⬜ Not Started |
-| [2932. Maximum Strong Pair XOR I](DHT_MaximumStrongPairXORI_LT2932/README.md) | #2932 | ⬜ Not Started |
-| [2935. Maximum Strong Pair XOR II](DHW_MaximumStrongPairXORII_LT2935/README.md) | #2935 | ⬜ Not Started |
-| [3632. Subarrays with XOR at Least K](EIR_SubarraysWithXORAtLeastK_LT3632/README.md) | #3632 | ⬜ Not Started |
-| [3845. Maximum Subarray XOR with Bounded Range](EQW_MaximumSubarrayXORWithBoundedRange_LT3845/README.md) | #3845 | ⬜ Not Started |
+| [Maximum XOROf Two Numbers In An Array — 421](AA_MaximumXOROfTwoNumbersInAnArray_LT421/README.md) | #421 | ⬜ Not Started |
+| [Maximum XORWith An Element From Array — 1707](AB_MaximumXORWithAnElementFromArray_LT1707/README.md) | #1707 | ⬜ Not Started |
+| [Count Pairs With XORIn ARange — 1803](AC_CountPairsWithXORInARange_LT1803/README.md) | #1803 | ⬜ Not Started |
+| [Maximum Strong Pair XORI — 2932](DHT_MaximumStrongPairXORI_LT2932/README.md) | #2932 | ⬜ Not Started |
+| [Maximum Strong Pair XORII — 2935](DHW_MaximumStrongPairXORII_LT2935/README.md) | #2935 | ⬜ Not Started |
+| [Subarrays With XORAt Least K — 3632](EIR_SubarraysWithXORAtLeastK_LT3632/README.md) | #3632 | ⬜ Not Started |
+| [Maximum Subarray XORWith Bounded Range — 3845](EQW_MaximumSubarrayXORWithBoundedRange_LT3845/README.md) | #3845 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

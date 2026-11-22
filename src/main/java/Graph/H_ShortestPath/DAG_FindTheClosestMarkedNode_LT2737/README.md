@@ -1,15 +1,13 @@
-# 2737. Find the Closest Marked Node
+# Find The Closest Marked Node — 2737
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #2737  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-the-closest-marked-node/
-- Difficulty: Medium
-- Topics: Array, Graph Theory, Heap (Priority Queue), Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,7 +1,16 @@
-# StackParsing
+# Stack Parsing
 
-String problems grouped under this category.
+## Overview
 
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — StackParsing
@@ -16,10 +25,10 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [ValidParentheses — 20](AA_ValidParentheses_LT20/README.md) | #20 | ⬜ Not Started |
-| [DecodeString — 394](AB_DecodeString_LT394/README.md) | #394 | ⬜ Not Started |
-| [BasicCalculator — 224](AC_BasicCalculator_LT224/README.md) | #224 | ⬜ Not Started |
-| [BasicCalculatorII — 227](AD_BasicCalculatorII_LT227/README.md) | #227 | ⬜ Not Started |
+| [Valid Parentheses — 20](AA_ValidParentheses_LT20/README.md) | #20 | ⬜ Not Started |
+| [Decode String — 394](AB_DecodeString_LT394/README.md) | #394 | ⬜ Not Started |
+| [Basic Calculator — 224](AC_BasicCalculator_LT224/README.md) | #224 | ⬜ Not Started |
+| [Basic Calculator II — 227](AD_BasicCalculatorII_LT227/README.md) | #227 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

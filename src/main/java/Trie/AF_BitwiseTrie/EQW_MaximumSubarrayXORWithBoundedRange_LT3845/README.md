@@ -1,15 +1,13 @@
-# 3845. Maximum Subarray XOR with Bounded Range
+# Maximum Subarray XORWith Bounded Range — 3845
 
 **Data Structure:** Trie  
-**Pattern:** BitwiseTrie  
+**Pattern:** Bitwise Trie  
 **LeetCode:** #3845  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-subarray-xor-with-bounded-range/
-- Difficulty: Hard
-- Topics: Array, Bit Manipulation, Trie, Queue, Sliding Window, Prefix Sum, Monotonic Queue
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

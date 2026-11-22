@@ -1,4 +1,4 @@
-# 2059. Minimum Operations to Convert Number
+# Minimum Operations To Convert Number — 2059
 
 **Data Structure:** Graph  
 **Pattern:** BFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-operations-to-convert-number/
-- Difficulty: Medium
-- Topics: Array, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

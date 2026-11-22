@@ -1,7 +1,7 @@
 # Delete Nodes From Linked List Present In Array — 3217
 
-**Data Structure:** LinkedList  
-**Pattern:** InsertionAndDeletion  
+**Data Structure:** Linked List  
+**Pattern:** Insertion And Deletion  
 **LeetCode:** #3217  
 **Status:** Not Started
 

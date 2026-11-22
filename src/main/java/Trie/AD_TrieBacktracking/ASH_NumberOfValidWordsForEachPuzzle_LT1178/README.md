@@ -1,15 +1,13 @@
-# 1178. Number of Valid Words for Each Puzzle
+# Number Of Valid Words For Each Puzzle — 1178
 
 **Data Structure:** Trie  
-**Pattern:** TrieBacktracking  
+**Pattern:** Trie Backtracking  
 **LeetCode:** #1178  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
-- Difficulty: Hard
-- Topics: Array, Hash Table, String, Bit Manipulation, Trie
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

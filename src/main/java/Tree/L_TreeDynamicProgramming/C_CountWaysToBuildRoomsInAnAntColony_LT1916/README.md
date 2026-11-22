@@ -1,15 +1,13 @@
-# 1916. Count Ways to Build Rooms in an Ant Colony
+# Count Ways To Build Rooms In An Ant Colony — 1916
 
 **Data Structure:** Tree  
-**Pattern:** TreeDynamicProgramming  
+**Pattern:** Tree Dynamic Programming  
 **LeetCode:** #1916  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/
-- Difficulty: Hard
-- Topics: Array, Math, Dynamic Programming, Tree, Depth-First Search, Graph Theory, Topological Sort, Combinatorics, DP on Trees, Fermat's Little Theorem
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

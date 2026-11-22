@@ -1,6 +1,6 @@
 # Design Linked List — 707
 
-**Data Structure:** LinkedList  
+**Data Structure:** Linked List  
 **Pattern:** Design  
 **LeetCode:** #707  
 **Status:** Not Started

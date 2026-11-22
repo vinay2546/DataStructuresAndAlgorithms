@@ -1,7 +1,7 @@
-# MaxAreaOfIsland — 695
+# Max Area Of Island — 695
 
 **Data Structure:** Matrix  
-**Pattern:** GridBFSDFS  
+**Pattern:** Grid BFSDFS  
 **LeetCode:** #695  
 **Status:** Not Started
 

@@ -1,4 +1,4 @@
-# FindAPeakElementII — 1901
+# Find APeak Element II — 1901
 
 **Data Structure:** Matrix  
 **Pattern:** Search  

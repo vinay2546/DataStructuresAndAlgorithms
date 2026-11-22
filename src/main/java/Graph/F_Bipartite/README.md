@@ -1,11 +1,16 @@
-# 06_Bipartite
+# Bipartite
 
-Two-coloring, bipartite validation, and graph partitioning.
+## Overview
 
+Add a concise overview of this section.
 
-## Learning Focus
+## Contents
 
-Problems are grouped by their primary technique. Secondary patterns should be documented in individual problem READMEs instead of creating duplicate problem folders.
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — F_Bipartite
@@ -20,10 +25,10 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [785. Is Graph Bipartite?](ADE_IsGraphBipartite_LT785/README.md) | #785 | ⬜ Not Started |
-| [886. Possible Bipartition](AHB_PossibleBipartition_LT886/README.md) | #886 | ⬜ Not Started |
-| [1042. Flower Planting With No Adjacent](ANB_FlowerPlantingWithNoAdjacent_LT1042/README.md) | #1042 | ⬜ Not Started |
-| [2493. Divide Nodes Into the Maximum Number of Groups](CQW_DivideNodesIntoTheMaximumNumberOfGroups_LT2493/README.md) | #2493 | ⬜ Not Started |
+| [Is Graph Bipartite — 785](ADE_IsGraphBipartite_LT785/README.md) | #785 | ⬜ Not Started |
+| [Possible Bipartition — 886](AHB_PossibleBipartition_LT886/README.md) | #886 | ⬜ Not Started |
+| [Flower Planting With No Adjacent — 1042](ANB_FlowerPlantingWithNoAdjacent_LT1042/README.md) | #1042 | ⬜ Not Started |
+| [Divide Nodes Into The Maximum Number Of Groups — 2493](CQW_DivideNodesIntoTheMaximumNumberOfGroups_LT2493/README.md) | #2493 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

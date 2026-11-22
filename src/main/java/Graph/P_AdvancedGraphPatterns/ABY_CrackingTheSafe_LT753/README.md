@@ -1,15 +1,13 @@
-# 753. Cracking the Safe
+# Cracking The Safe — 753
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #753  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/cracking-the-safe/
-- Difficulty: Hard
-- Topics: String, Depth-First Search, Graph Theory, Eulerian Circuit, Eulerian Path, Eulerian Graph
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

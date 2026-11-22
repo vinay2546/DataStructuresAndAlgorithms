@@ -1,7 +1,7 @@
-# PrefixAndSuffixSearch — 745
+# Prefix And Suffix Search — 745
 
 **Data Structure:** Trie  
-**Pattern:** PrefixSearch  
+**Pattern:** Prefix Operations  
 **LeetCode:** #745  
 **Status:** Not Started
 

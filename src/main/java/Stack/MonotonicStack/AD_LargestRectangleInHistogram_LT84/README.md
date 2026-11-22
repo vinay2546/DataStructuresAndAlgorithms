@@ -1,4 +1,4 @@
-# LargestRectangleInHistogram — 84
+# Largest Rectangle In Histogram — 84
 
 **Data Structure:** Stack  
 **Pattern:** Monotonic Stack  

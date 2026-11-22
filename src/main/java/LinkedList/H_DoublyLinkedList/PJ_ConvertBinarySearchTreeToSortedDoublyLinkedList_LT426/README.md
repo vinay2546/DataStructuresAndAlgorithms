@@ -1,7 +1,7 @@
 # Convert Binary Search Tree To Sorted Doubly Linked List — 426
 
-**Data Structure:** LinkedList  
-**Pattern:** DoublyLinkedList  
+**Data Structure:** Linked List  
+**Pattern:** Doubly Linked List  
 **LeetCode:** #426  
 **Status:** Not Started
 

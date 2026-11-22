@@ -1,15 +1,13 @@
-# 690. Employee Importance
+# Employee Importance — 690
 
 **Data Structure:** Tree  
-**Pattern:** SpecialTreesAndHierarchies  
+**Pattern:** Special Trees And Hierarchies  
 **LeetCode:** #690  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/employee-importance/
-- Difficulty: Medium
-- Topics: Array, Hash Table, Tree, Depth-First Search, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

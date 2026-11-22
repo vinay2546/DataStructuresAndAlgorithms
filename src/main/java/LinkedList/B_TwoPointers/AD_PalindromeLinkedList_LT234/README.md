@@ -1,7 +1,7 @@
 # Palindrome Linked List — 234
 
-**Data Structure:** LinkedList  
-**Pattern:** TwoPointers  
+**Data Structure:** Linked List  
+**Pattern:** Two Pointers  
 **LeetCode:** #234  
 **Status:** Not Started
 

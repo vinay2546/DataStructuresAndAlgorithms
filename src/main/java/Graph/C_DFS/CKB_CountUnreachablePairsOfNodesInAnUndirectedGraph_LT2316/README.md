@@ -1,4 +1,4 @@
-# 2316. Count Unreachable Pairs of Nodes in an Undirected Graph
+# Count Unreachable Pairs Of Nodes In An Undirected Graph — 2316
 
 **Data Structure:** Graph  
 **Pattern:** DFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
-- Difficulty: Medium
-- Topics: Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

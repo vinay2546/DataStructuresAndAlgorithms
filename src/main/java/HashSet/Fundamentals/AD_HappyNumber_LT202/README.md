@@ -1,6 +1,6 @@
-# HappyNumber — 202
+# Happy Number — 202
 
-**Data Structure:** HashSet  
+**Data Structure:** Hash Set  
 **Pattern:** Fundamentals  
 **LeetCode:** #202  
 **Status:** Not Started

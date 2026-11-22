@@ -1,7 +1,7 @@
-# UniquePathsII — 63
+# Unique Paths II — 63
 
 **Data Structure:** Matrix  
-**Pattern:** PrefixDP  
+**Pattern:** Prefix DP  
 **LeetCode:** #63  
 **Status:** Not Started
 

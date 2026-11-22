@@ -1,15 +1,13 @@
-# 2699. Modify Graph Edge Weights
+# Modify Graph Edge Weights — 2699
 
 **Data Structure:** Graph  
-**Pattern:** WeightedGraphs  
+**Pattern:** Weighted Graphs  
 **LeetCode:** #2699  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/modify-graph-edge-weights/
-- Difficulty: Hard
-- Topics: Graph Theory, Heap (Priority Queue), Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

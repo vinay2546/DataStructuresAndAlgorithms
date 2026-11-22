@@ -1,6 +1,6 @@
-# GroupAnagrams — 49
+# Group Anagrams — 49
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Frequency  
 **LeetCode:** #49  
 **Status:** Not Started

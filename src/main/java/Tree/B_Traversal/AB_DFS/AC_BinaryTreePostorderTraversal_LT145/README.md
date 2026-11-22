@@ -1,4 +1,4 @@
-# 145. Binary Tree Postorder Traversal
+# Binary Tree Postorder Traversal — 145
 
 **Data Structure:** Tree  
 **Pattern:** DFS  
@@ -7,45 +7,21 @@
 
 ## Problem
 
-[LeetCode 145](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+Add the problem statement or LeetCode link here.
 
 ## Approach
 
-Implementation not added yet. The folder is ready for the solution.
+Add a brief explanation of the chosen approach.
 
 ## Algorithm
 
-1. Traverse the tree using depth-first traversal.
-2. Apply the problem-specific condition or aggregation.
-3. Return the required result.
+1. Add the solution steps.
 
 ## Complexity
 
-- **Time:** —
-- **Space:** —
+- **Time:** Add time complexity.
+- **Space:** Add space complexity.
 
 ## Solution
 
 See [Solution.java](./Solution.java).
-
----
-
-**Problem Order:** AC
-
-## Additional Notes
-
-### Status
-
-**Placeholder**
-
-### Data Structure
-
-**Tree**
-
-### Pattern
-
-**DFS — Depth-First Search**
-
-### Submission
-
-[View LeetCode submission](https://leetcode.com/problems/n-ary-tree-level-order-traversal/submissions/2155455624/)

@@ -1,6 +1,16 @@
 # Fundamentals
 
-Queue problems grouped under this pattern/category.
+## Overview
+
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — Fundamentals
@@ -15,11 +25,11 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [ImplementQueueUsingStacks — 232](AA_ImplementQueueUsingStacks_LT232/README.md) | #232 | ⬜ Not Started |
-| [NumberOfRecentCalls — 933](AB_NumberOfRecentCalls_LT933/README.md) | #933 | ⬜ Not Started |
-| [DesignCircularQueue — 622](AC_DesignCircularQueue_LT622/README.md) | #622 | ⬜ Not Started |
-| [DesignCircularDeque — 641](AD_DesignCircularDeque_LT641/README.md) | #641 | ⬜ Not Started |
-| [TimeNeededToBuyTickets — 2073](AE_TimeNeededToBuyTickets_LT2073/README.md) | #2073 | ⬜ Not Started |
+| [Implement Queue Using Stacks — 232](AA_ImplementQueueUsingStacks_LT232/README.md) | #232 | ⬜ Not Started |
+| [Number Of Recent Calls — 933](AB_NumberOfRecentCalls_LT933/README.md) | #933 | ⬜ Not Started |
+| [Design Circular Queue — 622](AC_DesignCircularQueue_LT622/README.md) | #622 | ⬜ Not Started |
+| [Design Circular Deque — 641](AD_DesignCircularDeque_LT641/README.md) | #641 | ⬜ Not Started |
+| [Time Needed To Buy Tickets — 2073](AE_TimeNeededToBuyTickets_LT2073/README.md) | #2073 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

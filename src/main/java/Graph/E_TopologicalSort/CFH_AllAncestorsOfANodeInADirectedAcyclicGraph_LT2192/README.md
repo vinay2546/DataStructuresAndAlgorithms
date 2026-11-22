@@ -1,15 +1,13 @@
-# 2192. All Ancestors of a Node in a Directed Acyclic Graph
+# All Ancestors Of ANode In ADirected Acyclic Graph — 2192
 
 **Data Structure:** Graph  
-**Pattern:** TopologicalSort  
+**Pattern:** Topological Sort  
 **LeetCode:** #2192  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/
-- Difficulty: Medium
-- Topics: Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

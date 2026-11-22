@@ -1,15 +1,13 @@
-# 616. Add Bold Tag in String
+# Add Bold Tag In String — 616
 
 **Data Structure:** Trie  
-**Pattern:** TrieBacktracking  
+**Pattern:** Trie Backtracking  
 **LeetCode:** #616  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/add-bold-tag-in-string/
-- Difficulty: Medium
-- Topics: Array, Hash Table, String, Trie, String Matching, Aho–Corasick Algorithm
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

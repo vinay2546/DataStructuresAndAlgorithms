@@ -1,7 +1,7 @@
 # Copy List With Random Pointer — 138
 
-**Data Structure:** LinkedList  
-**Pattern:** AdvancedPatterns  
+**Data Structure:** Linked List  
+**Pattern:** Advanced Patterns  
 **LeetCode:** #138  
 **Status:** Not Started
 

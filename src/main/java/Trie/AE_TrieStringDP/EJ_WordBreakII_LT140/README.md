@@ -1,15 +1,13 @@
-# 140. Word Break II
+# Word Break II — 140
 
 **Data Structure:** Trie  
-**Pattern:** TrieStringDP  
+**Pattern:** Trie String DP  
 **LeetCode:** #140  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/word-break-ii/
-- Difficulty: Hard
-- Topics: Array, Hash Table, String, Dynamic Programming, Backtracking, Trie, Memoization
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

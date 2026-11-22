@@ -1,15 +1,13 @@
-# 1879. Minimum XOR Sum of Two Arrays
+# Minimum XORSum Of Two Arrays — 1879
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #1879  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/
-- Difficulty: Hard
-- Topics: Array, Dynamic Programming, Bit Manipulation, Bitmask, Hungarian Algorithm, Bipartite Graph, Successive Shortest Path Algorithm
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

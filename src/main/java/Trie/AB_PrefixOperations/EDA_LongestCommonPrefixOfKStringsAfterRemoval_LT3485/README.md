@@ -1,15 +1,13 @@
-# 3485. Longest Common Prefix of K Strings After Removal
+# Longest Common Prefix Of KStrings After Removal — 3485
 
 **Data Structure:** Trie  
-**Pattern:** PrefixOperations  
+**Pattern:** Prefix Operations  
 **LeetCode:** #3485  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/
-- Difficulty: Hard
-- Topics: Array, String, Trie
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

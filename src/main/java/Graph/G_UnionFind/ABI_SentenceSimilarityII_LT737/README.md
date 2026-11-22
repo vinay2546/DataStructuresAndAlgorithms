@@ -1,15 +1,13 @@
-# 737. Sentence Similarity II
+# Sentence Similarity II — 737
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #737  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/sentence-similarity-ii/
-- Difficulty: Medium
-- Topics: Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union-Find
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

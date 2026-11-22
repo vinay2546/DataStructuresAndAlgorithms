@@ -1,15 +1,13 @@
-# 3045. Count Prefix and Suffix Pairs II
+# Count Prefix And Suffix Pairs II — 3045
 
 **Data Structure:** Trie  
-**Pattern:** PrefixOperations  
+**Pattern:** Prefix Operations  
 **LeetCode:** #3045  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/
-- Difficulty: Hard
-- Topics: Array, String, Trie, Rolling Hash, String Matching, Hash Function, Z Algorithm
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 2925. Maximum Score After Applying Operations on a Tree
+# Maximum Score After Applying Operations On ATree — 2925
 
 **Data Structure:** Tree  
-**Pattern:** GreedyAndOptimization  
+**Pattern:** Greedy And Optimization  
 **LeetCode:** #2925  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/
-- Difficulty: Medium
-- Topics: Dynamic Programming, Tree, Depth-First Search, DP on Trees
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

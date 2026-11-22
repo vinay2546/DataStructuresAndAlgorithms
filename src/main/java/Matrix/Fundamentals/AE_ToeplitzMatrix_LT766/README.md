@@ -1,4 +1,4 @@
-# ToeplitzMatrix — 766
+# Toeplitz Matrix — 766
 
 **Data Structure:** Matrix  
 **Pattern:** Fundamentals  

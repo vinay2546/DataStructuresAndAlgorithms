@@ -1,15 +1,13 @@
-# 2077. Paths in Maze That Lead to Same Room
+# Paths In Maze That Lead To Same Room — 2077
 
 **Data Structure:** Graph  
-**Pattern:** GridGraphs  
+**Pattern:** Grid Graphs  
 **LeetCode:** #2077  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/
-- Difficulty: Medium
-- Topics: Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

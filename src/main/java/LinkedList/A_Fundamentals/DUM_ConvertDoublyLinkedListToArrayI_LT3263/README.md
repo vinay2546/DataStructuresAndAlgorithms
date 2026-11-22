@@ -1,6 +1,6 @@
 # Convert Doubly Linked List To Array I — 3263
 
-**Data Structure:** LinkedList  
+**Data Structure:** Linked List  
 **Pattern:** Fundamentals  
 **LeetCode:** #3263  
 **Status:** Not Started

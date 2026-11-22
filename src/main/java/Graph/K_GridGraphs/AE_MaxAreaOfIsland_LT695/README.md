@@ -1,7 +1,7 @@
-# MaxAreaOfIsland — 695
+# Max Area Of Island — 695
 
 **Data Structure:** Graph  
-**Pattern:** DFS  
+**Pattern:** Grid Graphs  
 **LeetCode:** #695  
 **Status:** Not Started
 

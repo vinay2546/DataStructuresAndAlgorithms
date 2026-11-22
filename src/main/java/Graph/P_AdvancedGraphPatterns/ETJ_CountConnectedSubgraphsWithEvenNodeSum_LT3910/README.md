@@ -1,15 +1,13 @@
-# 3910. Count Connected Subgraphs with Even Node Sum
+# Count Connected Subgraphs With Even Node Sum — 3910
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3910  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/
-- Difficulty: Hard
-- Topics: Array, Bit Manipulation, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Enumeration
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

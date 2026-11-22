@@ -1,15 +1,13 @@
-# 1628. Design an Expression Tree With Evaluate Function
+# Design An Expression Tree With Evaluate Function — 1628
 
 **Data Structure:** Tree  
-**Pattern:** ConstructionAndSerialization  
+**Pattern:** Construction And Serialization  
 **LeetCode:** #1628  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/
-- Difficulty: Medium
-- Topics: Array, Math, Stack, Tree, Design, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

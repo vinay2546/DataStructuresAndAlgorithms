@@ -1,7 +1,7 @@
-# LongestSubstringWithoutRepeatingCharacters — 3
+# Longest Substring Without Repeating Characters — 3
 
 **Data Structure:** String  
-**Pattern:** SlidingWindow  
+**Pattern:** Sliding Window  
 **LeetCode:** #3  
 **Status:** Not Started
 

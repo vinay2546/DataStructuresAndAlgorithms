@@ -1,7 +1,7 @@
-# FloodFill — 733
+# Flood Fill — 733
 
 **Data Structure:** Matrix  
-**Pattern:** GridBFSDFS  
+**Pattern:** Grid BFSDFS  
 **LeetCode:** #733  
 **Status:** Not Started
 

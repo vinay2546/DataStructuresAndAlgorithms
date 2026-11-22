@@ -1,15 +1,13 @@
-# 2920. Maximum Points After Collecting Coins From All Nodes
+# Maximum Points After Collecting Coins From All Nodes — 2920
 
 **Data Structure:** Tree  
-**Pattern:** GreedyAndOptimization  
+**Pattern:** Greedy And Optimization  
 **LeetCode:** #2920  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/
-- Difficulty: Hard
-- Topics: Array, Dynamic Programming, Bit Manipulation, Tree, Depth-First Search, Memoization, DP on Trees
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

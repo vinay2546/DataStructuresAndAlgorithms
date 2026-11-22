@@ -1,15 +1,13 @@
-# 3594. Minimum Time to Transport All Individuals
+# Minimum Time To Transport All Individuals — 3594
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3594  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-time-to-transport-all-individuals/
-- Difficulty: Hard
-- Topics: Array, Bit Manipulation, Graph Theory, Heap (Priority Queue), Shortest Path, Bitmask
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

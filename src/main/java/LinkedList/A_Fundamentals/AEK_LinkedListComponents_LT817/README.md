@@ -1,6 +1,6 @@
 # Linked List Components — 817
 
-**Data Structure:** LinkedList  
+**Data Structure:** Linked List  
 **Pattern:** Fundamentals  
 **LeetCode:** #817  
 **Status:** Not Started

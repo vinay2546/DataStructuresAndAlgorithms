@@ -1,15 +1,13 @@
-# 2612. Minimum Reverse Operations
+# Minimum Reverse Operations — 2612
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #2612  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-reverse-operations/
-- Difficulty: Hard
-- Topics: Array, Hash Table, Breadth-First Search, Union-Find, Ordered Set
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

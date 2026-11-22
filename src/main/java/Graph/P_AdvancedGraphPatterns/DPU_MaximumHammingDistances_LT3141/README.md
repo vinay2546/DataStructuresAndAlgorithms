@@ -1,15 +1,13 @@
-# 3141. Maximum Hamming Distances
+# Maximum Hamming Distances — 3141
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3141  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-hamming-distances/
-- Difficulty: Hard
-- Topics: Array, Bit Manipulation, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

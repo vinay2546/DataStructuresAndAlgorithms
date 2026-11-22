@@ -1,15 +1,13 @@
-# 3873. Maximum Points Activated with One Addition
+# Maximum Points Activated With One Addition — 3873
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3873  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-points-activated-with-one-addition/
-- Difficulty: Hard
-- Topics: Array, Hash Table, Union-Find
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

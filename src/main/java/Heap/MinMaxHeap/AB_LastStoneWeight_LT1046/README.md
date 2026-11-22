@@ -1,7 +1,7 @@
-# LastStoneWeight — 1046
+# Last Stone Weight — 1046
 
 **Data Structure:** Heap  
-**Pattern:** MinMaxHeap  
+**Pattern:** Min Max Heap  
 **LeetCode:** #1046  
 **Status:** Not Started
 

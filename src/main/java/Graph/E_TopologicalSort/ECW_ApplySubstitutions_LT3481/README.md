@@ -1,15 +1,13 @@
-# 3481. Apply Substitutions
+# Apply Substitutions — 3481
 
 **Data Structure:** Graph  
-**Pattern:** TopologicalSort  
+**Pattern:** Topological Sort  
 **LeetCode:** #3481  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/apply-substitutions/
-- Difficulty: Medium
-- Topics: Array, Hash Table, String, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

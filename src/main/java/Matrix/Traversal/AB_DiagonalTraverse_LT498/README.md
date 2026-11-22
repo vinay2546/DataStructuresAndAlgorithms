@@ -1,4 +1,4 @@
-# DiagonalTraverse — 498
+# Diagonal Traverse — 498
 
 **Data Structure:** Matrix  
 **Pattern:** Traversal  

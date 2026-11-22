@@ -1,15 +1,13 @@
-# 3656. Determine if a Simple Graph Exists
+# Determine If ASimple Graph Exists — 3656
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3656  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/determine-if-a-simple-graph-exists/
-- Difficulty: Medium
-- Topics: Array, Binary Search, Graph Theory, Sorting, Prefix Sum
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

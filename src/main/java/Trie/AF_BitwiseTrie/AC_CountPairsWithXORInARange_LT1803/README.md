@@ -1,7 +1,7 @@
-# CountPairsWithXORInARange — 1803
+# Count Pairs With XORIn ARange — 1803
 
 **Data Structure:** Trie  
-**Pattern:** BitwiseTrie  
+**Pattern:** Bitwise Trie  
 **LeetCode:** #1803  
 **Status:** Not Started
 

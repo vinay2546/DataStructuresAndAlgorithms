@@ -1,4 +1,4 @@
-# WordSearchII — 212
+# Word Search II — 212
 
 **Data Structure:** Matrix  
 **Pattern:** Advanced  

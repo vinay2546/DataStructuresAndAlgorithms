@@ -1,15 +1,13 @@
-# 3043. Find the Length of the Longest Common Prefix
+# Find The Length Of The Longest Common Prefix — 3043
 
 **Data Structure:** Trie  
-**Pattern:** PrefixOperations  
+**Pattern:** Prefix Operations  
 **LeetCode:** #3043  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
-- Difficulty: Medium
-- Topics: Array, Hash Table, String, Trie
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,4 +1,4 @@
-# 126. Word Ladder II
+# Word Ladder II — 126
 
 **Data Structure:** Graph  
 **Pattern:** BFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/word-ladder-ii/
-- Difficulty: Hard
-- Topics: Hash Table, String, Backtracking, Breadth-First Search, Bidirectional Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

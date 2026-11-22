@@ -1,6 +1,6 @@
-# UniqueMorseCodeWords — 804
+# Unique Morse Code Words — 804
 
-**Data Structure:** HashSet  
+**Data Structure:** Hash Set  
 **Pattern:** Strings  
 **LeetCode:** #804  
 **Status:** Not Started

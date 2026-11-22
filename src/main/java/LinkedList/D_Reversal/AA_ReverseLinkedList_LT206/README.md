@@ -1,6 +1,6 @@
 # Reverse Linked List — 206
 
-**Data Structure:** LinkedList  
+**Data Structure:** Linked List  
 **Pattern:** Reversal  
 **LeetCode:** #206  
 **Status:** Not Started

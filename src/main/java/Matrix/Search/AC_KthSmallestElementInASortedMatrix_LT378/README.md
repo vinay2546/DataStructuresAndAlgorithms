@@ -1,4 +1,4 @@
-# KthSmallestElementInASortedMatrix — 378
+# Kth Smallest Element In ASorted Matrix — 378
 
 **Data Structure:** Matrix  
 **Pattern:** Search  

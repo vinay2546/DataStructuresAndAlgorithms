@@ -1,15 +1,13 @@
-# 341. Flatten Nested List Iterator
+# Flatten Nested List Iterator — 341
 
 **Data Structure:** Tree  
-**Pattern:** TreeDesignAndImplementation  
+**Pattern:** Tree Design And Implementation  
 **LeetCode:** #341  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/flatten-nested-list-iterator/
-- Difficulty: Medium
-- Topics: Stack, Tree, Depth-First Search, Design, Queue, Iterator
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

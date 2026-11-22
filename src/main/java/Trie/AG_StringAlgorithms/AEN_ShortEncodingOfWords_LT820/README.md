@@ -1,15 +1,13 @@
-# 820. Short Encoding of Words
+# Short Encoding Of Words — 820
 
 **Data Structure:** Trie  
-**Pattern:** StringAlgorithms  
+**Pattern:** String Algorithms  
 **LeetCode:** #820  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/short-encoding-of-words/
-- Difficulty: Medium
-- Topics: Array, Hash Table, String, Trie
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,7 +1,7 @@
-# TheKWeakestRowsInAMatrix — 1337
+# The KWeakest Rows In AMatrix — 1337
 
 **Data Structure:** Heap  
-**Pattern:** TopK  
+**Pattern:** Top K  
 **LeetCode:** #1337  
 **Status:** Not Started
 

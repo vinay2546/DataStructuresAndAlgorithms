@@ -1,15 +1,13 @@
-# 1305. All Elements in Two Binary Search Trees
+# All Elements In Two Binary Search Trees — 1305
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #1305  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Binary Search Tree, Sorting, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

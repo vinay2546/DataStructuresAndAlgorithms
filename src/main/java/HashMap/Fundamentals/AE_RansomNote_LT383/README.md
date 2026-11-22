@@ -1,6 +1,6 @@
-# RansomNote — 383
+# Ransom Note — 383
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Fundamentals  
 **LeetCode:** #383  
 **Status:** Not Started

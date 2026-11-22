@@ -1,15 +1,13 @@
-# 1110. Delete Nodes And Return Forest
+# Delete Nodes And Return Forest — 1110
 
 **Data Structure:** Tree  
-**Pattern:** TransformationAndModification  
+**Pattern:** Transformation And Modification  
 **LeetCode:** #1110  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/delete-nodes-and-return-forest/
-- Difficulty: Medium
-- Topics: Array, Hash Table, Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

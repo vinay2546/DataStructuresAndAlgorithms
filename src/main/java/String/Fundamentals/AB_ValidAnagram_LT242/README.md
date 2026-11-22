@@ -1,4 +1,4 @@
-# ValidAnagram — 242
+# Valid Anagram — 242
 
 **Data Structure:** String  
 **Pattern:** Fundamentals  

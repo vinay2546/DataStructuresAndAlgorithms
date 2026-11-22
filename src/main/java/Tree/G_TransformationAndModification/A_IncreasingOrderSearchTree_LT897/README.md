@@ -1,15 +1,13 @@
-# 897. Increasing Order Search Tree
+# Increasing Order Search Tree — 897
 
 **Data Structure:** Tree  
-**Pattern:** TransformationAndModification  
+**Pattern:** Transformation And Modification  
 **LeetCode:** #897  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/increasing-order-search-tree/
-- Difficulty: Easy
-- Topics: Stack, Tree, Depth-First Search, Binary Search Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 1059. All Paths from Source Lead to Destination
+# All Paths From Source Lead To Destination — 1059
 
 **Data Structure:** Graph  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #1059  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/all-paths-from-source-lead-to-destination/
-- Difficulty: Medium
-- Topics: Graph Theory, Topological Sort, Kosaraju's Algorithm, Tarjan's SCC Algorithm
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

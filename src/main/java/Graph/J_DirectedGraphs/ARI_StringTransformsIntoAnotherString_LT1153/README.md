@@ -1,15 +1,13 @@
-# 1153. String Transforms Into Another String
+# String Transforms Into Another String — 1153
 
 **Data Structure:** Graph  
-**Pattern:** DirectedGraphs  
+**Pattern:** Directed Graphs  
 **LeetCode:** #1153  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/string-transforms-into-another-string/
-- Difficulty: Hard
-- Topics: Hash Table, String, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

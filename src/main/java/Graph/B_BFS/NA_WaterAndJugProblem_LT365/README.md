@@ -1,4 +1,4 @@
-# 365. Water and Jug Problem
+# Water And Jug Problem — 365
 
 **Data Structure:** Graph  
 **Pattern:** BFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/water-and-jug-problem/
-- Difficulty: Medium
-- Topics: Math, Depth-First Search, Breadth-First Search, Bézout's Lemma, Euclidean Algorithm, Greatest Common Divisor, Extended Euclidean Algorithm
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

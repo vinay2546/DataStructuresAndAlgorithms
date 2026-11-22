@@ -1,4 +1,4 @@
-# 01Matrix — 542
+# 01 Matrix — 542
 
 **Data Structure:** Queue  
 **Pattern:** BFS  

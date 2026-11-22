@@ -1,15 +1,13 @@
-# 3735. Lexicographically Smallest String After Reverse II
+# Lexicographically Smallest String After Reverse II — 3735
 
 **Data Structure:** Trie  
-**Pattern:** StringAlgorithms  
+**Pattern:** String Algorithms  
 **LeetCode:** #3735  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/
-- Difficulty: Hard
-- Topics: String, Binary Search, Rolling Hash, Suffix Array, Hash Function
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

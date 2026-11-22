@@ -1,15 +1,13 @@
-# 606. Construct String from Binary Tree
+# Construct String From Binary Tree — 606
 
 **Data Structure:** Tree  
-**Pattern:** ConstructionAndSerialization  
+**Pattern:** Construction And Serialization  
 **LeetCode:** #606  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/construct-string-from-binary-tree/
-- Difficulty: Medium
-- Topics: String, Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 2973. Find Number of Coins to Place in Tree Nodes
+# Find Number Of Coins To Place In Tree Nodes — 2973
 
 **Data Structure:** Tree  
-**Pattern:** GreedyAndOptimization  
+**Pattern:** Greedy And Optimization  
 **LeetCode:** #2973  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes/
-- Difficulty: Hard
-- Topics: Dynamic Programming, Tree, Depth-First Search, Sorting, Heap (Priority Queue), DP on Trees
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

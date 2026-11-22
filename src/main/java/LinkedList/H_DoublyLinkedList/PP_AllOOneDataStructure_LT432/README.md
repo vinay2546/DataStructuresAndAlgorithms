@@ -1,7 +1,7 @@
 # All OOne Data Structure — 432
 
-**Data Structure:** LinkedList  
-**Pattern:** DoublyLinkedList  
+**Data Structure:** Linked List  
+**Pattern:** Doubly Linked List  
 **LeetCode:** #432  
 **Status:** Not Started
 

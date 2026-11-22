@@ -1,7 +1,7 @@
 # Split Linked List In Parts — 725
 
-**Data Structure:** LinkedList  
-**Pattern:** MergeAndPartition  
+**Data Structure:** Linked List  
+**Pattern:** Merge And Partition  
 **LeetCode:** #725  
 **Status:** Not Started
 

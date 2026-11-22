@@ -1,15 +1,13 @@
-# 3068. Find the Maximum Sum of Node Values
+# Find The Maximum Sum Of Node Values — 3068
 
 **Data Structure:** Tree  
-**Pattern:** GreedyAndOptimization  
+**Pattern:** Greedy And Optimization  
 **LeetCode:** #3068  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-the-maximum-sum-of-node-values/
-- Difficulty: Hard
-- Topics: Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

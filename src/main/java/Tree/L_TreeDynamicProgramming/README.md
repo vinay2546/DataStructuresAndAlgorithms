@@ -1,9 +1,16 @@
-# TreeDynamicProgramming
+# Tree Dynamic Programming
 
-Include/exclude states, tree DP, rerooting and multi-state DFS.
+## Overview
 
-## Study Goal
-Master the recognition pattern, then solve the problems using core tree traversal and recursion templates.
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — L_TreeDynamicProgramming
@@ -18,15 +25,15 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [1339. Maximum Product of Splitted Binary Tree](A_MaximumProductOfSplittedBinaryTree_LT1339/README.md) | #1339 | ⬜ Not Started |
-| [1530. Number of Good Leaf Nodes Pairs](B_NumberOfGoodLeafNodesPairs_LT1530/README.md) | #1530 | ⬜ Not Started |
-| [1916. Count Ways to Build Rooms in an Ant Colony](C_CountWaysToBuildRoomsInAnAntColony_LT1916/README.md) | #1916 | ⬜ Not Started |
-| [1973. Count Nodes Equal to Sum of Descendants](D_CountNodesEqualToSumOfDescendants_LT1973/README.md) | #1973 | ⬜ Not Started |
-| [2005. Subtree Removal Game with Fibonacci Tree](E_SubtreeRemovalGameWithFibonacciTree_LT2005/README.md) | #2005 | ⬜ Not Started |
-| [2313. Minimum Flips in Binary Tree to Get Result](F_MinimumFlipsInBinaryTreeToGetResult_LT2313/README.md) | #2313 | ⬜ Not Started |
-| [3575. Maximum Good Subtree Score](G_MaximumGoodSubtreeScore_LT3575/README.md) | #3575 | ⬜ Not Started |
-| [3772. Maximum Subgraph Score in a Tree](H_MaximumSubgraphScoreInATree_LT3772/README.md) | #3772 | ⬜ Not Started |
-| [3939. Count Non Adjacent Subsets in a Rooted Tree](I_CountNonAdjacentSubsetsInARootedTree_LT3939/README.md) | #3939 | ⬜ Not Started |
+| [Maximum Product Of Splitted Binary Tree — 1339](A_MaximumProductOfSplittedBinaryTree_LT1339/README.md) | #1339 | ⬜ Not Started |
+| [Number Of Good Leaf Nodes Pairs — 1530](B_NumberOfGoodLeafNodesPairs_LT1530/README.md) | #1530 | ⬜ Not Started |
+| [Count Ways To Build Rooms In An Ant Colony — 1916](C_CountWaysToBuildRoomsInAnAntColony_LT1916/README.md) | #1916 | ⬜ Not Started |
+| [Count Nodes Equal To Sum Of Descendants — 1973](D_CountNodesEqualToSumOfDescendants_LT1973/README.md) | #1973 | ⬜ Not Started |
+| [Subtree Removal Game With Fibonacci Tree — 2005](E_SubtreeRemovalGameWithFibonacciTree_LT2005/README.md) | #2005 | ⬜ Not Started |
+| [Minimum Flips In Binary Tree To Get Result — 2313](F_MinimumFlipsInBinaryTreeToGetResult_LT2313/README.md) | #2313 | ⬜ Not Started |
+| [Maximum Good Subtree Score — 3575](G_MaximumGoodSubtreeScore_LT3575/README.md) | #3575 | ⬜ Not Started |
+| [Maximum Subgraph Score In ATree — 3772](H_MaximumSubgraphScoreInATree_LT3772/README.md) | #3772 | ⬜ Not Started |
+| [Count Non Adjacent Subsets In ARooted Tree — 3939](I_CountNonAdjacentSubsetsInARootedTree_LT3939/README.md) | #3939 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

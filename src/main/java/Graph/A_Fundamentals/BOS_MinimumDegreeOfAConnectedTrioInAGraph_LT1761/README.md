@@ -1,4 +1,4 @@
-# 1761. Minimum Degree of a Connected Trio in a Graph
+# Minimum Degree Of AConnected Trio In AGraph — 1761
 
 **Data Structure:** Graph  
 **Pattern:** Fundamentals  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/
-- Difficulty: Hard
-- Topics: Graph Theory, Enumeration
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

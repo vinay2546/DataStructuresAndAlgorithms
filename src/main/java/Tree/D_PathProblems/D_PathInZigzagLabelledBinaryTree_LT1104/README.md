@@ -1,15 +1,13 @@
-# 1104. Path In Zigzag Labelled Binary Tree
+# Path In Zigzag Labelled Binary Tree — 1104
 
 **Data Structure:** Tree  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #1104  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/
-- Difficulty: Medium
-- Topics: Math, Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

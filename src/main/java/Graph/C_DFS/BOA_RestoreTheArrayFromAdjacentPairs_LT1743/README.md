@@ -1,4 +1,4 @@
-# 1743. Restore the Array From Adjacent Pairs
+# Restore The Array From Adjacent Pairs — 1743
 
 **Data Structure:** Graph  
 **Pattern:** DFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
-- Difficulty: Medium
-- Topics: Array, Hash Table, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

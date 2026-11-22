@@ -1,4 +1,4 @@
-# 2471. Minimum Number Of Operations To Sort ABinary Tree By Level
+# Minimum Number Of Operations To Sort ABinary Tree By Level — 2471
 
 **Data Structure:** Tree  
 **Pattern:** BFS  
@@ -7,41 +7,21 @@
 
 ## Problem
 
-[LeetCode 2471](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/)
+Add the problem statement or LeetCode link here.
 
 ## Approach
 
-Implementation not added yet. The folder is ready for the solution.
+Add a brief explanation of the chosen approach.
 
 ## Algorithm
 
-1. Traverse the tree using breadth-first traversal.
-2. Apply the problem-specific condition or aggregation.
-3. Return the required result.
+1. Add the solution steps.
 
 ## Complexity
 
-- **Time:** —
-- **Space:** —
+- **Time:** Add time complexity.
+- **Space:** Add space complexity.
 
 ## Solution
 
 See [Solution.java](./Solution.java).
-
----
-
-**Problem Order:** BK
-
-## Additional Notes
-
-### Status
-
-**Placeholder**
-
-### Data Structure
-
-**Tree**
-
-### Pattern
-
-**BFS — Breadth-First Search**

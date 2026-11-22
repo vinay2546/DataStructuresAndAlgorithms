@@ -1,6 +1,6 @@
 # Swap Nodes In Pairs — 24
 
-**Data Structure:** LinkedList  
+**Data Structure:** Linked List  
 **Pattern:** Reversal  
 **LeetCode:** #24  
 **Status:** Not Started

@@ -1,15 +1,13 @@
-# 1676. Lowest Common Ancestor of a Binary Tree IV
+# Lowest Common Ancestor Of ABinary Tree IV — 1676
 
 **Data Structure:** Tree  
-**Pattern:** AncestorsAndDistance  
+**Pattern:** Ancestors And Distance  
 **LeetCode:** #1676  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/
-- Difficulty: Medium
-- Topics: Hash Table, Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,4 +1,4 @@
-# NQueensII — 52
+# NQueens II — 52
 
 **Data Structure:** Matrix  
 **Pattern:** Advanced  

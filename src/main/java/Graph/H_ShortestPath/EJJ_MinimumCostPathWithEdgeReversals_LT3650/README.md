@@ -1,15 +1,13 @@
-# 3650. Minimum Cost Path with Edge Reversals
+# Minimum Cost Path With Edge Reversals — 3650
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #3650  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/
-- Difficulty: Medium
-- Topics: Graph Theory, Heap (Priority Queue), Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

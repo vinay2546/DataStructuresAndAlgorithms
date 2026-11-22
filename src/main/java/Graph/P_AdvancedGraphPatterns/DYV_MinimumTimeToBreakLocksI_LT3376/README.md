@@ -1,15 +1,13 @@
-# 3376. Minimum Time to Break Locks I
+# Minimum Time To Break Locks I — 3376
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3376  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-time-to-break-locks-i/
-- Difficulty: Medium
-- Topics: Array, Dynamic Programming, Backtracking, Bit Manipulation, Breadth-First Search, Bitmask
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

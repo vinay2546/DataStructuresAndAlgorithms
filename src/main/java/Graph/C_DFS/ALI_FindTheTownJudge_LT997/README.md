@@ -1,4 +1,4 @@
-# 997. Find the Town Judge
+# Find The Town Judge — 997
 
 **Data Structure:** Graph  
 **Pattern:** DFS  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-the-town-judge/
-- Difficulty: Easy
-- Topics: Array, Hash Table, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 2714. Find Shortest Path with K Hops
+# Find Shortest Path With KHops — 2714
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #2714  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-shortest-path-with-k-hops/
-- Difficulty: Hard
-- Topics: Graph Theory, Heap (Priority Queue), Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

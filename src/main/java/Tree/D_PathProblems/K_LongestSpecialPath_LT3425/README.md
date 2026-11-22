@@ -1,15 +1,13 @@
-# 3425. Longest Special Path
+# Longest Special Path — 3425
 
 **Data Structure:** Tree  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #3425  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/longest-special-path/
-- Difficulty: Hard
-- Topics: Array, Hash Table, Tree, Depth-First Search, Prefix Sum
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

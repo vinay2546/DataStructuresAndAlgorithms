@@ -1,7 +1,7 @@
 # Insert Into ASorted Circular Linked List — 708
 
-**Data Structure:** LinkedList  
-**Pattern:** CircularLinkedList  
+**Data Structure:** Linked List  
+**Pattern:** Circular Linked List  
 **LeetCode:** #708  
 **Status:** Not Started
 

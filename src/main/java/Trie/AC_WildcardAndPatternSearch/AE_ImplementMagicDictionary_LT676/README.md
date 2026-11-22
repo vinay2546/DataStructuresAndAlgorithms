@@ -1,7 +1,7 @@
-# ImplementMagicDictionary — 676
+# Implement Magic Dictionary — 676
 
 **Data Structure:** Trie  
-**Pattern:** PrefixSearch  
+**Pattern:** Wildcard And Pattern Search  
 **LeetCode:** #676  
 **Status:** Not Started
 

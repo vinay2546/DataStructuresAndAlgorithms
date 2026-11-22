@@ -1,15 +1,13 @@
-# 1932. Merge BSTs to Create Single BST
+# Merge BSTs To Create Single BST — 1932
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #1932  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/merge-bsts-to-create-single-bst/
-- Difficulty: Hard
-- Topics: Array, Hash Table, Tree, Depth-First Search, Binary Search Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

@@ -1,15 +1,13 @@
-# 1719. Number Of Ways To Reconstruct A Tree
+# Number Of Ways To Reconstruct ATree — 1719
 
 **Data Structure:** Tree  
-**Pattern:** ConstructionAndSerialization  
+**Pattern:** Construction And Serialization  
 **LeetCode:** #1719  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/
-- Difficulty: Hard
-- Topics: Array, Hash Table, Tree, Graph Theory, Simulation
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

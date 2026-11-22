@@ -1,15 +1,13 @@
-# 1993. Operations on Tree
+# Operations On Tree — 1993
 
 **Data Structure:** Tree  
-**Pattern:** TreeDesignAndImplementation  
+**Pattern:** Tree Design And Implementation  
 **LeetCode:** #1993  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/operations-on-tree/
-- Difficulty: Medium
-- Topics: Array, Hash Table, Tree, Depth-First Search, Breadth-First Search, Design
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

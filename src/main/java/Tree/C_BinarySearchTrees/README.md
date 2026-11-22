@@ -1,9 +1,16 @@
-# BinarySearchTrees
+# Binary Search Trees
 
-BST invariants, search, insertion/deletion, validation, inorder, predecessor/successor and transformations.
+## Overview
 
-## Study Goal
-Master the recognition pattern, then solve the problems using core tree traversal and recursion templates.
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — C_BinarySearchTrees
@@ -18,30 +25,30 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [95. Unique Binary Search Trees II](A_UniqueBinarySearchTreesII_LT95/README.md) | #95 | ⬜ Not Started |
-| [96. Unique Binary Search Trees](B_UniqueBinarySearchTrees_LT96/README.md) | #96 | ⬜ Not Started |
-| [173. Binary Search Tree Iterator](C_BinarySearchTreeIterator_LT173/README.md) | #173 | ⬜ Not Started |
-| [255. Verify Preorder Sequence in Binary Search Tree](D_VerifyPreorderSequenceInBinarySearchTree_LT255/README.md) | #255 | ⬜ Not Started |
-| [270. Closest Binary Search Tree Value](E_ClosestBinarySearchTreeValue_LT270/README.md) | #270 | ⬜ Not Started |
-| [272. Closest Binary Search Tree Value II](F_ClosestBinarySearchTreeValueII_LT272/README.md) | #272 | ⬜ Not Started |
-| [285. Inorder Successor in BST](G_InorderSuccessorInBST_LT285/README.md) | #285 | ⬜ Not Started |
-| [333. Largest BST Subtree](H_LargestBSTSubtree_LT333/README.md) | #333 | ⬜ Not Started |
-| [449. Serialize and Deserialize BST](I_SerializeAndDeserializeBST_LT449/README.md) | #449 | ⬜ Not Started |
-| [501. Find Mode in Binary Search Tree](J_FindModeInBinarySearchTree_LT501/README.md) | #501 | ⬜ Not Started |
-| [510. Inorder Successor in BST II](K_InorderSuccessorInBSTII_LT510/README.md) | #510 | ⬜ Not Started |
-| [653. Two Sum IV - Input is a BST](L_TwoSumIVInputIsABST_LT653/README.md) | #653 | ⬜ Not Started |
-| [776. Split BST](M_SplitBST_LT776/README.md) | #776 | ⬜ Not Started |
-| [783. Minimum Distance Between BST Nodes](N_MinimumDistanceBetweenBSTNodes_LT783/README.md) | #783 | ⬜ Not Started |
-| [1038. Binary Search Tree to Greater Sum Tree](O_BinarySearchTreeToGreaterSumTree_LT1038/README.md) | #1038 | ⬜ Not Started |
-| [1214. Two Sum BSTs](P_TwoSumBSTs_LT1214/README.md) | #1214 | ⬜ Not Started |
-| [1305. All Elements in Two Binary Search Trees](Q_AllElementsInTwoBinarySearchTrees_LT1305/README.md) | #1305 | ⬜ Not Started |
-| [1382. Balance a Binary Search Tree](R_BalanceABinarySearchTree_LT1382/README.md) | #1382 | ⬜ Not Started |
-| [1569. Number of Ways to Reorder Array to Get Same BST](S_NumberOfWaysToReorderArrayToGetSameBST_LT1569/README.md) | #1569 | ⬜ Not Started |
-| [1586. Binary Search Tree Iterator II](T_BinarySearchTreeIteratorII_LT1586/README.md) | #1586 | ⬜ Not Started |
-| [1902. Depth of BST Given Insertion Order](U_DepthOfBSTGivenInsertionOrder_LT1902/README.md) | #1902 | ⬜ Not Started |
-| [1932. Merge BSTs to Create Single BST](V_MergeBSTsToCreateSingleBST_LT1932/README.md) | #1932 | ⬜ Not Started |
-| [2764. Is Array a Preorder of Some ‌Binary Tree](W_IsArrayAPreorderOfSomeBinaryTree_LT2764/README.md) | #2764 | ⬜ Not Started |
-| [3831. Median of a Binary Search Tree Level](X_MedianOfABinarySearchTreeLevel_LT3831/README.md) | #3831 | ⬜ Not Started |
+| [Unique Binary Search Trees II — 95](A_UniqueBinarySearchTreesII_LT95/README.md) | #95 | ⬜ Not Started |
+| [Unique Binary Search Trees — 96](B_UniqueBinarySearchTrees_LT96/README.md) | #96 | ⬜ Not Started |
+| [Binary Search Tree Iterator — 173](C_BinarySearchTreeIterator_LT173/README.md) | #173 | ⬜ Not Started |
+| [Verify Preorder Sequence In Binary Search Tree — 255](D_VerifyPreorderSequenceInBinarySearchTree_LT255/README.md) | #255 | ⬜ Not Started |
+| [Closest Binary Search Tree Value — 270](E_ClosestBinarySearchTreeValue_LT270/README.md) | #270 | ⬜ Not Started |
+| [Closest Binary Search Tree Value II — 272](F_ClosestBinarySearchTreeValueII_LT272/README.md) | #272 | ⬜ Not Started |
+| [Inorder Successor In BST — 285](G_InorderSuccessorInBST_LT285/README.md) | #285 | ⬜ Not Started |
+| [Largest BSTSubtree — 333](H_LargestBSTSubtree_LT333/README.md) | #333 | ⬜ Not Started |
+| [Serialize And Deserialize BST — 449](I_SerializeAndDeserializeBST_LT449/README.md) | #449 | ⬜ Not Started |
+| [Find Mode In Binary Search Tree — 501](J_FindModeInBinarySearchTree_LT501/README.md) | #501 | ⬜ Not Started |
+| [Inorder Successor In BSTII — 510](K_InorderSuccessorInBSTII_LT510/README.md) | #510 | ⬜ Not Started |
+| [Two Sum IVInput Is ABST — 653](L_TwoSumIVInputIsABST_LT653/README.md) | #653 | ⬜ Not Started |
+| [Split BST — 776](M_SplitBST_LT776/README.md) | #776 | ⬜ Not Started |
+| [Minimum Distance Between BSTNodes — 783](N_MinimumDistanceBetweenBSTNodes_LT783/README.md) | #783 | ⬜ Not Started |
+| [Binary Search Tree To Greater Sum Tree — 1038](O_BinarySearchTreeToGreaterSumTree_LT1038/README.md) | #1038 | ⬜ Not Started |
+| [Two Sum BSTs — 1214](P_TwoSumBSTs_LT1214/README.md) | #1214 | ⬜ Not Started |
+| [All Elements In Two Binary Search Trees — 1305](Q_AllElementsInTwoBinarySearchTrees_LT1305/README.md) | #1305 | ⬜ Not Started |
+| [Balance ABinary Search Tree — 1382](R_BalanceABinarySearchTree_LT1382/README.md) | #1382 | ⬜ Not Started |
+| [Number Of Ways To Reorder Array To Get Same BST — 1569](S_NumberOfWaysToReorderArrayToGetSameBST_LT1569/README.md) | #1569 | ⬜ Not Started |
+| [Binary Search Tree Iterator II — 1586](T_BinarySearchTreeIteratorII_LT1586/README.md) | #1586 | ⬜ Not Started |
+| [Depth Of BSTGiven Insertion Order — 1902](U_DepthOfBSTGivenInsertionOrder_LT1902/README.md) | #1902 | ⬜ Not Started |
+| [Merge BSTs To Create Single BST — 1932](V_MergeBSTsToCreateSingleBST_LT1932/README.md) | #1932 | ⬜ Not Started |
+| [Is Array APreorder Of Some Binary Tree — 2764](W_IsArrayAPreorderOfSomeBinaryTree_LT2764/README.md) | #2764 | ⬜ Not Started |
+| [Median Of ABinary Search Tree Level — 3831](X_MedianOfABinarySearchTreeLevel_LT3831/README.md) | #3831 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

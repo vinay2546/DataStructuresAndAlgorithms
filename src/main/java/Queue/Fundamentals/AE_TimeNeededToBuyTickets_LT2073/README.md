@@ -1,4 +1,4 @@
-# TimeNeededToBuyTickets — 2073
+# Time Needed To Buy Tickets — 2073
 
 **Data Structure:** Queue  
 **Pattern:** Fundamentals  

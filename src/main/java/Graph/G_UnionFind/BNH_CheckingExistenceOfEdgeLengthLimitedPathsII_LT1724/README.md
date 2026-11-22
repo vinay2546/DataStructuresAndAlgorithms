@@ -1,15 +1,13 @@
-# 1724. Checking Existence of Edge Length Limited Paths II
+# Checking Existence Of Edge Length Limited Paths II — 1724
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #1724  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/
-- Difficulty: Hard
-- Topics: Depth-First Search, Union-Find, Graph Theory, Design, Sorting, Heap (Priority Queue), Minimum Spanning Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

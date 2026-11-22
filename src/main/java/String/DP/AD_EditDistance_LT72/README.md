@@ -1,4 +1,4 @@
-# EditDistance — 72
+# Edit Distance — 72
 
 **Data Structure:** String  
 **Pattern:** DP  

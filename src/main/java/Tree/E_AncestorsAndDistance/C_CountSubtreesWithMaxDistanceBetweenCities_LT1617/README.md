@@ -1,15 +1,13 @@
-# 1617. Count Subtrees With Max Distance Between Cities
+# Count Subtrees With Max Distance Between Cities — 1617
 
 **Data Structure:** Tree  
-**Pattern:** AncestorsAndDistance  
+**Pattern:** Ancestors And Distance  
 **LeetCode:** #1617  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/
-- Difficulty: Hard
-- Topics: Dynamic Programming, Bit Manipulation, Tree, Enumeration, Bitmask
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

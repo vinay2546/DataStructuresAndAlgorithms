@@ -1,7 +1,7 @@
 # Merge KSorted Lists — 23
 
-**Data Structure:** LinkedList  
-**Pattern:** MergeAndPartition  
+**Data Structure:** Linked List  
+**Pattern:** Merge And Partition  
 **LeetCode:** #23  
 **Status:** Not Started
 

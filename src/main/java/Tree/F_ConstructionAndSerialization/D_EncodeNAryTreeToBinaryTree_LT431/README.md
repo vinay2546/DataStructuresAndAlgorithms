@@ -1,15 +1,13 @@
-# 431. Encode N-ary Tree to Binary Tree
+# Encode NAry Tree To Binary Tree — 431
 
 **Data Structure:** Tree  
-**Pattern:** ConstructionAndSerialization  
+**Pattern:** Construction And Serialization  
 **LeetCode:** #431  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/
-- Difficulty: Hard
-- Topics: Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

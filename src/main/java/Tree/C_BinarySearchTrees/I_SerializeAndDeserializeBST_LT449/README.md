@@ -1,15 +1,13 @@
-# 449. Serialize and Deserialize BST
+# Serialize And Deserialize BST — 449
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #449  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/serialize-and-deserialize-bst/
-- Difficulty: Medium
-- Topics: String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Search Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

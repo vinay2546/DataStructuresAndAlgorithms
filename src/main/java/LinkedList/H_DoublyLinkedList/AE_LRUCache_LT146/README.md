@@ -1,7 +1,7 @@
 # LRUCache — 146
 
-**Data Structure:** LinkedList  
-**Pattern:** DoublyLinkedList  
+**Data Structure:** Linked List  
+**Pattern:** Doubly Linked List  
 **LeetCode:** #146  
 **Status:** Not Started
 

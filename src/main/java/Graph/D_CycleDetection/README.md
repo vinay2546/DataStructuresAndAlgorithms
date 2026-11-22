@@ -1,11 +1,16 @@
-# 04_CycleDetection
+# Cycle Detection
 
-Cycle detection in directed and undirected graphs, back edges, and structural cycle reasoning.
+## Overview
 
+Add a concise overview of this section.
 
-## Learning Focus
+## Contents
 
-Problems are grouped by their primary technique. Secondary patterns should be documented in individual problem READMEs instead of creating duplicate problem folders.
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — D_CycleDetection
@@ -20,12 +25,12 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [CriticalConnectionsInANetwork — 1192](AA_CriticalConnectionsInANetwork_LT1192/README.md) | #1192 | ⬜ Not Started |
-| [2204. Distance to a Cycle in Undirected Graph](CFT_DistanceToACycleInUndirectedGraph_LT2204/README.md) | #2204 | ⬜ Not Started |
-| [2360. Longest Cycle in a Graph](CLT_LongestCycleInAGraph_LT2360/README.md) | #2360 | ⬜ Not Started |
-| [2608. Shortest Cycle in a Graph](CVH_ShortestCycleInAGraph_LT2608/README.md) | #2608 | ⬜ Not Started |
-| [3887. Incremental Even-Weighted Cycle Queries](ESM_IncrementalEvenWeightedCycleQueries_LT3887/README.md) | #3887 | ⬜ Not Started |
-| [685. Redundant Connection II](ZI_RedundantConnectionII_LT685/README.md) | #685 | ⬜ Not Started |
+| [Critical Connections In ANetwork — 1192](AA_CriticalConnectionsInANetwork_LT1192/README.md) | #1192 | ⬜ Not Started |
+| [Distance To ACycle In Undirected Graph — 2204](CFT_DistanceToACycleInUndirectedGraph_LT2204/README.md) | #2204 | ⬜ Not Started |
+| [Longest Cycle In AGraph — 2360](CLT_LongestCycleInAGraph_LT2360/README.md) | #2360 | ⬜ Not Started |
+| [Shortest Cycle In AGraph — 2608](CVH_ShortestCycleInAGraph_LT2608/README.md) | #2608 | ⬜ Not Started |
+| [Incremental Even Weighted Cycle Queries — 3887](ESM_IncrementalEvenWeightedCycleQueries_LT3887/README.md) | #3887 | ⬜ Not Started |
+| [Redundant Connection II — 685](ZI_RedundantConnectionII_LT685/README.md) | #685 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

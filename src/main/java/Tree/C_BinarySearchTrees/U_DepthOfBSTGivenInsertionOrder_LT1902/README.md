@@ -1,15 +1,13 @@
-# 1902. Depth of BST Given Insertion Order
+# Depth Of BSTGiven Insertion Order — 1902
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #1902  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/depth-of-bst-given-insertion-order/
-- Difficulty: Medium
-- Topics: Array, Tree, Binary Search Tree, Binary Tree, Ordered Set
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

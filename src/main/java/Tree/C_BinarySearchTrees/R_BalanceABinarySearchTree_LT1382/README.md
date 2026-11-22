@@ -1,15 +1,13 @@
-# 1382. Balance a Binary Search Tree
+# Balance ABinary Search Tree — 1382
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #1382  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/balance-a-binary-search-tree/
-- Difficulty: Medium
-- Topics: Divide and Conquer, Greedy, Tree, Depth-First Search, Binary Search Tree, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

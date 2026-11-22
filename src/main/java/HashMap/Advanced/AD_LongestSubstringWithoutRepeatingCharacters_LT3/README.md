@@ -1,6 +1,6 @@
-# LongestSubstringWithoutRepeatingCharacters — 3
+# Longest Substring Without Repeating Characters — 3
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Advanced  
 **LeetCode:** #3  
 **Status:** Not Started

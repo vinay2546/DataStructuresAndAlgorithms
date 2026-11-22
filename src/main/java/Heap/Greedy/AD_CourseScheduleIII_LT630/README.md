@@ -1,4 +1,4 @@
-# CourseScheduleIII — 630
+# Course Schedule III — 630
 
 **Data Structure:** Heap  
 **Pattern:** Greedy  

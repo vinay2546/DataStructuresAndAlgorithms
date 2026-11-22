@@ -1,6 +1,6 @@
-# MajorityElement — 169
+# Majority Element — 169
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Frequency  
 **LeetCode:** #169  
 **Status:** Not Started

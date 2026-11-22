@@ -1,15 +1,13 @@
-# 2382. Maximum Segment Sum After Removals
+# Maximum Segment Sum After Removals — 2382
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #2382  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-segment-sum-after-removals/
-- Difficulty: Hard
-- Topics: Array, Union-Find, Prefix Sum, Ordered Set
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

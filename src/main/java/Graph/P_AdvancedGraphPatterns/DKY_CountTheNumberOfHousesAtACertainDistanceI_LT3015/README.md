@@ -1,15 +1,13 @@
-# 3015. Count the Number of Houses at a Certain Distance I
+# Count The Number Of Houses At ACertain Distance I — 3015
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #3015  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i/
-- Difficulty: Medium
-- Topics: Breadth-First Search, Graph Theory, Prefix Sum
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

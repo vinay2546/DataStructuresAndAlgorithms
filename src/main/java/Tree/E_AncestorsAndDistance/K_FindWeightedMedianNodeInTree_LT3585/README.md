@@ -1,15 +1,13 @@
-# 3585. Find Weighted Median Node in Tree
+# Find Weighted Median Node In Tree — 3585
 
 **Data Structure:** Tree  
-**Pattern:** AncestorsAndDistance  
+**Pattern:** Ancestors And Distance  
 **LeetCode:** #3585  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-weighted-median-node-in-tree/
-- Difficulty: Hard
-- Topics: Array, Binary Search, Dynamic Programming, Bit Manipulation, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

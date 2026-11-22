@@ -1,9 +1,16 @@
-# TransformationAndModification
+# Transformation And Modification
 
-Invert, merge, flatten, prune, add/delete, re-root, move and correct structure.
+## Overview
 
-## Study Goal
-Master the recognition pattern, then solve the problems using core tree traversal and recursion templates.
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — G_TransformationAndModification
@@ -18,14 +25,14 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [897. Increasing Order Search Tree](A_IncreasingOrderSearchTree_LT897/README.md) | #897 | ⬜ Not Started |
-| [971. Flip Binary Tree To Match Preorder Traversal](B_FlipBinaryTreeToMatchPreorderTraversal_LT971/README.md) | #971 | ⬜ Not Started |
-| [1110. Delete Nodes And Return Forest](C_DeleteNodesAndReturnForest_LT1110/README.md) | #1110 | ⬜ Not Started |
-| [1666. Change the Root of a Binary Tree](D_ChangeTheRootOfABinaryTree_LT1666/README.md) | #1666 | ⬜ Not Started |
-| [2415. Reverse Odd Levels of Binary Tree](E_ReverseOddLevelsOfBinaryTree_LT2415/README.md) | #2415 | ⬜ Not Started |
-| [2445. Number of Nodes With Value One](F_NumberOfNodesWithValueOne_LT2445/README.md) | #2445 | ⬜ Not Started |
-| [3004. Maximum Subtree of the Same Color](G_MaximumSubtreeOfTheSameColor_LT3004/README.md) | #3004 | ⬜ Not Started |
-| [3812. Minimum Edge Toggles on a Tree](H_MinimumEdgeTogglesOnATree_LT3812/README.md) | #3812 | ⬜ Not Started |
+| [Increasing Order Search Tree — 897](A_IncreasingOrderSearchTree_LT897/README.md) | #897 | ⬜ Not Started |
+| [Flip Binary Tree To Match Preorder Traversal — 971](B_FlipBinaryTreeToMatchPreorderTraversal_LT971/README.md) | #971 | ⬜ Not Started |
+| [Delete Nodes And Return Forest — 1110](C_DeleteNodesAndReturnForest_LT1110/README.md) | #1110 | ⬜ Not Started |
+| [Change The Root Of ABinary Tree — 1666](D_ChangeTheRootOfABinaryTree_LT1666/README.md) | #1666 | ⬜ Not Started |
+| [Reverse Odd Levels Of Binary Tree — 2415](E_ReverseOddLevelsOfBinaryTree_LT2415/README.md) | #2415 | ⬜ Not Started |
+| [Number Of Nodes With Value One — 2445](F_NumberOfNodesWithValueOne_LT2445/README.md) | #2445 | ⬜ Not Started |
+| [Maximum Subtree Of The Same Color — 3004](G_MaximumSubtreeOfTheSameColor_LT3004/README.md) | #3004 | ⬜ Not Started |
+| [Minimum Edge Toggles On ATree — 3812](H_MinimumEdgeTogglesOnATree_LT3812/README.md) | #3812 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

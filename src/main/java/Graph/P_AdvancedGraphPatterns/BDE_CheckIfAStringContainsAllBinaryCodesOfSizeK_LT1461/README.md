@@ -1,15 +1,13 @@
-# 1461. Check If a String Contains All Binary Codes of Size K
+# Check If AString Contains All Binary Codes Of Size K — 1461
 
 **Data Structure:** Graph  
-**Pattern:** AdvancedGraphPatterns  
+**Pattern:** Advanced Graph Patterns  
 **LeetCode:** #1461  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
-- Difficulty: Medium
-- Topics: Hash Table, String, Bit Manipulation, Rolling Hash, Hash Function, Directed Acyclic Graph
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

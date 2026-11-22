@@ -1,15 +1,13 @@
-# 3558. Number of Ways to Assign Edge Weights I
+# Number Of Ways To Assign Edge Weights I — 3558
 
 **Data Structure:** Tree  
-**Pattern:** AdvancedTreeTechniques  
+**Pattern:** Advanced Tree Techniques  
 **LeetCode:** #3558  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/
-- Difficulty: Medium
-- Topics: Math, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

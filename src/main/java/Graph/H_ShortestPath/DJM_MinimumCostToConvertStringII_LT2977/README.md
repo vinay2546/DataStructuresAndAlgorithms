@@ -1,15 +1,13 @@
-# 2977. Minimum Cost to Convert String II
+# Minimum Cost To Convert String II — 2977
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #2977  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/minimum-cost-to-convert-string-ii/
-- Difficulty: Hard
-- Topics: Array, String, Dynamic Programming, Graph Theory, Trie, Shortest Path
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

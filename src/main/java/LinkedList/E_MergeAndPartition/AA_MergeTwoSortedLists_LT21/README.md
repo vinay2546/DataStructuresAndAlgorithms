@@ -1,7 +1,7 @@
 # Merge Two Sorted Lists — 21
 
-**Data Structure:** LinkedList  
-**Pattern:** MergeAndPartition  
+**Data Structure:** Linked List  
+**Pattern:** Merge And Partition  
 **LeetCode:** #21  
 **Status:** Not Started
 

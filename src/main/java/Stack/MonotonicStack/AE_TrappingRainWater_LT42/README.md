@@ -1,4 +1,4 @@
-# TrappingRainWater — 42
+# Trapping Rain Water — 42
 
 **Data Structure:** Stack  
 **Pattern:** Monotonic Stack  

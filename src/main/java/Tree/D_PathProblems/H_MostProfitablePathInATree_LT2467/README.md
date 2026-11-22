@@ -1,15 +1,13 @@
-# 2467. Most Profitable Path in a Tree
+# Most Profitable Path In ATree — 2467
 
 **Data Structure:** Tree  
-**Pattern:** PathProblems  
+**Pattern:** Path Problems  
 **LeetCode:** #2467  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/most-profitable-path-in-a-tree/
-- Difficulty: Medium
-- Topics: Array, Tree, Depth-First Search, Breadth-First Search, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

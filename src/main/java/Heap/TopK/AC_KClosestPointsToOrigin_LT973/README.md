@@ -1,7 +1,7 @@
-# KClosestPointsToOrigin — 973
+# KClosest Points To Origin — 973
 
 **Data Structure:** Heap  
-**Pattern:** TopK  
+**Pattern:** Top K  
 **LeetCode:** #973  
 **Status:** Not Started
 

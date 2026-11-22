@@ -1,4 +1,4 @@
-# LongestPalindromicSubstring — 5
+# Longest Palindromic Substring — 5
 
 **Data Structure:** String  
 **Pattern:** DP  

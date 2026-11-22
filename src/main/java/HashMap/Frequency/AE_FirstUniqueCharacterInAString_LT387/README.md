@@ -1,6 +1,6 @@
-# FirstUniqueCharacterInAString — 387
+# First Unique Character In AString — 387
 
-**Data Structure:** HashMap  
+**Data Structure:** Hash Map  
 **Pattern:** Frequency  
 **LeetCode:** #387  
 **Status:** Not Started

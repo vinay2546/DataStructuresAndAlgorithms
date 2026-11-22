@@ -1,15 +1,13 @@
-# 3491. Phone Number Prefix
+# Phone Number Prefix — 3491
 
 **Data Structure:** Trie  
-**Pattern:** PrefixOperations  
+**Pattern:** Prefix Operations  
 **LeetCode:** #3491  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/phone-number-prefix/
-- Difficulty: Easy
-- Topics: Array, String, Trie, Sorting
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

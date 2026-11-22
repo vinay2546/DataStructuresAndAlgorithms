@@ -1,4 +1,4 @@
-# NextGreaterElementII — 503
+# Next Greater Element II — 503
 
 **Data Structure:** Stack  
 **Pattern:** Monotonic Stack  

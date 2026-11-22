@@ -1,6 +1,6 @@
-# DesignHashSet — 705
+# Design Hash Set — 705
 
-**Data Structure:** HashSet  
+**Data Structure:** Hash Set  
 **Pattern:** Advanced  
 **LeetCode:** #705  
 **Status:** Not Started

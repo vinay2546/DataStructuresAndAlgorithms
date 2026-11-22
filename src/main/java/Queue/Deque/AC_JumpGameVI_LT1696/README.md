@@ -1,4 +1,4 @@
-# JumpGameVI — 1696
+# Jump Game VI — 1696
 
 **Data Structure:** Queue  
 **Pattern:** Deque  

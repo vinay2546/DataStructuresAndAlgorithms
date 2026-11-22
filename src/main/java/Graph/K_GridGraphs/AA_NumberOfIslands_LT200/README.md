@@ -1,7 +1,7 @@
-# NumberOfIslands — 200
+# Number Of Islands — 200
 
 **Data Structure:** Graph  
-**Pattern:** DFS  
+**Pattern:** Grid Graphs  
 **LeetCode:** #200  
 **Status:** Not Started
 

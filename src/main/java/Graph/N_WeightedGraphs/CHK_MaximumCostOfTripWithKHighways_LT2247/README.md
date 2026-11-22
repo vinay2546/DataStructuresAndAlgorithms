@@ -1,15 +1,13 @@
-# 2247. Maximum Cost of Trip With K Highways
+# Maximum Cost Of Trip With KHighways — 2247
 
 **Data Structure:** Graph  
-**Pattern:** WeightedGraphs  
+**Pattern:** Weighted Graphs  
 **LeetCode:** #2247  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/
-- Difficulty: Hard
-- Topics: Dynamic Programming, Bit Manipulation, Graph Theory, Bitmask
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

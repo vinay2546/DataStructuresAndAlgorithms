@@ -1,4 +1,4 @@
-# 514. Freedom Trail
+# Freedom Trail — 514
 
 **Data Structure:** Graph  
 **Pattern:** Fundamentals  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/freedom-trail/
-- Difficulty: Hard
-- Topics: String, Dynamic Programming, Depth-First Search, Breadth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

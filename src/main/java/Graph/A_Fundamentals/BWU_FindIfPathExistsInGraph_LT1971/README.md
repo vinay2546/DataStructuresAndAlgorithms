@@ -1,4 +1,4 @@
-# 1971. Find if Path Exists in Graph
+# Find If Path Exists In Graph — 1971
 
 **Data Structure:** Graph  
 **Pattern:** Fundamentals  
@@ -7,9 +7,7 @@
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/find-if-path-exists-in-graph/
-- Difficulty: Easy
-- Topics: Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

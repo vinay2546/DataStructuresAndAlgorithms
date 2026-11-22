@@ -1,7 +1,7 @@
 # Insertion Sort List — 147
 
-**Data Structure:** LinkedList  
-**Pattern:** AdvancedPatterns  
+**Data Structure:** Linked List  
+**Pattern:** Advanced Patterns  
 **LeetCode:** #147  
 **Status:** Not Started
 

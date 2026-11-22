@@ -1,6 +1,16 @@
-# LinkedList / Two Pointers
+# Two Pointers
 
-Slow/fast pointers, positional gaps, and synchronized pointer techniques.
+## Overview
+
+Add a concise overview of this section.
+
+## Contents
+
+Add links to the important topics, subdirectories, or implementations.
+
+## Notes
+
+Add learning notes or references relevant to this section.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — B_TwoPointers
@@ -27,4 +37,4 @@ This tracker is generated recursively. Update the **Status** field in an individ
 | [Maximum Twin Sum Of ALinked List — 2130](CCX_MaximumTwinSumOfALinkedList_LT2130/README.md) | #2130 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
-<!-- PROBLEM_TRACKER:END -->
+

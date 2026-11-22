@@ -1,15 +1,13 @@
-# 1569. Number of Ways to Reorder Array to Get Same BST
+# Number Of Ways To Reorder Array To Get Same BST — 1569
 
 **Data Structure:** Tree  
-**Pattern:** BinarySearchTrees  
+**Pattern:** Binary Search Trees  
 **LeetCode:** #1569  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
-- Difficulty: Hard
-- Topics: Array, Math, Divide and Conquer, Dynamic Programming, Tree, Union-Find, Binary Search Tree, Memoization, Combinatorics, Binary Tree, Fermat's Little Theorem
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

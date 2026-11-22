@@ -1,15 +1,13 @@
-# 847. Shortest Path Visiting All Nodes
+# Shortest Path Visiting All Nodes — 847
 
 **Data Structure:** Graph  
-**Pattern:** ShortestPath  
+**Pattern:** Shortest Path  
 **LeetCode:** #847  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/shortest-path-visiting-all-nodes/
-- Difficulty: Hard
-- Topics: Dynamic Programming, Bit Manipulation, Breadth-First Search, Graph Theory, Bitmask
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

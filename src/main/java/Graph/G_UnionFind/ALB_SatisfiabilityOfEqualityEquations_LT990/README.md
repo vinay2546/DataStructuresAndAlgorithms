@@ -1,15 +1,13 @@
-# 990. Satisfiability of Equality Equations
+# Satisfiability Of Equality Equations — 990
 
 **Data Structure:** Graph  
-**Pattern:** UnionFind  
+**Pattern:** Union Find  
 **LeetCode:** #990  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/satisfiability-of-equality-equations/
-- Difficulty: Medium
-- Topics: Array, String, Union-Find, Graph Theory
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

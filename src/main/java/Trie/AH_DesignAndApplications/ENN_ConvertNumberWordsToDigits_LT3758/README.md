@@ -1,15 +1,13 @@
-# 3758. Convert Number Words to Digits
+# Convert Number Words To Digits — 3758
 
 **Data Structure:** Trie  
-**Pattern:** DesignAndApplications  
+**Pattern:** Design And Applications  
 **LeetCode:** #3758  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/convert-number-words-to-digits/
-- Difficulty: Medium
-- Topics: String, Trie
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

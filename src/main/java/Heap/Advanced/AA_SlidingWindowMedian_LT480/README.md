@@ -1,4 +1,4 @@
-# SlidingWindowMedian — 480
+# Sliding Window Median — 480
 
 **Data Structure:** Heap  
 **Pattern:** Advanced  

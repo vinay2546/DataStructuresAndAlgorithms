@@ -1,15 +1,13 @@
-# 1145. Binary Tree Coloring Game
+# Binary Tree Coloring Game — 1145
 
 **Data Structure:** Tree  
-**Pattern:** AdvancedTreeTechniques  
+**Pattern:** Advanced Tree Techniques  
 **LeetCode:** #1145  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/binary-tree-coloring-game/
-- Difficulty: Medium
-- Topics: Tree, Depth-First Search, Binary Tree
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

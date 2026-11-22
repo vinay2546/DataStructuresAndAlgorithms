@@ -1,4 +1,4 @@
-# OpenTheLock — 752
+# Open The Lock — 752
 
 **Data Structure:** Queue  
 **Pattern:** BFS  

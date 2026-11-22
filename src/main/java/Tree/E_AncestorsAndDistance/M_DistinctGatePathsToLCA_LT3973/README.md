@@ -1,15 +1,13 @@
-# 3973. Distinct Gate Paths to LCA
+# Distinct Gate Paths To LCA — 3973
 
 **Data Structure:** Tree  
-**Pattern:** AncestorsAndDistance  
+**Pattern:** Ancestors And Distance  
 **LeetCode:** #3973  
 **Status:** Not Started
 
 ## Problem
 
-- LeetCode: https://leetcode.com/problems/distinct-gate-paths-to-lca/
-- Difficulty: Hard
-- Topics: Array, Math, Dynamic Programming, Bit Manipulation, Tree, Depth-First Search
+Add the problem statement or LeetCode link here.
 
 ## Approach
 

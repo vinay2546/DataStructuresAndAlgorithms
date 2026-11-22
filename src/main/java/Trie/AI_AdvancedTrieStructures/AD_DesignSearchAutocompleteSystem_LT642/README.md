@@ -1,7 +1,7 @@
-# DesignSearchAutocompleteSystem — 642
+# Design Search Autocomplete System — 642
 
 **Data Structure:** Trie  
-**Pattern:** Advanced  
+**Pattern:** Advanced Trie Structures  
 **LeetCode:** #642  
 **Status:** Not Started
 

@@ -1,4 +1,4 @@
-# MatrixDiagonalSum — 1572
+# Matrix Diagonal Sum — 1572
 
 **Data Structure:** Matrix  
 **Pattern:** Fundamentals  
