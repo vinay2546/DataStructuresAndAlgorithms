@@ -4,10 +4,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - "src/main/java/**"
-      - ".github/workflows/problem-tracker.yml"
-      - ".github/scripts/update_problem_tracker.py"
   workflow_dispatch:
 
 permissions:
