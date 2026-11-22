@@ -51,7 +51,7 @@ def pct(counts):
     return f"{counts['Solved'] / counts['Total'] * 100:.1f}%" if counts["Total"] else "0.0%"
 
 def problem_table(items):
-    lines = ["| Problem | LeetCode | Status |", "|---|---:|---|"]
+    lines = ["| Problem | LeetCode # | Status |", "|---|---:|---|"]
     for item in sorted(items, key=lambda x: x["folder"].name.lower()):
         match = PROBLEM_DIR.fullmatch(item["folder"].name)
         number = match.group(1) if match else "—"
