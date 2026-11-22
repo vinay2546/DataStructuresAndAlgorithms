@@ -2,9 +2,6 @@
 
 Two-coloring, bipartite validation, and graph partitioning.
 
-## Problem Count
-
-**4 problem entries**
 
 ## Learning Focus
 
