@@ -2,7 +2,6 @@
 
 Array problems grouped under **Traversal**.
 
-All problem folders are placeholders until a solution is implemented.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Problem Progress Tracker
