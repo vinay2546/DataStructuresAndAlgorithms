@@ -2,9 +2,6 @@
 
 Breadth-first search for unweighted shortest paths, level exploration, and implicit state-space graphs.
 
-## Problem Count
-
-**19 problem entries**
 
 ## Learning Focus
 
