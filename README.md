@@ -4,8 +4,8 @@ Java-based Data Structures and Algorithms solutions, organized by data structure
 
 ## Data Structures
 
-| Data Structure | Status |
-|---|:---:|
+| Data Structure |
+|---|
 | [Array](src/main/java/Array/README.md) | ⬜ |
 | [LinkedList](src/main/java/LinkedList/README.md) | ⬜ |
 | [Stack](src/main/java/Stack/README.md) | ⬜ |
