@@ -3,6 +3,6 @@
 **Data Structure:** Array  
 **Pattern:** Fundamentals  
 **LeetCode:** #169  
-**Status:** Placeholder
+**Status:** Solved
 
 This folder is reserved for the Java solution and problem notes.

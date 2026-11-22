@@ -3,6 +3,6 @@
 **Data Structure:** Array  
 **Pattern:** Traversal  
 **LeetCode:** #448  
-**Status:** Placeholder
+**Status:** Solved
 
 This folder is reserved for the Java solution and problem notes.
