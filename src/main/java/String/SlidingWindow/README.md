@@ -2,7 +2,6 @@
 
 String problems grouped under this category.
 
-All problem folders are placeholders.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — SlidingWindow
