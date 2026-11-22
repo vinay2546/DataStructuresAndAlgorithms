@@ -2,9 +2,6 @@
 
 Path construction, path counting, path scoring, path reconstruction, and constrained routes.
 
-## Problem Count
-
-**13 problem entries**
 
 ## Learning Focus
 
