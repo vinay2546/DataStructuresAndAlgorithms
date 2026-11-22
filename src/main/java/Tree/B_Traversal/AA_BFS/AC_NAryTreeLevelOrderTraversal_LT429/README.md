@@ -1,5 +1,12 @@
 # 429. NAry Tree Level Order Traversal
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #429
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 429](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)

@@ -1,5 +1,12 @@
 # 1373. Maximum Sum BSTin Binary Tree
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #1373
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 1373](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)

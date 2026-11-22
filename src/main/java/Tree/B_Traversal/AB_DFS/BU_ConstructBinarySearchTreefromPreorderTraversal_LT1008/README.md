@@ -1,5 +1,12 @@
 # 1008. Construct Binary Search Treefrom Preorder Traversal
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #1008
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)

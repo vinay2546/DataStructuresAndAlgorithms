@@ -1,5 +1,12 @@
 # 112. Path Sum
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #112
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 112](https://leetcode.com/problems/path-sum/)

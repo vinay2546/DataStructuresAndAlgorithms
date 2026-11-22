@@ -3,4 +3,6 @@
 **Data Structure:** Matrix
 **Pattern:** Search
 **LeetCode:** #74
-**Status:** Placeholder
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.

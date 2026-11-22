@@ -1,8 +1,8 @@
 # Meeting Rooms II — 253
 
-**Data Structure:** Array  
-**Pattern:** Intervals  
-**LeetCode:** #253  
-**Status:** Placeholder
+**Data Structure:** Array
+**Pattern:** Intervals
+**LeetCode:** #253
+**Status:** Not Started
 
 This folder is reserved for the Java solution and problem notes.

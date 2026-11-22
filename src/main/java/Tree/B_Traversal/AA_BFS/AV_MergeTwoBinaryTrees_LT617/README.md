@@ -1,5 +1,12 @@
 # 617. Merge Two Binary Trees
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #617
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 617](https://leetcode.com/problems/merge-two-binary-trees/)

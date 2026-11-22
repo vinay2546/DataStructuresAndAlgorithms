@@ -1,5 +1,12 @@
 # 1022. Sumof Root To Leaf Binary Numbers
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #1022
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)

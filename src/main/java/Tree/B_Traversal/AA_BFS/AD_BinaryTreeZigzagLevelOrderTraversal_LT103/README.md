@@ -1,5 +1,12 @@
 # 103. Binary Tree Zigzag Level Order Traversal
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #103
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)

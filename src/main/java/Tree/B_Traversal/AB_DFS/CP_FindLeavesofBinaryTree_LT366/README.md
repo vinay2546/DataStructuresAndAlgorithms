@@ -1,5 +1,12 @@
 # 366. Find Leavesof Binary Tree
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #366
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 366](https://leetcode.com/problems/find-leaves-of-binary-tree/)

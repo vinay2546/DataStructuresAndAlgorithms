@@ -1,8 +1,8 @@
 # Largest Number — 179
 
-**Data Structure:** Array  
-**Pattern:** Sorting  
-**LeetCode:** #179  
-**Status:** Placeholder
+**Data Structure:** Array
+**Pattern:** Sorting
+**LeetCode:** #179
+**Status:** Not Started
 
 This folder is reserved for the Java solution and problem notes.

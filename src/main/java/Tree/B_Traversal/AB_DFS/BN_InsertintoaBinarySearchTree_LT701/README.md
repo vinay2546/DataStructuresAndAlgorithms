@@ -1,5 +1,12 @@
 # 701. Insertintoa Binary Search Tree
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #701
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 701](https://leetcode.com/problems/insert-into-a-binary-search-tree/)

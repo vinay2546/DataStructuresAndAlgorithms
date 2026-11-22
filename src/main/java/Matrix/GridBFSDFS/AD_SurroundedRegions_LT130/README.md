@@ -3,4 +3,6 @@
 **Data Structure:** Matrix
 **Pattern:** GridBFSDFS
 **LeetCode:** #130
-**Status:** Placeholder
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.

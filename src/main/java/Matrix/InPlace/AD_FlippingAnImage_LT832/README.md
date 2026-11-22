@@ -3,4 +3,6 @@
 **Data Structure:** Matrix
 **Pattern:** InPlace
 **LeetCode:** #832
-**Status:** Placeholder
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.

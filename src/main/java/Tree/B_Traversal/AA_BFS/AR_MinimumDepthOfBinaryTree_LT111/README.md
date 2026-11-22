@@ -1,5 +1,12 @@
 # 111. Minimum Depth Of Binary Tree
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #111
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)

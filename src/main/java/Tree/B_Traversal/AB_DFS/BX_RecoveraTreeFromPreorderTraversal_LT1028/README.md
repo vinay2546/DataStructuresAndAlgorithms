@@ -1,5 +1,12 @@
 # 1028. Recovera Tree From Preorder Traversal
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #1028
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 1028](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)

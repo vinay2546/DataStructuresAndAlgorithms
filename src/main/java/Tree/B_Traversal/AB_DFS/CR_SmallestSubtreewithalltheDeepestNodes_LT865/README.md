@@ -1,5 +1,12 @@
 # 865. Smallest Subtreewithallthe Deepest Nodes
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #865
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 865](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)

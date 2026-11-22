@@ -3,4 +3,6 @@
 **Data Structure:** Graph
 **Pattern:** BFS
 **LeetCode:** #994
-**Status:** Placeholder
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.

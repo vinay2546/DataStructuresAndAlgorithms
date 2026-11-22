@@ -1,5 +1,12 @@
 # 589. Nary Tree Preorder Traversal
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #589
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)

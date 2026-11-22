@@ -1,5 +1,12 @@
 # 834. Sumof Distancesin Tree
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #834
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 834](https://leetcode.com/problems/sum-of-distances-in-tree/)

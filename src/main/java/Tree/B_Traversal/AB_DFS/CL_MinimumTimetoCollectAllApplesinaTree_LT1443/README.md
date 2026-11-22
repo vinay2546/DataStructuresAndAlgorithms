@@ -1,5 +1,12 @@
 # 1443. Minimum Timeto Collect All Applesina Tree
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #1443
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 1443](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)

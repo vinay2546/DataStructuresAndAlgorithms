@@ -15,16 +15,16 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [AA_LinkedListCycle_LT141](AA_LinkedListCycle_LT141/Solution.java) | #141 | ⬜ Not Started |
-| [AB_LinkedListCycleII_LT142](AB_LinkedListCycleII_LT142/Solution.java) | #142 | ⬜ Not Started |
-| [AB_MiddleOfTheLinkedList_LT876](AB_MiddleOfTheLinkedList_LT876/Solution.java) | #876 | ⬜ Not Started |
-| [AC_IntersectionOfTwoLinkedLists_LT160](AC_IntersectionOfTwoLinkedLists_LT160/Solution.java) | #160 | ⬜ Not Started |
-| [AD_PalindromeLinkedList_LT234](AD_PalindromeLinkedList_LT234/Solution.java) | #234 | ⬜ Not Started |
-| [AS_RemoveNthNodeFromEndOfList_LT19](AS_RemoveNthNodeFromEndOfList_LT19/Solution.java) | #19 | ⬜ Not Started |
-| [BNE_SwappingNodesInALinkedList_LT1721](BNE_SwappingNodesInALinkedList_LT1721/Solution.java) | #1721 | ⬜ Not Started |
-| [CAD_FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints_LT2058](CAD_FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints_LT2058/Solution.java) | #2058 | ⬜ Not Started |
-| [CBO_DeleteTheMiddleNodeOfALinkedList_LT2095](CBO_DeleteTheMiddleNodeOfALinkedList_LT2095/Solution.java) | #2095 | ⬜ Not Started |
-| [CCX_MaximumTwinSumOfALinkedList_LT2130](CCX_MaximumTwinSumOfALinkedList_LT2130/Solution.java) | #2130 | ⬜ Not Started |
+| [Linked List Cycle — 141](AA_LinkedListCycle_LT141/README.md) | #141 | ⬜ Not Started |
+| [Linked List Cycle II — 142](AB_LinkedListCycleII_LT142/README.md) | #142 | ⬜ Not Started |
+| [Middle Of The Linked List — 876](AB_MiddleOfTheLinkedList_LT876/README.md) | #876 | ⬜ Not Started |
+| [Intersection Of Two Linked Lists — 160](AC_IntersectionOfTwoLinkedLists_LT160/README.md) | #160 | ⬜ Not Started |
+| [Palindrome Linked List — 234](AD_PalindromeLinkedList_LT234/README.md) | #234 | ⬜ Not Started |
+| [Remove Nth Node From End Of List — 19](AS_RemoveNthNodeFromEndOfList_LT19/README.md) | #19 | ⬜ Not Started |
+| [Swapping Nodes In ALinked List — 1721](BNE_SwappingNodesInALinkedList_LT1721/README.md) | #1721 | ⬜ Not Started |
+| [Find The Minimum And Maximum Number Of Nodes Between Critical Points — 2058](CAD_FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints_LT2058/README.md) | #2058 | ⬜ Not Started |
+| [Delete The Middle Node Of ALinked List — 2095](CBO_DeleteTheMiddleNodeOfALinkedList_LT2095/README.md) | #2095 | ⬜ Not Started |
+| [Maximum Twin Sum Of ALinked List — 2130](CCX_MaximumTwinSumOfALinkedList_LT2130/README.md) | #2130 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
 <!-- PROBLEM_TRACKER:END -->

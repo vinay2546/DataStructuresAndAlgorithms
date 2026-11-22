@@ -1,5 +1,12 @@
 # 979. Distribute Coinsin Binary Tree
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #979
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 979](https://leetcode.com/problems/distribute-coins-in-binary-tree/)

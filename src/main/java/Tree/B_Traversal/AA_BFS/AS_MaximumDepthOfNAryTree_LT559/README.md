@@ -1,5 +1,12 @@
 # 559. Maximum Depth Of NAry Tree
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #559
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 559](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)

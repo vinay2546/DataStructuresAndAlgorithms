@@ -1,5 +1,12 @@
 # 1519. Numberof Nodesinthe Sub Tree Withthe Same Label
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #1519
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 1519](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)

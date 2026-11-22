@@ -1,5 +1,12 @@
 # 530. Minimum Absolute Differencein BST
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #530
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)

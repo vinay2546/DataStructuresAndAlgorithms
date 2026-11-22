@@ -1,5 +1,12 @@
 # 1602. Find Nearest Right Node In Binary Tree
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #1602
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 1602](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/)

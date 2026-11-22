@@ -1,5 +1,12 @@
 # 101. Symmetric Tree
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #101
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 101](https://leetcode.com/problems/symmetric-tree/)

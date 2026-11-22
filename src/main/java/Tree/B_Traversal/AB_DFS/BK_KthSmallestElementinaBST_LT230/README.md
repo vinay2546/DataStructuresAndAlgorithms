@@ -1,5 +1,12 @@
 # 230. Kth Smallest Elementina BST
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #230
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)

@@ -1,5 +1,12 @@
 # 99. Recover Binary Search Tree
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #99
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 99](https://leetcode.com/problems/recover-binary-search-tree/)

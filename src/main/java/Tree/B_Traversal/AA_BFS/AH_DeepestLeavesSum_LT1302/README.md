@@ -1,5 +1,12 @@
 # 1302. Deepest Leaves Sum
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #1302
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 1302](https://leetcode.com/problems/deepest-leaves-sum/)

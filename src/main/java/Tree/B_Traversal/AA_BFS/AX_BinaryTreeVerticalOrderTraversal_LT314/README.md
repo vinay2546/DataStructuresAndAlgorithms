@@ -1,5 +1,12 @@
 # 314. Binary Tree Vertical Order Traversal
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #314
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 314](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)

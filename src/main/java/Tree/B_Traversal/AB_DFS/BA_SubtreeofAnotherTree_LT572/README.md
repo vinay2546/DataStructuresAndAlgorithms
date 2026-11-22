@@ -1,5 +1,12 @@
 # 572. Subtreeof Another Tree
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #572
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 572](https://leetcode.com/problems/subtree-of-another-tree/)

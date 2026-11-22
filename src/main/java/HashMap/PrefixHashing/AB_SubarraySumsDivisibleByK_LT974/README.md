@@ -1,6 +1,8 @@
 # SubarraySumsDivisibleByK — 974
 
-**Data Structure:** HashMap  
-**Pattern:** Prefix Hashing  
-**LeetCode:** #974  
-**Status:** Placeholder
+**Data Structure:** HashMap
+**Pattern:** Prefix Hashing
+**LeetCode:** #974
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.

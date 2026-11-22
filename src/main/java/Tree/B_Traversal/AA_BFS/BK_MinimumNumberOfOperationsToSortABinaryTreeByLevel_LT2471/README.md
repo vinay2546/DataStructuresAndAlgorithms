@@ -1,5 +1,12 @@
 # 2471. Minimum Number Of Operations To Sort ABinary Tree By Level
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #2471
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 2471](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/)

@@ -1,8 +1,8 @@
 # Find Peak Element — 162
 
-**Data Structure:** Array  
-**Pattern:** BinarySearch  
-**LeetCode:** #162  
-**Status:** Placeholder
+**Data Structure:** Array
+**Pattern:** BinarySearch
+**LeetCode:** #162
+**Status:** Not Started
 
 This folder is reserved for the Java solution and problem notes.

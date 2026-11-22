@@ -1,5 +1,12 @@
 # 107. Binary Tree Level Order Traversal II
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #107
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)

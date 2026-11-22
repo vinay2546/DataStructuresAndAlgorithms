@@ -1,5 +1,12 @@
 # 1325. Delete Leaves Witha Given Value
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #1325
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 1325](https://leetcode.com/problems/delete-leaves-with-a-given-value/)

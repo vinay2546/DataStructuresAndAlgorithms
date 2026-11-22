@@ -1,5 +1,12 @@
 # 110. Balanced Binary Tree
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #110
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 110](https://leetcode.com/problems/balanced-binary-tree/)

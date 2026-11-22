@@ -1,5 +1,12 @@
 # 437. Path Sum III
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #437
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 437](https://leetcode.com/problems/path-sum-iii/)

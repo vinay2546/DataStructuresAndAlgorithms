@@ -1,5 +1,12 @@
 # 988. Smallest String Starting From Leaf
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #988
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 988](https://leetcode.com/problems/smallest-string-starting-from-leaf/)

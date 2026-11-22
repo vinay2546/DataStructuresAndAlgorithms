@@ -1,5 +1,12 @@
 # 117. Populating Next Right Pointers In Each Node II
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #117
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 117](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
