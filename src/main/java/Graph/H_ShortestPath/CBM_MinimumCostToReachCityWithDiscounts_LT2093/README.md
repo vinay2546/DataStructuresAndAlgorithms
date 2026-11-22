@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/
 - Difficulty: Medium
 - Topics: Graph Theory, Heap (Priority Queue), Shortest Path, Dijkstra's Algorithm
-
-## Status
-- [ ] Solution

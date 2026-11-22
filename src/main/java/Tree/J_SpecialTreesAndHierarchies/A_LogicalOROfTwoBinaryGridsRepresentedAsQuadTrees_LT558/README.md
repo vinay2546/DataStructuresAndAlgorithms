@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/
 - Difficulty: Medium
 - Topics: Divide and Conquer, Tree
-
-## Status
-- [ ] Solution

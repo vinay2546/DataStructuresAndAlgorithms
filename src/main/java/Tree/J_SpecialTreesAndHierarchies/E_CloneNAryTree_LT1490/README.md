@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/clone-n-ary-tree/
 - Difficulty: Medium
 - Topics: Hash Table, Tree, Depth-First Search, Breadth-First Search
-
-## Status
-- [ ] Solution

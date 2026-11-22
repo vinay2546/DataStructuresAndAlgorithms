@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-time-to-break-locks-i/
 - Difficulty: Medium
 - Topics: Array, Dynamic Programming, Backtracking, Bit Manipulation, Breadth-First Search, Bitmask
-
-## Status
-- [ ] Solution

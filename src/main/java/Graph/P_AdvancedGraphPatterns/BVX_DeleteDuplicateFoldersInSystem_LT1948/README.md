@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/delete-duplicate-folders-in-system/
 - Difficulty: Hard
 - Topics: Array, Hash Table, String, Depth-First Search, Trie, Sorting, Hash Function
-
-## Status
-- [ ] Solution

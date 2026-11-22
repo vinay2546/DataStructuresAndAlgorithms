@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
 - Difficulty: Easy
 - Topics: Array
-
-## Status
-- [ ] Solution

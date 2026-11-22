@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/count-valid-paths-in-a-tree/
 - Difficulty: Hard
 - Topics: Math, Dynamic Programming, Tree, Depth-First Search, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve
-
-## Status
-- [ ] Solution

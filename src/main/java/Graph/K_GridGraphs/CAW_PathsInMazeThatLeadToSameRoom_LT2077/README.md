@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/
 - Difficulty: Medium
 - Topics: Graph Theory
-
-## Status
-- [ ] Solution

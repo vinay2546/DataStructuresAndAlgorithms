@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
 - Difficulty: Easy
 - Topics: Array
-
-## Status
-- [ ] Solution

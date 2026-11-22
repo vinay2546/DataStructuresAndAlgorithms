@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/implement-trie-ii-prefix-tree/
 - Difficulty: Medium
 - Topics: Hash Table, String, Design, Trie
-
-## Status
-- [ ] Solution

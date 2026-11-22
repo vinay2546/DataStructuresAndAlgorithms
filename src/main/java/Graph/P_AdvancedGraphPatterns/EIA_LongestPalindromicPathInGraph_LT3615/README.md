@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/longest-palindromic-path-in-graph/
 - Difficulty: Hard
 - Topics: String, Dynamic Programming, Bit Manipulation, Graph Theory, Bitmask
-
-## Status
-- [ ] Solution

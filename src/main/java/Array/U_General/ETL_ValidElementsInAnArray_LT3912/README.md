@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/valid-elements-in-an-array/
 - Difficulty: Easy
 - Topics: Array
-
-## Status
-- [ ] Solution

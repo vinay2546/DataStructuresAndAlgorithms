@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/
 - Difficulty: Medium
 - Topics: Array, Tree, Depth-First Search
-
-## Status
-- [ ] Solution

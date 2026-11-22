@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/jump-game-iv/
 - Difficulty: Hard
 - Topics: Array, Hash Table, Breadth-First Search
-
-## Status
-- [ ] Solution

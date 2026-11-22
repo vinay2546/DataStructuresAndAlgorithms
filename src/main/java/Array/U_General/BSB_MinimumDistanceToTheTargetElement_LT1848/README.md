@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-distance-to-the-target-element/
 - Difficulty: Easy
 - Topics: Array
-
-## Status
-- [ ] Solution

@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/smallest-unique-subarray/
 - Difficulty: Hard
 - Topics: Array, Hash Table, Binary Search, Rolling Hash, Suffix Array, Hash Function
-
-## Status
-- [ ] Solution

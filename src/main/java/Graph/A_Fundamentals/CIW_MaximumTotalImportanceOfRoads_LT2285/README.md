@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/maximum-total-importance-of-roads/
 - Difficulty: Medium
 - Topics: Greedy, Graph Theory, Sorting, Heap (Priority Queue)
-
-## Status
-- [ ] Solution

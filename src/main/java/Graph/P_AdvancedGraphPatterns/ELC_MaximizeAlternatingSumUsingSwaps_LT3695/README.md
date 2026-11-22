@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/maximize-alternating-sum-using-swaps/
 - Difficulty: Hard
 - Topics: Array, Greedy, Union-Find, Sorting
-
-## Status
-- [ ] Solution

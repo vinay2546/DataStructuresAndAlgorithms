@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/
 - Difficulty: Hard
 - Topics: Array, String, Trie
-
-## Status
-- [ ] Solution

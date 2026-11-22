@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/design-graph-with-shortest-path-calculator/
 - Difficulty: Hard
 - Topics: Graph Theory, Design, Heap (Priority Queue), Shortest Path
-
-## Status
-- [ ] Solution

@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/time-needed-to-inform-all-employees/
 - Difficulty: Medium
 - Topics: Tree, Depth-First Search, Breadth-First Search
-
-## Status
-- [ ] Solution

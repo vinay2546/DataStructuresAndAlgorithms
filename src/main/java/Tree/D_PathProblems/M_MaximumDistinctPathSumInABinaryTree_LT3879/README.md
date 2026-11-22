@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/maximum-distinct-path-sum-in-a-binary-tree/
 - Difficulty: Medium
 - Topics: Hash Table, Tree, Depth-First Search, Binary Tree
-
-## Status
-- [ ] Solution

@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/find-the-closest-marked-node/
 - Difficulty: Medium
 - Topics: Array, Graph Theory, Heap (Priority Queue), Shortest Path
-
-## Status
-- [ ] Solution

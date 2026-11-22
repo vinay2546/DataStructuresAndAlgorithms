@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/decompress-run-length-encoded-list/
 - Difficulty: Easy
 - Topics: Array
-
-## Status
-- [ ] Solution

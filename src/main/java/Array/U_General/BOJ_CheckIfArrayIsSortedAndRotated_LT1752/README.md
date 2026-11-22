@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 - Difficulty: Easy
 - Topics: Array
-
-## Status
-- [ ] Solution

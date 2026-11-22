@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/range-xor-queries-with-subarray-reversals/
 - Difficulty: Hard
 - Topics: Array, Bit Manipulation, Tree, Binary Search Tree, Binary Tree
-
-## Status
-- [ ] Solution

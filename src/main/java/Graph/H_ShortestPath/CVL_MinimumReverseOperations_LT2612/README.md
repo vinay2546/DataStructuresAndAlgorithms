@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-reverse-operations/
 - Difficulty: Hard
 - Topics: Array, Hash Table, Breadth-First Search, Union-Find, Ordered Set
-
-## Status
-- [ ] Solution

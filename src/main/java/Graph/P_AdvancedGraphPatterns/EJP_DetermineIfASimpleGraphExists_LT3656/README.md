@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/determine-if-a-simple-graph-exists/
 - Difficulty: Medium
 - Topics: Array, Binary Search, Graph Theory, Sorting, Prefix Sum
-
-## Status
-- [ ] Solution

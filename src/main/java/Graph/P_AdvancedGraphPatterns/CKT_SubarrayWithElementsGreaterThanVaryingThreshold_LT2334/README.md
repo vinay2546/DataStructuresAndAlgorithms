@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/
 - Difficulty: Hard
 - Topics: Array, Stack, Union-Find, Monotonic Stack
-
-## Status
-- [ ] Solution

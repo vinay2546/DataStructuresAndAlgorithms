@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/
 - Difficulty: Medium
 - Topics: Array
-
-## Status
-- [ ] Solution

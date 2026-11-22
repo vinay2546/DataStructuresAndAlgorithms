@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/create-binary-tree-from-descriptions/
 - Difficulty: Medium
 - Topics: Array, Hash Table, Tree, Binary Tree
-
-## Status
-- [ ] Solution

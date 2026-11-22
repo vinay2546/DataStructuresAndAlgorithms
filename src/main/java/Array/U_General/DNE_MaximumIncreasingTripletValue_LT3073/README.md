@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/maximum-increasing-triplet-value/
 - Difficulty: Medium
 - Topics: Array, Ordered Set
-
-## Status
-- [ ] Solution

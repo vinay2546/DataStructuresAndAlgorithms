@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/
 - Difficulty: Medium
 - Topics: Array, Graph Theory, Heap (Priority Queue), Shortest Path
-
-## Status
-- [ ] Solution

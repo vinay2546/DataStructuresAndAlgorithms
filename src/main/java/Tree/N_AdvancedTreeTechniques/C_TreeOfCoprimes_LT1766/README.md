@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/tree-of-coprimes/
 - Difficulty: Hard
 - Topics: Array, Math, Tree, Depth-First Search, Number Theory
-
-## Status
-- [ ] Solution

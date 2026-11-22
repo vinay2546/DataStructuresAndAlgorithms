@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/maximum-subtree-of-the-same-color/
 - Difficulty: Medium
 - Topics: Array, Dynamic Programming, Tree, Depth-First Search
-
-## Status
-- [ ] Solution

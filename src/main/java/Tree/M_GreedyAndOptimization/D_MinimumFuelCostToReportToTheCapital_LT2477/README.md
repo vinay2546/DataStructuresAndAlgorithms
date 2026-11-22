@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/
 - Difficulty: Medium
 - Topics: Tree, Depth-First Search, Breadth-First Search, Graph Theory
-
-## Status
-- [ ] Solution

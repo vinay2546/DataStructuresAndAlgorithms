@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/find-if-path-exists-in-graph/
 - Difficulty: Easy
 - Topics: Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
-
-## Status
-- [ ] Solution

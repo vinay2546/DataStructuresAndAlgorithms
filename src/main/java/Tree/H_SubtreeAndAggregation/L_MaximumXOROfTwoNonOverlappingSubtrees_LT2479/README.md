@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/
 - Difficulty: Hard
 - Topics: Tree, Depth-First Search, Graph Theory, Trie
-
-## Status
-- [ ] Solution

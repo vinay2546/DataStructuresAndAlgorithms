@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-cost-to-buy-apples-ii/
 - Difficulty: Hard
 - Topics: Array, Graph Theory, Heap (Priority Queue), Shortest Path
-
-## Status
-- [ ] Solution

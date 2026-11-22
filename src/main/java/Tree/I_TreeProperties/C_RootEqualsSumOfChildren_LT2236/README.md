@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/root-equals-sum-of-children/
 - Difficulty: Easy
 - Topics: Tree, Binary Tree
-
-## Status
-- [ ] Solution

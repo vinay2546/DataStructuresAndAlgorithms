@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/
 - Difficulty: Hard
 - Topics: Binary Search, Greedy, Union-Find, Graph Theory, Minimum Spanning Tree
-
-## Status
-- [ ] Solution

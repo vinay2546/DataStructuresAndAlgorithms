@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/
 - Difficulty: Hard
 - Topics: Array, Bit Manipulation, Union-Find, Graph Theory
-
-## Status
-- [ ] Solution

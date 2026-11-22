@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/
 - Difficulty: Hard
 - Topics: Dynamic Programming, Depth-First Search, Graph Theory, Topological Sort, Memoization, Kosaraju's Algorithm, Tarjan's SCC Algorithm
-
-## Status
-- [ ] Solution

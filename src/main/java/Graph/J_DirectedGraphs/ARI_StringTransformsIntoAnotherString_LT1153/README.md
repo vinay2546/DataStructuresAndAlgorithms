@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/string-transforms-into-another-string/
 - Difficulty: Hard
 - Topics: Hash Table, String, Graph Theory
-
-## Status
-- [ ] Solution

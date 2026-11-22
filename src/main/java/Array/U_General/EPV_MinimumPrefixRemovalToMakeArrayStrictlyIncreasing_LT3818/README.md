@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-prefix-removal-to-make-array-strictly-increasing/
 - Difficulty: Medium
 - Topics: Array
-
-## Status
-- [ ] Solution

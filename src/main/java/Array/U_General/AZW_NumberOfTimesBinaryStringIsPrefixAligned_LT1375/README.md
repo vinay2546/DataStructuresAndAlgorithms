@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/
 - Difficulty: Medium
 - Topics: Array
-
-## Status
-- [ ] Solution

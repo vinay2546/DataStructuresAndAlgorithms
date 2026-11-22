@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/weighted-sum-of-a-tree/
 - Difficulty: Medium
 - Topics: Array, Tree, Depth-First Search
-
-## Status
-- [ ] Solution

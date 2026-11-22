@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/
 - Difficulty: Medium
 - Topics: Array, Union-Find, Sorting
-
-## Status
-- [ ] Solution

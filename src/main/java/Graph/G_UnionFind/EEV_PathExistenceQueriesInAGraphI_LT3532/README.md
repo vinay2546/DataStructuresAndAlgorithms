@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/path-existence-queries-in-a-graph-i/
 - Difficulty: Medium
 - Topics: Array, Hash Table, Binary Search, Union-Find, Graph Theory
-
-## Status
-- [ ] Solution

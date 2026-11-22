@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/
 - Difficulty: Medium
 - Topics: String, Graph Theory, Heap (Priority Queue), Shortest Path
-
-## Status
-- [ ] Solution

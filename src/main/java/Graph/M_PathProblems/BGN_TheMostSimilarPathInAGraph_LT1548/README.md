@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/the-most-similar-path-in-a-graph/
 - Difficulty: Hard
 - Topics: Array, String, Dynamic Programming, Graph Theory
-
-## Status
-- [ ] Solution

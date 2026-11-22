@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/words-within-two-edits-of-dictionary/
 - Difficulty: Medium
 - Topics: Array, String, Trie
-
-## Status
-- [ ] Solution

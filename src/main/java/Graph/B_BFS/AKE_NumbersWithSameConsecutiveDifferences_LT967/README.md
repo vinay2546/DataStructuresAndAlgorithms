@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/numbers-with-same-consecutive-differences/
 - Difficulty: Medium
 - Topics: Backtracking, Breadth-First Search
-
-## Status
-- [ ] Solution

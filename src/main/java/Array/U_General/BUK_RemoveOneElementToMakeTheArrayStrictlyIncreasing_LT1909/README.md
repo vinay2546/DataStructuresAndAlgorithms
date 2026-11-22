@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
 - Difficulty: Easy
 - Topics: Array
-
-## Status
-- [ ] Solution

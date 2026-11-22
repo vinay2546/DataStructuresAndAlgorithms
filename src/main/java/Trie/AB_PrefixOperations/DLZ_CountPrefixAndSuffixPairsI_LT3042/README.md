@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 - Difficulty: Easy
 - Topics: Array, String, Trie, Rolling Hash, String Matching, Hash Function
-
-## Status
-- [ ] Solution

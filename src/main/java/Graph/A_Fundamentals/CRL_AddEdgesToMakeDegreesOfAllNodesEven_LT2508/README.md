@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/
 - Difficulty: Hard
 - Topics: Hash Table, Graph Theory
-
-## Status
-- [ ] Solution

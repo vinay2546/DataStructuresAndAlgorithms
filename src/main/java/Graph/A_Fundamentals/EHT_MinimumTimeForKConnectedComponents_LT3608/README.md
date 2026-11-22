@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-time-for-k-connected-components/
 - Difficulty: Medium
 - Topics: Binary Search, Union-Find, Graph Theory, Sorting
-
-## Status
-- [ ] Solution

@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/longest-absolute-file-path/
 - Difficulty: Medium
 - Topics: String, Stack, Depth-First Search
-
-## Status
-- [ ] Solution

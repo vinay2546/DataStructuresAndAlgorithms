@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/
 - Difficulty: Hard
 - Topics: Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree
-
-## Status
-- [ ] Solution

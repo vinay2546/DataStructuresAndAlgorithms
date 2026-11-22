@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/construct-string-with-minimum-cost/
 - Difficulty: Hard
 - Topics: Array, String, Dynamic Programming, Suffix Array
-
-## Status
-- [ ] Solution

@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/maximize-distance-to-closest-person/
 - Difficulty: Medium
 - Topics: Array
-
-## Status
-- [ ] Solution

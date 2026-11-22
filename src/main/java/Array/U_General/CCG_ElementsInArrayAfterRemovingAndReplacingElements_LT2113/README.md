@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/elements-in-array-after-removing-and-replacing-elements/
 - Difficulty: Medium
 - Topics: Array
-
-## Status
-- [ ] Solution

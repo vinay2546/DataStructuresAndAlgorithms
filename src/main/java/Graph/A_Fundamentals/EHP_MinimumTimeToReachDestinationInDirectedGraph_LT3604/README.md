@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph/
 - Difficulty: Medium
 - Topics: Graph Theory, Heap (Priority Queue), Shortest Path
-
-## Status
-- [ ] Solution

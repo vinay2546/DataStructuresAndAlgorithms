@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/
 - Difficulty: Hard
 - Topics: Dynamic Programming, Bit Manipulation, Tree, Enumeration, Bitmask
-
-## Status
-- [ ] Solution

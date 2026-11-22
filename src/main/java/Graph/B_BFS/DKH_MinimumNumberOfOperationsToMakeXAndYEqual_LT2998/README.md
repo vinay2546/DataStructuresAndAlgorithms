@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal/
 - Difficulty: Medium
 - Topics: Dynamic Programming, Breadth-First Search, Memoization
-
-## Status
-- [ ] Solution

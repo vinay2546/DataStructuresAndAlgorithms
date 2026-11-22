@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/
 - Difficulty: Easy
 - Topics: Array
-
-## Status
-- [ ] Solution

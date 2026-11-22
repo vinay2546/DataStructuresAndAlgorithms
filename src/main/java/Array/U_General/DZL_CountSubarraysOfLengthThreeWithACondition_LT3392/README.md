@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/
 - Difficulty: Easy
 - Topics: Array
-
-## Status
-- [ ] Solution

@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/merge-bsts-to-create-single-bst/
 - Difficulty: Hard
 - Topics: Array, Hash Table, Tree, Depth-First Search, Binary Search Tree, Binary Tree
-
-## Status
-- [ ] Solution

@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/brace-expansion-ii/
 - Difficulty: Hard
 - Topics: Hash Table, String, Backtracking, Stack, Breadth-First Search, Sorting
-
-## Status
-- [ ] Solution

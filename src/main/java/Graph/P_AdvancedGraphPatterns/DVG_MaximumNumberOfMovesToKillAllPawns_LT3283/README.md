@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/
 - Difficulty: Hard
 - Topics: Array, Math, Bit Manipulation, Breadth-First Search, Game Theory, Bitmask
-
-## Status
-- [ ] Solution

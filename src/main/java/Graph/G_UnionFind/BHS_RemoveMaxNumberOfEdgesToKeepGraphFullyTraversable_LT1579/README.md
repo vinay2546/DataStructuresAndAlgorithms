@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
 - Difficulty: Hard
 - Topics: Union-Find, Graph Theory
-
-## Status
-- [ ] Solution

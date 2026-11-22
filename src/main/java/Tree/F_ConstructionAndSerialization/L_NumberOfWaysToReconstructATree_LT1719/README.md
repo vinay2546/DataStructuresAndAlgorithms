@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/
 - Difficulty: Hard
 - Topics: Array, Hash Table, Tree, Graph Theory, Simulation
-
-## Status
-- [ ] Solution

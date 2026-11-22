@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/find-the-celebrity/
 - Difficulty: Medium
 - Topics: Two Pointers, Graph Theory, Interactive
-
-## Status
-- [ ] Solution

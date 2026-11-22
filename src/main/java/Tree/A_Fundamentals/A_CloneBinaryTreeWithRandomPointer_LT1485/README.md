@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/clone-binary-tree-with-random-pointer/
 - Difficulty: Medium
 - Topics: Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree
-
-## Status
-- [ ] Solution

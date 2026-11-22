@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/design-file-system/
 - Difficulty: Medium
 - Topics: Hash Table, String, Design, Trie
-
-## Status
-- [ ] Solution

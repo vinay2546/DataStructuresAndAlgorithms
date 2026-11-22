@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-moves-to-balance-circular-array-ii/
 - Difficulty: Hard
 - Topics: Array, Math, Graph Theory, Minimum-Cost Flow
-
-## Status
-- [ ] Solution

@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/smallest-string-with-swaps/
 - Difficulty: Medium
 - Topics: Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union-Find, Sorting
-
-## Status
-- [ ] Solution

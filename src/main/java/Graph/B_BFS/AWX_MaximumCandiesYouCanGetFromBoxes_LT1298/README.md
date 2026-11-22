@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
 - Difficulty: Hard
 - Topics: Array, Breadth-First Search, Graph Theory
-
-## Status
-- [ ] Solution

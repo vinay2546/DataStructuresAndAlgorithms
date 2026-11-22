@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/shortest-cycle-in-a-graph/
 - Difficulty: Hard
 - Topics: Breadth-First Search, Graph Theory
-
-## Status
-- [ ] Solution

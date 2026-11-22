@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/construct-string-from-binary-tree/
 - Difficulty: Medium
 - Topics: String, Tree, Depth-First Search, Binary Tree
-
-## Status
-- [ ] Solution

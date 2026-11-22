@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/incremental-even-weighted-cycle-queries/
 - Difficulty: Hard
 - Topics: Union-Find, Graph Theory
-
-## Status
-- [ ] Solution

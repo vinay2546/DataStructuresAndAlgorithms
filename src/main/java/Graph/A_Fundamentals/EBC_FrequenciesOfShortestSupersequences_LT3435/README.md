@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/frequencies-of-shortest-supersequences/
 - Difficulty: Hard
 - Topics: Array, String, Bit Manipulation, Graph Theory, Topological Sort, Enumeration
-
-## Status
-- [ ] Solution

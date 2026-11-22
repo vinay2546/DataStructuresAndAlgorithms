@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/throne-inheritance/
 - Difficulty: Medium
 - Topics: Hash Table, Tree, Depth-First Search, Design
-
-## Status
-- [ ] Solution

@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/count-indices-with-opposite-parity/
 - Difficulty: Easy
 - Topics: Array
-
-## Status
-- [ ] Solution

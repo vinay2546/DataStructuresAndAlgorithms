@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/maximum-partition-factor/
 - Difficulty: Hard
 - Topics: Array, Binary Search, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
-
-## Status
-- [ ] Solution

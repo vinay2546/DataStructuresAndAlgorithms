@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/synonymous-sentences/
 - Difficulty: Medium
 - Topics: Array, Hash Table, String, Backtracking, Sort, Union-Find
-
-## Status
-- [ ] Solution

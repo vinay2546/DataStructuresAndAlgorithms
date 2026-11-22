@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 - Difficulty: Medium
 - Topics: Graph Theory, Directed Acyclic Graph
-
-## Status
-- [ ] Solution

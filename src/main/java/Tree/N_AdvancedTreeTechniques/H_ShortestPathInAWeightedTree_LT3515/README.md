@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/shortest-path-in-a-weighted-tree/
 - Difficulty: Hard
 - Topics: Array, Tree, Depth-First Search, Binary Indexed Tree, Segment Tree
-
-## Status
-- [ ] Solution

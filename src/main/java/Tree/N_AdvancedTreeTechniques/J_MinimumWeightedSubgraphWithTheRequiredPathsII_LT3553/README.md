@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii/
 - Difficulty: Hard
 - Topics: Array, Dynamic Programming, Bit Manipulation, Tree, Depth-First Search
-
-## Status
-- [ ] Solution

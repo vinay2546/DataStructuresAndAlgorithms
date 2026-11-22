@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/
 - Difficulty: Hard
 - Topics: Hash Table, Bit Manipulation, Tree, Depth-First Search
-
-## Status
-- [ ] Solution

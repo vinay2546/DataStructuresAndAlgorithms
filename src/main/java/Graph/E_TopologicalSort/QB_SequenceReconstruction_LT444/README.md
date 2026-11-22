@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/sequence-reconstruction/
 - Difficulty: Medium
 - Topics: Array, Graph Theory, Topological Sort, Directed Acyclic Graph
-
-## Status
-- [ ] Solution

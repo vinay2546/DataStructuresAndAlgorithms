@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/split-bst/
 - Difficulty: Medium
 - Topics: Tree, Binary Search Tree, Recursion, Binary Tree
-
-## Status
-- [ ] Solution

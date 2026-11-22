@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/phone-number-prefix/
 - Difficulty: Easy
 - Topics: Array, String, Trie, Sorting
-
-## Status
-- [ ] Solution

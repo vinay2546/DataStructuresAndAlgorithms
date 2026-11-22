@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-operations-to-convert-number/
 - Difficulty: Medium
 - Topics: Array, Breadth-First Search
-
-## Status
-- [ ] Solution

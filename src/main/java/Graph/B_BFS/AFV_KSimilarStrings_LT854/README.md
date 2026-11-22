@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/k-similar-strings/
 - Difficulty: Hard
 - Topics: Hash Table, String, Breadth-First Search
-
-## Status
-- [ ] Solution

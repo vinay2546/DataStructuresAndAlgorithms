@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/
 - Difficulty: Hard
 - Topics: Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory
-
-## Status
-- [ ] Solution

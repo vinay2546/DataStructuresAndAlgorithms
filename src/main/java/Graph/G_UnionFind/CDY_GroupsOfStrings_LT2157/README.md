@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/groups-of-strings/
 - Difficulty: Hard
 - Topics: Array, Hash Table, String, Bit Manipulation, Union-Find
-
-## Status
-- [ ] Solution

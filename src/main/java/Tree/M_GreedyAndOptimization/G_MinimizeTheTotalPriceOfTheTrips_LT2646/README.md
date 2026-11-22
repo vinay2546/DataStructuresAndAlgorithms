@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimize-the-total-price-of-the-trips/
 - Difficulty: Hard
 - Topics: Array, Dynamic Programming, Tree, Depth-First Search, Graph Theory
-
-## Status
-- [ ] Solution

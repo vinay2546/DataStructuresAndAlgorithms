@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-cost-to-convert-string-ii/
 - Difficulty: Hard
 - Topics: Array, String, Dynamic Programming, Graph Theory, Trie, Shortest Path
-
-## Status
-- [ ] Solution

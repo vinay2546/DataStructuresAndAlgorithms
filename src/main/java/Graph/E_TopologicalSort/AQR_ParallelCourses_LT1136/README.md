@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/parallel-courses/
 - Difficulty: Medium
 - Topics: Graph Theory, Topological Sort, Directed Acyclic Graph
-
-## Status
-- [ ] Solution

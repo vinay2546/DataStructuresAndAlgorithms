@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/
 - Difficulty: Hard
 - Topics: Dynamic Programming, Tree, Depth-First Search, Sorting
-
-## Status
-- [ ] Solution

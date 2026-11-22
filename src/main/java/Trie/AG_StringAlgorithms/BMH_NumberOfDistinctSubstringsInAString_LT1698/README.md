@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/
 - Difficulty: Medium
 - Topics: String, Trie, Rolling Hash, Suffix Array, Hash Function
-
-## Status
-- [ ] Solution

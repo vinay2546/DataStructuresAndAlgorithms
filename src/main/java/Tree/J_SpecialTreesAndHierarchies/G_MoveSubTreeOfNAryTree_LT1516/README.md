@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/
 - Difficulty: Hard
 - Topics: Tree, Depth-First Search
-
-## Status
-- [ ] Solution

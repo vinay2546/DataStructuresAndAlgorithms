@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/
 - Difficulty: Medium
 - Topics: Tree, Depth-First Search, Sorting, Binary Tree
-
-## Status
-- [ ] Solution

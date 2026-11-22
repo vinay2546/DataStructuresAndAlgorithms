@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/all-possible-full-binary-trees/
 - Difficulty: Medium
 - Topics: Dynamic Programming, Tree, Recursion, Memoization, Binary Tree
-
-## Status
-- [ ] Solution

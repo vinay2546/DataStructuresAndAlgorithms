@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
 - Difficulty: Easy
 - Topics: Array
-
-## Status
-- [ ] Solution

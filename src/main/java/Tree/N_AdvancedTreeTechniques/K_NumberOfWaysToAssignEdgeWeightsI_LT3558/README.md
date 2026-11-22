@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/
 - Difficulty: Medium
 - Topics: Math, Tree, Depth-First Search
-
-## Status
-- [ ] Solution

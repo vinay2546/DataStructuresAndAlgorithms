@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/depth-of-bst-given-insertion-order/
 - Difficulty: Medium
 - Topics: Array, Tree, Binary Search Tree, Binary Tree, Ordered Set
-
-## Status
-- [ ] Solution

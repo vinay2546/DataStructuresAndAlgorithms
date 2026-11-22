@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/extract-kth-character-from-the-rope-tree/
 - Difficulty: Easy
 - Topics: Tree, Depth-First Search, Binary Tree
-
-## Status
-- [ ] Solution

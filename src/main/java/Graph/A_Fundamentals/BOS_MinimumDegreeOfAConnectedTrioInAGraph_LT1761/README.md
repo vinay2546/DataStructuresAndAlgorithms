@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/
 - Difficulty: Hard
 - Topics: Graph Theory, Enumeration
-
-## Status
-- [ ] Solution

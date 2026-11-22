@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree/
 - Difficulty: Medium
 - Topics: Tree, Breadth-First Search
-
-## Status
-- [ ] Solution

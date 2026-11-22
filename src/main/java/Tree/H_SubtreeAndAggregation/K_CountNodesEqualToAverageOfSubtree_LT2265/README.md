@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
 - Difficulty: Medium
 - Topics: Tree, Depth-First Search, Binary Tree
-
-## Status
-- [ ] Solution

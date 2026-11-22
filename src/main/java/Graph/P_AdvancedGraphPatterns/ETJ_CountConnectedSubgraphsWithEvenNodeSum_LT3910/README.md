@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/
 - Difficulty: Hard
 - Topics: Array, Bit Manipulation, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Enumeration
-
-## Status
-- [ ] Solution

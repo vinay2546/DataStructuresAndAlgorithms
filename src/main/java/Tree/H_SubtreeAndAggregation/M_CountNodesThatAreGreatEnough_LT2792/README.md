@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/count-nodes-that-are-great-enough/
 - Difficulty: Hard
 - Topics: Divide and Conquer, Tree, Depth-First Search, Binary Tree
-
-## Status
-- [ ] Solution

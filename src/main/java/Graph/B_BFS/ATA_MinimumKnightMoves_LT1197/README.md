@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-knight-moves/
 - Difficulty: Medium
 - Topics: Breadth-First Search, Heuristic Search, Bidirectional Search, A* Search
-
-## Status
-- [ ] Solution

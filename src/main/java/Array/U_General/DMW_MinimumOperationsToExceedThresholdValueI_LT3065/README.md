@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/
 - Difficulty: Easy
 - Topics: Array
-
-## Status
-- [ ] Solution

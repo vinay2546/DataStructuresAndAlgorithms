@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/
 - Difficulty: Hard
 - Topics: Depth-First Search, Union-Find, Graph Theory, Design, Sorting, Heap (Priority Queue), Minimum Spanning Tree
-
-## Status
-- [ ] Solution

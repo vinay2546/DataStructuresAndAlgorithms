@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/minimum-genetic-mutation/
 - Difficulty: Medium
 - Topics: Hash Table, String, Breadth-First Search, Bidirectional Search
-
-## Status
-- [ ] Solution

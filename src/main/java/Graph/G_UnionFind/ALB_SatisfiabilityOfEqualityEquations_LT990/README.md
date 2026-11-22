@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/satisfiability-of-equality-equations/
 - Difficulty: Medium
 - Topics: Array, String, Union-Find, Graph Theory
-
-## Status
-- [ ] Solution

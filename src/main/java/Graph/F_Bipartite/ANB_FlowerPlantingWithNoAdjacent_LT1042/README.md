@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/flower-planting-with-no-adjacent/
 - Difficulty: Medium
 - Topics: Depth-First Search, Breadth-First Search, Graph Theory, Graph Coloring
-
-## Status
-- [ ] Solution

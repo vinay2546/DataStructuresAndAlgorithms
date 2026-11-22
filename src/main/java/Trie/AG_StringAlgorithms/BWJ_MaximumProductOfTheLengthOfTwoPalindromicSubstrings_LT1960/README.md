@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/
 - Difficulty: Hard
 - Topics: Two Pointers, String, Rolling Hash, Hash Function, Manacher, Palindromic Tree
-
-## Status
-- [ ] Solution

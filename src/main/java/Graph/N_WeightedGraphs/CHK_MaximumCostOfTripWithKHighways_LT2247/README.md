@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/
 - Difficulty: Hard
 - Topics: Dynamic Programming, Bit Manipulation, Graph Theory, Bitmask
-
-## Status
-- [ ] Solution

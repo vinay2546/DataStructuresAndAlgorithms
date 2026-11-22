@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes/
 - Difficulty: Hard
 - Topics: Dynamic Programming, Tree, Depth-First Search, Sorting, Heap (Priority Queue), DP on Trees
-
-## Status
-- [ ] Solution

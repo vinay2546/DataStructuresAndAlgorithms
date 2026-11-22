@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/
 - Difficulty: Hard
 - Topics: Graph Theory, Prefix Sum
-
-## Status
-- [ ] Solution

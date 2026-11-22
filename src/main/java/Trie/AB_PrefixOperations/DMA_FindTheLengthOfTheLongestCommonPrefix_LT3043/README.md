@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 - Difficulty: Medium
 - Topics: Array, Hash Table, String, Trie
-
-## Status
-- [ ] Solution

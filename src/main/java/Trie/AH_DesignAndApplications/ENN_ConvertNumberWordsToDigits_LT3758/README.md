@@ -10,6 +10,3 @@ This folder is reserved for the Java solution and problem notes.
 - LeetCode: https://leetcode.com/problems/convert-number-words-to-digits/
 - Difficulty: Medium
 - Topics: String, Trie
-
-## Status
-- [ ] Solution
