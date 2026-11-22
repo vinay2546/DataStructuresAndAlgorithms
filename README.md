@@ -48,3 +48,7 @@ Each data structure maintains its own README and solution organization.
 ## Java Version
 
 Java 17 is the baseline.
+
+## Problem Folder Naming
+
+LeetCode problem folders use the `LT` prefix before the problem number. The format is `XX_ProblemName_LT<number>` (for example, `AD_PlusOne_LT66`). The two-letter sequence identifies the learning order; `LT<number>` identifies the LeetCode problem.
