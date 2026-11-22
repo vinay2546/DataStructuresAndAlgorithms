@@ -2,34 +2,11 @@
 
 Array problems organized by the learning roadmap below. Problems may appear in multiple categories when the same problem reinforces multiple patterns.
 
-## Progress
+<!-- PROBLEM_TRACKER:START -->
+## Progress Overview
 
-**0 solutions implemented** — all current problem folders are placeholders.
-
-| Category | Problems | Solved |
-|---|---:|:---:|
-| Fundamentals | 15 | ⬜ |
-| Traversal | 10 | ⬜ |
-| BasicSearching | 9 | ⬜ |
-| InPlaceManipulation | 15 | ⬜ |
-| TwoPointers | 17 | ⬜ |
-| Hashing | 17 | ⬜ |
-| PrefixSum | 17 | ⬜ |
-| SlidingWindow | 20 | ⬜ |
-| Sorting | 14 | ⬜ |
-| BinarySearch | 23 | ⬜ |
-| KadanesAlgorithm | 9 | ⬜ |
-| PrefixSuffix | 11 | ⬜ |
-| CyclicSort IndexMapping | 8 | ⬜ |
-| Intervals | 15 | ⬜ |
-| Matrix | 16 | ⬜ |
-| MonotonicStack | 15 | ⬜ |
-| HeapArrays | 13 | ⬜ |
-| GreedyArrays | 18 | ⬜ |
-| BacktrackingArrays | 15 | ⬜ |
-| AdvancedRangeQueries | 11 | ⬜ |
-
-**Problem entries:** 288 (including intentional duplication across patterns)
+_This section is generated from the problem statuses in each category README when the workflow runs._
+<!-- PROBLEM_TRACKER:END -->
 
 ## Roadmap
 
