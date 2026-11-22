@@ -1,183 +1,158 @@
 #!/usr/bin/env python3
-"""Regenerate the root README problem tracker from per-problem README metadata."""
-
+"""Generate hierarchical progress trackers from each problem README status."""
 from __future__ import annotations
-
-import os
-import re
-import subprocess
+import os, re, subprocess
 from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 JAVA_ROOT = ROOT / "src" / "main" / "java"
-README = ROOT / "README.md"
-START = "<!-- PROBLEM_TRACKER:START -->"
-END = "<!-- PROBLEM_TRACKER:END -->"
-PROBLEM_DIR = re.compile(r".+_LT\d+$")
+ROOT_README = ROOT / "README.md"
+START, END = "<!-- PROBLEM_TRACKER:START -->", "<!-- PROBLEM_TRACKER:END -->"
+PROBLEM_DIR = re.compile(r".+_LT(\d+)$")
 STATUS_LINE = re.compile(r"^\s*\*\*Status:\*\*\s*(.*?)\s*$", re.IGNORECASE)
-LEGACY_STATUSES = {"placeholder": "Not Started"}
+STATUS_ICON = {"Solved": "🟩", "In Progress": "🟨", "Not Started": "⬜"}
 
-
-def git_names(base: str, head: str) -> list[str]:
-    """Return changed paths for this push, or the latest commit for manual runs."""
+def git_names(base, head):
     if base and not re.fullmatch(r"0+", base):
-        command = ["git", "diff", "--name-only", "--diff-filter=ACMR", base, head]
+        cmd = ["git", "diff", "--name-only", "--diff-filter=ACMR", base, head]
     else:
-        command = ["git", "diff-tree", "--no-commit-id", "--name-only", "-r", head]
-    result = subprocess.run(command, cwd=ROOT, check=True, text=True, capture_output=True)
-    return [line.strip() for line in result.stdout.splitlines() if line.strip()]
+        cmd = ["git", "diff-tree", "--no-commit-id", "--name-only", "-r", head]
+    out = subprocess.run(cmd, cwd=ROOT, check=True, text=True, capture_output=True)
+    return [x.strip() for x in out.stdout.splitlines() if x.strip()]
 
-
-def problem_folders() -> list[Path]:
-    if not JAVA_ROOT.exists():
-        return []
-    return sorted(
-        (path for path in JAVA_ROOT.rglob("*") if path.is_dir() and PROBLEM_DIR.fullmatch(path.name)),
-        key=lambda path: path.as_posix().lower(),
-    )
-
-
-def read_status(problem_dir: Path) -> tuple[str, str]:
-    readme = problem_dir / "README.md"
+def read_status(folder):
+    readme = folder / "README.md"
     if not readme.is_file():
-        return "Not Started", problem_dir.name
-
+        return "Not Started", folder.name
     content = readme.read_text(encoding="utf-8")
-    title_match = re.search(r"^#\s+(.+?)\s*$", content, re.MULTILINE)
-    title = title_match.group(1).strip() if title_match else problem_dir.name
-    status_match = STATUS_LINE.search(content)
-    if not status_match:
+    match = re.search(r"^#\s+(.+?)\s*$", content, re.MULTILINE)
+    title = match.group(1).strip() if match else folder.name
+    match = STATUS_LINE.search(content)
+    if not match:
         return "Not Started", title
-
-    raw_status = status_match.group(1).strip()
-    normalized = raw_status.casefold()
-    if normalized in LEGACY_STATUSES:
-        return LEGACY_STATUSES[normalized], title
-    if normalized == "not started":
-        return "Not Started", title
-    if normalized == "in progress":
-        return "In Progress", title
-    if normalized == "solved":
+    value = match.group(1).strip().casefold()
+    if value == "solved":
         return "Solved", title
-
-    # Unknown or malformed status values must never be interpreted as solved.
+    if value == "in progress":
+        return "In Progress", title
     return "Not Started", title
 
-
-def markdown_cell(value: str) -> str:
+def safe(value):
     return value.replace("|", r"\|").replace("\n", " ").strip()
 
+def stats(items):
+    result = {"Total": len(items), "Solved": 0, "In Progress": 0, "Not Started": 0}
+    for item in items:
+        result[item["status"]] += 1
+    return result
 
-def render_tracker(folders: list[Path], changed_paths: list[str]) -> str:
-    totals: dict[str, dict[str, int]] = defaultdict(
-        lambda: {"Total": 0, "Solved": 0, "In Progress": 0, "Not Started": 0}
-    )
-    details: dict[str, tuple[str, str, str]] = {}
-    overall = {"Total": 0, "Solved": 0, "In Progress": 0, "Not Started": 0}
+def pct(counts):
+    return f"{counts['Solved'] / counts['Total'] * 100:.1f}%" if counts["Total"] else "0.0%"
 
-    for folder in folders:
-        relative = folder.relative_to(JAVA_ROOT)
-        data_structure = relative.parts[0] if relative.parts else "Other"
-        status, title = read_status(folder)
-        totals[data_structure]["Total"] += 1
-        totals[data_structure][status] += 1
-        overall["Total"] += 1
-        overall[status] += 1
+def problem_table(items):
+    lines = ["| Problem | LeetCode | Status |", "|---|---:|---|"]
+    for item in sorted(items, key=lambda x: x["folder"].name.lower()):
+        match = PROBLEM_DIR.fullmatch(item["folder"].name)
+        number = match.group(1) if match else "—"
+        link = (item["folder"] / "README.md").relative_to(ROOT).as_posix()
+        lines.append(f"| [{safe(item['title'])}]({link}) | #{number} | {STATUS_ICON[item['status']]} {item['status']} |")
+    return lines
 
-        readme = folder / "README.md"
-        target = readme if readme.is_file() else folder / "Solution.java"
-        if target.is_file():
-            link = target.relative_to(ROOT).as_posix()
-        else:
-            link = folder.relative_to(ROOT).as_posix()
-        details[folder.relative_to(ROOT).as_posix()] = (title, status, link)
-
-    completion = overall["Solved"] / overall["Total"] * 100 if overall["Total"] else 0
-    lines = [
-        "## Problem Progress Tracker",
-        "",
-        "This section is generated automatically by GitHub Actions from each problem folder's README.md.",
-        "Update the **Status:** line in a problem README to Not Started, In Progress, or Solved.",
-        "Legacy Placeholder values, missing READMEs, and unrecognized status values are counted as Not Started.",
-        "",
-        f"**Overall:** {overall['Solved']} / {overall['Total']} solved ({completion:.1f}% complete) · "
-        f"{overall['In Progress']} in progress · {overall['Not Started']} not started",
-        "",
-        "| Data Structure | Total | Solved | In Progress | Not Started | Completion |",
-        "|---|---:|---:|---:|---:|---:|",
-    ]
-
-    for name in sorted(totals):
-        counts = totals[name]
-        percent = counts["Solved"] / counts["Total"] * 100 if counts["Total"] else 0
-        lines.append(
-            f"| [{name}](src/main/java/{name}/README.md) | {counts['Total']} | "
-            f"{counts['Solved']} | {counts['In Progress']} | {counts['Not Started']} | {percent:.1f}% |"
-        )
-
-    lines.extend(["", "### Recently changed problems", ""])
-    changed_problem_dirs: list[Path] = []
-    seen: set[str] = set()
-    for changed in changed_paths:
-        path = Path(changed)
-        if path.parts[:3] != ("src", "main", "java"):
-            continue
-        candidate = None
-        for index, part in enumerate(path.parts):
-            if PROBLEM_DIR.fullmatch(part):
-                candidate = Path(*path.parts[: index + 1])
-                break
-        if candidate is None:
-            continue
-        key = candidate.as_posix()
-        if key not in seen:
-            seen.add(key)
-            changed_problem_dirs.append(ROOT / candidate)
-
-    if changed_problem_dirs:
-        for folder in changed_problem_dirs[:12]:
-            key = folder.relative_to(ROOT).as_posix()
-            item = details.get(key)
-            if item:
-                title, status, link = item
-                lines.append(f"- [{markdown_cell(title)}]({link}) — {status}")
-        if len(changed_problem_dirs) > 12:
-            lines.append(f"- And {len(changed_problem_dirs) - 12} more changed problem folders.")
+def replace_section(path, generated, insertion_heading=None, replace_heading=None):
+    current = path.read_text(encoding="utf-8") if path.exists() else f"# {path.parent.name}\n"
+    if START in current and END in current:
+        before, tail = current.split(START, 1)
+        _, after = tail.split(END, 1)
+        updated = f"{before}{START}\n{generated}\n{END}{after}"
+    elif replace_heading and replace_heading in current:
+        before, _ = current.split(replace_heading, 1)
+        updated = f"{before}{START}\n{generated}\n{END}\n"
+    elif insertion_heading and insertion_heading in current:
+        updated = current.replace(insertion_heading, f"{START}\n{generated}\n{END}\n\n{insertion_heading}", 1)
     else:
-        lines.append("- No problem-folder changes were detected in the triggering commit.")
+        updated = current.rstrip() + f"\n\n{START}\n{generated}\n{END}\n"
+    if updated != current:
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(updated, encoding="utf-8")
+        return 1
+    return 0
 
-    lines.extend([
-        "",
-        "<sub>Counts include every directory ending in _LT<number>. Status is never inferred from Java source code.</sub>",
-    ])
+def discover():
+    by_structure = defaultdict(list)
+    by_category = defaultdict(lambda: defaultdict(list))
+    for structure_dir in sorted(p for p in JAVA_ROOT.iterdir() if p.is_dir()):
+        for category_dir in sorted(p for p in structure_dir.iterdir() if p.is_dir()):
+            for folder in sorted(p for p in category_dir.iterdir() if p.is_dir() and PROBLEM_DIR.fullmatch(p.name)):
+                status, title = read_status(folder)
+                item = {"folder": folder, "title": title, "status": status}
+                by_structure[structure_dir.name].append(item)
+                by_category[structure_dir.name][category_dir.name].append(item)
+    return by_structure, by_category
+
+def category_section(items):
+    c = stats(items)
+    lines = [
+        f"### Progress: {c['Solved']} / {c['Total']} solved ({pct(c)})", "",
+        f"🟩 Solved: {c['Solved']} · 🟨 In Progress: {c['In Progress']} · ⬜ Not Started: {c['Not Started']}", "",
+        "Change the Status field in an individual problem README to update this tracker.", "",
+        *problem_table(items)
+    ]
     return "\n".join(lines)
 
+def structure_section(structure, categories):
+    all_items = [p for group in categories.values() for p in group]
+    c = stats(all_items)
+    lines = [
+        "## Progress Overview", "",
+        f"**{c['Solved']} / {c['Total']} problem placements solved ({pct(c)})**", "",
+        f"🟩 Solved: {c['Solved']} · 🟨 In Progress: {c['In Progress']} · ⬜ Not Started: {c['Not Started']}", "",
+        "| Category | Total | Solved | In Progress | Not Started | Completion |",
+        "|---|---:|---:|---:|---:|---:|"
+    ]
+    for category, items in sorted(categories.items()):
+        s = stats(items)
+        label = category[2:].replace("_", " ") if len(category) > 2 else category
+        lines.append(f"| [{label}]({category}/README.md) | {s['Total']} | {s['Solved']} | {s['In Progress']} | {s['Not Started']} | {pct(s)} |")
+    lines += ["", "<sub>Counts represent package placements. Intentional duplicates across categories are counted in each category.</sub>"]
+    return "\n".join(lines)
 
-def main() -> None:
-    folders = problem_folders()
+def root_section(by_structure):
+    all_items = [p for group in by_structure.values() for p in group]
+    c = stats(all_items)
+    lines = [
+        "## DSA Progress Overview", "",
+        f"**{c['Solved']} / {c['Total']} problem placements solved ({pct(c)})**", "",
+        f"🟩 Solved: {c['Solved']} · 🟨 In Progress: {c['In Progress']} · ⬜ Not Started: {c['Not Started']}", "",
+        "| Data Structure | Total | Solved | In Progress | Not Started | Completion |",
+        "|---|---:|---:|---:|---:|---:|"
+    ]
+    for name, items in sorted(by_structure.items()):
+        s = stats(items)
+        lines.append(f"| [{name}](src/main/java/{name}/README.md) | {s['Total']} | {s['Solved']} | {s['In Progress']} | {s['Not Started']} | {pct(s)} |")
+    lines += [
+        "", "<sub>Counts represent package placements, not unique LeetCode IDs. Intentional duplicates are counted in each category.</sub>", "",
+        "Update the Status field in an individual problem README using Not Started, In Progress, or Solved. Legacy Placeholder, missing README files, and unknown values count as Not Started."
+    ]
+    return "\n".join(lines)
+
+def main():
     base = os.environ.get("BASE_SHA", "").strip()
     head = os.environ.get("HEAD_SHA", "").strip() or "HEAD"
-    changed_paths = git_names(base, head)
-
-    current = README.read_text(encoding="utf-8")
-    generated = render_tracker(folders, changed_paths)
-    if START in current and END in current:
-        before, remainder = current.split(START, 1)
-        _, after = remainder.split(END, 1)
-        updated = f"{before}{START}\n{generated}\n{END}{after}"
-    else:
-        anchor = "## Trie learning progression"
-        if anchor not in current:
-            raise RuntimeError(f"Could not find insertion anchor {anchor!r} in root README.md")
-        updated = current.replace(anchor, f"{START}\n{generated}\n{END}\n\n{anchor}", 1)
-
-    if updated != current:
-        README.write_text(updated, encoding="utf-8")
-        print(f"Updated tracker for {len(folders)} problem folders.")
-    else:
-        print(f"Tracker already up to date for {len(folders)} problem folders.")
-
+    changed = git_names(base, head)
+    by_structure, by_category = discover()
+    updated = 0
+    for structure, categories in by_category.items():
+        for category, items in categories.items():
+            updated += replace_section(JAVA_ROOT / structure / category / "README.md",
+                                       category_section(items), replace_heading="## Problems")
+    for structure, categories in by_category.items():
+        updated += replace_section(JAVA_ROOT / structure / "README.md",
+                                   structure_section(structure, categories), insertion_heading="## Roadmap")
+    updated += replace_section(ROOT_README, root_section(by_structure),
+                               insertion_heading="## Trie learning progression")
+    print(f"Scanned {sum(map(len, by_structure.values()))} problem folders, {len(by_structure)} data structures, {sum(len(x) for x in by_category.values())} categories.")
+    print(f"Updated {updated} tracker sections; {len(changed)} paths changed in triggering push.")
 
 if __name__ == "__main__":
     main()
