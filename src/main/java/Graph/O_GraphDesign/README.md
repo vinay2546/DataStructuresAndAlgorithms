@@ -2,9 +2,6 @@
 
 Graph data-structure and graph API design, including shortest-path query abstractions.
 
-## Problem Count
-
-**0 problem entries**
 
 ## Learning Focus
 
