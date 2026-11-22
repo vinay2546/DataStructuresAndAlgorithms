@@ -1,8 +1,8 @@
 # Find First And Last Position Of Element In Sorted Array — 34
 
-**Data Structure:** Array  
-**Pattern:** BinarySearch  
-**LeetCode:** #34  
-**Status:** Placeholder
+**Data Structure:** Array
+**Pattern:** BinarySearch
+**LeetCode:** #34
+**Status:** Not Started
 
 This folder is reserved for the Java solution and problem notes.

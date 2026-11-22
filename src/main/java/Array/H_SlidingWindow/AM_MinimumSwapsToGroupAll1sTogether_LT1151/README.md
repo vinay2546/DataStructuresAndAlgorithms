@@ -1,8 +1,8 @@
 # Minimum Swaps To Group All1s Together — 1151
 
-**Data Structure:** Array  
-**Pattern:** SlidingWindow  
-**LeetCode:** #1151  
-**Status:** Placeholder
+**Data Structure:** Array
+**Pattern:** SlidingWindow
+**LeetCode:** #1151
+**Status:** Not Started
 
 This folder is reserved for the Java solution and problem notes.

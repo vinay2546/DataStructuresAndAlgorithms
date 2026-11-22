@@ -1,8 +1,8 @@
 # Find The Middle Index In Array — 1991
 
-**Data Structure:** Array  
-**Pattern:** PrefixSum  
-**LeetCode:** #1991  
-**Status:** Placeholder
+**Data Structure:** Array
+**Pattern:** PrefixSum
+**LeetCode:** #1991
+**Status:** Not Started
 
 This folder is reserved for the Java solution and problem notes.
