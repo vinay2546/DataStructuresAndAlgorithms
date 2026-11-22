@@ -22,11 +22,7 @@ Java-based Data Structures and Algorithms solutions, organized by data structure
 <!-- PROBLEM_TRACKER:START -->
 ## Problem Progress Tracker
 
-This section is generated automatically by GitHub Actions from each problem folder's README.md.
-Update the **Status:** line in a problem README to Not Started, In Progress, or Solved.
-Legacy Placeholder values, missing READMEs, and unrecognized status values are counted as Not Started.
-
-_The tracker will be populated automatically when this workflow first runs on main._
+The root tracker summarizes progress by data structure. Detailed problem and category trackers live in each data-structure README.
 <!-- PROBLEM_TRACKER:END -->
 
 ## Trie learning progression
