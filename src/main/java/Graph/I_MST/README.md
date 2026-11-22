@@ -2,9 +2,6 @@
 
 Minimum spanning trees using Kruskal/Prim and advanced spanning-tree constraints.
 
-## Problem Count
-
-**7 problem entries**
 
 ## Learning Focus
 
