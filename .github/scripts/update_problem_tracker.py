@@ -85,7 +85,7 @@ def normalize_problem_readme(folder: Path) -> bool:
         structure_match and structure_match.group(1).strip()
         and pattern_match and pattern_match.group(1).strip()
         and LEETCODE_LINE.search(original)
-        and status_match and status in {"Solved", "In Progress", "Not Started"}
+        and status_match and raw_status in {"solved", "in progress", "not started"}
         and RESERVED_LINE.search(original)
     ):
         return False
@@ -94,6 +94,18 @@ def normalize_problem_readme(folder: Path) -> bool:
     # LeetCode links, difficulty/topics, solution notes, and all other authored content.
     remainder = METADATA_LINE.sub("", original)
     remainder = RESERVED_LINE.sub("", remainder)
+    # The legacy checklist-only Status section is superseded by the single metadata status field.
+    legacy_status = re.search(
+        r"^##\s+Status\s*$([\s\S]*?)(?=^##\s+|\Z)",
+        remainder,
+        re.IGNORECASE | re.MULTILINE,
+    )
+    if legacy_status and re.fullmatch(
+        r"\s*(?:[-*]\s*\[[ xX]\]\s*Solution\s*)+",
+        legacy_status.group(1),
+        re.IGNORECASE,
+    ):
+        remainder = remainder[:legacy_status.start()] + remainder[legacy_status.end():]
     lines = remainder.splitlines()
     heading_index = next((i for i, line in enumerate(lines) if re.match(r"^#\s+", line)), None)
     if heading_index is None:
