@@ -1,27 +1,13 @@
 # 112. Path Sum
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #112
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #112  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 112](https://leetcode.com/problems/path-sum/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ Implementation not added yet. The folder is ready for the solution.
 - **Time:** —
 - **Space:** —
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/submissions/2152524967/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AM
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/submissions/2152524967/)

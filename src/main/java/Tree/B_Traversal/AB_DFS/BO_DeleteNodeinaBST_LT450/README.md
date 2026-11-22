@@ -1,27 +1,13 @@
 # 450. Delete Nodeina BST
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #450
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #450  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 450](https://leetcode.com/problems/delete-node-in-a-bst/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** BO
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

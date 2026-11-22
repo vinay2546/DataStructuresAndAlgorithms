@@ -1,27 +1,13 @@
 # 559. Maximum Depth Of NAry Tree
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #559
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #559  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 559](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
-
-## Status
-
-**Implemented**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ N-ary BFS by level and increment the depth after each level.
 - **Time:** O(n)
 - **Space:** O(w)
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/submissions/2155461589/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AS
+
+## Additional Notes
+
+### Status
+
+**Implemented**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/submissions/2155461589/)

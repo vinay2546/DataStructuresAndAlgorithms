@@ -1,27 +1,13 @@
 # 1609. Even Odd Tree
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #1609
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #1609  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 1609](https://leetcode.com/problems/even-odd-tree/)
-
-## Status
-
-**Implemented**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ Process level buffers while checking parity and strict ordering rules.
 - **Time:** O(n)
 - **Space:** O(n)
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/even-odd-tree/submissions/2155449658/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AO
+
+## Additional Notes
+
+### Status
+
+**Implemented**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/even-odd-tree/submissions/2155449658/)

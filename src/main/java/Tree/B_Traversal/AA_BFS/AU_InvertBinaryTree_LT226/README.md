@@ -1,27 +1,13 @@
 # 226. Invert Binary Tree
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #226
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #226  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 226](https://leetcode.com/problems/invert-binary-tree/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AU
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**

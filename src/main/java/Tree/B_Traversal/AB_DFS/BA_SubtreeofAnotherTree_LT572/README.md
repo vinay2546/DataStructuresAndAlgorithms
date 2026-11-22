@@ -1,27 +1,13 @@
 # 572. Subtreeof Another Tree
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #572
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #572  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 572](https://leetcode.com/problems/subtree-of-another-tree/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** BA
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

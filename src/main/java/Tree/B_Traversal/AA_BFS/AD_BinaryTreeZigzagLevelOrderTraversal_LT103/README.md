@@ -1,27 +1,13 @@
 # 103. Binary Tree Zigzag Level Order Traversal
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #103
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #103  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
-
-## Status
-
-**Implemented**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ BFS by level with alternating direction; reverse levels currently use `add(0, va
 - **Time:** O(n²) worst case
 - **Space:** O(w)
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2154969972/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AD
+
+## Additional Notes
+
+### Status
+
+**Implemented**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2154969972/)

@@ -1,27 +1,13 @@
 # 968. Binary Tree Cameras
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #968
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #968  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 968](https://leetcode.com/problems/binary-tree-cameras/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** CG
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

@@ -1,27 +1,13 @@
 # 654. Maximum Binary Tree
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #654
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #654  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 654](https://leetcode.com/problems/maximum-binary-tree/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** BV
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

@@ -1,27 +1,13 @@
 # 872. Leaf Similar Trees
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #872
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #872  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 872](https://leetcode.com/problems/leaf-similar-trees/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ Implementation not added yet. The folder is ready for the solution.
 - **Time:** —
 - **Space:** —
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/find-bottom-left-tree-value/submissions/2155469403/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AK
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/find-bottom-left-tree-value/submissions/2155469403/)

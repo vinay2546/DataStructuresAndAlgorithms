@@ -1,27 +1,13 @@
 # 563. Binary Tree Tilt
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #563
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #563  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 563](https://leetcode.com/problems/binary-tree-tilt/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** CE
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

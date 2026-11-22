@@ -1,27 +1,13 @@
 # 965. Univalued Binary Tree
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #965
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #965  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 965](https://leetcode.com/problems/univalued-binary-tree/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ Implementation not added yet. The folder is ready for the solution.
 - **Time:** —
 - **Space:** —
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/cousins-in-binary-tree/submissions/2152918531/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AL
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/cousins-in-binary-tree/submissions/2152918531/)

@@ -1,27 +1,13 @@
 # 94. Binary Tree Inorder Traversal
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #94
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #94  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 94](https://leetcode.com/problems/binary-tree-inorder-traversal/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ Implementation not added yet. The folder is ready for the solution.
 - **Time:** —
 - **Space:** —
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/submissions/2150304031/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AB
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/submissions/2150304031/)

@@ -1,27 +1,13 @@
 # 110. Balanced Binary Tree
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #110
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #110  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 110](https://leetcode.com/problems/balanced-binary-tree/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ Implementation not added yet. The folder is ready for the solution.
 - **Time:** —
 - **Space:** —
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2155467547/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AJ
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2155467547/)

@@ -1,27 +1,13 @@
 # 617. Merge Two Binary Trees
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #617
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #617  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 617](https://leetcode.com/problems/merge-two-binary-trees/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** BZ
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

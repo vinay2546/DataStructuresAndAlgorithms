@@ -1,27 +1,13 @@
 # 993. Cousins In Binary Tree
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #993
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #993  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 993](https://leetcode.com/problems/cousins-in-binary-tree/)
-
-## Status
-
-**Implemented**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ BFS by level; detect whether x and y share a level while rejecting the sibling c
 - **Time:** O(n)
 - **Space:** O(w)
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/cousins-in-binary-tree/submissions/2152918531/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AL
+
+## Additional Notes
+
+### Status
+
+**Implemented**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/cousins-in-binary-tree/submissions/2152918531/)

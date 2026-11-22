@@ -1,27 +1,13 @@
 # 590. Nary Tree Postorder Traversal
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #590
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #590  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 590](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ Implementation not added yet. The folder is ready for the solution.
 - **Time:** —
 - **Space:** —
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/2152323987/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AE
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/2152323987/)

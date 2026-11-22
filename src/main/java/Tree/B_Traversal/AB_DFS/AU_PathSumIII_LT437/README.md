@@ -1,27 +1,13 @@
 # 437. Path Sum III
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #437
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #437  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 437](https://leetcode.com/problems/path-sum-iii/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AU
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

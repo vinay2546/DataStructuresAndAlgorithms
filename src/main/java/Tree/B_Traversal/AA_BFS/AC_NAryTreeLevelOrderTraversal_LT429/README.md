@@ -1,27 +1,13 @@
 # 429. NAry Tree Level Order Traversal
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #429
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #429  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 429](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
-
-## Status
-
-**Implemented**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ N-ary BFS; process one level at a time and enqueue all children.
 - **Time:** O(n)
 - **Space:** O(w)
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/n-ary-tree-level-order-traversal/submissions/2155455624/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AC
+
+## Additional Notes
+
+### Status
+
+**Implemented**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/n-ary-tree-level-order-traversal/submissions/2155455624/)

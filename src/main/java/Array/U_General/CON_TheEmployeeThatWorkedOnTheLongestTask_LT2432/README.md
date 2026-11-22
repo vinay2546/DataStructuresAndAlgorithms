@@ -1,12 +1,29 @@
 # 2432. The Employee That Worked on the Longest Task
 
-**Data Structure:** Array
-**Pattern:** General
-**LeetCode:** #2432
+**Data Structure:** Array  
+**Pattern:** General  
+**LeetCode:** #2432  
 **Status:** Not Started
 
-This folder is reserved for the Java solution and problem notes.
+## Problem
 
 - LeetCode: https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/
 - Difficulty: Easy
 - Topics: Array
+
+## Approach
+
+Add a brief explanation of the chosen approach.
+
+## Algorithm
+
+1. Add the solution steps.
+
+## Complexity
+
+- **Time:** Add time complexity.
+- **Space:** Add space complexity.
+
+## Solution
+
+See [Solution.java](./Solution.java).

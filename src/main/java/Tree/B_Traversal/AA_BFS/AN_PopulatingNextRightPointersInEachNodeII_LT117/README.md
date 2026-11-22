@@ -1,27 +1,13 @@
 # 117. Populating Next Right Pointers In Each Node II
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #117
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #117  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 117](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
-
-## Status
-
-**Implemented**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ BFS each level and link consecutive nodes using the `next` pointer for a non-per
 - **Time:** O(n)
 - **Space:** O(w)
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/submissions/2154992678/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AN
+
+## Additional Notes
+
+### Status
+
+**Implemented**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/submissions/2154992678/)

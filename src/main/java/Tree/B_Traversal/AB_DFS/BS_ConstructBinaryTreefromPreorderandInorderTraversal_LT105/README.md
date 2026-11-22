@@ -1,27 +1,13 @@
 # 105. Construct Binary Treefrom Preorderand Inorder Traversal
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #105
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #105  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** BS
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

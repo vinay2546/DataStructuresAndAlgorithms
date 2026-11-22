@@ -1,27 +1,13 @@
 # 108. Convert Sorted Arrayto Binary Search Tree
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #108
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #108  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** BJ
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

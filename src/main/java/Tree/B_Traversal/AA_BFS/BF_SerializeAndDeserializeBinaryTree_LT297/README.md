@@ -1,27 +1,13 @@
 # 297. Serialize And Deserialize Binary Tree
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #297
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #297  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** BF
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**

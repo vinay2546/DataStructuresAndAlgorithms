@@ -1,27 +1,13 @@
 # 2583. Kth Largest Sum In ABinary Tree
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #2583
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #2583  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)
-
-## Status
-
-**Implemented**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ BFS to calculate every level sum, sort the sums, then select the k-th largest.
 - **Time:** O(n + h log h)
 - **Space:** O(n)
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/submissions/2153520262/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AI
+
+## Additional Notes
+
+### Status
+
+**Implemented**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/submissions/2153520262/)

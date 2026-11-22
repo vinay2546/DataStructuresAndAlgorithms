@@ -1,27 +1,13 @@
 # 2246. Longest Path With Different Adjacent Characters
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #2246
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #2246  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 2246](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** CM
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

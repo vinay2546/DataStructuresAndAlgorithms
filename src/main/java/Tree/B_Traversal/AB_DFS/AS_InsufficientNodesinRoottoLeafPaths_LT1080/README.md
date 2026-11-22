@@ -1,27 +1,13 @@
 # 1080. Insufficient Nodesin Rootto Leaf Paths
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #1080
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #1080  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ Implementation not added yet. The folder is ready for the solution.
 - **Time:** —
 - **Space:** —
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/submissions/2155461589/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AS
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/submissions/2155461589/)

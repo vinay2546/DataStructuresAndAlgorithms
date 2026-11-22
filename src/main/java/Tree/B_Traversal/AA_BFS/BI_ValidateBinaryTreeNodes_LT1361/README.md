@@ -1,27 +1,13 @@
 # 1361. Validate Binary Tree Nodes
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #1361
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #1361  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 1361](https://leetcode.com/problems/validate-binary-tree-nodes/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** BI
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**

@@ -1,27 +1,13 @@
 # 919. Complete Binary Tree Inserter
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #919
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #919  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 919](https://leetcode.com/problems/complete-binary-tree-inserter/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** BH
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**

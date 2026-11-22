@@ -1,27 +1,13 @@
 # 834. Sumof Distancesin Tree
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #834
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #834  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 834](https://leetcode.com/problems/sum-of-distances-in-tree/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** CN
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

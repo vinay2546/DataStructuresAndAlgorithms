@@ -1,12 +1,29 @@
 # 2097. Valid Arrangement of Pairs
 
-**Data Structure:** Graph
-**Pattern:** TopologicalSort
-**LeetCode:** #2097
+**Data Structure:** Graph  
+**Pattern:** TopologicalSort  
+**LeetCode:** #2097  
 **Status:** Not Started
 
-This folder is reserved for the Java solution and problem notes.
+## Problem
 
 - LeetCode: https://leetcode.com/problems/valid-arrangement-of-pairs/
 - Difficulty: Hard
 - Topics: Array, Depth-First Search, Graph Theory, Eulerian Circuit, Eulerian Path, Semi-Eulerian Graph
+
+## Approach
+
+Add a brief explanation of the chosen approach.
+
+## Algorithm
+
+1. Add the solution steps.
+
+## Complexity
+
+- **Time:** Add time complexity.
+- **Space:** Add space complexity.
+
+## Solution
+
+See [Solution.java](./Solution.java).

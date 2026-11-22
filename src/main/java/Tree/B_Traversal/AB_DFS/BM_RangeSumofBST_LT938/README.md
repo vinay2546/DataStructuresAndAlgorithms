@@ -1,27 +1,13 @@
 # 938. Range Sumof BST
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #938
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #938  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 938](https://leetcode.com/problems/range-sum-of-bst/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** BM
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

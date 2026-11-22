@@ -1,27 +1,13 @@
 # 1367. Linked Listin Binary Tree
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #1367
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #1367  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 1367](https://leetcode.com/problems/linked-list-in-binary-tree/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** BC
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

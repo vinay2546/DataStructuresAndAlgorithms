@@ -1,12 +1,29 @@
 # 3073. Maximum Increasing Triplet Value
 
-**Data Structure:** Array
-**Pattern:** General
-**LeetCode:** #3073
+**Data Structure:** Array  
+**Pattern:** General  
+**LeetCode:** #3073  
 **Status:** Not Started
 
-This folder is reserved for the Java solution and problem notes.
+## Problem
 
 - LeetCode: https://leetcode.com/problems/maximum-increasing-triplet-value/
 - Difficulty: Medium
 - Topics: Array, Ordered Set
+
+## Approach
+
+Add a brief explanation of the chosen approach.
+
+## Algorithm
+
+1. Add the solution steps.
+
+## Complexity
+
+- **Time:** Add time complexity.
+- **Space:** Add space complexity.
+
+## Solution
+
+See [Solution.java](./Solution.java).

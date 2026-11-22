@@ -1,27 +1,13 @@
 # 538. Convert BSTto Greater Tree
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #538
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #538  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 538](https://leetcode.com/problems/convert-bst-to-greater-tree/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** BQ
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

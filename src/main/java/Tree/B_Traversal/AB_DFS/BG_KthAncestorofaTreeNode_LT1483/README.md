@@ -1,27 +1,13 @@
 # 1483. Kth Ancestorofa Tree Node
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #1483
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #1483  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 1483](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** BG
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

@@ -1,12 +1,29 @@
 # 3597. Partition String
 
-**Data Structure:** Trie
-**Pattern:** TrieStringDP
-**LeetCode:** #3597
+**Data Structure:** Trie  
+**Pattern:** TrieStringDP  
+**LeetCode:** #3597  
 **Status:** Not Started
 
-This folder is reserved for the Java solution and problem notes.
+## Problem
 
 - LeetCode: https://leetcode.com/problems/partition-string/
 - Difficulty: Medium
 - Topics: Hash Table, String, Trie, Simulation
+
+## Approach
+
+Add a brief explanation of the chosen approach.
+
+## Algorithm
+
+1. Add the solution steps.
+
+## Complexity
+
+- **Time:** Add time complexity.
+- **Space:** Add space complexity.
+
+## Solution
+
+See [Solution.java](./Solution.java).

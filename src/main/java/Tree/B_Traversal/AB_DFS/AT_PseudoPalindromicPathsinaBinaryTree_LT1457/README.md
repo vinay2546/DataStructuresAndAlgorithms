@@ -1,27 +1,13 @@
 # 1457. Pseudo Palindromic Pathsina Binary Tree
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #1457
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #1457  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ Implementation not added yet. The folder is ready for the solution.
 - **Time:** —
 - **Space:** —
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/add-one-row-to-tree/submissions/2156080443/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AT
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/add-one-row-to-tree/submissions/2156080443/)

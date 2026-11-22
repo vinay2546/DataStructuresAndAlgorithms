@@ -1,27 +1,13 @@
 # 589. Nary Tree Preorder Traversal
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #589
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #589  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ Implementation not added yet. The folder is ready for the solution.
 - **Time:** —
 - **Space:** —
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2154969972/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AD
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2154969972/)

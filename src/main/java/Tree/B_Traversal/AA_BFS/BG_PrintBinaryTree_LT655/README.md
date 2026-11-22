@@ -1,27 +1,13 @@
 # 655. Print Binary Tree
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #655
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #655  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 655](https://leetcode.com/problems/print-binary-tree/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** BG
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**

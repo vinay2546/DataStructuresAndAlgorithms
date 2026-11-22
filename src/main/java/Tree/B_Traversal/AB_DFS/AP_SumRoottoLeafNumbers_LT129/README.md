@@ -1,27 +1,13 @@
 # 129. Sum Rootto Leaf Numbers
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #129
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #129  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 129](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AP
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

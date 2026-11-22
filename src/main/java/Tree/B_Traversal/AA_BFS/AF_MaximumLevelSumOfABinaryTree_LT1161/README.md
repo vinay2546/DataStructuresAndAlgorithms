@@ -1,27 +1,13 @@
 # 1161. Maximum Level Sum Of ABinary Tree
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #1161
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #1161  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 1161](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
-
-## Status
-
-**Implemented**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ BFS by level while tracking the maximum level sum and its level number.
 - **Time:** O(n)
 - **Space:** O(w)
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/submissions/2154927591/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AF
+
+## Additional Notes
+
+### Status
+
+**Implemented**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/submissions/2154927591/)

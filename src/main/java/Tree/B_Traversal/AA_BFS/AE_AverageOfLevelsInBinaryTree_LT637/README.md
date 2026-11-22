@@ -1,27 +1,13 @@
 # 637. Average Of Levels In Binary Tree
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #637
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #637  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 637](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
-
-## Status
-
-**Implemented**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ BFS by level, accumulating the sum and node count to calculate each average.
 - **Time:** O(n)
 - **Space:** O(w)
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/2152323987/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AE
+
+## Additional Notes
+
+### Status
+
+**Implemented**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/2152323987/)

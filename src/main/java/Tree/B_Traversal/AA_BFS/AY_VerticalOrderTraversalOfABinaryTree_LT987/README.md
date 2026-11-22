@@ -1,27 +1,13 @@
 # 987. Vertical Order Traversal Of ABinary Tree
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #987
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #987  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 987](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AY
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**

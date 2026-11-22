@@ -1,27 +1,13 @@
 # 226. Invert Binary Tree
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #226
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #226  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 226](https://leetcode.com/problems/invert-binary-tree/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ Implementation not added yet. The folder is ready for the solution.
 - **Time:** —
 - **Space:** —
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/submissions/2153520262/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AI
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/submissions/2153520262/)

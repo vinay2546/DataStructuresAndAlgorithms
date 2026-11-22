@@ -1,12 +1,29 @@
 # 792. Number of Matching Subsequences
 
-**Data Structure:** Trie
-**Pattern:** WildcardAndPatternSearch
-**LeetCode:** #792
+**Data Structure:** Trie  
+**Pattern:** WildcardAndPatternSearch  
+**LeetCode:** #792  
 **Status:** Not Started
 
-This folder is reserved for the Java solution and problem notes.
+## Problem
 
 - LeetCode: https://leetcode.com/problems/number-of-matching-subsequences/
 - Difficulty: Medium
 - Topics: Array, Hash Table, String, Binary Search, Dynamic Programming, Trie, Sorting
+
+## Approach
+
+Add a brief explanation of the chosen approach.
+
+## Algorithm
+
+1. Add the solution steps.
+
+## Complexity
+
+- **Time:** Add time complexity.
+- **Space:** Add space complexity.
+
+## Solution
+
+See [Solution.java](./Solution.java).

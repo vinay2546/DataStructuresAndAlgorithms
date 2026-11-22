@@ -1,27 +1,13 @@
 # 145. Binary Tree Postorder Traversal
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #145
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #145  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 145](https://leetcode.com/problems/binary-tree-postorder-traversal/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ Implementation not added yet. The folder is ready for the solution.
 - **Time:** —
 - **Space:** —
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/n-ary-tree-level-order-traversal/submissions/2155455624/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AC
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/n-ary-tree-level-order-traversal/submissions/2155455624/)

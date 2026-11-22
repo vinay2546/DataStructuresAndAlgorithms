@@ -1,27 +1,13 @@
 # 1123. Lowest Common Ancestorof Deepest Leaves
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #1123
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #1123  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 1123](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** BF
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

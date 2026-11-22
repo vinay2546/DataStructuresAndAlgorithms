@@ -1,27 +1,13 @@
 # 623. Add One Row To Tree
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #623
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #623  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 623](https://leetcode.com/problems/add-one-row-to-tree/)
-
-## Status
-
-**Implemented**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ BFS to the level above the target, then insert the new row while preserving exis
 - **Time:** O(n)
 - **Space:** O(w)
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/add-one-row-to-tree/submissions/2156080443/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AT
+
+## Additional Notes
+
+### Status
+
+**Implemented**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/add-one-row-to-tree/submissions/2156080443/)

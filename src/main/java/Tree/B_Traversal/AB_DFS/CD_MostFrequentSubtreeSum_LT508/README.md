@@ -1,27 +1,13 @@
 # 508. Most Frequent Subtree Sum
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #508
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #508  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 508](https://leetcode.com/problems/most-frequent-subtree-sum/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** CD
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

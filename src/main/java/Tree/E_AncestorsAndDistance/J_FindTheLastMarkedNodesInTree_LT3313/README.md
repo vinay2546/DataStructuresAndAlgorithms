@@ -1,12 +1,29 @@
 # 3313. Find the Last Marked Nodes in Tree
 
-**Data Structure:** Tree
-**Pattern:** AncestorsAndDistance
-**LeetCode:** #3313
+**Data Structure:** Tree  
+**Pattern:** AncestorsAndDistance  
+**LeetCode:** #3313  
 **Status:** Not Started
 
-This folder is reserved for the Java solution and problem notes.
+## Problem
 
 - LeetCode: https://leetcode.com/problems/find-the-last-marked-nodes-in-tree/
 - Difficulty: Hard
 - Topics: Tree, Depth-First Search
+
+## Approach
+
+Add a brief explanation of the chosen approach.
+
+## Algorithm
+
+1. Add the solution steps.
+
+## Complexity
+
+- **Time:** Add time complexity.
+- **Space:** Add space complexity.
+
+## Solution
+
+See [Solution.java](./Solution.java).

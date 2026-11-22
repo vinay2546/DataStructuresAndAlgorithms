@@ -1,27 +1,13 @@
 # 865. Smallest Subtree With All The Deepest Nodes
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #865
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #865  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 865](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** BD
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**

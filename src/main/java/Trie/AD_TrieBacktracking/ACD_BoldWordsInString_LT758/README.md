@@ -1,12 +1,29 @@
 # 758. Bold Words in String
 
-**Data Structure:** Trie
-**Pattern:** TrieBacktracking
-**LeetCode:** #758
+**Data Structure:** Trie  
+**Pattern:** TrieBacktracking  
+**LeetCode:** #758  
 **Status:** Not Started
 
-This folder is reserved for the Java solution and problem notes.
+## Problem
 
 - LeetCode: https://leetcode.com/problems/bold-words-in-string/
 - Difficulty: Medium
 - Topics: Array, Hash Table, String, Trie, String Matching, Aho–Corasick Algorithm
+
+## Approach
+
+Add a brief explanation of the chosen approach.
+
+## Algorithm
+
+1. Add the solution steps.
+
+## Complexity
+
+- **Time:** Add time complexity.
+- **Space:** Add space complexity.
+
+## Solution
+
+See [Solution.java](./Solution.java).

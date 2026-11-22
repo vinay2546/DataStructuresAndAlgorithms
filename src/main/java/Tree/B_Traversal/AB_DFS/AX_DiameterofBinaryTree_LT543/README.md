@@ -1,27 +1,13 @@
 # 543. Diameterof Binary Tree
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #543
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #543  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 543](https://leetcode.com/problems/diameter-of-binary-tree/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AX
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

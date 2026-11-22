@@ -1,27 +1,13 @@
 # 102. Binary Tree Level Order Traversal
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #102
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #102  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 102](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-
-## Status
-
-**Implemented**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ Level-order traversal with a queue; process the current queue size as one level 
 - **Time:** O(n)
 - **Space:** O(w)
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2150300592/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AA
+
+## Additional Notes
+
+### Status
+
+**Implemented**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2150300592/)

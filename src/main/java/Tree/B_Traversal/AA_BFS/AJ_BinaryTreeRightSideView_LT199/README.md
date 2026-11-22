@@ -1,27 +1,13 @@
 # 199. Binary Tree Right Side View
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #199
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #199  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 199](https://leetcode.com/problems/binary-tree-right-side-view/)
-
-## Status
-
-**Implemented**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -38,10 +24,6 @@ BFS by level and record the last node processed at each level.
 - **Time:** O(n)
 - **Space:** O(w)
 
-## Submission
-
-[View LeetCode submission](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2155467547/)
-
 ## Solution
 
 See [Solution.java](./Solution.java).
@@ -49,3 +31,21 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AJ
+
+## Additional Notes
+
+### Status
+
+**Implemented**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**
+
+### Submission
+
+[View LeetCode submission](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2155467547/)

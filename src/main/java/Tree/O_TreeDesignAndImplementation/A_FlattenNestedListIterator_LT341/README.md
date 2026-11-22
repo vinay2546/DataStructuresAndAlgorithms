@@ -1,12 +1,29 @@
 # 341. Flatten Nested List Iterator
 
-**Data Structure:** Tree
-**Pattern:** TreeDesignAndImplementation
-**LeetCode:** #341
+**Data Structure:** Tree  
+**Pattern:** TreeDesignAndImplementation  
+**LeetCode:** #341  
 **Status:** Not Started
 
-This folder is reserved for the Java solution and problem notes.
+## Problem
 
 - LeetCode: https://leetcode.com/problems/flatten-nested-list-iterator/
 - Difficulty: Medium
 - Topics: Stack, Tree, Depth-First Search, Design, Queue, Iterator
+
+## Approach
+
+Add a brief explanation of the chosen approach.
+
+## Algorithm
+
+1. Add the solution steps.
+
+## Complexity
+
+- **Time:** Add time complexity.
+- **Space:** Add space complexity.
+
+## Solution
+
+See [Solution.java](./Solution.java).

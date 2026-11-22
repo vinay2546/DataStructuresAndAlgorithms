@@ -1,27 +1,13 @@
 # 1245. Tree Diameter
 
-**Data Structure:** Tree
-**Pattern:** DFS
-**LeetCode:** #1245
+**Data Structure:** Tree  
+**Pattern:** DFS  
+**LeetCode:** #1245  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 1245](https://leetcode.com/problems/tree-diameter/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**DFS — Depth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** CJ
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**DFS — Depth-First Search**

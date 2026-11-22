@@ -1,12 +1,29 @@
 # 96. Unique Binary Search Trees
 
-**Data Structure:** Tree
-**Pattern:** BinarySearchTrees
-**LeetCode:** #96
+**Data Structure:** Tree  
+**Pattern:** BinarySearchTrees  
+**LeetCode:** #96  
 **Status:** Not Started
 
-This folder is reserved for the Java solution and problem notes.
+## Problem
 
 - LeetCode: https://leetcode.com/problems/unique-binary-search-trees/
 - Difficulty: Medium
 - Topics: Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree
+
+## Approach
+
+Add a brief explanation of the chosen approach.
+
+## Algorithm
+
+1. Add the solution steps.
+
+## Complexity
+
+- **Time:** Add time complexity.
+- **Space:** Add space complexity.
+
+## Solution
+
+See [Solution.java](./Solution.java).

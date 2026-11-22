@@ -1,27 +1,13 @@
 # 2641. Cousins In Binary Tree II
 
-**Data Structure:** Tree
-**Pattern:** BFS
-**LeetCode:** #2641
+**Data Structure:** Tree  
+**Pattern:** BFS  
+**LeetCode:** #2641  
 **Status:** Not Started
-
-This folder is reserved for the Java solution and problem notes.
 
 ## Problem
 
 [LeetCode 2641](https://leetcode.com/problems/cousins-in-binary-tree-ii/)
-
-## Status
-
-**Placeholder**
-
-## Data Structure
-
-**Tree**
-
-## Pattern
-
-**BFS — Breadth-First Search**
 
 ## Approach
 
@@ -45,3 +31,17 @@ See [Solution.java](./Solution.java).
 ---
 
 **Problem Order:** AP
+
+## Additional Notes
+
+### Status
+
+**Placeholder**
+
+### Data Structure
+
+**Tree**
+
+### Pattern
+
+**BFS — Breadth-First Search**
