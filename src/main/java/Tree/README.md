@@ -28,7 +28,6 @@ Tree problems organized from fundamentals to advanced patterns.
 - Multiple approaches can be documented in a problem README without duplicate folders.
 - Every problem contains README.md and Solution.java.
 
-**266 unique LeetCode Tree problems** are organized across the learning path.
 
 <!-- PROBLEM_TRACKER:START -->
 ## Progress Overview — Tree
