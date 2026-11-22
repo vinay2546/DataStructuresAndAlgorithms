@@ -2,9 +2,6 @@
 
 Grids as implicit graphs: islands, flood fill, multi-source BFS, grid shortest paths, and obstacles.
 
-## Problem Count
-
-**13 problem entries**
 
 ## Learning Focus
 
