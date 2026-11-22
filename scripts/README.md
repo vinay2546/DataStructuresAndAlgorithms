@@ -1,52 +1,36 @@
-# README and Progress Tracker
+# Java README and Progress Tracker
 
-The repository uses `scripts/update_problem_tracker.py` to standardize problem READMEs and regenerate the hierarchical progress trackers.
+The README normalizer and hierarchical progress tracker are implemented in Java at `src/main/java/com/vinay2546/tracker/ProblemTracker.java`.
 
 ## Automatic execution with Maven
 
-The tracker is bound to Maven's `validate` phase. It runs automatically before compilation whenever you execute a lifecycle phase that includes `validate`, for example:
+The tracker is bound to Maven's `process-classes` phase. It runs automatically for lifecycle commands that reach that phase, including:
 
 ```bash
-mvn validate
-mvn test
 mvn package
+mvn test
+mvn verify
+mvn install
 mvn clean package
 ```
 
-On Windows, Maven uses the Python launcher (`py`). On macOS/Linux, it uses `python3` by default. Python 3.10 or newer is required; no third-party Python packages are needed.
+Run Maven from the repository root. The tracker executes after Java compilation and before tests/package creation. It requires only the JDK already needed by this Java repository; **Python is not required**.
 
-If Python is installed under a different executable name or location, override it:
-
-```bash
-mvn package -Dtracker.python.executable=/path/to/python
-```
-
-## Run manually
-
-You can still run the tracker without Maven:
-
-```bash
-python scripts/update_problem_tracker.py
-```
-
-On Windows:
-
-```powershell
-py scripts/update_problem_tracker.py
-```
+`mvn validate` and `mvn compile` do not reach `process-classes`, so they do not run the tracker.
 
 ## What it updates
 
-- Standardizes each problem README using the repository's problem README template.
-- Preserves existing problem-specific explanations and moves unclassified sections under **Additional Notes**.
-- Regenerates the managed progress-tracker sections in the root and relevant directory README files.
+- Standardizes every problem README using the repository's problem README format.
+- Preserves problem-specific explanations and moves unclassified sections under **Additional Notes**.
+- Regenerates managed progress-tracker sections in the root and relevant directory README files.
 - Leaves content outside the generated tracker markers untouched.
+- Counts problem-folder placements, including intentional duplicates, consistently with the existing tracker.
 
-The script only changes local files. It does not create commits, push changes, contact GitHub, or run GitHub Actions.
+The tracker only changes local files. It does not create commits, push changes, contact GitHub, or run GitHub Actions.
 
 ## Review the changes
 
-After a Maven build or manual run, inspect the changes before committing:
+After a Maven build, inspect the generated changes before committing:
 
 ```bash
 git status

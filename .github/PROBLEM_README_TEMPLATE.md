@@ -50,4 +50,4 @@ See [Solution.java](./Solution.java).
 - Keep the standard section order even when a section contains only a placeholder.
 - Preserve useful problem-specific explanations. Put other existing sections under **Additional Notes** rather than deleting them.
 - Link the Java implementation using the relative `Solution.java` link.
-- The README normalizer and progress tracker run automatically during Maven's `validate` phase (for example, `mvn package`). See [`scripts/README.md`](../scripts/README.md) for requirements and manual execution instructions.
+- The Java normalizer and progress tracker run automatically during Maven's `process-classes` phase (for example, `mvn package`). See [`scripts/README.md`](../scripts/README.md) for details.
