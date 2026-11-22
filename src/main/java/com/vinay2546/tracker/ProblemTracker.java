@@ -379,19 +379,43 @@ public final class ProblemTracker {
         String current = Files.isRegularFile(path)
                 ? Files.readString(path, StandardCharsets.UTF_8)
                 : "# " + path.getParent().getFileName() + "\n";
+
         String updated;
         int start = current.indexOf(START);
-        int end = current.indexOf(END);
-        if (start >= 0 && end >= start) {
-            updated = current.substring(0, start) + START + "\n" + generated + "\n" + current.substring(end + END.length());
+        if (start >= 0) {
+            // Replace the complete managed block, including both markers.
+            // Older tracker versions accidentally omitted END while replacing,
+            // so treat an unterminated managed block as extending to EOF.
+            int end = current.indexOf(END, start + START.length());
+            String prefix = current.substring(0, start);
+            String suffix = end >= 0 ? current.substring(end + END.length()) : "";
+            updated = prefix + START + "\n" + generated + "\n" + END + suffix;
+            if (!updated.endsWith("\n")) updated += "\n";
         } else {
-            updated = current.stripTrailing() + "\n\n" + START + "\n" + generated + "\n" + END + "\n";
+            // Migrate legacy unmarked tracker tables instead of appending a
+            // second table beneath them. These headings were emitted by older
+            // versions of this tracker and their generated section occupied
+            // the remainder of the README.
+            int legacyStart = findLegacyTrackerStart(current);
+            String preserved = legacyStart >= 0
+                    ? current.substring(0, legacyStart).stripTrailing()
+                    : current.stripTrailing();
+            updated = preserved + "\n\n" + START + "\n" + generated + "\n" + END + "\n";
         }
+
         updated = withLineEndings(updated, lineEndingOf(current));
         if (updated.equals(current)) return false;
         Files.createDirectories(path.getParent());
         Files.writeString(path, updated, StandardCharsets.UTF_8);
         return true;
+    }
+
+    private static int findLegacyTrackerStart(String content) {
+        Pattern legacyHeading = Pattern.compile(
+                "^##\\s+(?:DSA Progress Overview|Progress Overview(?:\\s+—.*)?)\\s*$",
+                Pattern.MULTILINE);
+        Matcher matcher = legacyHeading.matcher(content);
+        return matcher.find() ? matcher.start() : -1;
     }
 
     /**
