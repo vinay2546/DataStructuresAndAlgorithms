@@ -2,9 +2,6 @@
 
 Cycle detection in directed and undirected graphs, back edges, and structural cycle reasoning.
 
-## Problem Count
-
-**6 problem entries**
 
 ## Learning Focus
 
