@@ -14,7 +14,7 @@ END = "<!-- PROBLEM_TRACKER:END -->"
 # A problem is a leaf directory whose complete name follows this convention:
 # AA_Problem_Description_LT123, AB_Another_Problem_LT456, etc.
 PROBLEM_DIR = re.compile(r"^[A-Z]+_.+_LT(\d+)$")
-STATUS_LINE = re.compile(r"^\s*\*\*Status:\*\*\s*(.*?)\s*$", re.IGNORECASE)
+STATUS_LINE = re.compile(r"^[ \t]*\*\*Status:\*\*[ \t]*(.*?)[ \t]*$", re.IGNORECASE | re.MULTILINE)
 STATUS_ICON = {"Solved": "🟩", "In Progress": "🟨", "Not Started": "⬜"}
 
 
