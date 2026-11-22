@@ -2,9 +2,6 @@
 
 Weighted-edge modeling, graph costs, probability/ratio edges, and specialized weighted transformations.
 
-## Problem Count
-
-**7 problem entries**
 
 ## Learning Focus
 
