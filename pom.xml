@@ -22,7 +22,7 @@
                 <executions>
                     <execution>
                         <id>update-readme-progress-tracker</id>
-                        <phase>process-classes</phase>
+                        <phase>process-test-classes</phase>
                         <goals><goal>java</goal></goals>
                         <configuration>
                             <mainClass>com.vinay2546.tracker.ProblemTracker</mainClass>
@@ -49,7 +49,7 @@
                         <executions>
                             <execution>
                                 <id>reset-all-readmes-before-tracker</id>
-                                <phase>initialize</phase>
+                                <phase>process-classes</phase>
                                 <goals><goal>java</goal></goals>
                                 <configuration>
                                     <mainClass>com.vinay2546.tools.ReadmeResetter</mainClass>

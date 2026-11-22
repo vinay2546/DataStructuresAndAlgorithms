@@ -7,7 +7,7 @@ The repository has two Java utilities:
 
 ## Normal Maven build
 
-The progress tracker runs automatically during Maven's process-classes phase:
+The progress tracker runs automatically during Maven's process-test-classes phase:
 
 ```bash
 mvn clean package
@@ -31,7 +31,7 @@ The resetter:
 - Resets problem statuses to Not Started; old statuses and hand-written notes are not retained.
 - Preserves each README's existing newline convention (CRLF or LF).
 - Skips Git internals and Maven's target directory.
-- Runs in Maven's initialize phase, before the normal progress tracker.
+- Runs in Maven's process-classes phase, after compilation and before the normal progress tracker (process-test-classes).
 
 The reset is opt-in. A normal mvn clean package never activates it. The resetter only changes local files; it does not commit or push anything.
 
