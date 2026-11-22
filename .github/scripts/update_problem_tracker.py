@@ -87,6 +87,7 @@ def normalize_problem_readme(folder: Path) -> bool:
         and LEETCODE_LINE.search(original)
         and status_match and raw_status in {"solved", "in progress", "not started"}
         and RESERVED_LINE.search(original)
+        and not re.search(r"^##\s+Status\s*$", original, re.IGNORECASE | re.MULTILINE)
     ):
         return False
 
