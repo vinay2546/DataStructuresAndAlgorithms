@@ -23,9 +23,9 @@ RESERVED_NOTE = "This folder is reserved for the Java solution and problem notes
 DATA_STRUCTURE_LINE = re.compile(r"^[ \t]*\*\*Data Structure:\*\*[ \t]*(.*?)[ \t]*$", re.IGNORECASE | re.MULTILINE)
 PATTERN_LINE = re.compile(r"^[ \t]*\*\*Pattern:\*\*[ \t]*(.*?)[ \t]*$", re.IGNORECASE | re.MULTILINE)
 LEETCODE_LINE = re.compile(r"^[ \t]*\*\*LeetCode:\*\*[ \t]*#?([0-9]+)[ \t]*$", re.IGNORECASE | re.MULTILINE)
-RESERVED_LINE = re.compile(r"^[ \t]*This folder is reserved for the Java solution and problem notes\\.[ \t]*$", re.IGNORECASE | re.MULTILINE)
+RESERVED_LINE = re.compile(r"^[ \t]*This folder is reserved for the Java solution and problem notes\.[ \t]*$", re.IGNORECASE | re.MULTILINE)
 METADATA_LINE = re.compile(
-    r"^[ \t]*\\*\\*(?:Data Structure|Pattern|LeetCode|Status):\\*\\*.*(?:\\n|$)",
+    r"^[ \t]*\*\*(?:Data Structure|Pattern|LeetCode|Status):\*\*.*(?:\n|$)",
     re.IGNORECASE | re.MULTILINE,
 )
 
@@ -37,12 +37,12 @@ def normalize_problem_readme(folder: Path) -> bool:
 
     number_match = PROBLEM_DIR.fullmatch(folder.name)
     number = number_match.group(1) if number_match else ""
-    title_match = re.search(r"^#\\s+(.+?)\\s*$", original, re.MULTILINE)
+    title_match = re.search(r"^#\s+(.+?)\s*$", original, re.MULTILINE)
     if title_match:
         heading = f"# {title_match.group(1).strip()}"
     else:
         problem_name = re.sub(r"^[A-Z]+_", "", folder.name)
-        problem_name = re.sub(r"_LT\\d+$", "", problem_name)
+        problem_name = re.sub(r"_LT\d+$", "", problem_name)
         problem_name = re.sub(r"(?<=[a-z0-9])(?=[A-Z])", " ", problem_name).replace("_", " ")
         heading = f"# {problem_name} — {number}".rstrip(" —")
 
@@ -71,11 +71,11 @@ def normalize_problem_readme(folder: Path) -> bool:
     }.get(raw_status, "")
     if not status:
         old_status = re.search(
-            r"^##\\s+Status\\s*$([\\s\\S]*?)(?=^##\\s+|\\Z)",
+            r"^##\s+Status\s*$([\s\S]*?)(?=^##\s+|\Z)",
             original,
             re.IGNORECASE | re.MULTILINE,
         )
-        if old_status and re.search(r"\\[[xX]\\]", old_status.group(1)):
+        if old_status and re.search(r"\[[xX]\]", old_status.group(1)):
             status = "Solved"
         else:
             status = "Not Started"
@@ -95,7 +95,7 @@ def normalize_problem_readme(folder: Path) -> bool:
     remainder = METADATA_LINE.sub("", original)
     remainder = RESERVED_LINE.sub("", remainder)
     lines = remainder.splitlines()
-    heading_index = next((i for i, line in enumerate(lines) if re.match(r"^#\\s+", line)), None)
+    heading_index = next((i for i, line in enumerate(lines) if re.match(r"^#\s+", line)), None)
     if heading_index is None:
         lines.insert(0, heading)
         heading_index = 0
@@ -117,7 +117,7 @@ def normalize_problem_readme(folder: Path) -> bool:
     updated_lines = lines[:heading_index + 1] + [""] + metadata + ["", RESERVED_NOTE]
     if tail:
         updated_lines += [""] + tail
-    updated = "\\n".join(updated_lines).rstrip() + "\\n"
+    updated = "\n".join(updated_lines).rstrip() + "\n"
     if updated == original:
         return False
     readme.parent.mkdir(parents=True, exist_ok=True)
