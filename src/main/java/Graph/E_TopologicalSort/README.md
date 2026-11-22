@@ -2,9 +2,6 @@
 
 DAG ordering, prerequisites, dependency resolution, Kahn's algorithm, and DFS ordering.
 
-## Problem Count
-
-**18 problem entries**
 
 ## Learning Focus
 
