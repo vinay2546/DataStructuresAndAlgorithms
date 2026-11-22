@@ -2,9 +2,6 @@
 
 Directed reachability, functional graphs, indegree/outdegree reasoning, and directed state transitions.
 
-## Problem Count
-
-**9 problem entries**
 
 ## Learning Focus
 
