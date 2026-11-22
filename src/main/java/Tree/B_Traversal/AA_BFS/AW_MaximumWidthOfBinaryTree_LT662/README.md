@@ -1,5 +1,12 @@
 # 662. Maximum Width Of Binary Tree
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #662
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 662](https://leetcode.com/problems/maximum-width-of-binary-tree/)

@@ -1,5 +1,12 @@
 # 114. Flatten Binary Treeto Linked List
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #114
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)

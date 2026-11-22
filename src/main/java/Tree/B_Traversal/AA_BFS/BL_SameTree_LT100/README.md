@@ -1,5 +1,12 @@
 # 100. Same Tree
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #100
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 100](https://leetcode.com/problems/same-tree/)

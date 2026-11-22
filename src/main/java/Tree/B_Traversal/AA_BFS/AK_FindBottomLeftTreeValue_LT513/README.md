@@ -1,5 +1,12 @@
 # 513. Find Bottom Left Tree Value
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #513
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 513](https://leetcode.com/problems/find-bottom-left-tree-value/)

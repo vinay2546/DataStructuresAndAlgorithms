@@ -15,8 +15,8 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [AAF_InsertIntoASortedCircularLinkedList_LT708](AAF_InsertIntoASortedCircularLinkedList_LT708/Solution.java) | #708 | ⬜ Not Started |
-| [CXV_SplitACircularLinkedList_LT2674](CXV_SplitACircularLinkedList_LT2674/Solution.java) | #2674 | ⬜ Not Started |
+| [Insert Into ASorted Circular Linked List — 708](AAF_InsertIntoASortedCircularLinkedList_LT708/README.md) | #708 | ⬜ Not Started |
+| [Split ACircular Linked List — 2674](CXV_SplitACircularLinkedList_LT2674/README.md) | #2674 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
 <!-- PROBLEM_TRACKER:END -->

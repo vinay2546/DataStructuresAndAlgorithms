@@ -1,5 +1,12 @@
 # 965. Univalued Binary Tree
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #965
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 965](https://leetcode.com/problems/univalued-binary-tree/)

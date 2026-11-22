@@ -1,5 +1,12 @@
 # 515. Find Largest Value In Each Tree Row
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #515
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)

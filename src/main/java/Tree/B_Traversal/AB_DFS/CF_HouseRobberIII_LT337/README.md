@@ -1,5 +1,12 @@
 # 337. House Robber III
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #337
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 337](https://leetcode.com/problems/house-robber-iii/)

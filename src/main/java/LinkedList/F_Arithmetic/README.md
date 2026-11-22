@@ -15,10 +15,10 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [AB_AddTwoNumbers_LT2](AB_AddTwoNumbers_LT2/Solution.java) | #2 | ⬜ Not Started |
-| [DDH_DoubleANumberRepresentedAsALinkedList_LT2816](DDH_DoubleANumberRepresentedAsALinkedList_LT2816/Solution.java) | #2816 | ⬜ Not Started |
-| [NE_PlusOneLinkedList_LT369](NE_PlusOneLinkedList_LT369/Solution.java) | #369 | ⬜ Not Started |
-| [QC_AddTwoNumbersII_LT445](QC_AddTwoNumbersII_LT445/Solution.java) | #445 | ⬜ Not Started |
+| [Add Two Numbers — 2](AB_AddTwoNumbers_LT2/README.md) | #2 | ⬜ Not Started |
+| [Double ANumber Represented As ALinked List — 2816](DDH_DoubleANumberRepresentedAsALinkedList_LT2816/README.md) | #2816 | ⬜ Not Started |
+| [Plus One Linked List — 369](NE_PlusOneLinkedList_LT369/README.md) | #369 | ⬜ Not Started |
+| [Add Two Numbers II — 445](QC_AddTwoNumbersII_LT445/README.md) | #445 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
 <!-- PROBLEM_TRACKER:END -->

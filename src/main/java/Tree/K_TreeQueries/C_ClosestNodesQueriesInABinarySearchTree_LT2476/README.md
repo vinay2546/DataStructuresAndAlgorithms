@@ -1,5 +1,12 @@
 # 2476. Closest Nodes Queries in a Binary Search Tree
 
+**Data Structure:** Tree
+**Pattern:** TreeQueries
+**LeetCode:** #2476
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 - LeetCode: https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/
 - Difficulty: Medium
 - Topics: Array, Binary Search, Tree, Depth-First Search, Binary Search Tree, Binary Tree

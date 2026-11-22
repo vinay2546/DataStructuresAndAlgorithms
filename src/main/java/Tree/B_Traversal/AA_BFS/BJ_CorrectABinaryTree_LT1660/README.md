@@ -1,5 +1,12 @@
 # 1660. Correct ABinary Tree
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #1660
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 1660](https://leetcode.com/problems/correct-a-binary-tree/)

@@ -3,4 +3,6 @@
 **Data Structure:** Heap
 **Pattern:** Advanced
 **LeetCode:** #480
-**Status:** Placeholder
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.

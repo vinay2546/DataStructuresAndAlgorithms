@@ -1,5 +1,12 @@
 # 1379. Find ACorresponding Node Of ABinary Tree In AClone Of That Tree
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #1379
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 1379](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)

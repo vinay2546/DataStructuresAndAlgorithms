@@ -1,5 +1,12 @@
 # 199. Binary Tree Right Side View
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #199
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 199](https://leetcode.com/problems/binary-tree-right-side-view/)

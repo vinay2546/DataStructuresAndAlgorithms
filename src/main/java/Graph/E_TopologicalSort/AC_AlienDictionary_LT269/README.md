@@ -3,4 +3,6 @@
 **Data Structure:** Graph
 **Pattern:** TopologicalSort
 **LeetCode:** #269
-**Status:** Placeholder
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.

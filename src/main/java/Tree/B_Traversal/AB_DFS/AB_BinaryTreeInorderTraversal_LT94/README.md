@@ -1,5 +1,12 @@
 # 94. Binary Tree Inorder Traversal
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #94
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 94](https://leetcode.com/problems/binary-tree-inorder-traversal/)

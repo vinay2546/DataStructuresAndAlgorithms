@@ -1,5 +1,12 @@
 # 1026. Maximum Difference Between Nodeand Ancestor
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #1026
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)

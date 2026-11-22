@@ -1,5 +1,12 @@
 # 590. Nary Tree Postorder Traversal
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #590
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 590](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)

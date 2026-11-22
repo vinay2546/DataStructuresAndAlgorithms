@@ -15,17 +15,17 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [AAN_MaxStack_LT716](AAN_MaxStack_LT716/Solution.java) | #716 | ⬜ Not Started |
-| [AB_FlattenAMultilevelDoublyLinkedList_LT430](AB_FlattenAMultilevelDoublyLinkedList_LT430/Solution.java) | #430 | ⬜ Not Started |
-| [AE_LRUCache_LT146](AE_LRUCache_LT146/Solution.java) | #146 | ⬜ Not Started |
-| [AF_LFUCache_LT460](AF_LFUCache_LT460/Solution.java) | #460 | ⬜ Not Started |
-| [BDP_DesignBrowserHistory_LT1472](BDP_DesignBrowserHistory_LT1472/Solution.java) | #1472 | ⬜ Not Started |
-| [BON_DesignMostRecentlyUsedQueue_LT1756](BON_DesignMostRecentlyUsedQueue_LT1756/Solution.java) | #1756 | ⬜ Not Started |
-| [BQC_DesignAuthenticationManager_LT1797](BQC_DesignAuthenticationManager_LT1797/Solution.java) | #1797 | ⬜ Not Started |
-| [CJH_DesignATextEditor_LT2296](CJH_DesignATextEditor_LT2296/Solution.java) | #2296 | ⬜ Not Started |
-| [NO_DesignPhoneDirectory_LT379](NO_DesignPhoneDirectory_LT379/Solution.java) | #379 | ⬜ Not Started |
-| [PJ_ConvertBinarySearchTreeToSortedDoublyLinkedList_LT426](PJ_ConvertBinarySearchTreeToSortedDoublyLinkedList_LT426/Solution.java) | #426 | ⬜ Not Started |
-| [PP_AllOOneDataStructure_LT432](PP_AllOOneDataStructure_LT432/Solution.java) | #432 | ⬜ Not Started |
+| [Max Stack — 716](AAN_MaxStack_LT716/README.md) | #716 | ⬜ Not Started |
+| [Flatten AMultilevel Doubly Linked List — 430](AB_FlattenAMultilevelDoublyLinkedList_LT430/README.md) | #430 | ⬜ Not Started |
+| [LRUCache — 146](AE_LRUCache_LT146/README.md) | #146 | ⬜ Not Started |
+| [LFUCache — 460](AF_LFUCache_LT460/README.md) | #460 | ⬜ Not Started |
+| [Design Browser History — 1472](BDP_DesignBrowserHistory_LT1472/README.md) | #1472 | ⬜ Not Started |
+| [Design Most Recently Used Queue — 1756](BON_DesignMostRecentlyUsedQueue_LT1756/README.md) | #1756 | ⬜ Not Started |
+| [Design Authentication Manager — 1797](BQC_DesignAuthenticationManager_LT1797/README.md) | #1797 | ⬜ Not Started |
+| [Design AText Editor — 2296](CJH_DesignATextEditor_LT2296/README.md) | #2296 | ⬜ Not Started |
+| [Design Phone Directory — 379](NO_DesignPhoneDirectory_LT379/README.md) | #379 | ⬜ Not Started |
+| [Convert Binary Search Tree To Sorted Doubly Linked List — 426](PJ_ConvertBinarySearchTreeToSortedDoublyLinkedList_LT426/README.md) | #426 | ⬜ Not Started |
+| [All OOne Data Structure — 432](PP_AllOOneDataStructure_LT432/README.md) | #432 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
 <!-- PROBLEM_TRACKER:END -->

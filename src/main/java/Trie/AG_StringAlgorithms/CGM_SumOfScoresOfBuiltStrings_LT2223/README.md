@@ -1,5 +1,12 @@
 # 2223. Sum of Scores of Built Strings
 
+**Data Structure:** Trie
+**Pattern:** StringAlgorithms
+**LeetCode:** #2223
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 - LeetCode: https://leetcode.com/problems/sum-of-scores-of-built-strings/
 - Difficulty: Hard
 - Topics: String, Binary Search, Rolling Hash, Suffix Array, String Matching, Hash Function, Z Algorithm, Knuth–Morris–Pratt Algorithm

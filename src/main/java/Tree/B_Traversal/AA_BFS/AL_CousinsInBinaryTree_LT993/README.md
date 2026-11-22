@@ -1,5 +1,12 @@
 # 993. Cousins In Binary Tree
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #993
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 993](https://leetcode.com/problems/cousins-in-binary-tree/)

@@ -3,4 +3,6 @@
 **Data Structure:** Trie
 **Pattern:** WordSearch
 **LeetCode:** #79
-**Status:** Placeholder
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.

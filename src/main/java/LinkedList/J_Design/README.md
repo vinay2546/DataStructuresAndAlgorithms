@@ -15,8 +15,8 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [AA_DesignLinkedList_LT707](AA_DesignLinkedList_LT707/Solution.java) | #707 | ⬜ Not Started |
-| [ATJ_DesignSkiplist_LT1206](ATJ_DesignSkiplist_LT1206/Solution.java) | #1206 | ⬜ Not Started |
+| [Design Linked List — 707](AA_DesignLinkedList_LT707/README.md) | #707 | ⬜ Not Started |
+| [Design Skiplist — 1206](ATJ_DesignSkiplist_LT1206/README.md) | #1206 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
 <!-- PROBLEM_TRACKER:END -->

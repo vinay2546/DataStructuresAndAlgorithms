@@ -1,5 +1,12 @@
 # 863. All Nodes Distance KIn Binary Tree
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #863
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 863](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)

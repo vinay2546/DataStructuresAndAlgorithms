@@ -1,5 +1,12 @@
 # 95. Unique Binary Search Trees II
 
+**Data Structure:** Tree
+**Pattern:** BinarySearchTrees
+**LeetCode:** #95
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 - LeetCode: https://leetcode.com/problems/unique-binary-search-trees-ii/
 - Difficulty: Medium
 - Topics: Dynamic Programming, Backtracking, Tree, Binary Search Tree, Binary Tree

@@ -1,5 +1,12 @@
 # 889. Construct Binary Treefrom Preorderand Postorder Traversal
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #889
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 889](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)

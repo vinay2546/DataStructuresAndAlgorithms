@@ -1,5 +1,12 @@
 # 623. Add One Rowto Tree
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #623
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 623](https://leetcode.com/problems/add-one-row-to-tree/)

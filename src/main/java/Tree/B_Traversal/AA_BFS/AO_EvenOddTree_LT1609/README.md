@@ -1,5 +1,12 @@
 # 1609. Even Odd Tree
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #1609
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 1609](https://leetcode.com/problems/even-odd-tree/)

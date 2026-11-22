@@ -1,6 +1,8 @@
 # RemoveAllAdjacentDuplicatesInStringII — 1209
 
-**Data Structure:** Stack  
-**Pattern:** Simulation  
-**LeetCode:** #1209  
-**Status:** Placeholder
+**Data Structure:** Stack
+**Pattern:** Simulation
+**LeetCode:** #1209
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.

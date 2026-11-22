@@ -1,5 +1,12 @@
 # 104. Maximum Depth Of Binary Tree
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #104
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)

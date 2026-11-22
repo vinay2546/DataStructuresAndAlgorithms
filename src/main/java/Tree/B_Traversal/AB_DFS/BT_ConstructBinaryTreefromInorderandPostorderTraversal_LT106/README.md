@@ -1,5 +1,12 @@
 # 106. Construct Binary Treefrom Inorderand Postorder Traversal
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #106
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 106](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)

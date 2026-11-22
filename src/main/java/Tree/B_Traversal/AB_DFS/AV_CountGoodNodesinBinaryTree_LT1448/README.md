@@ -1,5 +1,12 @@
 # 1448. Count Good Nodesin Binary Tree
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #1448
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)

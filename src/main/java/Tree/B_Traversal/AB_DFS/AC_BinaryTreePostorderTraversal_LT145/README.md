@@ -1,5 +1,12 @@
 # 145. Binary Tree Postorder Traversal
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #145
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 145](https://leetcode.com/problems/binary-tree-postorder-traversal/)

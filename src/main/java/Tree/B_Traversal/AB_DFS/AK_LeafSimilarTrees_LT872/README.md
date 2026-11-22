@@ -1,5 +1,12 @@
 # 872. Leaf Similar Trees
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #872
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 872](https://leetcode.com/problems/leaf-similar-trees/)

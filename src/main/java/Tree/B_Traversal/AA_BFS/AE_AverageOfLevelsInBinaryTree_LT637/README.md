@@ -1,5 +1,12 @@
 # 637. Average Of Levels In Binary Tree
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #637
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 637](https://leetcode.com/problems/average-of-levels-in-binary-tree/)

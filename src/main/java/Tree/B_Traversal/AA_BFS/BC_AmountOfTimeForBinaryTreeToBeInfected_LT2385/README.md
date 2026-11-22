@@ -1,5 +1,12 @@
 # 2385. Amount Of Time For Binary Tree To Be Infected
 
+**Data Structure:** Tree
+**Pattern:** BFS
+**LeetCode:** #2385
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 2385](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)

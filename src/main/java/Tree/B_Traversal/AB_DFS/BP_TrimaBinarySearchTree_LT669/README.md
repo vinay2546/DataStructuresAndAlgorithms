@@ -1,5 +1,12 @@
 # 669. Trima Binary Search Tree
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #669
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 669](https://leetcode.com/problems/trim-a-binary-search-tree/)

@@ -1,5 +1,12 @@
 # 1457. Pseudo Palindromic Pathsina Binary Tree
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #1457
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)

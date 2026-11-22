@@ -1,5 +1,12 @@
 # 687. Longest Univalue Path
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #687
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 687](https://leetcode.com/problems/longest-univalue-path/)

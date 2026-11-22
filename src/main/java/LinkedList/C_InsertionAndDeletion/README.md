@@ -15,14 +15,14 @@ This tracker is generated recursively. Update the **Status** field in an individ
 
 | Problem | LeetCode # | Status |
 |---|---:|---|
-| [AC_DeleteNodeInALinkedList_LT237](AC_DeleteNodeInALinkedList_LT237/Solution.java) | #237 | ⬜ Not Started |
-| [AD_RemoveLinkedListElements_LT203](AD_RemoveLinkedListElements_LT203/Solution.java) | #203 | ⬜ Not Started |
-| [BDR_DeleteNNodesAfterMNodesOfALinkedList_LT1474](BDR_DeleteNNodesAfterMNodesOfALinkedList_LT1474/Solution.java) | #1474 | ⬜ Not Started |
-| [BLE_MergeInBetweenLinkedLists_LT1669](BLE_MergeInBetweenLinkedLists_LT1669/Solution.java) | #1669 | ⬜ Not Started |
-| [BRP_RemoveDuplicatesFromAnUnsortedLinkedList_LT1836](BRP_RemoveDuplicatesFromAnUnsortedLinkedList_LT1836/Solution.java) | #1836 | ⬜ Not Started |
-| [CD_RemoveDuplicatesFromSortedListII_LT82](CD_RemoveDuplicatesFromSortedListII_LT82/Solution.java) | #82 | ⬜ Not Started |
-| [CE_RemoveDuplicatesFromSortedList_LT83](CE_RemoveDuplicatesFromSortedList_LT83/Solution.java) | #83 | ⬜ Not Started |
-| [DSS_DeleteNodesFromLinkedListPresentInArray_LT3217](DSS_DeleteNodesFromLinkedListPresentInArray_LT3217/Solution.java) | #3217 | ⬜ Not Started |
+| [Delete Node In ALinked List — 237](AC_DeleteNodeInALinkedList_LT237/README.md) | #237 | ⬜ Not Started |
+| [Remove Linked List Elements — 203](AD_RemoveLinkedListElements_LT203/README.md) | #203 | ⬜ Not Started |
+| [Delete NNodes After MNodes Of ALinked List — 1474](BDR_DeleteNNodesAfterMNodesOfALinkedList_LT1474/README.md) | #1474 | ⬜ Not Started |
+| [Merge In Between Linked Lists — 1669](BLE_MergeInBetweenLinkedLists_LT1669/README.md) | #1669 | ⬜ Not Started |
+| [Remove Duplicates From An Unsorted Linked List — 1836](BRP_RemoveDuplicatesFromAnUnsortedLinkedList_LT1836/README.md) | #1836 | ⬜ Not Started |
+| [Remove Duplicates From Sorted List II — 82](CD_RemoveDuplicatesFromSortedListII_LT82/README.md) | #82 | ⬜ Not Started |
+| [Remove Duplicates From Sorted List — 83](CE_RemoveDuplicatesFromSortedList_LT83/README.md) | #83 | ⬜ Not Started |
+| [Delete Nodes From Linked List Present In Array — 3217](DSS_DeleteNodesFromLinkedListPresentInArray_LT3217/README.md) | #3217 | ⬜ Not Started |
 
 <sub>Counts are problem-folder placements, not unique LeetCode IDs. Intentional duplicates are counted wherever they appear.</sub>
 <!-- PROBLEM_TRACKER:END -->

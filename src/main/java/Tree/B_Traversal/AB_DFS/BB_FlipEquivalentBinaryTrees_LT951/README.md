@@ -1,5 +1,12 @@
 # 951. Flip Equivalent Binary Trees
 
+**Data Structure:** Tree
+**Pattern:** DFS
+**LeetCode:** #951
+**Status:** Not Started
+
+This folder is reserved for the Java solution and problem notes.
+
 ## Problem
 
 [LeetCode 951](https://leetcode.com/problems/flip-equivalent-binary-trees/)
