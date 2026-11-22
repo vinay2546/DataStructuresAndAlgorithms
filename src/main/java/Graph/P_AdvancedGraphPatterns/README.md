@@ -2,9 +2,6 @@
 
 Graph combined with DP, bitmasking, greedy methods, string/state transformations, and other advanced techniques.
 
-## Problem Count
-
-**57 problem entries**
 
 ## Learning Focus
 
